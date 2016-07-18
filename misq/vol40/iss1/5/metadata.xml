@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Contract Design Choises and the Balance of Ex Ante and Ex Post Transaction Costs in Software Development Outsourcing</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>mbenaroch@syr.edu</email>
+<institution>Syracuse University</institution>
+<lname>Benaroch</lname>
+<fname>Michel</fname>
+</author>
+<author>
+<email>yossi.laor@gmail.com</email>
+<institution>University of East Anglia</institution>
+<lname>Lichtenstein</lname>
+<fname>Yossi</fname>
+</author>
+<author>
+<email>finkl@bgu.ac.il</email>
+<institution>Ben-Gurion University of the Negev</institution>
+<lname>Fink</lname>
+<fname>Lior</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Contract functions (safeguarding</keyword>
+<keyword>coordination</keyword>
+<keyword>adaptability)</keyword>
+<keyword>contract extensiveness</keyword>
+<keyword>contract type</keyword>
+<keyword>ex ante and ex post transaction costs</keyword>
+<keyword>transaction cost economics</keyword>
+<keyword>software development outsourcing</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This paper examines multiple contract design choices in the context of transaction and relational attributes and consequent &lt;/em&gt;ex ante &lt;em&gt;and &lt;/em&gt;ex post &lt;em&gt;transaction costs. It focuses on two understudied themes in the IT outsourcing literature. First, while the literature is predominantly concerned with opportunism and consequent &lt;/em&gt;ex post&lt;em&gt; hazard costs that contracts can safeguard against, parties to a contract also economize on &lt;/em&gt;ex ante &lt;em&gt;transaction costs by their choice of contract type and contract extensiveness. Second, the literature studies the aggregate extensiveness of contracts rather than of distinct contract functions: safeguarding, coordination, and adaptability. Against this backdrop, our research model portrays a nuanced picture that is anchored in the following theoretical interpretation: transaction and relational attributes have implications on specific &lt;/em&gt;ex ante&lt;em&gt; and &lt;/em&gt;ex post &lt;em&gt;transaction costs, and these implications can be balanced by respective choices in both contract type and the extensiveness of specific contract functions. These two contract design choices complement and substitute for each other in their ability to economize on specific transaction costs. Our analysis of 210 software development outsourcing contracts finds that explanatory power increases when analyzing the extensiveness of individual contract functions rather than the aggregate contract extensiveness, highlighting subtle competing influences that are otherwise masked by an aggregate measure. Our analysis also shows that a preference for time-and-material contracts counteracts the effect of certain transaction attributes on contract extensiveness, and even cancels it out in the case of transaction uncertainty.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>57</fpage>
+<lpage>82</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3273&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3273</articleid>
+<submission-date>2016-02-29T07:55:12-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235165</context-key>
+<submission-path>misq/vol40/iss1/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Contract Design Choices &amp; Transaction Costs</value>
+</field>
+</fields>
+</document>
+</documents>

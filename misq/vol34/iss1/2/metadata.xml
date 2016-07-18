@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Journal Quality and Citations:  Common Metrics and Considerations about Their Use</title>
+<publication-date>2010-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>dstraub@cis.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar</fname>
+<mname>W.</mname>
+</author>
+<author>
+<email>canderson32@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Anderson</lname>
+<fname>Chad</fname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>xii</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss1/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2899&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2899</articleid>
+<submission-date>2010-03-03T14:29:24-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1193961</context-key>
+<submission-path>misq/vol34/iss1/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments</value>
+</field>
+</fields>
+</document>
+</documents>

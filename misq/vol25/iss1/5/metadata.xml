@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Introducing MISQ Review -- A New Department in MIS Quarterly</title>
+<publication-date>2001-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<institution>Founding Senior Editor, MISQ Review</institution>
+<lname>Watson</lname>
+<fname>Richard</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Information processing technology has a long history, much longer than the roughly 50 years that we associate with the rise of digital computing.  In this introduction to MISQ Review, a brief outline of the long history of information processing technology is linked to the role of MISQ Review.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2609&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2609</articleid>
+<submission-date>2008-12-09T07:00:48-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678502</context-key>
+<submission-path>misq/vol25/iss1/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

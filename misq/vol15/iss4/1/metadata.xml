@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Architecture: In Search of Efficient Flexibility</title>
+<publication-date>1991-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Allen</lname>
+<fname>Brandt</fname>
+</author>
+<author>
+<lname>Boynton</lname>
+<fname>Andrew</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol15/iss4/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2166&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2166</articleid>
+<submission-date>2008-08-18T12:00:34-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584152</context-key>
+<submission-path>misq/vol15/iss4/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1991-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

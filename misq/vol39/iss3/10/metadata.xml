@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Competing for Attention:  An Empirical Study of Online Reviewers&#39; Strategic Behavior</title>
+<publication-date>2015-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>shenw@vt.edu</email>
+<institution>Virginia Polytechnic Institute and State University</institution>
+<lname>Shen</lname>
+<fname>Wenqi</fname>
+</author>
+<author>
+<email>yuhu@gatech.edu</email>
+<institution>Georgia Institute of Technology</institution>
+<lname>Hu</lname>
+<fname>Yu</fname>
+<mname>Jeffrey</mname>
+</author>
+<author>
+<email>jrees@purdue.edu</email>
+<institution>Purdue University</institution>
+<lname>Rees Ulmer</lname>
+<fname>Jackie</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online attention</keyword>
+<keyword>scarcity of attention</keyword>
+<keyword>competing for attention</keyword>
+<keyword>online product reviews</keyword>
+<keyword>user-generated content</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Top online reviewers who reliably gain consumers’ attention stand to make significant financial gains and monetize the amount of attention and reputation they have earned. This study explores how online reviewers strategically choose the right product to review and the right rating to post so that they can gain attention and enhance reputation. Using book reviews from Amazon and Barnes &amp; Noble (BN), we find that reviewers on Amazon, where a reviewer ranking system quantifies reviewers’ online reputations, are sensitive to the competition among existing reviews and thus tend to avoid crowded review segments. However, on BN, which does not include such a ranking mechanism, reviewers do not respond to the competition effect. In addition, reviewers on Amazon post more differentiated ratings compared with reviewers on BN since the competition for attention on Amazon is more intense than on BN. Overall, reviewers on Amazon behave more strategically than reviewers on BN. This study yields important managerial implications for companies to improve their design of online review systems and enhance their understanding of reviewers’ strategic behaviors.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>683</fpage>
+<lpage>696</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss3/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3252&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3252</articleid>
+<submission-date>2015-08-27T08:48:08-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7523031</context-key>
+<submission-path>misq/vol39/iss3/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-08-27T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Online Reviewers&#39; Strategic Behavior</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effect of Relationship Encoding, Task Type and Complexity on Information Representation: An Empirical Evaluation of 2D and 3D Line Graphs</title>
+<publication-date>2003-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Kumar</lname>
+<fname>Nanda</fname>
+</author>
+<author>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer graphics</keyword>
+<keyword>3-D graphics</keyword>
+<keyword>human information processing</keyword>
+<keyword>information presentation</keyword>
+<keyword>information retrieval</keyword>
+<keyword>information characteristics</keyword>
+<keyword>information processing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Most of the recent research in data visualization has focused on technical and aesthetic issues involved in the manipulation of graphs, specifically on features that facilitate data exploration to make graphs interactive and dynamic.  The present research identifies a gap in the existing knowledge of graph construction, namely potential problems in both 3D and 2D graphs that will impede comprehension of information when three or more variables are used in a graphical representation.  Based on theories regarding perceptual issues of graph construction, we evaluate specific cases where 3D graphs may outperform 2D graphs, and vice-versa.  Two experiments have been conducted to test these hypotheses, and 3D graphs have been found to consistently outperform 2D graphs in all of our experimental scenarios.  A third experiment has been conducted to identify situations where 2D graphs might perform at least as well as 3D graphs, but its results suggest that 3D graphs outperform 2D graphs even for simpler tasks, thus leading to the conclusion that 3D graphs perform better than 2D graphs under all task conditions with more than two variables.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2699&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2699</articleid>
+<submission-date>2008-12-12T11:39:35-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681158</context-key>
+<submission-path>misq/vol28/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

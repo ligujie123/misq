@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Social Influence and Knowledge Management Systems Use:  Evidence from Panel Data1</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>yinglei.wang@acadiau.ca</email>
+<institution>Acadia University</institution>
+<lname>Wang</lname>
+<fname>Yinglei</fname>
+</author>
+<author>
+<email>dmeister@ivey.uwo.ca</email>
+<institution>The University of Western Ontario</institution>
+<lname>Meister</lname>
+<fname>Darren B.</fname>
+</author>
+<author>
+<email>pgray@virginia.edu</email>
+<institution>University of Virginia</institution>
+<lname>Gray</lname>
+<fname>Peter</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information technology diffusion</keyword>
+<keyword>social influence</keyword>
+<keyword>knowledge management</keyword>
+<keyword>knowledge management systems</keyword>
+<keyword>longitudinal research</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Theory suggests that coworkers may influence individuals’ technology use behaviors, but there is limited research in the technology diffusion literature that explicates how such social influence processes operate after initial adoption.  We investigate how two key social influence mechanisms (identification and internalization) may explain the growth over time in individuals’ use of knowledge management systems (KMS)—a technology that because of its publicly visible use provides a rich context for investigating social influence.  We test our hypotheses using longitudinal KMS usage data on over 80,000 employees of a management consulting firm. Our approach infers the presence of identification and internalization from associations between actual system use behaviors by a focal individual and prior system use by a range of reference groups.  Evidence of these kinds of associations between system use behaviors helps construct a more complete picture of social influence mechanisms, and is to our knowledge novel to the technology diffusion literature.  Our results confirm the utility of this approach for understanding social influence effects and reveal a fine-grained pattern of influence across different social groups:  we found strong support for bottom-up social influence across hierarchical levels, limited support for peer-level influence within levels, and no support for top-down influence.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>299</fpage>
+<lpage>313</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3094&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3094</articleid>
+<submission-date>2013-03-01T09:03:26-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815962</context-key>
+<submission-path>misq/vol37/iss1/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Social Influence and Knowledge Management Systems Use</value>
+</field>
+</fields>
+</document>
+</documents>

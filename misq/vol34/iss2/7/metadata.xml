@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Multi-Project Model of Key Factors Affecting Organizational Benefits from Enterprise Systems</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>peterbseddon@gmail.com</email>
+<institution>University of Melbourne</institution>
+<lname>Seddon</lname>
+<fname>Peter B.</fname>
+</author>
+<author>
+<email>Cheryl.Calvert@adm.monash.edu.au</email>
+<institution>Monash University</institution>
+<lname>Calvert</lname>
+<fname>Cheryl</fname>
+</author>
+<author>
+<email>yanssy1@pgrad.unimelb.edu.au</email>
+<institution>University of Melbourne</institution>
+<lname>Yang</lname>
+<fname>Song</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Enterprise system success</keyword>
+<keyword>packaged software</keyword>
+<keyword>functional fit</keyword>
+<keyword>overcoming organizational inertia</keyword>
+<keyword>change management</keyword>
+<keyword>IS implementation</keyword>
+<keyword>IS project management</keyword>
+<keyword>integration</keyword>
+<keyword>process optimization</keyword>
+<keyword>improved access to information</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper develops a long-term, multi-project model of factors affecting organizational benefits from enterprise systems (ES), then reports a preliminary test of the model.  In the shorter-term half of the model, it is hypothesized that once a system has gone live, two factors, namely functional fit and overcoming organizational inertia, drive organizational benefits flowing from each major ES improvement project. The importance of these factors may vary from project to project. In the long-term half of the model, it is hypothesized that four additional factors, namely integration, process optimization, improved access to information, and on-going major ES business improvement projects, drive organizational benefits from ES over the long term.  Preliminary tests of the model were conducted using data from 126 customer presentations from SAP’s 2003 and 2005 Sapphire U.S. conferences. All six factors were found to be important in explaining variance in organizational benefits from enterprise systems from the perspective of senior management.&lt;/p&gt;</abstract>
+<fpage>305</fpage>
+<lpage>328</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2907&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2907</articleid>
+<submission-date>2010-06-23T13:42:45-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369988</context-key>
+<submission-path>misq/vol34/iss2/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Key Factors Affecting Organizational Benefits</value>
+</field>
+</fields>
+</document>
+</documents>

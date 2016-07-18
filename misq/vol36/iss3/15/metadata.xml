@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Senior Editor Note</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>dgoodhue@terry.uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Goodhue</lname>
+<fname>Dale L.</fname>
+</author>
+</authors>
+<fpage>943</fpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3054&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3054</articleid>
+<submission-date>2012-09-06T07:40:52-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297919</context-key>
+<submission-path>misq/vol36/iss3/15</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Senior Editor Note</value>
+</field>
+</fields>
+</document>
+</documents>

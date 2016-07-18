@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Contingent Effects of Management Support and Task Interdependence on Successful Information Systems Implementation</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Sharma</lname>
+<fname>Rajeev</fname>
+</author>
+<author>
+<lname>Yetton</lname>
+<fname>Philip</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS success</keyword>
+<keyword>IS utilization</keyword>
+<keyword>IS implementation</keyword>
+<keyword>management support</keyword>
+<keyword>task interdependence</keyword>
+<keyword>neta-analysis</keyword>
+<keyword>contingency models</keyword>
+</keywords>
+<abstract>&lt;p&gt;Management support is considered to be a critical factor in the successful implementation of information systems innovations.  The literature suggests a complex relationship between management support and implementation success.  However, the empirical literature typically hypothesizes and tests a simple main-effects model.  Drawing upon the role of the institutional context and metastructuration actions, we propose a contingent model in which task interdependence moderates the effect of management support on implementation success.  A meta-analysis of the empirical literature provides strong support for the model and begins to explain the wide variance in empirical findings.  Implications for theory and practice are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2687&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2687</articleid>
+<submission-date>2008-12-11T14:01:18-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680695</context-key>
+<submission-path>misq/vol27/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

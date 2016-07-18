@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Impact of Information Feedback in Continuous Combinatorial Auctions:  An Experimental Study of Economic Performance</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>gedas@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Adomavicius</lname>
+<fname>Gediminas</fname>
+</author>
+<author>
+<email>curley@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Curley</lname>
+<fname>Shawn</fname>
+<mname>P.</mname>
+</author>
+<author>
+<email>alok@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Gupta</lname>
+<fname>Alok</fname>
+</author>
+<author>
+<email>psanyal@gmu.edu</email>
+<lname>Sanyal</lname>
+<fname>Pallab</fname>
+<suffix>George Mason University</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Online auctions</keyword>
+<keyword>continuous combinatorial auctions</keyword>
+<keyword>experimental economics</keyword>
+<keyword>information feedback</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Advancements in information technology offer opportunities for designing and deploying innovative market mechanisms that can improve the allocation and procurement processes of businesses.  For example, combinatorial auctions—in which bidders can bid on combinations of goods—have been shown to increase the economic efficiency of a trade when goods have complementarities.  However, the lack of real-time decision support tools for bidders has prevented this mechanism from reaching its full potential.  With the objective of facilitating bidder participation in combinatorial auctions, this study, using recent research in real-time bidder support metrics, discusses several novel feedback schemes that can aid bidders in formulating combinatorial bids in real-time.  The feedback schemes allow us to conduct &lt;strong&gt;continuous&lt;/strong&gt; combinatorial auctions, where bidders can submit bids at any time.  Using laboratory experiments with two different setups, we compare the economic performance of the continuous mechanism under three progressively advanced levels of feedback.  Our findings indicate that information feedback plays a major role in influencing the economic outcomes of combinatorial auctions.  We compare several important bid characteristics to explain the observed differences in aggregate measures.  This study advances the ongoing research on combinatorial auctions by developing continuous auctions that differentiate themselves from earlier combinatorial auction mechanisms by facilitating free-flowing participation of bidders and providing exact prices of bundles on demand in real time.  For practitioners, the study provides insights on how the nature of feedback can influence the economic outcomes of a complex trading mechanism.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>55</fpage>
+<lpage>76</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3084&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3084</articleid>
+<submission-date>2013-03-01T08:21:54-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815418</context-key>
+<submission-path>misq/vol37/iss1/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Information Feedback in Continuous Combinatorial Auctions</value>
+</field>
+</fields>
+</document>
+</documents>

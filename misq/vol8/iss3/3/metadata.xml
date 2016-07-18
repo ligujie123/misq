@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Survey of the MIS and Telecommunications Activities of Major Business Firms</title>
+<publication-date>1984-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Kriebel</lname>
+<fname>Charles</fname>
+</author>
+<author>
+<lname>Strong</lname>
+<fname>Diane</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol8/iss3/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1930&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1930</articleid>
+<submission-date>2008-08-18T09:20:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583561</context-key>
+<submission-path>misq/vol8/iss3/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1984-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

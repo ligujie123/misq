@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Editor&#39;s Comments:  The MIS Quarterly Trifecta:  Impact, Range, Speed</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>arun.rai@eci.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Rai</lname>
+<fname>Arun</fname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>x</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3270&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3270</articleid>
+<submission-date>2016-02-29T07:38:12-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235065</context-key>
+<submission-path>misq/vol40/iss1/2</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments</value>
+</field>
+</fields>
+</document>
+</documents>

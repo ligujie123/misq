@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digital Games and Beyond:  What Happens When Players Compete?</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>de.liu@uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Liu</lname>
+<fname>De</fname>
+</author>
+<author>
+<email>xun.li@nicholls.edu</email>
+<institution>Nicholls State University</institution>
+<lname>Li</lname>
+<fname>Xun</fname>
+</author>
+<author>
+<email>santhan@uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Santhanam</lname>
+<fname>Radhika</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Digital games</keyword>
+<keyword>intrinsic motivation</keyword>
+<keyword>experimental study</keyword>
+<keyword>tournament theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Because digital games are fun, engaging, and popular, organizations are attempting to integrate them within organizational activities as serious components, with the anticipation that they can improve employees’ motivation and performance.  But in order to do so and to obtain the intended outcomes, it is necessary to first obtain an understanding of how different digital game designs impact players’ behaviors and emotional responses.  Hence, in this study, we address one key element of popular game designs:  competition.  Using extant research on tournaments and intrinsic motivation, we model competitive games as a skill-based tournament and conduct an experimental study to understand player behaviors and emotional responses under different competition conditions.  When players compete with players of similar skill levels, they apply more effort as indicated by more games played and longer duration of play.  But when players compete with players of lower skill levels, they report higher levels of enjoyment and lower levels of arousal after game-playing.  We discuss the implications for organizations seeking to introduce games premised on competition and provide a framework to guide information system researchers to embark on a study of games.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>111</fpage>
+<lpage>124</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3086&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3086</articleid>
+<submission-date>2013-03-01T08:32:03-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815597</context-key>
+<submission-path>misq/vol37/iss1/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Digital Games and Beyond</value>
+</field>
+</fields>
+</document>
+</documents>

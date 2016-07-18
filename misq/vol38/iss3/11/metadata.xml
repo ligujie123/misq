@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Sociomateriality of Information Systems:  Current Status, Future Directions</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>dubravka@unsw.edu.au</email>
+<institution>University of New South Wales</institution>
+<lname>Cecez-Kecmanovic</lname>
+<fname>Dubravka</fname>
+</author>
+<author>
+<email>rgalliers@bentley.edu</email>
+<institution>Bentley University</institution>
+<lname>Galliers</lname>
+<fname>Robert</fname>
+<mname>D</mname>
+</author>
+<author>
+<email>ola.henfridsson@wbs.ac.uk</email>
+<institution>The University of Warwick</institution>
+<lname>Henfridsson</lname>
+<fname>Ola</fname>
+</author>
+<author>
+<email>s.newell@bentley.edu</email>
+<institution>Bentley University</institution>
+<lname>Newell</lname>
+<fname>Sue</fname>
+</author>
+<author>
+<email>r.vidgen@hull.ac.uk</email>
+<institution>University of Hull</institution>
+<lname>Vidgen</lname>
+<fname>Richard</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Sociomaterialty</keyword>
+</keywords>
+<fpage>809</fpage>
+<lpage>830</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3194&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3194</articleid>
+<submission-date>2014-07-31T12:25:14-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854639</context-key>
+<submission-path>misq/vol38/iss3/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Foreword:  Sociomaterialty of IS &amp; Organizing</value>
+</field>
+</fields>
+</document>
+</documents>

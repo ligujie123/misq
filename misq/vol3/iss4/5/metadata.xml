@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analysis of the Impact of Distributed Data Processing on Organizations in the 1980&#39;s</title>
+<publication-date>1979-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Davis</lname>
+<fname>Charles</fname>
+</author>
+<author>
+<lname>Wetherbe</lname>
+<fname>James</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol3/iss4/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1852&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1852</articleid>
+<submission-date>2008-08-18T08:00:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583286</context-key>
+<submission-path>misq/vol3/iss4/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1979-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

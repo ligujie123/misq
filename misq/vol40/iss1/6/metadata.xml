@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Valuing Information Technology Related Intangible Assets</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>adam.saunders@sauder.ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Saunders</lname>
+<fname>Adam</fname>
+</author>
+<author>
+<email>erikb@mit.edu</email>
+<institution>MIT</institution>
+<lname>Brynjolfsson</lname>
+<fname>Erik</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT value</keyword>
+<keyword>market value</keyword>
+<keyword>IT-related intangibles</keyword>
+<keyword>IT capabilities</keyword>
+<keyword>intangible assets</keyword>
+<keyword>R&amp;D value</keyword>
+<keyword>brand value</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this article, we assess the value of information technology related intangible assets and then use data on business practices and management capabilities to understand how this value is distributed across firms. Using a panel of 127 firms over the period 2003–2006, we replicate and extend the finding from Brynjolfsson, Hitt, and Yang (2002) that $1 of computer hardware is correlated with more than $10 of market value. We account for the &quot;missing $9&quot; by broadening the definition of IT to include capitalized software, and then include all purchased and internally developed software, other internal IT services, IT consulting, and IT-related training (whether or not it is capitalized by the firm). In addition, we use data on IT-related business practices in order to analyze the distribution of IT-related intangibles within the sample. Our results suggest that the &quot;invisible&quot; IT not accounted for on balance sheets is being priced into the market value of firms. We also estimate that there is a 45% to 76% premium in market value for the firms with the highest organizational IT capabilities (based on separate measures of human resource practices, management practices, internal IT use, external IT use, and Internet capabilities), as compared to those with the lowest organizational IT capabilities. Our results thus suggest that contributions of IT to value depend heavily on other factors, and are not a rising tide that lifts all boats.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>83</fpage>
+<lpage>110</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3274&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3274</articleid>
+<submission-date>2016-02-29T07:58:31-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235184</context-key>
+<submission-path>misq/vol40/iss1/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Valuing IT-Related Intangible Assets</value>
+</field>
+</fields>
+</document>
+</documents>

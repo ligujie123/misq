@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reliability Generalization of Perceived Ease of Use, Perceived Usefulness, and Behavioral Intentions</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>thess@isenberg.umass.edu</email>
+<institution>University of Massachusetts - Amherst</institution>
+<lname>Hess</lname>
+<fname>Traci</fname>
+</author>
+<author>
+<email>amcnab@niagara.edu</email>
+<institution>Niagara University</institution>
+<lname>McNab</lname>
+<fname>Anna</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>asli@udel.edu</email>
+<institution>University of Delaware</institution>
+<lname>Basoglu</lname>
+<fname>Asli</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Reliability generalization</keyword>
+<keyword>reliability</keyword>
+<keyword>meta-analysis</keyword>
+<keyword>technology acceptance model (TAM)</keyword>
+<keyword>ease of use</keyword>
+<keyword>usefulness</keyword>
+<keyword>behavioral intentions</keyword>
+<keyword>effect size attenuation</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;A reliability generalization study (a meta-analysis of reliability coefficients) was conducted on three widely studied information systems constructs from the technology acceptance model (TAM):  perceived ease of use, perceived usefulness, and behavioral intentions.  This form of meta-analysis summarizes the reliability coefficients of the scores on a specified scale across studies and identifies the study characteristics that influence the reliability of these scores.  Reliability is a critical issue in conducting empirical research as the reliability of the scores on well-established scales can vary with study characteristics, attenuating effect sizes.  In conducting this study, an extensive literature search was conducted, with 380 articles reviewed and coded to perform reliability generalization.  Study characteristics, including technology, sample, and measurement characteristics, for these articles were recorded along with effect size data for the relationships among these variables.  After controlling for number of items, sample size, and sampling error, differences in reliability coefficients were found with several study characteristics for the three technology acceptance constructs.  The reliability coefficients of PEOU and PU were lower in hedonic contexts than in utilitarian contexts, and were higher when the originally validated scales were used as compared to when other items were substituted. 　Only 27 percent of the studies that provided the measurement items used the original PEOU items, while 39 percent used the original PU items.  Scales that were administered in English had higher reliability coefficients for PU and BI, with a marginal effect for PEOU.  Reliability differences were also found for other study characteristics, including reliability type, subject experience, and gender composition.  While average reliability coefficients were high, the results show that, on average, relationships among these constructs are attenuated by 12 percent with maximum attenuation in the range of 35 to 43 percent.  Implications for technology acceptance research are discussed and suggestions for addressing variation in reliability coefficients across studies are provided.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1</fpage>
+<lpage>28</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3155&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3155</articleid>
+<submission-date>2014-03-03T08:57:46-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5252490</context-key>
+<submission-path>misq/vol38/iss1/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Reliability Generalization</value>
+</field>
+</fields>
+</document>
+</documents>

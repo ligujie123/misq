@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inducing Sensitivity to Deception in Order to Improve Decision Making Performance: A Field Study</title>
+<publication-date>2002-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Biros</lname>
+<fname>David</fname>
+<mname>P.</mname>
+</author>
+<author>
+<lname>George</lname>
+<fname>Joey</fname>
+<mname>F.</mname>
+</author>
+<author>
+<lname>Zmud</lname>
+<fname>Robert</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information quality</keyword>
+<keyword>data security</keyword>
+<keyword>data integrity</keyword>
+<keyword>error detection</keyword>
+<keyword>deception detection</keyword>
+</keywords>
+<abstract>&lt;p&gt;When an organization’s members depend on the data contained in computer-based systems, they become vulnerable to strategic information manipulation.  That is, they become susceptible to situations where their decision-making behaviors can be influenced by others able to access and manipulate this data.   This paper describes the results of a field experiment that examines the effects of alternative interventions aimed at inducing sensitivity to the possibility of manipulated data on professionals’ task-related decision behaviors:  deception detection, false alarms, and task accuracy.  While traditional training had no effect on detection success or the issuance of false alarms, warnings about data quality resulted in better detection success.  Warnings combined with just-in-time training resulted in better detection success but at the cost of an increased number of false alarms.  Higher levels of detection success increased task accuracy and the time spent solving each problem.  A higher number of false alarms was associated with lower levels of task accuracy&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2628&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2628</articleid>
+<submission-date>2008-12-09T12:03:36-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678780</context-key>
+<submission-path>misq/vol26/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

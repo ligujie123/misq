@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Analysis of Pricing Models in the Electronic Book Market</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>lhao@nd.edu</email>
+<institution>University of Notre Dame</institution>
+<lname>Hao</lname>
+<fname>Lin</fname>
+</author>
+<author>
+<email>mfan@uw.edu</email>
+<institution>University of Washington</institution>
+<lname>Fan</lname>
+<fname>Ming</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Electronic book</keyword>
+<keyword>e-reader</keyword>
+<keyword>pricing</keyword>
+<keyword>agency model</keyword>
+<keyword>wholesale model</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, we develop a game theoretic model to study the pricing of e-books and e-readers under two pricing models: wholesale and agency. We analyze pricing strategies for a publisher and a retailer. We identify the complementary relationship between e-books and e-readers as the main reason for the retailer to set a low e-book price in the wholesale model. Comparing the wholesale and the agency models, we find, in a wide range of market conditions, the price for e-book readers is lower in the agency model, leading to a higher e-book market share. However, a higher e-book price in the agency model lowers e-book consumption. Overall social welfare is lower in the agency model than in the wholesale model. While total consumer surplus is slightly higher in the agency model, largely because of a lower e-reader price, business profit is lower. The publisher, surprisingly, is worse off under the agency model.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1017</fpage>
+<lpage>1032</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3203&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3203</articleid>
+<submission-date>2014-11-07T07:57:29-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6336960</context-key>
+<submission-path>misq/vol38/iss4/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Pricing Models in the Electronic Book Market</value>
+</field>
+</fields>
+</document>
+</documents>

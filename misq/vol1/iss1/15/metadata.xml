@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Experimental Investigation of Some MIS Design Variables</title>
+<publication-date>1977-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Benbasat</lname>
+<fname>I.</fname>
+</author>
+<author>
+<lname>Schroeder</lname>
+<fname>R.</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol1/iss1/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1815&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1815</articleid>
+<submission-date>2008-08-18T07:00:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583191</context-key>
+<submission-path>misq/vol1/iss1/15</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1977-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

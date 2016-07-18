@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>User Participation in Information Systems Security Risk Management</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>jspears@cdm.depaul.edu</email>
+<institution>DePaul University</institution>
+<lname>Spears</lname>
+<fname>Janine</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>henri.barki@hec.ca</email>
+<institution>HEC Montreal</institution>
+<lname>Barki</lname>
+<fname>Henri</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information security</keyword>
+<keyword>user participation</keyword>
+<keyword>security risk management</keyword>
+<keyword>Sarbanes-Oxley Act</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper examines user participation in information systems security risk management and its influence in the context of regulatory compliance via a multi-method study at the organizational level.  First, eleven informants across five organizations were interviewed to gain an understanding of the types of activities and security controls in which users participated as part of Sarbanes-Oxley compliance, along with associated outcomes.  A research model was developed based on the findings of the qualitative study and extant user participation theories in the systems development literature. Analysis of the data collected in a questionnaire survey of 228 members of ISACA, a professional association specialized in information technology governance, audit, and security, supported the research model.  The findings of the two studies converged and indicated that user participation contributed to improved security control performance through greater awareness, greater alignment between IS security risk management and the business environment, and improved control development.  While the IS security literature often portrays users as the weak link in security, the current study suggests that users may be an important resource to IS security by providing needed business knowledge that contributes to more effective security measures.  User participation is also a means to engage users in protecting sensitive information in their business processes.&lt;/p&gt;</abstract>
+<fpage>503</fpage>
+<lpage>522</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2918&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2918</articleid>
+<submission-date>2010-08-13T08:30:19-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444122</context-key>
+<submission-path>misq/vol34/iss3/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>User Participation in IS Security Risk Management</value>
+</field>
+</fields>
+</document>
+</documents>

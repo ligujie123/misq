@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>FOREWORD: SPECIAL ISSUE ON INFORMATION SYSTEMS IN DEVELOPING COUNTRIES</title>
+<publication-date>2007-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<institution>University of Cambridge</institution>
+<lname>Walsham</lname>
+<fname>Geoff</fname>
+</author>
+<author>
+<institution>Georgia State University</institution>
+<lname>Robey</lname>
+<fname>Daniel</fname>
+</author>
+<author>
+<institution>University of Oslo</institution>
+<lname>Sahay</lname>
+<fname>Sundeep</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2585&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2585</articleid>
+<submission-date>2008-11-10T11:13:56-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>664050</context-key>
+<submission-path>misq/vol31/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

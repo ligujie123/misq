@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Why Software Projects Escalate:  An Empirical Analysis and Test of Four Theoretical Models</title>
+<publication-date>2000-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Keil</lname>
+<fname>Mark</fname>
+</author>
+<author>
+<lname>Mann</lname>
+<fname>Joan</fname>
+</author>
+<author>
+<lname>Rai</lname>
+<fname>Arun</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Software projects can often spiral out of control to become “runaway systems” that far exceed original budget and schedule projections.  The behavior that underlies many runaway systems can best be characterized as “escalation of commitment to a failing course of action.” The objectives of this study were to:  (1) understand the extent to which IS projects are prone to escalate, (2) compare the outcomes of projects that escalate with those that do not, and (3) test whether constructs associated with different theories of escalation can be used to discriminate between projects that escalate and those that do not.  A survey was administered to IS audit and control professionals and, to establish a baseline for comparison, the survey was designed to gather data on projects that did not escalate as well as those that did escalate.   The results of our research suggest that between 30% and 40% of all IS projects exhibit some degree of escalation.  Projects that escalated had project outcomes that were significantly worse in terms of perceived implementation performance and perceived budget/schedule performance, as compared to projects that did not escalate. Using constructs from theories that have been used to explain the escalation phenomenon, we were able to test various logistic regression models for their ability to discriminate between projects that escalate and those that do not.  To construct our models, we explored constructs derived from self-justification theory, prospect theory, agency theory, and approach avoidance theory.  While constructs derived from all four theories were significant in logistic regression models, the completion effect construct derived from approach avoidance theory provided the best classification of projects, correctly classifying over 70% of both escalated and non-escalated projects.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol24/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2602&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2602</articleid>
+<submission-date>2008-12-09T06:37:07-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678486</context-key>
+<submission-path>misq/vol24/iss4/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

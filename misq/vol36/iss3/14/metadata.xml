@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Standards Competition in the Presence of Digital Conversion Technology:  An Empirical Analysis of the Flash Memory Card Market</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>charles.liu@utsa.edu</email>
+<institution>University of Texas at San Antonio</institution>
+<lname>Liu</lname>
+<fname>Charles</fname>
+<mname>Zhechao</mname>
+</author>
+<author>
+<email>ckemerer@katz.pitt.edu</email>
+<institution>University of Pittsburgh and King Abdul Aziz University</institution>
+<lname>Kemerer</lname>
+<fname>Chris</fname>
+<mname>F.</mname>
+</author>
+<author>
+<email>sandra.slaughter@mgt.gatech.edu</email>
+<institution>Georgia Institute of Technology</institution>
+<lname>Slaughter</lname>
+<fname>Sandra</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>mds@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Smith</lname>
+<fname>Michael</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Network effects</keyword>
+<keyword>network externalities</keyword>
+<keyword>standards competition</keyword>
+<keyword>conversion technologies</keyword>
+<keyword>flash memory</keyword>
+<keyword>digital goods</keyword>
+<keyword>market competition</keyword>
+</keywords>
+<abstract>&lt;p&gt;Both theoretical and empirical evidence suggest that, in many markets with standards competition, network effects make the strong grow stronger and can “tip” the market toward a single, winner-take-all standard.  We hypothesize, however, that low cost digital conversion technologies, which facilitate easy compatibility across competing standards, may reduce the strength of these network effects.  We empirically test our hypotheses in the context of the digital flash memory card market.         We first test for the presence of network effects in this market and find that network effects, as measured here, are associated with a significant positive price premium for leading flash memory card formats.  We then find that the availability of digital converters reduces the price premium of the leading flash card formats and reduces the overall concentration in the flash memory market.  Thus, our results suggest that, in the presence of low cost conversion technologies and digital content, the probability of market dominance can be lessened to the point where multiple, otherwise incompatible, standards are viable.&lt;/p&gt;
+&lt;p&gt;Our conclusion that the presence of converters weakens network effects implies that producers of non-dominant digital goods standards benefit from the provision of conversion technology.  Our analysis thus aids managers seeking to understand the impact of converters on market outcomes, and contributes to the existing literature on network effects by providing new insights into how conversion technologies can affect pricing strategies in these increasingly important digital settings.&lt;/p&gt;</abstract>
+<fpage>921</fpage>
+<lpage>942</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3053&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3053</articleid>
+<submission-date>2012-09-06T07:39:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297915</context-key>
+<submission-path>misq/vol36/iss3/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Standards Competition in the Presence of Digital Conversion Technology</value>
+</field>
+</fields>
+</document>
+</documents>

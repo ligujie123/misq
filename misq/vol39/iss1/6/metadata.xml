@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investing in Information Systems:  On the Behavioral and Institutional Search Mechanisms Underpinning Hospitals&#39; IS Investment Decisions</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>salge@time.rwth-aachen.de</email>
+<institution>RWTH Aachen University</institution>
+<lname>Salge</lname>
+<fname>Torsten-Oliver</fname>
+</author>
+<author>
+<email>rajiv.kohli@mason.wm.edu</email>
+<institution>College of William and Mary</institution>
+<lname>Kohli</lname>
+<fname>Rajiv</fname>
+</author>
+<author>
+<email>m.barrett@jbs.cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Barrett</lname>
+<fname>Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Decision making</keyword>
+<keyword>IS investment</keyword>
+<keyword>business value of IT</keyword>
+<keyword>behavioral theory of the firm</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This study integrates tenets of the behavioral theory of the firm and neo-institutional theory to identify four recurring search mechanisms that are expected to influence hospital managers’ information systems investment decisions. To account for the critical role of regulation in healthcare, senior managers’ reliance on each of these four search mechanisms is hypothesized to be contingent upon their hospital’s regulative legitimacy. Analyses of panel data from all 153 public nonspecialist hospital organizations in England reveal that hospital managers invest in IS not only to find solutions to performance shortfalls (problemistic search), but also to achieve continuity and predictability in resource allocation (institutionalized search) and signal conformity with external norms and expectations (mimetic search). We find that the desire to make adequate use of uncommitted financial resources (slack search) is salient only among hospitals with low levels of regulative legitimacy. These new insights into the motives that trigger—and constrain—senior managers’ IS investment decisions will help IS managers to strengthen their case for IS investment and guide policy makers in how best to allocate resources to IS in healthcare and possibly beyond.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>61</fpage>
+<lpage>89</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3222&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3222</articleid>
+<submission-date>2015-03-02T10:33:43-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6758244</context-key>
+<submission-path>misq/vol39/iss1/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Hospital Investment Decisions in IS</value>
+</field>
+</fields>
+</document>
+</documents>

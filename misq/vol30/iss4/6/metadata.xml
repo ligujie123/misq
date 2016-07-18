@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding the Impact of Web Personalization on User Information Processing and Decision Outcomes</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Tam</lname>
+<fname>Kar</fname>
+<mname>Yan</mname>
+</author>
+<author>
+<lname>Ying Ho</lname>
+<fname>Shuk</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Web personalization</keyword>
+<keyword>processing goal</keyword>
+<keyword>content relevance</keyword>
+<keyword>self reference</keyword>
+<keyword>human computer interface</keyword>
+</keywords>
+<abstract>&lt;p&gt;Personalized IT services have become a ubiquitous phenomenon. Companies worldwide are using the Web to provide personalized offerings and unique web experiences to their customers. While there is a lot of hype about delivering personalized services over the Web, little is known about the effectiveness of web personalization and the link between the IT artifact (the personalization agent) and the effects it exerts on a user’s information processing and decision making. To address the impact of personalized content, this article theoretically develops and empirically tests a model of web personalization. The model is grounded on social cognition and consumer research theories adapted to the peculiar features of web personalization. The influence of a personalization agent is mediated by two variables, content relevance and self reference. Hypotheses generated from the model are empirically tested in a laboratory experiment and a field study. The findings indicate that content relevance, self reference and goal specificity affect the attention, cognitive processes, and decisions of web users in various ways. Also, users are found to be receptive to personalized content and find it useful as a decision aid. Theoretical and practical implications of the findings are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss4/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2672&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2672</articleid>
+<submission-date>2008-12-11T11:21:06-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680510</context-key>
+<submission-path>misq/vol30/iss4/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

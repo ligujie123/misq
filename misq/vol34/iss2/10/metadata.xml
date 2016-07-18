@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Introduction to the Special Issue on Novel Perspectives on Trust in Information Systems</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>benbasat@sauder.ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+<author>
+<email>gefend@drexel.edu</email>
+<lname>Gefen</lname>
+<fname>D</fname>
+</author>
+<author>
+<email>pavlou@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Research on trust has taken center stage in the MIS field in the past few decades, covering a wide range of trust-related topics based on a multitude of theories from sociology and psychology to economics.  To extend this rapidly emerging trend and identify some ground-breaking perspectives on the study of trust, this special issue of the MIS Quarterly on “Novel Perspectives on Trust in Information Systems” aims to explore novel aspects of trust in new and under-researched IS contexts.  In brief, the intent of the special issue was to publish innovative research articles about (1) novel antecedents of trust, (2) the construct of distrust and its relationship to trust, (3) the boundaries of trust, and (4) the study of trust in new and unexplored MIS contexts (Benbasat et al. 2008).&lt;/p&gt;
+&lt;p&gt;The papers submitted were first screened by the editors, in some cases aided by an associate editor, to verify their appropriateness to the topic of the special issue and their novelty.  The remaining manuscripts went through the MIS Quarterly’s standard, rigorous review process, including the usual “arms-length” and “conflict of interest” guidelines for the senior editors, associate editors, and reviewers in the handling of the papers.  Interestingly, neither of the papers eventually accepted utilized traditional research methods commonly used in past research on trust in MIS.  Indeed, the two papers that appear in this special issue dealt with what to MIS research are rather novel methodologies (namely functional brain imaging, specifically functional magnetic resonance imaging, or fMRI) (see Belliveau et al. 1991; Friston et al. 1994; Logothetis et al. 2001; Ogawa et al. 1990), which enabled these two papers to offer new insights into topics that were out of reach for the more traditional research methods previously used in trust research.  By no means do we imply, however, that future novel contributions to the study of trust in MIS research should be limited to any particular research methodologies.&lt;/p&gt;</abstract>
+<fpage>367</fpage>
+<lpage>371</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2910&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2910</articleid>
+<submission-date>2010-06-23T13:51:08-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1370004</context-key>
+<submission-path>misq/vol34/iss2/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Introduction:  Novel Perspectives on Trust</value>
+</field>
+</fields>
+</document>
+</documents>

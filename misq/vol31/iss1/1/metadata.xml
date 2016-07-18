@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Looking for a Few Good Concepts…and Theories…for</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>MISQReview@bentley.edu</email>
+<institution>Bentley College</institution>
+<lname>Markus</lname>
+<fname>M.</fname>
+<mname>Lynne</mname>
+</author>
+<author>
+<email>misq@bus.ucf.edu</email>
+<institution>University of Central Florida</institution>
+<lname>Saunders</lname>
+<fname>Carol</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2650&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2650</articleid>
+<submission-date>2008-12-11T08:05:35-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680242</context-key>
+<submission-path>misq/vol31/iss1/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

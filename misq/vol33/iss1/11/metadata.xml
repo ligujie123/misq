@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using PLS Path Modeling for Assessing Hierarchical Construct Models:  Guidelines and Empirical Illustration</title>
+<publication-date>2009-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>m.wetzels@mw.unimaas.nl</email>
+<institution>Maastricht University</institution>
+<lname>Wetzels</lname>
+<fname>Martin</fname>
+</author>
+<author>
+<email>g.schroder@mw.unimaas.nl</email>
+<institution>Maastricht University</institution>
+<lname>Odekerken-Schroder</lname>
+<fname>Gaby</fname>
+</author>
+<author>
+<email>mkbportal@unimaas.nl</email>
+<institution>Maastricht University</institution>
+<lname>van Oppen</lname>
+<fname>Claudia</fname>
+</author>
+</authors>
+<keywords>
+<keyword>PLS path modeling</keyword>
+<keyword>hierarchical construct model</keyword>
+<keyword>empirical illustration</keyword>
+<keyword>experiential value</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this paper, the authors show that PLS path modeling can be used to assess a hierarchical construct model.  They provide guidelines outlining four key steps to construct a hierarchical construct model using PLS path modeling.  This approach is illustrated empirically using a reflective, fourth-order latent variable model of online experiential value in the context of online book and CD retailing.  Moreover, the guidelines for the use of PLS path modeling to estimate parameters in a hierarchical construct model are extended beyond the scope of the empirical illustration. The findings of the empirical illustration are used to discuss the use of covariance-based SEM versus PLS path modeling. The authors conclude with the limitations of their study and suggestions for future research.&lt;/p&gt;</abstract>
+<fpage>177</fpage>
+<lpage>195</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss1/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2789&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2789</articleid>
+<submission-date>2009-03-02T12:59:16-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>752221</context-key>
+<submission-path>misq/vol33/iss1/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Assessing Hierarchical Construct Models</value>
+</field>
+</fields>
+</document>
+</documents>

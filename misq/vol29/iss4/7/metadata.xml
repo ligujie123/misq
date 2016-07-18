@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Intellectual Property Rights and Cannibalization in Information Technology Outsourcing Contracts</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Walden</lname>
+<fname>Eric</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Contracts</keyword>
+<keyword>outsourcing</keyword>
+<keyword>economic models</keyword>
+<keyword>interorganizational relationships</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper examines the question of how intellectual property rights in the software created during information technology outsourcing relationships should be divided.  This paper expands on the property rights approach developed by Grossman, Hart, and Moore by recognizing that, with respect to software, it is possible to separate excludability rights from usability rights.  These rights are modeled and the contractually optimal distribution is determined.  This model is then modified to account for the possibility of cannibalization of the client’s benefit when multiple others are allowed use of the software.  The results show that the best contractual structure depends strongly on the environment.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss4/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2743&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2743</articleid>
+<submission-date>2008-12-15T10:31:46-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681987</context-key>
+<submission-path>misq/vol29/iss4/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

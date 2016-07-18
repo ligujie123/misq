@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Contingent Effects of Training, Technical Complexity, and Task Interdependence on Successful Information Systems Implementation</title>
+<publication-date>2007-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Sharma</lname>
+<fname>Rajeev</fname>
+</author>
+<author>
+<lname>Yetton</lname>
+<fname>Philip</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Research has investigated the main effect of training on IS implementation success. However, empirical support for this model is inconsistent. We propose a contingent model in which the effect of training on IS implementation success is a function of technical complexity and task interdependence. A meta-analysis of the literature finds strong support for the model, explaining the inconsistent findings reported in the literature. Implications for theory and practice are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2589&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2589</articleid>
+<submission-date>2008-11-10T11:39:09-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>664086</context-key>
+<submission-path>misq/vol31/iss2/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

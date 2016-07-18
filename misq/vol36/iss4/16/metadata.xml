@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Business Intelligence and Analytics: From Big Data to Big Impact</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>hchen@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Chen</lname>
+<fname>Hsinchun</fname>
+</author>
+<author>
+<email>chianghl@ucmail.uc.edu</email>
+<institution>University of Cincinnati</institution>
+<lname>Chiang</lname>
+<fname>Roger</fname>
+<mname>H. L.</mname>
+</author>
+<author>
+<email>vstorey@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Storey</lname>
+<fname>Veda</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Business intelligence and  analytics</keyword>
+<keyword>big data analytics</keyword>
+<keyword>Web 2.0</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Business intelligence and analytics (BI&amp;A) has emerged as an important area of study for both practitioners and researchers, reflecting the magnitude and impact of data-related problems to be solved in contemporary business organizations.　 This introduction to the MIS Quarterly Special Issue on Business Intelligence Research first provides a framework that identifies the evolution, applications, and emerging research areas of BI&amp;A.　 BI&amp;A 1.0, BI&amp;A 2.0, and BI&amp;A 3.0 are defined and described in terms of their key characteristics and capabilities.　 Current research in BI&amp;A is analyzed and challenges and opportunities associated with BI&amp;A research and education are identified.　 We also report a bibliometric study of critical BI&amp;A publications, researchers, and research topics based on more than a decade of related academic and industry publications. Finally, the six articles that comprise this special issue are introduced and characterized in terms of the proposed BI&amp;A research framework.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1165</fpage>
+<lpage>1188</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss4/16</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3074&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3074</articleid>
+<submission-date>2012-12-07T10:33:41-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3521007</context-key>
+<submission-path>misq/vol36/iss4/16</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-12-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Introduction:  Special Issue on Business Intelligence Research</value>
+</field>
+</fields>
+</document>
+</documents>

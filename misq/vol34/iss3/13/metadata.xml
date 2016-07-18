@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Practicing Safe Computing:  A Multimedia Empirical Examination of Home Computer User Security Behavioral Intentions</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>Catherine_Anderson@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Smith</lname>
+<fname>Catherine</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>ragarwal@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Agarwal</lname>
+<fname>Ritu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Behavioral security</keyword>
+<keyword>protection motivation</keyword>
+<keyword>home computer user</keyword>
+<keyword>goal framing</keyword>
+<keyword>self-view</keyword>
+<keyword>survey</keyword>
+<keyword>experiment</keyword>
+</keywords>
+<abstract>&lt;p&gt;Although firms are expending substantial resources to develop technology and processes that can help safeguard the security of their computing assets, increased attention is being focused on the role people play in maintaining a safe computing environment.  Unlike employees in a work setting, home users are not subject to training, nor are they protected by a technical staff dedicated to keeping security software and hardware current.  Thus, with over one billion people with access to the Internet, individual home computer users represent a significant point of weakness in achieving the security of the cyber infrastructure.  We study the phenomenon of conscientious cybercitizens, defined as individuals who are motivated to take the necessary precautions under their direct control to secure their own computer and the Internet in a home setting.  Using a multidisciplinary, phased approach, we develop a conceptual model of the conscientious cybercitizen.  We present results from two studies—a survey and an experiment—conducted to understand the drivers of intentions to perform security-related behavior, and the interventions that can positively influence these drivers.  In the first study, we use protection motivation theory as the underlying conceptual foundation and extend the theory by drawing upon the public goods literature and the concept of psychological ownership.  Results from a survey of 594 home computer users from a wide range of demographic and socio-economic backgrounds suggest that a home computer user’s intention to perform security-related behavior is influenced by a combination of cognitive, social, and psychological components.  In the second study, we draw upon the concepts of goal framing and self-view to examine how the proximal drivers of intentions to perform security-related behavior identified in the first study can be influenced by appropriate messaging.  An experiment with 101 subjects is used to test the research hypotheses.  Overall, the two studies shed important new light on creating more conscientious cybercitizens.  Theoretical and practical implications of the findings are discussed.&lt;/p&gt;</abstract>
+<fpage>613</fpage>
+<lpage>643</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2923&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2923</articleid>
+<submission-date>2010-08-13T08:51:36-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444241</context-key>
+<submission-path>misq/vol34/iss3/13</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Practicing Safe Computing</value>
+</field>
+</fields>
+</document>
+</documents>

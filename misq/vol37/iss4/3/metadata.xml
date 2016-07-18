@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluating Journal Quality and the Association for Information Systems Senior Scholars&#39; Journal Basket Via Bibliometric Measures:  Do Expert Journal Assessments Add Value?</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>paul.lowry.phd@gmail.com</email>
+<institution>City University of Hong Kong</institution>
+<lname>Lowry</lname>
+<fname>Paul</fname>
+<mname>Benjamin</mname>
+</author>
+<author>
+<email>greg.moody@unlv.edu</email>
+<institution>University of Nevada, Las Vegas</institution>
+<lname>Moody</lname>
+<fname>Gregory</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>james.eric.gaskin@gmail.com</email>
+<institution>Brigham Young University</institution>
+<lname>Gaskin</lname>
+<fname>James</fname>
+</author>
+<author>
+<email>galletta@katz.pitt.edu</email>
+<institution>University of Pittsburgh - Main Campus</institution>
+<lname>Galletta</lname>
+<fname>Dennis</fname>
+<mname>F</mname>
+</author>
+<author>
+<email>shumpherys@wtamu.edu</email>
+<institution>West Texas A&amp;M University</institution>
+<lname>Humpherys</lname>
+<fname>Sean</fname>
+</author>
+<author>
+<email>jordy.barlow@gmail.com</email>
+<institution>Indiana University - Bloomington</institution>
+<lname>Barlow</lname>
+<fname>Jordan</fname>
+<mname>B.</mname>
+</author>
+<author>
+<email>davewilsonphd@gmail.com</email>
+<institution>University of Arizona</institution>
+<lname>Wilson</lname>
+<fname>David</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information systems journal rankings</keyword>
+<keyword>scientometrics</keyword>
+<keyword>bibliometrics</keyword>
+<keyword>journal quality</keyword>
+<keyword>SenS-6</keyword>
+<keyword>SenS-8</keyword>
+<keyword>self-citation</keyword>
+<keyword>impact factor</keyword>
+<keyword>h-index</keyword>
+<keyword>social network analysis</keyword>
+<keyword>expert opinion</keyword>
+<keyword>composite ranking or rating</keyword>
+<keyword>AIS Senior Scholars basket of journals</keyword>
+<keyword>nomologies for dissemination of scientific knowledge</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Information systems journal rankings and ratings help scholars focus their publishing efforts and are widely used surrogates for judging the quality of research.  Over the years, numerous approaches have been used to rank IS journals, approaches such as citation metrics, school lists, acceptance rates, and expert assessments. However, the results of these approaches often conflict due to a host of validity concerns.  In the current scientometric study, we make significant strides toward correcting for these limitations in the ranking of mainstream IS journals.  We compare expert rankings to bibliometric measures such as the ISI Impact Factor™, the h-index, and social network analysis metrics.  Among other findings, we conclude that bibliometric measures provide very similar results to expert-based methods in determining a tiered structure of IS journals, thereby suggesting that bibliometrics can be a complete, less expensive, and more efficient substitute for expert assessment.  We also find strong support for seven of the eight journals in the Association for Information Systems Senior Scholars’ &quot;basket&quot; of journals. A cluster analysis of our results indicates a two-tiered separation in the quality of the highest quality IS journals—with MIS Quarterly, Information Systems Research, and Journal of Management Information Systems belonging, in that order, to the highest A+ tier. Journal quality metrics fit nicely into the sociology of science literature and can be useful in models that attempt to explain how knowledge disseminates through scientific communities.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>993</fpage>
+<lpage>1012</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3136&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3136</articleid>
+<submission-date>2013-12-02T09:16:10-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864606</context-key>
+<submission-path>misq/vol37/iss4/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Evaluating Journal Quality</value>
+</field>
+</fields>
+</document>
+</documents>

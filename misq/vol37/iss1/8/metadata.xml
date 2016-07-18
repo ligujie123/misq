@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Examining the Relational Benefits of Improved Interfirm Information Processing Capability in Buyer–Supplier Dyads</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ewang@mgt.ncu.edu.tw</email>
+<institution>National Central University</institution>
+<lname>Wang</lname>
+<fname>Eric</fname>
+<mname>T.G</mname>
+</author>
+<author>
+<email>jeffreycftai@mail.ncyu.edu.tw</email>
+<institution>National Chiayi University</institution>
+<lname>Tai</lname>
+<fname>Chi-Feng</fname>
+</author>
+<author>
+<email>vgrover@clemson.edu</email>
+<institution>Clemson University</institution>
+<lname>Grover</lname>
+<fname>Varun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT-enabled planning and control</keyword>
+<keyword>normative contracts</keyword>
+<keyword>information processing view</keyword>
+<keyword>resource-based view</keyword>
+<keyword>transaction cost theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Information Systems research has studied how buyers and suppliers can benefit from improved information visibility in supply chains characterized by uncertainty.  However, the relation-specific information processing solutions that provide visibility can only be exploited if the two firms engage in sufficient coordination efforts.  This work takes a nuanced look at how dyadic benefits are derived in the supply chain.  Drawing on the information processing view, resource-based view, and transaction cost theory, this study explicates how buyer performance can result from buyer’s use of relation-specific information processing solutions and supplier’s relational responses.  Two interfirm information processing solutions are proposed and examined:  the use of IT-based systems for planning and control, and the use of relational (normative) contracts.  Based on a sample of 144 manufacturing firms, eight of the nine proposed research hypotheses receive empirical support using PLS analysis.  The findings suggest that as buyers and suppliers utilize the IT and relational solutions, they induce relation-specific responses represented as supplier’s business process investments and modification flexibility, which in turn lead to positive buyer outcomes.  The results help us gain a more granular understanding on how relation-specific interfirm information processing solutions can lead to performance through enhanced interfirm governance capabilities.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>149</fpage>
+<lpage>173</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3088&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3088</articleid>
+<submission-date>2013-03-01T08:40:49-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815756</context-key>
+<submission-path>misq/vol37/iss1/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Benefits of Improved Interfirm Information Processing Capability</value>
+</field>
+</fields>
+</document>
+</documents>

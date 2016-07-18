@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Critical Importance of Construct Measurement Specification:  A Response to Aguirre-Urreta and Marakas</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>stacie_petter@baylor.edu</email>
+<institution>University of Nebraska Omaha</institution>
+<lname>Petter</lname>
+<fname>Stacie</fname>
+</author>
+<author>
+<email>arunrai@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Rai</lname>
+<fname>Arun</fname>
+</author>
+<author>
+<email>dstraub@cis.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Formative measurement</keyword>
+<keyword>construct misspecification</keyword>
+<keyword>standardized coefficients</keyword>
+<keyword>unstandardized coefficients</keyword>
+<keyword>simulation</keyword>
+<keyword>construct validity</keyword>
+<keyword>statistical conclusion validity</keyword>
+</keywords>
+<abstract>&lt;p&gt;Aguirre-Urreta and Marakas (A&amp;M) suggest in their simulation &quot;Revisiting Bias Due to Construct Misspecification: Different Results from Considering Coefficients in Standardized Form,&quot; that, like Jarvis et al. (2003), MacKenzie et al. (2005), and Petter et al. (2007) before them, bias does occur when formative constructs are misspecified as reflective. But A&amp;M argue that the level of bias in prior simulation studies has been exaggerated. They parameterize their simulation models using standardized coefficients in contrast to Jarvis et al., MacKenzie et al., and Petter et al., who parameterize their simulation models using unstandardized coefficients. Thus, across these four simulation studies, biases in parameter estimates are likely to result in misspecified measurement models (i.e., using either unstandardized or standardized coefficients); yet, the biases are greater in magnitude when unstandardized coefficients are used to parameterize the misspecified model. We believe that regardless of the extent of the bias, it is critically important for researchers to achieve correspondence between the measurement specification and the conceptual meaning of the construct so as to not alter the theoretical meaning of the construct at the operational layer of the model. Such alignment between theory and measurement will safeguard against threats to construct and statistical conclusion validity.&lt;/p&gt;</abstract>
+<fpage>147</fpage>
+<lpage>155</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3013&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3013</articleid>
+<submission-date>2012-02-24T08:34:19-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2566163</context-key>
+<submission-path>misq/vol36/iss1/12</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Construct Measurement Specification</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Knowledge Exchange and Symbolic Action in Social Media-Enabled Electronic Networks of Practice:  A Multilevel Perspective on Knowledge Seekers and Contributors</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>beck@itu.dk</email>
+<institution>IT University of Copenhagen</institution>
+<lname>Beck</lname>
+<fname>Roman</fname>
+</author>
+<author>
+<email>pahlke@wiwi.uni-frankfurt.de</email>
+<institution>Goethe University Frankfurt</institution>
+<lname>Pahlke</lname>
+<fname>Immanuel</fname>
+</author>
+<author>
+<email>cseebach@wiwi.uni-frankfurt.de</email>
+<institution>Goethe University Frankfurt</institution>
+<lname>Seebach</lname>
+<fname>Christoph</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Knowledge exchange</keyword>
+<keyword>enterprise social media</keyword>
+<keyword>language action view</keyword>
+<keyword>electronic networks of practice</keyword>
+<keyword>hierarchical linear modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Organizational knowledge is one of the most important assets of an enterprise. Therefore, many organizations invest in enterprise social media (ESM) to establish electronic networks of practice and to foster knowledge exchange among employees. ESM improves interaction transparency and can be regarded as a sociotechnical system that provides a language for communication and symbolic action as well as a better sense of others’ social identity. Accordingly, the individual characteristics of knowledge seekers and contributors determine why and how interactions occur. However, existing studies tend to focus only on knowledge contributors’ characteristics and to treat knowledge as an object that needs to be transferred. To address this gap, this study conceptualizes and empirically tests a multilevel model of knowledge exchange in electronic networks of practice (ENoP) that includes the characteristics of knowledge seekers and knowledge contributors as well as their dyadic relationship from an activity-centered language/action point of view. A dataset of 15,505 enterprise microblogging messages reveals that knowledge seekers’ characteristics and relational factors drive knowledge exchanges in social media-enabled ENoP. Focusing on organizations with knowledge exchanges supported by information technology, our research extends prior findings by providing the first evidence that the communicative act expressed by question–answer pairs impacts the quality of knowledge exchanged.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1245</fpage>
+<lpage>1270</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/16</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3213&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3213</articleid>
+<submission-date>2014-11-07T08:38:05-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6337282</context-key>
+<submission-path>misq/vol38/iss4/16</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Knowledge Exchange &amp; Symbolic Action in Electronic Networks of Practice</value>
+</field>
+</fields>
+</document>
+</documents>

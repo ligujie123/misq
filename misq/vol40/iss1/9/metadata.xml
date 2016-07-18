@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Temporally Situated Self-Agency Theory of Information Technology Reinvention</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>snevo@albany.edu</email>
+<institution>University at Albany</institution>
+<lname>Nevo</lname>
+<fname>Saggi</fname>
+</author>
+<author>
+<email>nevod@rpi.edu</email>
+<institution>Rensselaer Polytechnic Institute</institution>
+<lname>Nevo</lname>
+<fname>Dorit</fname>
+</author>
+<author>
+<email>alain.pinsonneault@mcgill.ca</email>
+<institution>McGill University</institution>
+<lname>Pinsonneault</lname>
+<fname>Alain</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT reinvention</keyword>
+<keyword>human agency</keyword>
+<keyword>temporal orientation</keyword>
+<keyword>prospective technological capabilities</keyword>
+<keyword>mastery goals</keyword>
+<keyword>performance goals</keyword>
+<keyword>post-adoption</keyword>
+<keyword>technology adaptation</keyword>
+<keyword>process theory</keyword>
+<keyword>innovation diffusion</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Our knowledge of how users reinvent information technologies (IT) in ways that depart from their intended purposes to achieve new goals is relatively limited. Drawing on a human agency theory that situates actors in the flow of time, this paper develops a theory of IT reinvention. It identifies the key subprocesses of IT reinvention, describes two patterns of reinvention (performance-oriented and mastery-oriented), and explains how the present and the past influence the ambiguities, demands, and dilemmas inherent to each pattern. The outcomes associated with each pattern of IT reinvention are also discussed. The paper provides the theoretical foundations to understand how users reinvent IT as well as new insights into a broader range of post-adoption behaviors. &lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>157</fpage>
+<lpage>186</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3277&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3277</articleid>
+<submission-date>2016-02-29T08:10:23-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235346</context-key>
+<submission-path>misq/vol40/iss1/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Temporally Situated Self-Agency Theory of IT Reinvention</value>
+</field>
+</fields>
+</document>
+</documents>

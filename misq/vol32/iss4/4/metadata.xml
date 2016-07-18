@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Fast Form Approach to Measuring Technology Acceptance and Other Constructs</title>
+<publication-date>2008-11-05T11:03:59-08:00</publication-date>
+<authors>
+<author>
+<email>wchin@uh.edu</email>
+<institution>University of Houston</institution>
+<lname>Chin</lname>
+<fname>Wynne</fname>
+<mname>W.</mname>
+</author>
+<author>
+<email>njohnson@bauer.uh.edu</email>
+<institution>University of Houston</institution>
+<lname>Johnson</lname>
+<fname>Norman</fname>
+</author>
+<author>
+<email>aschwarz@lsu.edu</email>
+<institution>Louisiana State University</institution>
+<lname>Schwarz</lname>
+<fname>Andrew</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Technology acceptance</keyword>
+<keyword>semantic differential</keyword>
+<keyword>scale development</keyword>
+<keyword>item decomposition</keyword>
+<keyword>nomological validity</keyword>
+</keywords>
+<abstract>&lt;p&gt;Nearly all prior studies on the technology acceptance model (TAM) have used Likert scales to measure the model’s constructs, but the use of only this type of scale has two shortcomings.  One is that such use prevents us from exposing the model’s constructs to a robust test of their measure and relationships to each other, termed their nomological validity.  The other is that such use leaves us unsure about whether or not we have selected an efficient way, in terms of survey completion time, to assess these constructs.  Past researchers have used short form scales to address the issue of efficiency, but there are problems that may result from such efforts.  In this study, we address both shortcomings by exploring the use of a semantic differential scale, which we refer to as a fast form, to assess the constructs of TAM.  In this regard, we do three things.  First, we describe how fast form as a scale may be developed.  Second, we conduct a psychometric evaluation of the constructs that are measured by the fast form and examine their relationships.  Third, we assess the efficiency of the fast form by comparing the time required to complete a survey with it to that which is required to complete a survey with Likert scales.  Our results confirm that the constructs that are measured by the fast form are psychometrically equivalent to those that are measured by the Likert scales.  The relationship among these constructs was unchanged, providing strong evidence for nomological validity.  The fast form also yielded a 40 percent reduction in the survey completion time, proving its superior efficiency.  We conclude with a description of the implications of these results for research and practice.&lt;/p&gt;</abstract>
+<fpage>687</fpage>
+<lpage>703</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2571&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2571</articleid>
+<submission-date>2008-11-05T09:52:07-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>661392</context-key>
+<submission-path>misq/vol32/iss4/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

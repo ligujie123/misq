@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Work Harder or Work Smarter?  Information Technology and Resource Allocation in Healthcare Processes</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>adrianyeowyk@unisim.edu.sg</email>
+<institution>SIM University</institution>
+<lname>Yeow</lname>
+<fname>Adrian</fname>
+</author>
+<author>
+<email>akhgoh@ntu.edu.sg</email>
+<institution>Nanyang Technological University</institution>
+<lname>Goh</lname>
+<fname>Kim Huat</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Healthcare</keyword>
+<keyword>IT</keyword>
+<keyword>telemedicine</keyword>
+<keyword>stochastic frontier analysis</keyword>
+<keyword>resource allocations</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;While the impacts of health information technology (HIT) are widely studied, prior research presents mixed findings. In this study, a granular examination of the impact of HIT systems on how resources are allocated to healthcare tasks and processes was undertaken. A longitudinal field study that combined interview, archival, observation, and survey data was conducted. The effects of telemedicine on the input allocative efficiency of the healthcare process through the reallocation of organizational resources was evaluated and an assessment of whether gains in allocative efficiency resulted in improvements in organizational outcomes, such as lower hospitalization rates and lower uncertainty in patient wait time, was conducted. Applying the theory of swift and even flow, our findings suggest that the gains in allocative efficiency for some processes are associated with improved organizational outcomes.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>763</fpage>
+<lpage>787</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3260&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3260</articleid>
+<submission-date>2015-11-19T08:23:52-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7862439</context-key>
+<submission-path>misq/vol39/iss4/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-11-19T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT and Resource Allocation in Healthcare Processes</value>
+</field>
+</fields>
+</document>
+</documents>

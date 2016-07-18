@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Empirical Investigation of the Factors Affecting Data Warehousing Success</title>
+<publication-date>2001-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Wixom</lname>
+<fname>Barbara</fname>
+<mname>H.</mname>
+</author>
+<author>
+<lname>Watson</lname>
+<fname>Hugh</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The IT implementation literature suggests that various implementation factors play critical roles in the success of an information system; however, there is little empirical research about the implementation of data warehousing projects. Data warehousing has unique characteristics that may impact the importance of factors that apply to it. In this study, a cross-sectional survey investigated a model of data warehousing success. Data warehousing managers and data suppliers from 111 organizations completed paired mail questionnaires on implementation factors and the success of the warehouse. The results from a Partial Least Squares analysis of the data identified significant relationships between the system quality and data quality factors and perceived net benefits. It was found that management support and resources help to address organizational issues that arise during warehouse implementations; resources, user participation, and highly-skilled project team members increase the likelihood that warehousing projects will finish on-time, on-budget, with the right functionality; and diverse, unstandardized source systems and poor development technology will increase the technical issues that project teams must overcome. The implementation&#39;s success with organizational and project issues, in turn, influence the system quality of the data warehouse; however, data quality is best explained by factors not included in the research model.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss1/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2606&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2606</articleid>
+<submission-date>2008-12-09T06:52:37-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678495</context-key>
+<submission-path>misq/vol25/iss1/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

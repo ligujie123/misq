@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cultural Differences and Geography as Determinants of Online Pro-Social Lending</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>gburtch@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Burtch</lname>
+<fname>Gordon</fname>
+</author>
+<author>
+<email>aghose@stern.nyu.edu</email>
+<institution>New York University</institution>
+<lname>Ghose</lname>
+<fname>Anindya</fname>
+</author>
+<author>
+<email>swattal@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Wattal</lname>
+<fname>Sunil</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Prosocial lending</keyword>
+<keyword>microfinance</keyword>
+<keyword>cultural differences</keyword>
+<keyword>geography</keyword>
+<keyword>crowdfunding</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, we analyze patterns of transaction between individuals using data drawn from Kiva.org, a global online crowdfunding platform that facilitates prosocial, peer-to-peer lending. Our analysis, which employs an aggregate dataset of country-to-country lending volumes based on more than three million individual lending transactions that took place between 2005 and 2010, considers the dual roles of geographic distance and cultural differences on lenders’ decisions about which borrowers to support. While cultural differences have seen extensive study in the Information Systems literature as sources of friction in extended interactions, here, we argue and demonstrate their role in individuals’ selection of a transaction partner. We present evid ence that lenders do prefer culturally similar and geographically proximate borrowers. An analysis of the marginal effects indicates that an increase of one standard deviation in the cultural differences between lender and borrower countries is associated with 30 fewer lending actions, while an increase of one standard deviation in physical distance is associated with 0.23 fewer lending actions. We also identify a substitution effect between cultural differences and physical distance, such that a 50 percent increase in physical distance is associated with an approximate 30 percent decline in the effect of cultural differences. Considering approaches to overcoming the observed cultural effect, we offer some empirical evidence of the potential of IT-based trust mechanisms, focusing on Kiva’s reputation rating system for microfinance intermediaries. We discuss the implications of our findings for prosocial lending, online crowdfunding, and electronic markets more broadly.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>773</fpage>
+<lpage>794</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3192&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3192</articleid>
+<submission-date>2014-07-31T12:15:01-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854563</context-key>
+<submission-path>misq/vol38/iss3/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Determinants of Online Pro-Social Lending</value>
+</field>
+</fields>
+</document>
+</documents>

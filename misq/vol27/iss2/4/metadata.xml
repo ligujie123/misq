@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reconceptualizing Users as Social Actors in Information Systems Research</title>
+<publication-date>2003-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Lamb</lname>
+<fname>Roberta</fname>
+</author>
+<author>
+<lname>Kling</lname>
+<fname>Rob</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Social actor model</keyword>
+<keyword>IS research methodology</keyword>
+<keyword>socio-technical theory</keyword>
+<keyword>social interaction</keyword>
+<keyword>online use</keyword>
+<keyword>IS users</keyword>
+</keywords>
+<abstract>&lt;p&gt;A concept of the user is fundamental to much of the research and practice of information systems design, development, and evaluation.  User-centered information studies have relied on individualistic cognitive models to carefully examine the criteria that influence the selection of information and communication technologies (ICTs) that  people make.  In many ways, these studies have improved our understanding of how a good information resource fits the people who use it.  However, research approaches based on an individualistic user concept are limited.    In this paper, we examine the theoretical constructs that shape this user concept and contrast these with alternative views that help to reconceptualize the user as a social actor.  Despite pervasive ICT use, social actors are not primarily users of ICTs.  Most people who use ICT applications utilize multiple applications, in various roles, and as part of their efforts to produce goods and services while interacting with a variety of other people, and often in multiple social contexts.  Moreover, the socially thin user construct limits our understanding of information selection, manipulation, communication, and exchange within complex social contexts. Using analyses from a recent study of online information service use, we develop an institutionalist concept of a social actor whose everyday interactions are infused with ICT use. We then encourage a shift from the user concept to a concept of the social actor in IS research.  We suggest that such a shift will sharpen perceptions of how organizational contexts shape ICT-related practices, and at the same time will help researchers more accurately portray the complex and multiple roles that people fulfill while adopting, adapting, and using information systems.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss2/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2673&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2673</articleid>
+<submission-date>2008-12-11T11:26:26-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680517</context-key>
+<submission-path>misq/vol27/iss2/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

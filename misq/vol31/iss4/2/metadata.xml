@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Specifying Formative Constructs in Information Systems Research</title>
+<publication-date>2008-11-05T09:33:36-08:00</publication-date>
+<authors>
+<author>
+<email>stacie_petter@baylor.edu</email>
+<institution>University of Nebraska at Omaha</institution>
+<lname>Petter</lname>
+<fname>Stacie</fname>
+</author>
+<author>
+<email>dstraub@cis.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar</fname>
+<mname>W.</mname>
+</author>
+<author>
+<email>arunrai@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Rai</lname>
+<fname>Arun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Formativ constructs</keyword>
+<keyword>reflective constructs</keyword>
+<keyword>composite constructs</keyword>
+<keyword>latent constructs</keyword>
+<keyword>measurement models</keyword>
+<keyword>methodology</keyword>
+<keyword>statitical conclusion validity</keyword>
+<keyword>Type I and Type II errors</keyword>
+</keywords>
+<abstract>&lt;p&gt;While researchers go to great lengths to justify and prove theoretical links between constructs, the relationship between measurement items and constructs is often ignored.  By default, the relationship between construct and item is assumed to be reflective, meaning that the measurement items are a reflection of the construct.  Many times, though, the nature of the construct is not reflective, but rather formative.  Formative constructs occur when the items describe and define the construct rather than vice versa.&lt;/p&gt;
+&lt;p&gt;In this research, we examine whether formative constructs are indeed being mistaken for reflective constructs by information systems researchers.  By examining complete volumes of MIS Quarterly and Information Systems Research over the last 3 years, we discovered that a significant number of articles have indeed misspecified formative constructs.  For scientific results to be valid, we argue that researchers must properly specify formative constructs. This paper discusses the implications of different patterns of common misspecifications of formative constructs on both Type I and Type II errors.  To avoid these errors, the paper provides a roadmap to researchers to properly specify formative constructs.  We also discuss how to address formative constructs within a research model after they are specified.&lt;/p&gt;</abstract>
+<fpage>623</fpage>
+<lpage>656</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss4/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2557&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2557</articleid>
+<submission-date>2008-11-05T08:03:01-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>661335</context-key>
+<submission-path>misq/vol31/iss4/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

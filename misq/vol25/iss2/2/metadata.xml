@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Fit and Appropriation Effects in Group Support Systems Via Meta-Analysis</title>
+<publication-date>2001-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Dennis</lname>
+<fname>Alan</fname>
+<mname>R.</mname>
+</author>
+<author>
+<lname>Wixom</lname>
+<fname>Barbara</fname>
+<mname>H.</mname>
+</author>
+<author>
+<lname>Vandenberg</lname>
+<fname>Robert</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Group support systems</keyword>
+<keyword>GSS</keyword>
+<keyword>group-ware</keyword>
+<keyword>meta-analysis</keyword>
+<keyword>task technology fit</keyword>
+<keyword>appropriation</keyword>
+<keyword>adoption</keyword>
+<keyword>structuration</keyword>
+<keyword>contingency theory</keyword>
+<keyword>collaboration</keyword>
+</keywords>
+<abstract>&lt;p&gt;Many previous papers have lamented the fact that the findings of past GSS research have been inconsistent.  This paper develops a new model for interpreting GSS effects on performance (a Fit-Appropriation Model), which argues that GSS performance is affected by two factors.  The first is the fit between the task and the GSS structures selected for use (i.e., communication support and information processing support).  The second is the appropriation support the group receives in the form of training, facilitation, and software restrictiveness to help them effectively incorporate the selected GSS structures into their meeting process.  A meta-analysis using this model to organize and classify past research found that when used appropriately (i.e., there is a fit between the GSS structures and the task, and the group receives appropriation support), GSS use increased the number of ideas generated, took less time, and led to more satisfied participants than if the group worked without the GSS.  Fitting the GSS to the task had the most impact on outcome effectiveness (decision quality and ideas), while appropriation support had the most impact on the process (time required and process satisfaction).  We conclude that when using this theoretical lens, the results of GSS research do not appear inconsistent.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2612&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2612</articleid>
+<submission-date>2008-12-09T07:44:13-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678525</context-key>
+<submission-path>misq/vol25/iss2/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

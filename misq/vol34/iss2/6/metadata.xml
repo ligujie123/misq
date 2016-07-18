@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Expectation Disconfirmation and Technology Adoption:  Polynomial Modeling and Response Surface Analysis</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+<author>
+<email>sandeep@sandeepgoyal.com</email>
+<institution>University of Southern Indiana</institution>
+<lname>Goyal</lname>
+<fname>Sandeep</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Polynomial modeling</keyword>
+<keyword>response surface methodology</keyword>
+<keyword>nonlinear modeling</keyword>
+<keyword>difference scores</keyword>
+<keyword>direct measures</keyword>
+<keyword>technology acceptance model</keyword>
+<keyword>expectation disconfirmation theory</keyword>
+<keyword>IS continuance</keyword>
+</keywords>
+<abstract>&lt;p&gt;Individual-level information systems adoption research has recently seen the introduction of expectation–disconfirmation theory (EDT) to explain how and why user reactions change over time.  This prior research has produced valuable insights into the phenomenon of technology adoption beyond traditional models, such as the technology acceptance model. First, we identify gaps in EDT research that present potential opportunities for advances—specifically, we discuss methodological and analytical limitations in EDT research in information systems and present polynomial modeling and response surface methodology as solutions.  Second, we draw from research on cognitive dissonance, realistic job preview, and prospect theory to present a polynomial model of expectation–disconfirmation in information systems.  Finally, we test our model using data gathered over a period of 6 months among 1,143 employees being introduced to a new technology.  The results confirmed our hypotheses that disconfirmation in general was bad, as evidenced by low behavioral intention to continue using a system for both positive and negative disconfirmation, thus supporting the need for a polynomial model to understand expectation disconfirmation in information systems.&lt;/p&gt;</abstract>
+<fpage>281</fpage>
+<lpage>303</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2906&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2906</articleid>
+<submission-date>2010-06-23T13:39:26-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369980</context-key>
+<submission-path>misq/vol34/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Expectation Disconfirmatoin &amp; Technology Adoption</value>
+</field>
+</fields>
+</document>
+</documents>

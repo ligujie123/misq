@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Sender-Receiver Framework for Knowledge Transfer</title>
+<publication-date>2008-12-15T11:54:58-08:00</publication-date>
+<authors>
+<author>
+<lname>Lin</lname>
+<fname>Lihui</fname>
+</author>
+<author>
+<lname>Geng</lname>
+<fname>Xianjun</fname>
+</author>
+<author>
+<lname>Whinston</lname>
+<fname>Andrew</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Knowledge transfer</keyword>
+<keyword>knowledge management</keyword>
+<keyword>incomplete information</keyword>
+<keyword>asymmetric information</keyword>
+<keyword>sender-receiver game</keyword>
+</keywords>
+<abstract>&lt;p&gt;The shift to more distributed forms of organizations and the prevalence of interorganizational relationships have led to increasing the transfer of asymmetric and incomplete information knowledge between entities. Due to such information asymmetry and incompleteness, parties seeking knowledge may not be able to identify qualified knowledge providers, and the appropriate experts may fail to be motivated to engage in knowledge transfer.   We propose a sender-receiver framework for studying knowledge transfer under asymmetric and/or incomplete information. We outline four types of information structures for knowledge transfer, and focus on the sender-advantage asymmetric information structure and the symmetric incomplete information structure. We develop formal game-theoretical models, show how information incompleteness and asymmetry may negatively influence knowledge transfer, and propose solutions to alleviate these negative impacts. Implications for knowledge transfer research and practice are also discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2723&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2723</articleid>
+<submission-date>2008-12-15T06:58:20-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681753</context-key>
+<submission-path>misq/vol29/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

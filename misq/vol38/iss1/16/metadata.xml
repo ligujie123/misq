@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology Capability and Firm Performance:  Contradictory Findings and Their Possible Causes</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ho-chang.chae@westliberty.edu</email>
+<institution>West Liberty University</institution>
+<lname>Chae</lname>
+<fname>Ho-Chang</fname>
+</author>
+<author>
+<email>Chang.Koh@unt.edu</email>
+<institution>University of North Texas</institution>
+<lname>Koh</lname>
+<fname>Chang</fname>
+<mname>E.</mname>
+</author>
+<author>
+<email>prybutok@unt.edu</email>
+<institution>University of North Texas</institution>
+<lname>Prybutok</lname>
+<fname>Victor</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>IT capability</keyword>
+<keyword>firm performance</keyword>
+<keyword>IW 500</keyword>
+<keyword>IT business value</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Several studies support the positive link between information technology capability and firm performance, including Bharadwaj (2000) and Santhanam and Hartono (2003), which appeared in MIS Quarterly.  We conducted a study to see if this link is still statistically significant.  It is now over a decade since the first study was published, during which several significant developments in the IT industry have taken place.  Unlike the 1990s, when proprietary information systems prevailed, the 2000s are characterized by more standardized and homogeneous information systems and with the rapid adoption of ERP and web technologies.  Thus, we attempted to reexamine the link between IT capability and firm performance with data from the 2000s.  Surprisingly, the results of our current analysis showed no significant link between IT capability and firm performance.  Contrary to earlier studies, IT leader firms in our study didn’t show better financial performance than control firms.  We discuss several possible causes for the change in findings and present an in-depth comparison in business performance between the two groups—IT leader and control—over a period extending from 1991 to 2007.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>305</fpage>
+<lpage>325</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/16</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3168&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3168</articleid>
+<submission-date>2014-03-03T10:08:42-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5253294</context-key>
+<submission-path>misq/vol38/iss1/16</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT Capability and Firm Performance</value>
+</field>
+</fields>
+</document>
+</documents>

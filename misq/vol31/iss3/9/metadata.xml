@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Equation support for MISQ Article</title>
+<publication-date>2007-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>tomclark@lsu.edu</email>
+<institution>Louisiana State University</institution>
+<lname>Clark</lname>
+<fname>Thomas</fname>
+<mname>D</mname>
+<suffix>Jr.</suffix>
+</author>
+<author>
+<email>jonesm@unt.edu</email>
+<institution>University of North Texas</institution>
+<lname>Jones</lname>
+<fname>Mary</fname>
+<mname>C</mname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss3/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2599&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2599</articleid>
+<submission-date>2008-11-21T06:30:07-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>670486</context-key>
+<submission-path>misq/vol31/iss3/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

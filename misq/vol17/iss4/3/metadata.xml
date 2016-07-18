@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Tailoring Database Training for End Users</title>
+<publication-date>1993-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Ahrens</lname>
+<fname>Judith</fname>
+</author>
+<author>
+<lname>Sankar</lname>
+<fname>Cheten</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol17/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2220&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2220</articleid>
+<submission-date>2008-08-18T13:20:31-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584528</context-key>
+<submission-path>misq/vol17/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1993-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

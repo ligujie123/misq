@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Meta-Analysis of the Role of Environment-Based Voluntariness in Information Technology Acceptance</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>jiming.wu@csueastbay.edu</email>
+<institution>California State University, East Bay</institution>
+<lname>Wu</lname>
+<fname>Jiming</fname>
+</author>
+<author>
+<email>lederer@uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Lederer</lname>
+<fname>Albert</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Acceptance</keyword>
+<keyword>behavioral intention</keyword>
+<keyword>ease of use</keyword>
+<keyword>meta-analysis</keyword>
+<keyword>statistical power analysis</keyword>
+<keyword>publication bias</keyword>
+<keyword>study artifacts</keyword>
+<keyword>TAM</keyword>
+<keyword>system usage</keyword>
+<keyword>usefulness</keyword>
+<keyword>voluntariness</keyword>
+</keywords>
+<abstract>&lt;p&gt;The technology acceptance model (TAM) asserts that ease of use and usefulness are two primary determinants of behavioral intention and usage. A parallel research stream emphasizes voluntariness, a key social influence and contextual variable, as a critical factor in information technology (IT) adoption, but pays little attention to its role in TAM.  This paper addresses this particular absence by investigating the impact of environment-based voluntariness on the relationships among the four primary TAM constructs. A meta-analysis of 71 empirical studies provides strong support for the hypotheses that environment-based voluntariness moderates the effects of ease of use and usefulness on behavioral intention, but not the effect of ease of use on usefulness. Moreover, inconsistent with our expectations, environment-based voluntariness does not moderate the effects of ease of use and usefulness on usage. By further analyzing the data set, we suggest this may be because of the relatively small sample size, the presence of other factors, or the inappropriate measurement of usage in previous studies. The current study contributes not only to the distinction between user-based and environment-based voluntariness but also to a more complete understanding of user acceptance of IT across system-use environments.&lt;/p&gt;</abstract>
+<fpage>419</fpage>
+<lpage>432</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2855&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2855</articleid>
+<submission-date>2009-06-01T09:19:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860216</context-key>
+<submission-path>misq/vol33/iss2/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Environment-Based Voluntariness in IT Acceptance</value>
+</field>
+</fields>
+</document>
+</documents>

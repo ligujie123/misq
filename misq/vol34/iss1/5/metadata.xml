@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Empirical Analysis of the Impact of Information Capabilities Design on Business Process Outsourcing Performance</title>
+<publication-date>2010-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>deepa.mani@isb.edu</email>
+<institution>Indian School of Business</institution>
+<lname>Mani</lname>
+<fname>Deepa</fname>
+</author>
+<author>
+<email>Anitesh.Barua@mccombs.utexas.edu</email>
+<institution>University of Texas at Austin</institution>
+<lname>Barua</lname>
+<fname>Anitesh</fname>
+</author>
+<author>
+<email>abw@uts.cc.utexas.edu</email>
+<institution>The University of Texas at Austin</institution>
+<lname>Whinston</lname>
+<fname>Andrew</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Business process outsourcing</keyword>
+<keyword>governance</keyword>
+<keyword>performance</keyword>
+<keyword>information requirements</keyword>
+<keyword>information capabilities</keyword>
+<keyword>information processing view</keyword>
+</keywords>
+<abstract>&lt;p&gt;Organizations today outsource diverse business processes to achieve a wide variety of business objectives ranging from reduction of costs to innovation and business transformation.  We build on the information processing view of the firm to theorize that performance heterogeneity across business process outsourcing (BPO) exchanges is a function of the design of information capabilities (IC) that fit the unique information requirements (IR) of the exchange.  Further, we compare performance effects of the fit between IR and IC across dominant categories of BPO relationships to provide insights into the relative benefits of enacting such fit between the constructs.  Empirical tests of our hypotheses using survey data on 127 active BPO relationships find a significant increase (decrease) in satisfaction as a result of the fit (misfit) between IR and IC of the relationship.  The results have implications for how BPO relationships must be designed and managed to realize significant performance gains.  The study also extends the IPV to identify IC that provide the incentives and means to process information in an interfirm relationship.&lt;/p&gt;</abstract>
+<fpage>39</fpage>
+<lpage>62</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2892&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2892</articleid>
+<submission-date>2010-03-03T14:10:07-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1193658</context-key>
+<submission-path>misq/vol34/iss1/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Impact of Information Capabilities Design on BPO Performance</value>
+</field>
+</fields>
+</document>
+</documents>

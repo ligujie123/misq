@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Cross-Cultural Study on Escalation of Commitment Behavior in Software Projects</title>
+<publication-date>2000-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mkeil@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Keil</lname>
+<fname>Mark</fname>
+</author>
+<author>
+<email>btan@comp.nus.edu.sg</email>
+<institution>National University of Singapore</institution>
+<lname>Tan</lname>
+<fname>Bernard</fname>
+<mname>C. Y.</mname>
+</author>
+<author>
+<email>weikk@comp.nus.edu.sg</email>
+<institution>National University of Singapore</institution>
+<lname>Wei</lname>
+<fname>Kwok-Kee</fname>
+</author>
+<author>
+<email>saarinen@hkkk.fi</email>
+<institution>Helsinki School ofEconomics</institution>
+<lname>Saarinen</lname>
+<fname>Timo</fname>
+</author>
+<author>
+<email>virpi.tuunainen@aalto.fi</email>
+<institution>Helsinki School of Economics and Business Administration</institution>
+<lname>Tuunainen</lname>
+<fname>Virpi</fname>
+</author>
+<author>
+<email>d.a.wassenaar@sms.utwente.nl</email>
+<institution>University of Twente</institution>
+<lname>Wassenaar</lname>
+<fname>Arjen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Software project management</keyword>
+<keyword>escalation of commitment behavior</keyword>
+<keyword>sunk cost</keyword>
+<keyword>risk propensity</keyword>
+<keyword>uncertainty avoidance</keyword>
+</keywords>
+<fpage>299</fpage>
+<lpage>325</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol24/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2372&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2372</articleid>
+<submission-date>2008-08-18T13:40:50-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584739</context-key>
+<submission-path>misq/vol24/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Culture &amp; Escalation of Commitment</value>
+</field>
+</fields>
+</document>
+</documents>

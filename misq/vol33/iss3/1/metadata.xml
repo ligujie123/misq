@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Table of Contents, Volume 33, Issue 3 (September 2009)</title>
+<publication-date>2009-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>misq@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Quarterly</lname>
+<fname>MIS</fname>
+</author>
+</authors>
+<fpage>i</fpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss3/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2871&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2871</articleid>
+<submission-date>2009-08-21T12:18:59-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>962085</context-key>
+<submission-path>misq/vol33/iss3/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Table of Contents</value>
+</field>
+</fields>
+</document>
+</documents>

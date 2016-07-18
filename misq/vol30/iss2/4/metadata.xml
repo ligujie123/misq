@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Empirical Analysis of the Value of Complete Information for eCRM Models</title>
+<publication-date>2006-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Padmanabhan</lname>
+<fname>Balaji</fname>
+</author>
+<author>
+<lname>Zheng</lname>
+<fname>Zhiqiang</fname>
+</author>
+<author>
+<lname>Kimbrough</lname>
+<fname>Steven</fname>
+<mname>O.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Data mining</keyword>
+<keyword>incomplete data</keyword>
+<keyword>information value</keyword>
+<keyword>eCRM</keyword>
+</keywords>
+<abstract>&lt;p&gt;Due to the vast amount of user data tracked online, the use of data-based analytical methods is becoming increasingly common for e-businesses.  Recently the term analytical eCRM has been used to refer to the use of such methods in the online world.  A characteristic of most of the current approaches in eCRM is that they use data collected about users’ activities at a single site only and, as we argue in this paper, this can present an incomplete picture of user activity.  However, it is possible to obtain a complete picture of user activity from across-site data on users.  Such data is expensive, but can be obtained by firms directly from their users or from market data vendors.  A critical question is whether such data is worth obtaining, an issue that little prior research has addressed.  In this paper, using a data mining approach, we present an empirical analysis of the modeling benefits that can be obtained by having complete information.  Our results suggest that the magnitudes of gains that can be obtained from complete data range from a few percentage points to 50 percent, depending on the problem for which it is used and the performance metrics considered.  Qualitatively we find that variables related to customer loyalty and browsing intensity are particularly important and these variables are difficult to derive from data collected at a single site.  More importantly, we find that a firm has to collect a reasonably large amount of complete data before any benefits can be reaped and caution against acquiring too little data.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss2/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2760&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2760</articleid>
+<submission-date>2008-12-18T06:58:06-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683742</context-key>
+<submission-path>misq/vol30/iss2/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

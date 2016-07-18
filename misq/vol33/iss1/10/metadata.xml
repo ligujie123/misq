@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Foreword:  A Critical Look at Partial Least Squares Modeling</title>
+<publication-date>2009-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>george.marcoulides@ucr.edu</email>
+<institution>University of California, Riverside</institution>
+<lname>Marcoulides</lname>
+<fname>George</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>wchin@uh.edu</email>
+<institution>University of Houston</institution>
+<lname>Chin</lname>
+<fname>Wynne</fname>
+</author>
+<author>
+<email>carol.saunders@bus.ucf.edu</email>
+<institution>University of Central Florida</institution>
+<lname>Saunders</lname>
+<fname>Carol</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;The first seed for this special issue on partial least squares (PLS) modeling was sown when George A. Marcoulides, editor-in-chief of Structural Equation Modeling (SEM), submitted an Issues and Opinions article to MIS Quarterly (MISQ) about the presumed immunity of the method to distributional assumptions and that urged caution when using PLS with small sample sizes.  As editor-in-chief of MISQ, Carol Saunders started a review process for the paper that turned out to be more problematic than any she had ever seen.  Several reviewers turned down the invitation to review.  Several reviewers who accepted the invitation never completed their reviews either because of personal problems that had arisen in their families or for unstated reasons.  The few reviewers completing the assignment found the paper either too advanced for the MIS target audience or, concomitantly, conveying a message that was so obvious that the paper did not warrant publication.  More so than other disciplines, the Information Systems discipline relies heavily on PLS for testing path models.  Goodhue, Lewis, and Thompson (2006) found that PLS was used almost one third of the time in three top MIS journals between 2000 and 2003 (inclusive) when testing such models. Carol, believing the cautionary message was an important one, offered to work with George to issue a joint editorial to share that message with the IS community (Marcoulides and Saunders 2006).&lt;/p&gt;</abstract>
+<fpage>171</fpage>
+<lpage>175</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss1/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2788&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2788</articleid>
+<submission-date>2009-03-02T12:54:27-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>752216</context-key>
+<submission-path>misq/vol33/iss1/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Foreword:  PLS Modeling</value>
+</field>
+</fields>
+</document>
+</documents>

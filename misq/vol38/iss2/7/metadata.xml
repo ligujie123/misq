@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Economic Analysis of Online Advertising Using Behavioral Targeting</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>chenjq@utdallas.edu</email>
+<institution>University of Texas at Dallas</institution>
+<lname>Chen</lname>
+<fname>Jianqing</fname>
+</author>
+<author>
+<email>jan.stallaert@business.uconn.edu</email>
+<institution>University of Connecticut</institution>
+<lname>Stallaert</lname>
+<fname>Jan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Behavioral targeting</keyword>
+<keyword>targeted advertising</keyword>
+<keyword>online advertising</keyword>
+<keyword>pricing</keyword>
+<keyword>competition</keyword>
+<keyword>auctions</keyword>
+<keyword>analytical modeling</keyword>
+<keyword>economic modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;Online publishers and advertisers have recently shown increasing interest in using targeted advertising online. Such targeting allows them to present users with advertisements that are a better match, based on their past browsing and search behavior and other available information (e.g., hobbies registered on a web site).  This technique, known as behavioral targeting, has been hailed as the new &quot;Holy Grail&quot; in online advertising because of its potential effectiveness.  In this paper, we study the economic implications when an online publisher engages in behavioral targeting.  The publisher auctions off an advertising slot and is paid on a cost-per-click basis.  Using a horizontal differentiation model to capture the fit between a user and an advertisement being displayed, we identify the factors that affect the publisher’s revenue, the advertisers’ payoffs, and social welfare.  We show that revenue for the online publisher in some circumstances can double when behavioral targeting is used.  However, increased revenue for the publisher is not guaranteed:  in some cases, the prices of advertising and hence the publisher’s revenue can be lower, depending on the degree of competition and the advertisers’ valuations.  We identify two effects associated with behavioral targeting:  a competitive effect and a propensity effect.  The relative strength of the two effects determines whether the publisher’s revenue is positively or negatively affected.  We also demonstrate that, although social welfare is increased and small advertisers are better off under behavioral targeting, the dominant advertiser might be worse off and reluctant to switch from traditional advertising.&lt;/p&gt;</abstract>
+<fpage>429</fpage>
+<lpage>449</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3175&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3175</articleid>
+<submission-date>2014-05-28T08:07:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5626806</context-key>
+<submission-path>misq/vol38/iss2/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-05-28T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>An Economic Analysis of Online Advertising</value>
+</field>
+</fields>
+</document>
+</documents>

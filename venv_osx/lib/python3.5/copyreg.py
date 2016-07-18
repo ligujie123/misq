@@ -1,0 +1,5 @@
+XSym
+0097
+5eb261feb144f9d78a18ef0ab4b3307f
+/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/copyreg.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

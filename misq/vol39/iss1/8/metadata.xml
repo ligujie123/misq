@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Enhanced Fear Appeal Rhetorical Framework:  Leveraging Threats to the Human Asset Through Sanctioning Rhetoric</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ajohnston@uab.edu</email>
+<institution>University of Alabama at Birmingham</institution>
+<lname>Johnston</lname>
+<fname>Allen</fname>
+<mname>C</mname>
+</author>
+<author>
+<email>mwarkentin@acm.org</email>
+<institution>Mississippi State University</institution>
+<lname>Warkentin</lname>
+<fname>Merrill</fname>
+</author>
+<author>
+<email>mikko.t.siponen@jyu.fi</email>
+<institution>University of Jyväskylä</institution>
+<lname>Siponen</lname>
+<fname>Mikko</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Fear appeals</keyword>
+<keyword>protection motivation theory</keyword>
+<keyword>deterrence theory</keyword>
+<keyword>information security</keyword>
+<keyword>threats</keyword>
+<keyword>responses</keyword>
+<keyword>sanctions</keyword>
+<keyword>rhetoric</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Fear appeals, which are used widely in information security campaigns, have become common tools in motivating individual compliance with information security policies and procedures. However, empirical assessments of the effectiveness of fear appeals have yielded mixed results, leading IS security scholars and practitioners to question the validity of the conventional fear appeal framework and the manner in which fear appeal behavioral modeling theories, such as protection motivation theory (PMT), have been applied to the study of information security phenomena. We contend that the conventional fear appeal rhetorical framework is inadequate when used in the context of information security threat warnings and that its primary behavioral modeling theory, PMT, has been misspecified in the extant information security research. Based on these arguments, we propose an enhanced fear appeal rhetorical framework that leverages sanctioning rhetoric as a secondary vector of threats to the human asset, thereby adding the dimension of personal relevance, which is critically absent from previous fear appeal frameworks and PMT-grounded security studies. Following a hypothetical scenario research approach involving the employees of a Finnish city government, we validate the efficacy of the enhanced fear appeal framework and determine that informal sanction rhetoric effectively enhances conventional fear appeals, thus providing a significant positive influence on compliance intentions&lt;/em&gt;.&lt;/p&gt;</abstract>
+<fpage>113</fpage>
+<lpage>134</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3224&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3224</articleid>
+<submission-date>2015-03-02T11:55:45-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6759108</context-key>
+<submission-path>misq/vol39/iss1/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Leveraging Threats through Sanctioning Rhetoric</value>
+</field>
+</fields>
+</document>
+</documents>

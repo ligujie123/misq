@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Impact of Wikipedia on Market Information Environment:  Evidence on Management Disclosure and Investor Reaction</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>xuxin@sem.tsinghua.edu.cn</email>
+<institution>Tsinghua University, Beijing, China</institution>
+<lname>Xu</lname>
+<fname>Sean Xin</fname>
+</author>
+<author>
+<email>zhang@ust.hk</email>
+<institution>Hong Kong University of Science and Technology</institution>
+<lname>Zhang</lname>
+<fname>Michael (Xiaoquan)</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Social media</keyword>
+<keyword>Wikipedia</keyword>
+<keyword>information environment</keyword>
+<keyword>financial market</keyword>
+<keyword>management disclosure</keyword>
+<keyword>information aggregation</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, we seek to determine whether a typical social media platform, Wikipedia, improves the information environment for investors in the financial market.  Our theoretical lens leads us to expect that information aggregation about public companies on Wikipedia may influence how management’s voluntary information disclosure reacts to market uncertainty with respect to investors’ information about these companies.  Our empirical analysis is based on a unique data set collected from financial records, management disclosure records, news article coverage, and a Wikipedia modification history of public companies.  On the supply side of information, we find that information aggregation on Wikipedia can moderate the timing of managers’ voluntary disclosure of companies’ earnings disappointments, or bad news.  On the demand side of information, we find that Wikipedia’s information aggregation moderates investors’ negative reaction to bad news. Taken together, these findings support the view that Wikipedia improves the information environment in the financial market and underscore the value of information aggregation through the use of information technology.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1043</fpage>
+<lpage>1068</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3145&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3145</articleid>
+<submission-date>2013-12-02T13:01:32-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4865835</context-key>
+<submission-path>misq/vol37/iss4/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Impact of Wikipedia on Market Information Environment</value>
+</field>
+</fields>
+</document>
+</documents>

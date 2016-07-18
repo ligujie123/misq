@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessing Common Method Bias:  Problems with the ULMC Technique</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>wchin@uh.edu</email>
+<institution>University of Houston and Sogang University</institution>
+<lname>Chin</lname>
+<fname>Wynne</fname>
+</author>
+<author>
+<email>jthatch@clemson.edu</email>
+<institution>Clemson University</institution>
+<lname>Thatcher</lname>
+<fname>Jason</fname>
+<mname>Bennett</mname>
+</author>
+<author>
+<email>rtwright@isenberg.umass.edu</email>
+<institution>University of Massachusetts, Amherst</institution>
+<lname>Wright</lname>
+<fname>Ryan</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Common method bias</keyword>
+<keyword>unmeasured latent method construct</keyword>
+<keyword>partial least squares</keyword>
+<keyword>structural equation modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recent work, in journals such as &lt;em&gt;MIS Quarterly&lt;/em&gt; and &lt;em&gt;Management Science&lt;/em&gt;, has highlighted the importance of evaluating the influence of common method bias (CMB) on the results of statistical analysis.  In this research note, we assess the utility of the unmeasured latent method construct (ULMC) approach in partial least squares (PLS), introduced by Liang et al. (2007).  Such an assessment of the ULMC approach is important, because it has been employed in 76 studies since it appeared in MIS Quarterly in early 2007.  Using data generated via Monte Carlo simulations, we use PLS structural equation modeling (SEM) to demonstrate that the ULMC approach of Liang et al. is neither able to detect, nor control for, common method bias.  Method estimates using this approach resulted in negligible estimates, regardless of whether there were some, large, or no method bias introduced in the simulated data.  Our study contributes to the IS and research methods literature by illustrating that, and explaining why the ULMC approach does not accurately detect common method bias in PLS.  Further, our results build on prior work done using covariance-based SEM questioning the usefulness of the ULMC technique for detecting CMB.&lt;/p&gt;</abstract>
+<fpage>1003</fpage>
+<lpage>1019</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/19</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3058&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>19</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3058</articleid>
+<submission-date>2012-09-06T07:56:49-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297979</context-key>
+<submission-path>misq/vol36/iss3/19</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Assessing Common Method Bias</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>How to Conduct a Functional Magnetic Resonance (fMRI) Study in Social Science Research</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>angelika@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Dimoka</lname>
+<fname>Angelika</fname>
+</author>
+</authors>
+<keywords>
+<keyword>fMRI</keyword>
+<keyword>decision neuroscience</keyword>
+<keyword>neuroIS</keyword>
+<keyword>brain imaging</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This research essay outlines a set of guidelines for conducting functional Magnetic Resonance Imaging (fMRI) studies in social science research in general and also, accordingly, in Information Systems research. Given the increased interest in using neuroimaging tools across the social sciences, this study aims at specifying the key steps needed to conduct an fMRI study while ensuring that enough detail is provided to evaluate the methods and results. The outline of an fMRI study consists of four key steps: (1)　formulating the research question, (2)　designing the fMRI protocol, (3)　analyzing fMRI data, and (4)　interpreting and reporting fMRI results. These steps are described with an illustrative example of a published fMRI study on trust and distrust in this journal (Dimoka 2010). The paper contributes to the methodological literature by (1)　providing a set of guidelines for designing and conducting fMRI studies, (2)　specifying methodological details that should be included in fMRI studies in academic venues, and (3)　illustrating these practices with an exemplar fMRI study. Future directions for conducting high-quality fMRI studies in the social sciences are discussed.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>811</fpage>
+<lpage>840</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3049&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3049</articleid>
+<submission-date>2012-09-05T14:12:11-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3296101</context-key>
+<submission-path>misq/vol36/iss3/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-05T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Conducting an fMRI Study in Social Science Research</value>
+</field>
+</fields>
+</document>
+</documents>

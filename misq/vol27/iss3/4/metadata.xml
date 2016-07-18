@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Influence of Query Interface Design on Decision-Making Performance</title>
+<publication-date>2003-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Speier</lname>
+<fname>Cheri</fname>
+</author>
+<author>
+<lname>Morris</lname>
+<fname>Michael</fname>
+<mname>G.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Database</keyword>
+<keyword>computer interface</keyword>
+<keyword>decision-making</keyword>
+</keywords>
+<abstract>&lt;p&gt;Managers in modern organizations are confronted with ever-increasing volumes of information that they must evaluate when making a decision.  Data warehousing and data mining technologies have given managers a number of valuable tools that can help them store, retrieve, and analyze  information contained in large databases; however, maximizing user performance with those tools remains a challenge for information systems professionals.  One important and under-explored aspect of the effectiveness of these tools is the design of the query interface.  In this study, we compared the use of visual and text-based interfaces on both low and high complexity tasks.  Results demonstrated that decision maker performance was more accurate using the text-based interface when task complexity was low; however, decision makers using the visual interface performed better when task complexity was high.  In addition, decision makers’ subjective mental workload was significantly lower when using the visual interface, regardless of task complexity.  In contrast to expectations, less time was needed to make a decision on low complexity tasks when using the visual interface, but those results were reversed under conditions of high task complexity.  These results have important implications for the design of managerial decision-making systems, particularly in complex decision-making environments.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2679&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2679</articleid>
+<submission-date>2008-12-11T12:53:43-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680642</context-key>
+<submission-path>misq/vol27/iss3/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

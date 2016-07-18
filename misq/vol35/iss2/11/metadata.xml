@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The More, the Merrier?  How the Number of Partners in a Standard-Setting Initiative Affects Shareholder’s Risk and Return</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>aggarwal_n@cob.sjsu.edu</email>
+<institution>San Jose State University</institution>
+<lname>Aggarwal</lname>
+<fname>Nitin</fname>
+</author>
+<author>
+<email>qd24@drexel.edu</email>
+<institution>Drexel University</institution>
+<lname>Dai</lname>
+<fname>Qizhi</fname>
+</author>
+<author>
+<email>eric.walden@ttu.edu</email>
+<institution>Texas Tech University</institution>
+<lname>Walden</lname>
+<fname>Eric</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Standard</keyword>
+<keyword>standardization</keyword>
+<keyword>standard-setting</keyword>
+<keyword>event study</keyword>
+<keyword>returns on IT investment</keyword>
+<keyword>risk of IT investment</keyword>
+</keywords>
+<abstract>&lt;p&gt;Firms often collaborate with other firms to set information technology standards in order to decrease each firm’s individual risk. But does this work? We propose that, in a capital market setting, establishing standards in a group does not decrease the total risk faced by an individual firm’s shareholders. However, the market risks its investors face decrease and idiosyncratic risks increase, changing the risk profiles of the group members. We collected data on standard-setting events from 1996 to 2005. In our dataset, a firm obtained a 4.07 percent, three-day cumulative risk-adjusted return on stock price when engaging in a standard-setting initiative, after controlling event year, firm size, and group size. More importantly, we found that an increase in the number of firms in the group decreased the risk-adjusted abnormal return and the market risk (as measured by beta) of each firm, but increased the idiosyncratic risk (as measured by the variance of firm returns). Our findings suggest that firms electing to participate in a large standardization group obtain a reduction in abnormal returns on stocks on the days of the standard-setting events. They also expect to reduce market risks but increase idiosyncratic risks after the standard-setting events, as compared to firms choosing to participate in a smaller group or attempting to standardize their products unilaterally. This study contributes to the literature on IT standards and standardization, and expands our understanding of the implications of standardization strategy on shareholder risks.&lt;/p&gt;</abstract>
+<fpage>445</fpage>
+<lpage>462</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2962&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2962</articleid>
+<submission-date>2011-06-09T11:39:38-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2053845</context-key>
+<submission-path>misq/vol35/iss2/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-09T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Standard-Setting Initiatives</value>
+</field>
+</fields>
+</document>
+</documents>

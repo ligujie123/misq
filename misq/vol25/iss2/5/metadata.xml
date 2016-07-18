@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Review:  A Cognitive-Affective Model of Organizational Communication for Designing IT</title>
+<publication-date>2001-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Te&#39;eni</lname>
+<fname>Dov</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Organizational communication</keyword>
+<keyword>communication complexity</keyword>
+<keyword>cognition</keyword>
+<keyword>affect</keyword>
+<keyword>organizational memory</keyword>
+<keyword>design</keyword>
+</keywords>
+<abstract>&lt;p&gt;There are several theories available to describe how managers choose a medium for communication. However, current technology can affect not only how we communicate but also what we communicate. As a result, the issue for designers of communication support systems has become broader: how should technology be designed to make communication more effective by changing the medium and the attributes of the message itself?  The answer to this question requires a shift from current preoccupations with the medium of communication to a view that assesses the balance between medium and message form.  There is also a need to look more closely at the process of communication in order to identify more precisely any potential areas of computer support.   This paper provides the spadework for a new model of organizational communication, and uses it to review existing research, as well as to suggest directions for future research and development.  Beginning with the crucial aspects of action, relationship, and choice, an integrated model of how people communicate is developed. This model incorporates three basic factors: (1) inputs to the communication process (task, sender-receiver distance, and values and norms of communication with a particular emphasis on inter-cultural communication); (2) a cognitive-affective process of communication; and (3) the communication impact on action and relationship. The glue that bonds these factors together is a set of communication strategies aimed at reducing the complexity of communication.    The model provides a balance between relationship and action, between cognition and affect, and between message and medium. Such a balance has been lacking in previous work, and we believe it reflects a more realistic picture of communication behavior in organizations. A set of propositions generated from the model sets an agenda for studying the communication process as well as its inputs and outputs. Furthermore, this knowledge of the mechanisms that guide behavior is used to demonstrate the potential for developing design principles for future communication support systems.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2615&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2615</articleid>
+<submission-date>2008-12-09T07:50:46-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678533</context-key>
+<submission-path>misq/vol25/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

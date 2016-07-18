@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Relationship between Organizational Culture and the Deployment of Systems Development Methodologies</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Iivari</lname>
+<fname>Juhani</fname>
+</author>
+<author>
+<lname>Huisman</lname>
+<fname>Magda</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Systems development</keyword>
+<keyword>software engineering</keyword>
+<keyword>systems development methodology</keyword>
+<keyword>organizational culture</keyword>
+<keyword>competing values model</keyword>
+<keyword>information systems developers</keyword>
+<keyword>information technology managers</keyword>
+</keywords>
+<abstract>&lt;p&gt;This exploratory study analyzes the relationship between organizational culture and the deployment of systems development methodologies. Organizational culture is interpreted in terms of the competing values model and deployment as perceptions of the support, use and impact of systems development methodologies. The results show that the deployment of methodologies by IS developers is primarily associated with a hierarchical culture which is oriented towards security, order and routinization. IT managers’ critical attitudes towards the deployment of methodologies in organizations with a strong rational culture (focusing on productivity, efficiency and goal achievement) is also worth noting. Based on its empirical findings, the paper proposes a theoretical model to explain the impact of organizational culture on the deployment of systems development methodologies.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2655&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2655</articleid>
+<submission-date>2008-12-11T08:12:57-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680250</context-key>
+<submission-path>misq/vol31/iss1/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

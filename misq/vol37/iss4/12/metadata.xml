@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Control Balancing in Information Systems Development Offshoring Projects</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>RWGregory@iese.edu</email>
+<institution>IESE Business School, Barcelona, Spain.</institution>
+<lname>Gregory</lname>
+<fname>Robert</fname>
+</author>
+<author>
+<email>beck@itu.dk</email>
+<institution>J.W. Goethe University</institution>
+<lname>Beck</lname>
+<fname>Roman</fname>
+</author>
+<author>
+<email>mkeil@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Keil</lname>
+<fname>Mark</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Control balancing</keyword>
+<keyword>control dynamics</keyword>
+<keyword>organizational control</keyword>
+<keyword>information systems development</keyword>
+<keyword>offshoring projects</keyword>
+<keyword>outsourcing relationships</keyword>
+<keyword>longitudinal case study</keyword>
+<keyword>grounded theory</keyword>
+<keyword>process model</keyword>
+<keyword>project management</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;While much is known about selecting different types of control that can be exercised in information systems development projects, the control dynamics associated with ISD offshoring projects represent an important gap in our understanding.  In this paper, we develop a substantive grounded theory of control balancing that addresses this theoretical gap.  Based on a longitudinal case study of an ISD offshoring project in the financial services industry, we introduce a three-dimensional control configuration category that emerged from our data, suggesting that control type is only one dimension on which control configuration decisions need to be made. The other two dimensions that we identified are control degree (tight versus relaxed) and control style (unilateral versus bilateral).  Furthermore, we illustrate that control execution during the life cycle of an ISD offshoring project is highly intertwined with the development of client–vendor shared understanding and that each influences the other.  Based on these findings, we develop an integrative process model that explains how offshoring project managers make adjustments to the control configuration periodically to allow the ISD offshoring project and relationship to progress, yielding the iterative use of different three-dimensional control configurations that we conceptualize in the paper.  Our process model of control balancing may trigger new ways of looking at control phenomena in temporary interfirm organizations such as client–vendor ISD offshoring projects.  Implications for research on organizational control and ISD offshoring are discussed.  In addition, guidelines for ISD offshoring practitioners are presented.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1211</fpage>
+<lpage>1232</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3134&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3134</articleid>
+<submission-date>2013-12-02T09:06:29-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864582</context-key>
+<submission-path>misq/vol37/iss4/12</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Control Balancing in ISD Offshoring Projects</value>
+</field>
+</fields>
+</document>
+</documents>

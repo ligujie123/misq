@@ -1,0 +1,5 @@
+XSym
+0101
+77aa8f6d99bab2ae4da99e095821b514
+/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/_weakrefset.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

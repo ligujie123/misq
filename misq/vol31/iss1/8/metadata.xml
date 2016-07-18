@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding and Mitigating Uncertainty in Online Exchange Relationships:  A Principal-Agent Perspective</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Liang</lname>
+<fname>Huigang</fname>
+</author>
+<author>
+<lname>Xue</lname>
+<fname>Yajiong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Uncertainty</keyword>
+<keyword>agency theory</keyword>
+<keyword>adverse selection</keyword>
+<keyword>hidden information</keyword>
+<keyword>moral hazard</keyword>
+<keyword>hidden action</keyword>
+<keyword>fears of seller opportunism</keyword>
+<keyword>information asymmetry</keyword>
+<keyword>information privacy</keyword>
+<keyword>information security</keyword>
+<keyword>trust</keyword>
+<keyword>website informativeness</keyword>
+<keyword>product diagnosticity</keyword>
+<keyword>social presence</keyword>
+<keyword>book purchasing</keyword>
+<keyword>online prescription filling.</keyword>
+</keywords>
+<abstract>&lt;p&gt;Despite a decade since the inception of B2C e-commerce, the uncertainty of the online environment still makes many consumers reluctant to engage in online exchange relationships. Even if uncertainty has been widely touted as the primary barrier to online transactions, the literature has viewed uncertainty as a “background” mediator with insufficient conceptualization and measurement. To better understand the nature of uncertainty and mitigate its potentially harmful effects on B2C e-commerce adoption (especially for important purchases), this study draws upon and extends the principal-agent perspective to identify and propose a set of four antecedents of perceived uncertainty in online buyer-seller relationships – perceived information asymmetry, fears of seller opportunism, information privacy concerns, and information security concerns - which are drawn from the agency problems of adverse selection (hidden information) and moral hazard (hidden action).   To mitigate uncertainty in online exchange relationships, this study builds upon the principal-agent perspective to propose a set of four uncertainty mitigating factors – trust, website informativeness, product diagnosticity, and social presence - that facilitate online exchange relationships by overcoming the agency problems of hidden information and hidden action through the logic of signals and incentives.   The proposed structural model is empirically tested with longitudinal data from 521 consumers for two products (prescription drugs and books) that differ on their level of purchase involvement. The results support our model, delineating the process by which buyers engage in online exchange relationships by mitigating uncertainty. Interestingly, the proposed model is validated for two distinct targets, a specific website and a class of websites.   Implications for understanding and facilitating online exchange relationships for different types of purchases, mitigating uncertainty perceptions, and extending the principal-agent perspective are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2659&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2659</articleid>
+<submission-date>2008-12-11T08:21:53-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680264</context-key>
+<submission-path>misq/vol31/iss1/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Hole in the Whole:  A Response to Allen and March</title>
+<publication-date>2012-09-06T08:31:16-07:00</publication-date>
+<authors>
+<author>
+<email>gshanks@unimelb.edu.au</email>
+<institution>University of Melbourne</institution>
+<lname>Shanks</lname>
+<fname>Graeme</fname>
+</author>
+<author>
+<email>Ron.Weber@monash.edu</email>
+<institution>Monash University</institution>
+<lname>Weber</lname>
+<fname>Ron</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Conceptual modeling</keyword>
+<keyword>empirical research</keyword>
+<keyword>ontology</keyword>
+<keyword>information systems development</keyword>
+<keyword>aggregation</keyword>
+<keyword>composition</keyword>
+<keyword>UML</keyword>
+<keyword>entity–relationship model</keyword>
+</keywords>
+<abstract>&lt;p&gt;Allen and March provide a critique of one of our papers in which we argue composites should be represented as entities/objects in a conceptual model rather than relationships/associations (Shanks et al. 2008).  They contend we have addressed a non-issue.  Furthermore, they argue our theoretical rationale and empirical evidence have flaws.  In this paper, we provide a response to their arguments.  We show that the issue we address is substantive.  We show, also, that our theoretical analysis and empirical results are robust.  We find, instead, that Allen and March’s theoretical arguments and empirical evidence have flaws.&lt;/p&gt;</abstract>
+<fpage>965</fpage>
+<lpage>980</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/17</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3056&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>17</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3056</articleid>
+<submission-date>2012-09-06T07:46:56-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297950</context-key>
+<submission-path>misq/vol36/iss3/17</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="short_title" type="string">
+<value>A Hole in the Whole</value>
+</field>
+</fields>
+</document>
+</documents>

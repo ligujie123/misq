@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design Science in Information Systems Research</title>
+<publication-date>2008-12-12T14:04:24-08:00</publication-date>
+<authors>
+<author>
+<lname>Hevner</lname>
+<fname>Alan</fname>
+<mname>R.</mname>
+</author>
+<author>
+<lname>March</lname>
+<fname>Salvatore</fname>
+<mname>T.</mname>
+</author>
+<author>
+<lname>Park</lname>
+<fname>Jinsoo</fname>
+</author>
+<author>
+<lname>Ram</lname>
+<fname>Sudha</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information Systems research methodologies</keyword>
+<keyword>design science</keyword>
+<keyword>design artifact</keyword>
+<keyword>business environment</keyword>
+<keyword>technology infrastructure</keyword>
+<keyword>search strategies</keyword>
+<keyword>experimental methods</keyword>
+<keyword>creativity</keyword>
+</keywords>
+<abstract>&lt;p&gt;Two paradigms characterize much of the research in the Information Systems discipline: behavioral science and design science.  The behavioral-science paradigm seeks to develop and verify theories that explain or predict human or organizational behavior.  The design-science paradigm seeks to extend the boundaries of human and organizational capabilities by creating new and innovative artifacts.  Both paradigms are foundational to the IS discipline, positioned as it is at the confluence of people, organizations, and technology.  Our objective is to describe the performance of design-science research in Information Systems via a concise conceptual framework and clear guidelines for understanding, executing, and evaluating the research.   In the design-science paradigm, knowledge and understanding of a problem domain and its solution are achieved in the building and application of the designed artifact.  Three recent exemplars in the research literature are used to demonstrate the application of these guidelines.  We conclude with an analysis of the challenges of performing high-quality design-science research in the context of the broader IS community.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2693&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2693</articleid>
+<submission-date>2008-12-12T07:38:17-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680992</context-key>
+<submission-path>misq/vol28/iss1/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

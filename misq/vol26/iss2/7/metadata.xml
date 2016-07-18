@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Measuring Information System Service Quality:  SERVQUAL from the Other Side</title>
+<publication-date>2002-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Jiang</lname>
+<fname>James</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Klein</lname>
+<fname>Gary</fname>
+</author>
+<author>
+<lname>Carr</lname>
+<fname>Christopher</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;There has been much debate as of late over the use of the SERVQUAL instrument to measure  Information Systems service quality.  Detractors argue that the difference score leads to unreliable measures and that the dimensionality and validity is erratic. Proponents argue for the diagnostic power of the gap between expectations and perceived delivery while demonstrating some empirical stability and reliability.   To extend the discussion requires the examination of the instrument from the viewpoint of the information system professional.  Importantly, a large variety of samples must view the instrument and measures in the same light for the instrument to have applicability.  Likewise, analysis of differences between users and providers requires that both populations have similar structural views of the instrument.  Empirical evidence collected from information system professionals demonstrated a structure similar to previously published studies with adequate reliability, convergent validity, and discriminant validity.  The structure is the same as is found for a gap between users and IS professionals&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2629&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2629</articleid>
+<submission-date>2008-12-09T12:07:06-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678785</context-key>
+<submission-path>misq/vol26/iss2/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

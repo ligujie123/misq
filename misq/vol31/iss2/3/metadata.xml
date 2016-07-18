@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Assessment of the Strategic Value of Information Technologies:  Conceptual and Analytical Approaches</title>
+<publication-date>2007-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Oh</lname>
+<fname>Wonseok</fname>
+</author>
+<author>
+<lname>Pinsonneault</lname>
+<fname>Alain</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Strategic alignment of IT</keyword>
+<keyword>strategic value of IT</keyword>
+<keyword>business value of IT</keyword>
+<keyword>resource-centered view</keyword>
+<keyword>contingency approach</keyword>
+<keyword>nonlinear approaches</keyword>
+<keyword>organizational performance</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study compares two conceptual (resource-centered and contingency-based) and two analytical approaches (linear and nonlinear) that can be used to assess the strategic value of information technology. Two hypotheses related to these approaches are developed and tested based on matched survey data collected from the CEOs and CIOs of 110 firms. The results indicate that the resource-centered and contingency-based approaches provide complementary understanding of the strategic value of IT. On the one hand, the contingency-based approach is better at explaining the impact of cost-oriented IT applications on firm performance. Alignment between business strategy and IS strategy on cost reduction was found to have a significant negative association with firm expense. On the other hand, the resource-centered perspective has a stronger predictive ability of IT impact on firm revenue and profitability. Our results indicate that investments in growth-oriented applications were directly and positively related to firm revenue. An ANOVA test indicates that the nonlinear approaches provide additional insights that help to better understand the relationship between alignment and performance. The response surface method (RSM) shows that high-end strategic alignment (e.g., fit occurring when business strategy and IT strategy are both high) leads to superior performance compared to low-end strategic alignment (e.g., fit occurring when business strategy and IT strategy are both low). We discuss the implications of this study for research and practice and conclude with suggestions for future research directions&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2588&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2588</articleid>
+<submission-date>2008-11-10T11:36:23-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>664082</context-key>
+<submission-path>misq/vol31/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

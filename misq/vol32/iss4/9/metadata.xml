@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Making Sense of Technology Trends in the Information Technology Landscape:   A Design Science Approach</title>
+<publication-date>2008-11-05T11:04:13-08:00</publication-date>
+<authors>
+<author>
+<email>gedas@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Adomavicius</lname>
+<fname>Gediminas</fname>
+</author>
+<author>
+<email>bockstedt@gmail.com</email>
+<institution>George Mason University</institution>
+<lname>Bockstedt</lname>
+<fname>Jesse</fname>
+<mname>C.</mname>
+</author>
+<author>
+<email>alok@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Gupta</lname>
+<fname>Alok</fname>
+</author>
+<author>
+<email>rkauffman@asu.edu</email>
+<institution>Arizona State University</institution>
+<lname>Kauffman</lname>
+<fname>Robert</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Design science</keyword>
+<keyword>IT ecosystem model</keyword>
+<keyword>IT landscape analysis</keyword>
+<keyword>management of technology</keyword>
+<keyword>technology evolution</keyword>
+<keyword>IT investment</keyword>
+</keywords>
+<abstract>&lt;p&gt;A major problem for firms making information technology investment decisions is predicting and understanding the effects of future technological developments on the value of present technologies.  Failure to adequately address this problem can result in wasted organization resources in acquiring, developing, managing, and training employees in the use of technologies that are short-lived and fail to produce adequate return on investment.  The sheer number of available technologies and the complex set of relationships among them make IT landscape analysis extremely challenging.  Most IT-consuming firms rely on third parties and suppliers for strategic recommendations on IT investments, which can lead to biased and generic advice.  We address this problem by defining a new set of constructs and methodologies upon which we develop an IT ecosystem model.  The objective of these artifacts is to provide a formal problem representation structure for the analysis of information technology development trends and to reduce the complexity of the IT landscape for practitioners making IT investment decisions.  We adopt a process theory perspective and use a combination of visual mapping and quantification strategies to develop our artifacts and a state diagram-based technique to represent evolutionary transitions over time.  We illustrate our approach using two exemplars:  digital music technologies and wireless networking technologies.  We evaluate the utility of our approach by conducting in-depth interviews with IT industry experts and demonstrate the contribution of our approach relative to existing techniques for technology forecasting.&lt;/p&gt;</abstract>
+<fpage>779</fpage>
+<lpage>809</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss4/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2576&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2576</articleid>
+<submission-date>2008-11-05T10:09:10-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>661429</context-key>
+<submission-path>misq/vol32/iss4/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

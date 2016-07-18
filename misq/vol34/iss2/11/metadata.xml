@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>What Does the Brain Tell Us About Trust and Distrust?  Evidence from a Functional Neuroimaging Study</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>angelika@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Dimoka</lname>
+<fname>Angelika</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Trust</keyword>
+<keyword>distrust</keyword>
+<keyword>neuroIS</keyword>
+<keyword>price premiums</keyword>
+<keyword>functional neuroimaging</keyword>
+<keyword>fMRI</keyword>
+<keyword>cognitive neuroscience</keyword>
+</keywords>
+<abstract>&lt;p&gt;Determining whom to trust and whom to distrust is a major decision in impersonal IT-enabled exchanges.  Despite the potential role of both trust and distrust in impersonal exchanges, the information systems literature has primarily focused on trust, alas paying relatively little attention to distrust.  Given the importance of studying both trust and distrust, this study aims to shed light on the nature, dimensionality, distinction, and relationship, and relative effects of trust and distrust on economic outcomes in the context of impersonal IT-enabled exchanges between buyers and sellers in online marketplaces.&lt;/p&gt;
+&lt;p&gt;This study uses functional neuroimaging (fMRI) tools to complement psychometric measures of trust and distrust by observing the location, timing, and level of brain activity that underlies trust and distrust and their underlying dimensions. The neural correlates of trust and distrust are identified when subjects interact with four experimentally manipulated seller profiles that differ on their level of trust and distrust.  The results show that trust and distrust activate different brain areas and have different effects, helping explain why trust and distrust are distinct constructs associated with different neurological processes.  Implications for the nature, distinction and relationship, dimensionality, and effects of trust and distrust are discussed.&lt;/p&gt;</abstract>
+<fpage>373</fpage>
+<lpage>396</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2911&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2911</articleid>
+<submission-date>2010-06-23T13:53:50-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1370006</context-key>
+<submission-path>misq/vol34/iss2/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Trust and Distrust</value>
+</field>
+</fields>
+</document>
+</documents>

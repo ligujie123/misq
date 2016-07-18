@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of Ideology on Effectiveness in Open Source Software Development Teams</title>
+<publication-date>2006-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Stewart</lname>
+<fname>Katherine</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Gosain</lname>
+<fname>Sanjay</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Open source software</keyword>
+<keyword>trust</keyword>
+<keyword>ideology</keyword>
+<keyword>communication</keyword>
+<keyword>virtual teams</keyword>
+</keywords>
+<abstract>&lt;p&gt;The emerging work on understanding open source software has questioned what leads to effectiveness in OSS development teams in the absence of formal controls, and it has pointed to the importance of ideology.  This paper develops a framework of the OSS community ideology (including specific norms, beliefs, and values) and a theoretical model to show how adherence to components of the ideology impacts effectiveness in OSS teams.  The model is based on the idea that the tenets of the OSS ideology motivate behaviors that enhance cognitive trust and communication quality and encourage identification with the project team, which enhances affective trust.  Trust and communication in turn impact OSS team effectiveness.  The research considers two kinds of effectiveness in OSS teams:  the attraction and retention of developer input and the generation of project outputs. Hypotheses regarding antecedents to each are developed. Hypotheses are tested using survey and objective data on OSS projects.  Results support the main thesis that OSS team members’ adherence to the tenets of the OSS community ideology impacts OSS team effectiveness and reveal that different components impact effectiveness in different ways.  Of particular interest is the finding that adherence to some ideological components was beneficial to the effectiveness of the team in terms of attracting and retaining input, but detrimental to the output of the team.  Theoretical and practical implications are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2762&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2762</articleid>
+<submission-date>2008-12-18T07:07:46-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683747</context-key>
+<submission-path>misq/vol30/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

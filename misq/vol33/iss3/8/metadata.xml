@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Exploring Human Images in Website Design:  A Multi-Method Approach</title>
+<publication-date>2009-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>cyr@sfu.ca</email>
+<institution>Simon Fraser University</institution>
+<lname>Cyr</lname>
+<fname>Dianne</fname>
+</author>
+<author>
+<email>headm@mcmaster.ca</email>
+<institution>McMaster University</institution>
+<lname>Head</lname>
+<fname>Milena</fname>
+</author>
+<author>
+<email>hlarios@sfu.ca</email>
+<institution>Simon Fraser University</institution>
+<lname>Larios</lname>
+<fname>Hector</fname>
+</author>
+<author>
+<email>panb@cofc.edu</email>
+<institution>College of Charleston</institution>
+<lname>Pan</lname>
+<fname>Bing</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Human images</keyword>
+<keyword>image appeal</keyword>
+<keyword>trust</keyword>
+<keyword>social presence</keyword>
+<keyword>website design</keyword>
+<keyword>culture</keyword>
+<keyword>multi-methodology</keyword>
+<keyword>eye  tracking</keyword>
+</keywords>
+<abstract>&lt;p&gt;Effective visual design of e-commerce websites enhances website aesthetics and emotional appeal for the user.  To gain insight into how Internet users perceive human images as one element of website design, a controlled experiment was conducted using a questionnaire, interviews, and eye-tracking methodology.  Three conditions of human images were created including human images with facial features, human images without facial features, and a control condition with no human images.  It was expected that human images with facial features would induce a user to perceive the website as more appealing, having warmth or social presence, and as more trustworthy.  In turn, higher levels of image appeal and perceived social presence were predicted to result in trust.  All expected relationships in the model were supported except no direct relationship was found between the human image conditions and trust.  Additional analyses revealed subtle differences in the perception of human images across cultures (Canada, Germany, and Japan).  While the general impact of human images seems universal across country groups, based on interview data four concepts emerged—aesthetics, symbolism, affective property, and functional property—with participants from each culture focusing on different concepts as applied to website design.  Implications for research and practice are discussed.&lt;/p&gt;</abstract>
+<fpage>530</fpage>
+<lpage>566</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss3/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2865&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2865</articleid>
+<submission-date>2009-08-21T11:54:47-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>961839</context-key>
+<submission-path>misq/vol33/iss3/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Exploring Human Images in Website Design</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Job Characteristics and Job Satisfaction:  Understanding the Role of Enterprise Resource</title>
+<publication-date>2010-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>mmorris@virginia.edu</email>
+<institution>University of Virginia</institution>
+<lname>Morris</lname>
+<fname>Michael</fname>
+<mname>G.</mname>
+</author>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ERP systems</keyword>
+<keyword>job characteristics</keyword>
+<keyword>job satisfaction</keyword>
+<keyword>technology adoption</keyword>
+<keyword>system implementation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Little research has examined the impacts of enterprise resource planning (ERP) systems implementation on job satisfaction.  Based on a 12-month study of 2,794 employees in a telecommunications firm, we found that ERP system implementation moderated the relationships between three job characteristics (skill variety, autonomy, and feedback) and job satisfaction.  Our findings highlight the key role that ERP system implementation can have in altering well-established relationships in the context of technology-enabled organizational change situations.  This work also extends research on technology diffusion by moving beyond a focus on technology-centric outcomes, such as system use, to understanding broader job outcomes.&lt;/p&gt;</abstract>
+<fpage>143</fpage>
+<lpage>161</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss1/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2896&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2896</articleid>
+<submission-date>2010-03-03T14:19:30-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1193927</context-key>
+<submission-path>misq/vol34/iss1/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Role of ERP System Implementation</value>
+</field>
+</fields>
+</document>
+</documents>

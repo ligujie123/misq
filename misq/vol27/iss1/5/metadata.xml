@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding the Service Component of Application Service Provision:  An Empirical Analysis of Satisfaction with ASP Services</title>
+<publication-date>2003-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Susarla</lname>
+<fname>Anjana</fname>
+</author>
+<author>
+<lname>Barua</lname>
+<fname>Anitesh</fname>
+</author>
+<author>
+<lname>Whinston</lname>
+<fname>Andrew</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Management Information Systems</keyword>
+<keyword>satisfaction</keyword>
+<keyword>expectation disconfirmation theory</keyword>
+<keyword>empirical research</keyword>
+<keyword>path analysis</keyword>
+<keyword>causal models</keyword>
+<keyword>applications software</keyword>
+</keywords>
+<abstract>&lt;p&gt;In spite of the promise and potential of improving the way organizations develop, operate and maintain information technology (IT) applications, application service providers (ASPs) have fared poorly in terms of attracting a large client base.  Anecdotal evidence in the business press points to limited satisfaction among users of ASP, which calls for an assessment of determinants of satisfaction with ASP.  In this paper, we draw upon the consumer satisfaction paradigm widely employed in marketing literature to analyze post-usage satisfaction with ASP services.  We develop a conceptual model of satisfaction with ASP and empirically test the predictions using data from 256 firms using ASP services.  Expectations about ASP service have a significant influence on the performance evaluation of ASPs, and experience-based norms have only limited significance in explaining satisfaction with ASP. We also find empirical support for the influence of performance and disconfirmation on the satisfaction with ASP. Implications for both ASPs and organizations adopting ASP services are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2661&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2661</articleid>
+<submission-date>2008-12-11T08:23:59-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680269</context-key>
+<submission-path>misq/vol27/iss1/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

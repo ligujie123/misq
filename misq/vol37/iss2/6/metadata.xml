@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>When Filling the Wait Makes it Feel Longer:  A Paradigm Shift Perspective for Managing Online Delay</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>whong@unlv.nevada.edu</email>
+<institution>Hong Kong University of Science and Technology and University of Nevada, Las Vegas</institution>
+<lname>Hong</lname>
+<fname>Weiyin</fname>
+</author>
+<author>
+<email>thess@isenberg.umass.edu</email>
+<institution>University of Massachusetts, Amherst</institution>
+<lname>Hess</lname>
+<fname>Traci</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>andrew.hardin@unlv.edu</email>
+<institution>University of Nevada, Las Vegas</institution>
+<lname>Hardin</lname>
+<fname>Andrew</fname>
+<mname>M</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Online waiting</keyword>
+<keyword>time perception theory</keyword>
+<keyword>perceptions of wait</keyword>
+<keyword>amount of information</keyword>
+<keyword>visual content</keyword>
+<keyword>direction of attention</keyword>
+<keyword>download delay</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;As one of the most commonly experienced problems on the Internet, download delay is a significant impediment to the success of e-commerce websites.  While some research has examined how such delays can be reduced and how much delay online users will tolerate, little research has taken a theoretically grounded approach to managing perceptions of the wait.  Based on time perception theories, we develop a research model of the effects of actual wait time, amount of information, and direction of attention on perceptions of the wait.  Two empirical studies were conducted using an experimental travel website to test the proposed hypotheses.  The results show that with shorter waits, providing additional visual content, such as a travel picture, may make the wait feel longer.  However, with longer waits, additional visual content that distracts the user from the passage of time makes the wait feel shorter and reduces users’ negative affect toward the wait.  Further, the benefits of providing visual content in longer waits are enhanced as more content is provided.  Visual content should also be chosen to distract the user from time and temporal processing, as reminding users of the passage of time can encourage temporal processing and make the wait feel longer, especially in longer waits or when the amount of temporal visual content is high.  Our findings extend time perception theories and contribute to the literature by identifying a potential paradigm shift, from the retrospective to the prospective paradigm, when waiting times are prolonged.  Post hoc study results confirm the practical contribution of our research, demonstrating that several key findings are counter-intuitive to professional web designers.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>383</fpage>
+<lpage>406</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3099&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3099</articleid>
+<submission-date>2013-05-21T13:44:46-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161501</context-key>
+<submission-path>misq/vol37/iss2/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>When Filling the Wait Makes it Feel Longer</value>
+</field>
+</fields>
+</document>
+</documents>

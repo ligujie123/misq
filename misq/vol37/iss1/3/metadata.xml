@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Bridging the Qualitative–Quantitative Divide:  Guidelines for Conducting Mixed Methods Research in Information Systems</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+<author>
+<email>suebrown@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Brown</lname>
+<fname>Sue</fname>
+</author>
+<author>
+<email>hbala@indiana.edu</email>
+<institution>Indiana University</institution>
+<lname>Bala</lname>
+<fname>Hillol</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Meta-inferences</keyword>
+<keyword>mixed methods</keyword>
+<keyword>multimethod</keyword>
+<keyword>positivist</keyword>
+<keyword>qualitative</keyword>
+<keyword>quantitative</keyword>
+<keyword>research method</keyword>
+<keyword>research design</keyword>
+<keyword>validity</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Mixed methods research is an approach that combines quantitative and qualitative research methods in the same research inquiry.  Such work can help develop rich insights into various phenomena of interest that cannot be fully understood using only a quantitative or a qualitative method.  Notwithstanding the benefits and repeated calls for such work, there is a dearth of mixed methods research in information systems.  Building on the literature on recent methodological advances in mixed methods research, we develop a set of guidelines for conducting mixed methods research in IS.  We particularly elaborate on three important aspects of conducting mixed methods research:  (1)　appropriateness of a mixed methods approach; (2)　development of meta-inferences (i.e., substantive theory) from mixed methods research; and (3)　assessment of the quality of meta-inferences (i.e., validation of mixed methods research).  The applicability of these guidelines is illustrated using two published IS papers that used mixed methods.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>21</fpage>
+<lpage>54</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3083&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3083</articleid>
+<submission-date>2013-03-01T07:48:58-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815163</context-key>
+<submission-path>misq/vol37/iss1/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Bridging the Qualitative–Quantitative Divide</value>
+</field>
+</fields>
+</document>
+</documents>

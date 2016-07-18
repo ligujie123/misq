@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rss version="2.0">
+  <channel>
+    <title>MISQ Podcasts</title>
+    <description>This feed contains audio links to MISQ editorials since Volume 30, Issue 1, 2006.  A limited number of papers and/or their executive summaries are also available based on voluntary contributions from the authors.</description>
+    <link>http://www.misq.org/</link>
+    <copyright>MISQ</copyright>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en</language>
+    <lastBuildDate>Thu, 8 Mar 2007 14:10:04 -0600</lastBuildDate>
+    <managingEditor>Alok Gupta</managingEditor>
+    <pubDate>Thu, 8 Mar 2007 14:08:06 -0600</pubDate>
+    <generator>FeedForAll v1.0 (1.0.2.0)</generator>
+    <item>
+      <title>Editor&apos;s Comment, Volume 31, Issue 1, March 2007.</title>
+      <description>Chief editor Carol Saunders&apos;s comments.</description>
+      <link>http://www.misq.org/archivist/vol/no31/Issue1/vol31n1index.html</link>
+      <author>Carol Saunders</author>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V31I1EditorComments.mp3" length="3616083" type="audio/mpeg"></enclosure>
+      <pubDate>Thu, 8 Mar 2007 14:05:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>Editor&apos;s Comment, Volume 30, Issue 4, December 2006.</title>
+      <description>Chief editor Carol Saunders&apos;s comments.</description>
+      <link>http://www.misq.org/archivist/vol/no30/Issue4/vol30n4index.html</link>
+      <author>Carol Saunders</author>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V30I4EditorComments.mp3" length="3394444" type="audio/mpeg"></enclosure>
+      <pubDate>Thu, 8 Mar 2007 14:05:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>Editor&apos;s Comment, Volume 30, Issue 3, September 2006.</title>
+      <description>Chief editor Carol Saunders&apos;s comments.</description>
+      <link>http://www.misq.org/archivist/vol/no30/Issue3/vol30n3index.html</link>
+      <author>Carol Saunders</author>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V30I3EditorComments.mp3" length="2563296" type="audio/mpeg"></enclosure>
+      <pubDate>Thu, 8 Mar 2007 14:05:59 -0600</pubDate>
+    </item>
+    <item>
+      <title>Editor&apos;s Comment, Volume 30, Issue 2, June 2006.</title>
+      <description>Chief editor Carol Saunders&apos;s comments.</description>
+      <link>http://www.misq.org/archivist/vol/no30/Issue1/vol30n1index.html</link>
+      <author>Carol Saunders</author>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V30I2EditorComments.mp3" length="4771132" type="audio/mpeg"></enclosure>
+      <pubDate>Tue, 16 May 2006 17:52:25 -0600</pubDate>
+    </item>
+    <item>
+      <title>Reliability, Mindfulness, and Information Systems</title>
+      <description>Reliability, Mindfulness, and Information Systems&lt;br&gt;
+by Brian S. Butler and Peter H. Gray.</description>
+      <link>http://www.misq.org/archivist/vol/no30/Issue1/vol30n1index.html</link>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V30I2ButlerGray.mp3" length="8320862" type="audio/mpeg"></enclosure>
+      <pubDate>Tue, 16 May 2006 17:52:34 -0600</pubDate>
+    </item>
+    <item>
+      <title>Editor&apos;s Comment, Volume 30, Issue 1, March 2006.</title>
+      <description>Chief editor Carol Saunders&apos;s comments.</description>
+      <link>http://www.misq.org/archivist/vol/no30/Issue1/vol30n1index.html</link>
+      <author>Carol Saunders</author>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V30I1EditorComments.mp3" length="3418929" type="audio/mpeg"></enclosure>
+      <pubDate>Mon, 27 Feb 2006 13:01:19 -0600</pubDate>
+    </item>
+    <item>
+      <title>Research Standards for Promotion</title>
+      <description>Research Standards for Promotion and Tenure in Information Systems&lt;br&gt;
+by Dennis, Valacich, Fuller and Schneider.</description>
+      <link>http://www.misq.org/archivist/vol/no30/Issue1/vol30n1index.html</link>
+      <enclosure url="http://www.misq.org/archivist/AudioFiles/V30I1Dennis.mp3" length="6373404" type="audio/mpeg"></enclosure>
+      <pubDate>Mon, 27 Feb 2006 13:10:01 -0600</pubDate>
+    </item>
+  </channel>
+</rss>

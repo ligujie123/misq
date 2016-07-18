@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Special Issue on Action Research In Informaton Systems: Making IS Research relevant to practice foreword</title>
+<publication-date>2004-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Baskerville</lname>
+<fname>Richard</fname>
+</author>
+<author>
+<lname>Myers</lname>
+<fname>Michael</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss3/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2701&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2701</articleid>
+<submission-date>2008-12-12T12:06:02-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681206</context-key>
+<submission-path>misq/vol28/iss3/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Semi-Structured Recurring Decisions: An Experimental Study of Decision Making Models and Some Suggestions for DSS</title>
+<publication-date>1987-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Remus</lname>
+<fname>William</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol11/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2038&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2038</articleid>
+<submission-date>2008-08-18T11:40:13-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584008</context-key>
+<submission-path>misq/vol11/iss2/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1987-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

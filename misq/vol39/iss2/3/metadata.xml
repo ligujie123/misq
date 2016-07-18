@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>New State of Play in Information Systems Research:  The Push to the Edges</title>
+<publication-date>2015-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>vgrover@clemson.edu</email>
+<institution>Clemson University</institution>
+<lname>Grover</lname>
+<fname>Varun</fname>
+</author>
+<author>
+<email>kalle@case.edu</email>
+<institution>Case Western Reserve University</institution>
+<lname>Lyytinen</lname>
+<fname>Kalle</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information systems discipline</keyword>
+<keyword>research inquiry</keyword>
+<keyword>epistemic scripts</keyword>
+<keyword>IS theory</keyword>
+<keyword>IT artifact</keyword>
+<keyword>middle-range theory</keyword>
+<keyword>theory borrowing</keyword>
+<keyword>institutional analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;The dominant way of producing knowledge in information systems (IS) seeks to domesticate high-level reference theory in the form of mid-level abstractions involving generic and atheoretical information technology (IT) components. Enacting such epistemic scripts squeezes IS theory to the middle range, where abstract reference theory concepts are directly instantiated or slightly modified to the IS context, whereas IT remains exogenous to theory by being treated as an independent variable, mediator, or moderator. In this design, IT is often operationalized using proxies that detect the presence of IT or its variation in use or cost. Our analysis of 143 articles published in &lt;em&gt;MIS Quarterly&lt;/em&gt; and &lt;em&gt;Information Systems Research&lt;/em&gt; over the past 15 years demonstrates that over 70 percent of published theory conforms to this mode of producing IS knowledge. This state of play has resulted in two negative consequences: the field (1)　agonizes over the dearth of original and bold theorizing over IT and (2)　satisfices when integrating theory with empirics by creating incommensurate mid-range models that are difficult to consolidate. We propose that one way to overcome these challenges is to critically examine and debate the negative impacts of the field’s dominant epistemic scripts and relax them by permitting IS scholarship that more fluidly accommodates alternative forms of knowledge production. This will push IS inquiry to the &quot;edges&quot; and emphasize, on the one hand, inductive, rich inquiries using innovative and extensive data sets and, on the other hand, novel, genuine, high-level theorizing around germane conceptual relationships between IT, information and its (semiotic) representations, and social behaviors. We offer several exemplars of such inquiries and their results. To promote this push, we invite alternative institutionalized forms of publishing and reviewing. We conclude by inviting individual scholars to be more open to practices that permit richer theorizing. These recommendations will broaden the field’s knowledge ecology and permit the creation of good IS knowledge over just getting &quot;hits.&quot; We surmise that, if such changes are carried out, the field can look confidently toward its future as one of the epicenters of organizational inquiry that deal with the central forces shaping human enterprise in the 21&lt;sup&gt;st&lt;/sup&gt; century.&lt;/p&gt;</abstract>
+<fpage>271</fpage>
+<lpage>296</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3233&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3233</articleid>
+<submission-date>2015-04-30T07:31:36-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7049733</context-key>
+<submission-path>misq/vol39/iss2/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>New State of Play in Information Systems Research</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Volume 34, 2010:  Subject Index, Author Index, and Acknowledgments</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>misq@umn.edu</email>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Quarterly</lname>
+<fname>MIS</fname>
+</author>
+</authors>
+<fpage>871</fpage>
+<lpage>893</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2938&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2938</articleid>
+<submission-date>2010-11-29T15:08:21-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664624</context-key>
+<submission-path>misq/vol34/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Volume 34, 2010:  Indexes</value>
+</field>
+</fields>
+</document>
+</documents>

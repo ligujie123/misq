@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Distributed Cognition in Software Design:  An Experimental Investigation of the Role of Design Patterns and Collaboration</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>G-Mangalaraj@wiu.edu</email>
+<institution>Western Illinois University</institution>
+<lname>Mangalaraj</lname>
+<fname>George</fname>
+</author>
+<author>
+<email>snerur@uta.edu</email>
+<institution>University of Texas at Arlington</institution>
+<lname>Nerur</lname>
+<fname>Sridhar</fname>
+<mname>P</mname>
+</author>
+<author>
+<email>mahapatra@uta.edu</email>
+<institution>University of Texas at Arlington</institution>
+<lname>Mahapatra</lname>
+<fname>Radha</fname>
+<mname>K.</mname>
+</author>
+<author>
+<email>price@uta.edu</email>
+<institution>University of Texas at Arlington</institution>
+<lname>Price</lname>
+<fname>Kenneth</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Software design</keyword>
+<keyword>agile methodology</keyword>
+<keyword>paired design</keyword>
+<keyword>design pattern</keyword>
+<keyword>nominal group</keyword>
+<keyword>distributed cognition</keyword>
+<keyword>codified knowledge</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Software design is a knowledge intensive task that constitutes a critical part of the software development process.  Using a controlled experiment involving software practitioners, this research examines two potentially useful mechanisms for improving the software design process.  Specifically, this study examines the impact of structural distribution of cognition through design patterns and social distribution of cognition through collaborating pairs on design outcomes.  The results indicate that the use of design patterns as external cognitive artifacts improves design quality, reduces time taken to solve a design problem, and leads to higher participant satisfaction.  Collaborating pairs of software designers were compared to participants working alone but whose efforts were conjointly considered as the best and second-best members of nominal pairs.  It was found that paired designers produced higher quality designs compared with the second-best members of nominal pairs, did not differ from the best member of a nominal pair, but took more time to complete a design task than either member of a nominal pair.  The results also indicate that the availability of design patterns raises the performance level of the second-best member of a nominal pair, in terms of quality, and reduces task completion time when compared with a pair not using design patterns.  Finally, paired designers were found to experience higher levels of task satisfaction when compared with individuals.  Implications for research and practice are discussed.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>249</fpage>
+<lpage>274</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3166&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3166</articleid>
+<submission-date>2014-03-03T09:59:38-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5253267</context-key>
+<submission-path>misq/vol38/iss1/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Distributed Cognition in Software Design</value>
+</field>
+</fields>
+</document>
+</documents>

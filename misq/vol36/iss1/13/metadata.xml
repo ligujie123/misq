@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Consumer Acceptance and Use of Information Technology:  Extending the Unified Theory of Acceptance and Use of Technology</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+<author>
+<email>jthong@ust.hk</email>
+<institution>Hong Kong University of Science and Technology</institution>
+<lname>Thong</lname>
+<fname>James</fname>
+<mname>Y.L.</mname>
+</author>
+<author>
+<email>xin.xu@polyu.edu.hk</email>
+<institution>The Hong Kong Polytechnic University</institution>
+<lname>Xu</lname>
+<fname>Xin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Unified theory of acceptance and use of technology (UTAUT)</keyword>
+<keyword>UTAUT2</keyword>
+<keyword>habit</keyword>
+<keyword>hedonic motivation</keyword>
+<keyword>price value</keyword>
+<keyword>mobile Internet</keyword>
+<keyword>consumer</keyword>
+<keyword>technology adoption</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper extends the unified theory of acceptance and use of technology (UTAUT) to study acceptance and use of technology in a consumer context. Our proposed UTAUT2 incorporates three constructs into UTAUT: hedonic motivation, price value, and habit. Individual differences—namely, age, gender, and experience—are hypothesized to moderate the effects of these constructs on behavioral intention and technology use. Results from a two-stage online survey, with technology use data collected four months after the first survey, of 1,512 mobile Internet consumers supported our model. Compared to UTAUT, the extensions proposed in UTAUT2 produced a substantial improvement in the variance explained in behavioral intention (56 percent to 74 percent) and technology use (40 percent to 52 percent). The theoretical and managerial implications of these results are discussed.&lt;/p&gt;</abstract>
+<fpage>157</fpage>
+<lpage>178</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3014&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3014</articleid>
+<submission-date>2012-02-24T08:58:21-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2566366</context-key>
+<submission-path>misq/vol36/iss1/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Consumer Acceptance and Use of IT</value>
+</field>
+</fields>
+</document>
+</documents>

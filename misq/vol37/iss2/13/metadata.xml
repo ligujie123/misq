@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design Capital and Design Moves:  The Logic of Digital Business Strategy</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>jason.woodard@olin.edu</email>
+<institution>Singapore Management University</institution>
+<lname>Woodard</lname>
+<fname>C. Jason</fname>
+</author>
+<author>
+<email>narayanr@pitt.edu</email>
+<institution>University of Pittsburgh</institution>
+<lname>Ramasubbu</lname>
+<fname>Narayan</fname>
+</author>
+<author>
+<email>tedt@smu.edu.sg</email>
+<institution>Singapore Management University</institution>
+<lname>Tschang</lname>
+<fname>F.</fname>
+<mname>Ted</mname>
+</author>
+<author>
+<email>sambamurthy@bus.msu.edu</email>
+<institution>Michigan State University</institution>
+<lname>Sambamurthy</lname>
+<fname>V</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Design capital</keyword>
+<keyword>design moves</keyword>
+<keyword>digital options</keyword>
+<keyword>technical debt</keyword>
+<keyword>IT architecture</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;As information technology becomes integral to the products and services in a growing range of industries, there has been a corresponding surge of interest in understanding how firms can effectively formulate and execute digital business strategies.  This fusion of IT within the business environment gives rise to a strategic tension between investing in digital artifacts for long-term value creation and exploiting them for short-term value appropriation.  Further, relentless innovation and competitive pressures dictate that firms continually adapt these artifacts to changing market and technological conditions, but sustained profitability requires scalable architectures that can serve a large customer base and stable interfaces that support integration across a diverse ecosystem of complementary offerings.  The study of digital business strategy needs new concepts and methods to examine how these forces are managed in pursuit of competitive advantage.  We conceptualize the logic of digital business strategy in terms of two constructs:  design capital (i.e., the cumulative stock of designs owned or controlled by a firm) and design moves (i.e., the discrete strategic actions that enlarge, reduce, or modify a firm’s stock of designs).  We also identify two salient dimensions of design capital, namely, option value and technical debt.  Using embedded case studies of four firms, we develop a rich conceptual model and testable propositions to lay out a design-based logic of digital business strategy.  This logic highlights the interplay between design moves and design capital in the context of digital business strategy and contributes to a growing body of insights that link the design of digital artifacts to competitive strategy and firm-level performance.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>537</fpage>
+<lpage>564</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3106&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3106</articleid>
+<submission-date>2013-05-21T14:11:53-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161623</context-key>
+<submission-path>misq/vol37/iss2/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Design Capital and Design Moves</value>
+</field>
+</fields>
+</document>
+</documents>

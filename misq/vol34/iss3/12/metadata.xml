@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of Malicious Agents on the Enterprise Software Industry</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>galbreth@moore.sc.edu</email>
+<institution>University of South Carolina</institution>
+<lname>Galbreth</lname>
+<fname>Michael</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>mike.shor@uconn.edu</email>
+<institution>Vanderbilt University</institution>
+<lname>Shor</lname>
+<fname>Mikhael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information system security</keyword>
+<keyword>network externalities</keyword>
+<keyword>software selection</keyword>
+<keyword>game theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this paper, a competitive software market that includes horizontal and quality differentiation, as well as a negative network effect driven by the presence of malicious agents, is modeled. Software products with larger installed bases, and therefore more potential computers to attack, present more appealing targets for malicious agents.  One finding is  that software firms may profit from increased malicious activity. Software products in a more competitive market are less likely to invest in security, while monopolistic or niche products are likely to be more secure from malicious attack.  The results provide insights for IS managers considering enterprise software adoption.&lt;/p&gt;</abstract>
+<fpage>595</fpage>
+<lpage>612</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2922&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2922</articleid>
+<submission-date>2010-08-13T08:48:48-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444233</context-key>
+<submission-path>misq/vol34/iss3/12</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Malicious Agents and Enterprise Software</value>
+</field>
+</fields>
+</document>
+</documents>

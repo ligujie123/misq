@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Moving Toward Black Hat Research in Information Systems Security:  An Editorial Introduction to the Special Issue</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mmahmood@utep.edu</email>
+<institution>University of Texas - El Paso</institution>
+<lname>Mahmood</lname>
+<fname>Adam</fname>
+<mname>M</mname>
+</author>
+<author>
+<email>mikko.t.siponen@jyu.fi</email>
+<institution>University of Oulu, Finland</institution>
+<lname>Siponen</lname>
+<fname>Mikko</fname>
+</author>
+<author>
+<email>dstraub@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar W.</fname>
+</author>
+<author>
+<email>mgmtrao@buffalo.edu</email>
+<institution>State University of New York at Buffalo</institution>
+<lname>Rao</lname>
+<fname>Raghav</fname>
+</author>
+<author>
+<email>raghu.santanam@asu.edu</email>
+<institution>Arizona State University</institution>
+<lname>Raghu</lname>
+<fname>T</fname>
+<mname>S</mname>
+</author>
+</authors>
+<fpage>431</fpage>
+<lpage>433</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2913&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2913</articleid>
+<submission-date>2010-08-13T08:10:37-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444069</context-key>
+<submission-path>misq/vol34/iss3/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Introduction:  Special Issue on IS Security</value>
+</field>
+</fields>
+</document>
+</documents>

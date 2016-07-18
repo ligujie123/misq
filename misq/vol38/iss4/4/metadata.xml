@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Multihoming Users’ Preferences for Two-Sided Exchange Networks</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>koh@ust.hk</email>
+<institution>Hong Kong University of Science and Technology</institution>
+<lname>Koh</lname>
+<fname>Tat Koon</fname>
+</author>
+<author>
+<email>mf4f@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Fichman</lname>
+<fname>Mark</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online platforms</keyword>
+<keyword>B2B exchanges</keyword>
+<keyword>multihoming</keyword>
+<keyword>network effects</keyword>
+<keyword>observational learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Online business-to-business (B2B) exchanges are proliferating, giving firms numerous platforms from which to choose. Many firms are also multihoming, using competing platforms concurrently. In this study, we examine how selling and buying activities on B2B exchanges affect multihoming buyers’ preferences for exchanges. We posit that these activities influence buyers’ perceived returns and risks of using the exchanges, and impact buyers’ preferences. Using a unique dataset of 118 buyers’ participation in two B2B exchanges over seven months, we find that buyers prefer exchanges with more selling activities. However, buyers’ preferences and buying levels on the exchanges are non-monotonically related. At low buying levels, an increase in buying by others positively affects buyers’ preferences. This effect may result from observational learning, where individual buyers learn from other buyers’ behaviors. On the other hand, as buying level increases further on the exchange, competition among buyers also increases. Consequently, buyers lower their preferences for the exchange. In addition, we find that the effects of selling and buying activities on buyers’ preferences change over time. Our results highlight the need to correctly model buyers’ homing behavior; failing to do so could bias the picture of competitive dynamics between platforms and lead to suboptimal strategies by exchanges.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>977</fpage>
+<lpage>996</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3202&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3202</articleid>
+<submission-date>2014-11-07T07:53:56-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6336943</context-key>
+<submission-path>misq/vol38/iss4/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Multihoming Users’ Preferences for Two-Sided Exchange Networks</value>
+</field>
+</fields>
+</document>
+</documents>

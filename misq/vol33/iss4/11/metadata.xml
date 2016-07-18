@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Selective Status Reporting in Information Systems Projects:  A Dyadic-Level Investigation</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>charles.iacovou@mba.wfu.edu</email>
+<institution>Wake Forest University</institution>
+<lname>Iacovou</lname>
+<fname>Charalambos</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>ron.thompson@mba.wfu.edu</email>
+<institution>Wake Forest University</institution>
+<lname>Thompson</lname>
+<fname>Ronald</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>jeff.smith@muohio.edu</email>
+<institution>Miami University - Oxford</institution>
+<lname>Smith</lname>
+<fname>H.</fname>
+<mname>Jeff</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information systems development</keyword>
+<keyword>project management</keyword>
+<keyword>status reporting</keyword>
+<keyword>communication quality</keyword>
+<keyword>distortion</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study investigates selective reporting behaviors that are pursued by project managers when communicating the status of their information system initiatives to their executives.  To understand the types, motivations, impacts, and antecedents of such behaviors, a message-exchange perspective is adopted and the prior literature on IS project status reporting is reviewed.  This study incorporates an empirical investigation that examined the influence of five dyadic factors on selective reporting using a survey of 561 project managers.  The findings of the study reveal a positive effect of reporting quality on project performance and indicate that a specific type of selective reporting behavior (optimistic biasing) has a degrading effect on reporting quality.  Moreover, the findings show that all five antecedents have a significant influence on the propensity of project managers to report selectively.  Specifically, the project executive’s power, the project manager’s trust in the executive, and the executive’s quality of communication impact selective reporting directly; the executive’s familiarity with the IS development process and the executive’s organizational affiliation vis-à-vis that of the project manager have an indirect influence (it is mediated through other factors).  The effects of each of these factors on the two types of selective reporting (optimistic and pessimistic biasing) are examined, and the implications of these findings for both researchers and managers are discussed in this article.&lt;/p&gt;</abstract>
+<fpage>785</fpage>
+<lpage>810</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2880&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2880</articleid>
+<submission-date>2009-11-30T12:43:39-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074935</context-key>
+<submission-path>misq/vol33/iss4/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Selective Status Reporting in IS Projects</value>
+</field>
+</fields>
+</document>
+</documents>

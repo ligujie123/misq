@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Discovering Unobserved Heterogeneity in Structural Equation Models to Avert Validity Threats</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>j.becker@wiso.uni-koeln.de</email>
+<institution>University of Cologne</institution>
+<lname>Becker</lname>
+<fname>Jan-Michael</fname>
+</author>
+<author>
+<email>arunrai@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Rai</lname>
+<fname>Arun</fname>
+</author>
+<author>
+<email>christian.ringle@newcastle.edu.au</email>
+<institution>University of Newcastle</institution>
+<lname>Ringle</lname>
+<fname>Christian</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>voelckner@wiso.uni-koeln.de</email>
+<institution>University of Cologne</institution>
+<lname>Völckner</lname>
+<fname>Franziska</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Unobserved heterogeneity</keyword>
+<keyword>validity</keyword>
+<keyword>structural equation modeling</keyword>
+<keyword>partial least squares</keyword>
+<keyword>formative measures</keyword>
+<keyword>prediction-oriented segmentation</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;A large proportion of information systems research is concerned with developing and testing models pertaining to complex cognition, behaviors, and outcomes of individuals, teams, organizations, and other social systems that are involved in the development, implementation, and utilization of information technology.  Given the complexity of these social and behavioral phenomena, heterogeneity is likely to exist in the samples used in IS studies.  While researchers now routinely address observed heterogeneity by introducing moderators, a priori groupings, and contextual factors in their research models, they have not examined how unobserved heterogeneity may affect their findings.  We describe why unobserved heterogeneity threatens different types of validity and use simulations to demonstrate that unobserved heterogeneity biases parameter estimates, thereby leading to Type　I and Type　II errors.  We also review different methods that can be used to uncover unobserved heterogeneity in structural equation models.  While methods to uncover unobserved heterogeneity in covariance-based structural equation models (CB-SEM) are relatively advanced, the methods for partial least squares (PLS) path models are limited and have relied on an extension of mixture regression—finite mixture partial least squares (FIMIX-PLS) and distance measure-based methods—that have mismatches with some characteristics of PLS path modeling.  We propose a new method—prediction-oriented segmentation (PLS-POS)—to overcome the limitations of FIMIX-PLS and other distance measure-based methods and conduct extensive simulations to evaluate the ability of PLS-POS and FIMIX-PLS to discover unobserved heterogeneity in both structural and measurement models.  Our results show that both PLS-POS and FIMIX-PLS perform well in discovering unobserved heterogeneity in structural paths when the measures are reflective and that PLS-POS also performs well in discovering unobserved heterogeneity in formative measures.  We propose an unobserved heterogeneity discovery (UHD) process that researchers can apply to (1) avert validity threats by uncovering unobserved heterogeneity and (2) elaborate on theory by turning unobserved heterogeneity into observed heterogeneity, thereby expanding theory through the integration of new moderator or contextual variables.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>665</fpage>
+<lpage>694</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3115&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3115</articleid>
+<submission-date>2013-08-15T07:44:41-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440164</context-key>
+<submission-path>misq/vol37/iss3/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Discovering Unobserved Heterogeneity in SEM</value>
+</field>
+</fields>
+</document>
+</documents>

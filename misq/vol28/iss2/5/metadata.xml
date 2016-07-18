@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Changes in Belief and Attitude Toward Information Technology Usage:  A Theoretical Model and Longitudinal Test</title>
+<publication-date>2004-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Bhattacherjee</lname>
+<fname>Anol</fname>
+</author>
+<author>
+<lname>Premkumar</lname>
+<fname>G.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information systems</keyword>
+<keyword>usage</keyword>
+<keyword>acceptance</keyword>
+<keyword>attitude</keyword>
+<keyword>belief</keyword>
+<keyword>perceived usefulness</keyword>
+<keyword>expectation disconfirmation theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;User beliefs and attitudes are key perceptions driving information technology  usage.  These perceptions change with time as users gain first-hand experience with IT usage, which, in turn, may change their subsequent IT usage behavior.  This paper elaborates on how users’ beliefs and attitudes change during the course of their IT usage, defines emergent constructs driving such change, and proposes a temporal model of belief and attitude change by drawing on expectation-disconfirmation theory and the extant IT usage literature.  Student data from two longitudinal studies in end-user computing (computer-based training system usage) and system development (rapid application development software usage) contexts provided empirical support for the hypothesized model, demonstrated its generalizability across technologies and usage contexts, and allowed us to probe context-specific differences.  Content analysis of qualitative data validated some of our quantitative results.  We report that emergent factors such as disconfirmation and satisfaction are critical to understanding changes in IT users’ beliefs and attitudes  and recommend that they be included in future process models of IT usage.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2698&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2698</articleid>
+<submission-date>2008-12-12T11:37:20-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681156</context-key>
+<submission-path>misq/vol28/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

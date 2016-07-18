@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Midterm MIS Quarterly Progress Report</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>dstraub@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar W.</fname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>xii</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2902&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2902</articleid>
+<submission-date>2010-06-23T12:17:26-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369849</context-key>
+<submission-path>misq/vol34/iss2/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments</value>
+</field>
+</fields>
+</document>
+</documents>

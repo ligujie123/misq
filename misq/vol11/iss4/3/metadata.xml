@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Systems Analysis and Design: Current Practices</title>
+<publication-date>1987-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Necco</lname>
+<fname>Charles</fname>
+</author>
+<author>
+<lname>Gordon</lname>
+<fname>Carl</fname>
+</author>
+<author>
+<lname>Tasi</lname>
+<fname>Nancy</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol11/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2051&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2051</articleid>
+<submission-date>2008-08-18T11:40:34-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584021</context-key>
+<submission-path>misq/vol11/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1987-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Disaster Experience and Hospital Information Systems:  An Examination of Perceived Information Assurance, Risk, Resilience, and HIS Usefulness</title>
+<publication-date>2015-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>insu.park@dsu.edu</email>
+<institution>Dakota State University</institution>
+<lname>Park</lname>
+<fname>Insu</fname>
+</author>
+<author>
+<email>rsharman@buffalo.edu</email>
+<institution>University of Buffalo</institution>
+<lname>Sharman</lname>
+<fname>Raj</fname>
+</author>
+<author>
+<email>mgmtrao@buffalo.edu</email>
+<institution>University of Buffalo</institution>
+<lname>Rao</lname>
+<fname>H.</fname>
+<mname>Raghav</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Disaster experience</keyword>
+<keyword>information assurance</keyword>
+<keyword>perceived system risk</keyword>
+<keyword>perceived resilience</keyword>
+<keyword>quasi-experiment</keyword>
+<keyword>comparative study</keyword>
+<keyword>hospital information systems usefulness</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper examines how an individual’s disaster experience affects his or her perceptions of sociotechnical safety factors (risk, information assurance, resilience) and perceived usefulness of hospital information systems (HIS). This paper consists of two studies focusing on different aspects: a quasi-field experiment conducted with employees in three hospitals affected by a severe snowstorm (labeled a federal disaster) (N = 103), where we compare the perceptual factors in the context of the disaster experience (with versus without recall), and a comparative study between a first sample group (with disaster experience) and a second, contrast sample group (with no disaster experience) of hospital employees (N= 179) from two similar hospitals. The results show that the disaster experience changes the relationships among the perceptual factors that affect perceived usefulness. Individuals tend to perceive negative factors (such as risk) as having greater effects when they actually have direct experience in a disaster situation than in a normal situation. Positive factors (such as information assurance and resilience) have a lesser impact among individuals who have disaster experience (with versus without recall).&lt;/p&gt;</abstract>
+<fpage>317</fpage>
+<lpage>344</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3235&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3235</articleid>
+<submission-date>2015-04-30T07:42:01-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7049799</context-key>
+<submission-path>misq/vol39/iss2/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Disaster Experience &amp; Hospital Information Systems</value>
+</field>
+</fields>
+</document>
+</documents>

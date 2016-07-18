@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design and Implementation of Decision Support Systems in the Public Sector</title>
+<publication-date>1985-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Henderson</lname>
+<fname>John</fname>
+</author>
+<author>
+<lname>Schilling</lname>
+<fname>David</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol9/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1949&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1949</articleid>
+<submission-date>2008-08-18T09:20:22-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583580</context-key>
+<submission-path>misq/vol9/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1985-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

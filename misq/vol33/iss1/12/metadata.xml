@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assessing Between-Group Differences in Information Systems Research:  A Comparision of Covariance- and Component-Based SEM</title>
+<publication-date>2009-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>msisrar@inet.polyu.edu.hk</email>
+<institution>Hong Kong Polytechnic University</institution>
+<lname>Qureshi</lname>
+<fname>Israr</fname>
+</author>
+<author>
+<email>dcompeau@ivey.uwo.ca</email>
+<institution>The University of Western Ontario</institution>
+<lname>Compeau</lname>
+<fname>Deborah R.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Multigroup analysis</keyword>
+<keyword>Monte Carlo simulation</keyword>
+<keyword>covariance-based structural equation modeling</keyword>
+<keyword>partial least squares</keyword>
+<keyword>measurement invariance</keyword>
+<keyword>research methodology</keyword>
+<keyword>nested models</keyword>
+<keyword>pooled significance test</keyword>
+</keywords>
+<abstract>&lt;p&gt;Multigroup or between-group analyses are common in the information systems literature.  The ability to detect the presence or absence of between-group differences and accurately estimate the strength of moderating effects is important in studies that attempt to show contingent effects.  In the past, IS scholars have used a variety of approaches to examine these effects, with the partial least squares (PLS) pooled significance test for multigroup becoming the most common (e.g., Ahuja and Thatcher 2005; Enns et al. 2003; Zhu et al. 2006).  In other areas of social sciences (Epitropaki and Martin 2005) and management (Mayer and Gavin 2005; Song et al. 2005) research, however, there is greater emphasis on the use of covariance-based structural equation modeling multigroup analysis.  This paper compares these two methods through Monte Carlo simulation.  Our findings demonstrate the conditions under which covariance-based multigroup analysis is more appropriate as well as those under which there either is no difference or the component-based approach is preferable.  In particular, we find that when data are normally distributed, with a small sample size and correlated exogenous variables, the component-based approach is more likely to detect differences between-group than is the covariance-based approach.  Both approaches will consistently detect differences under conditions of normality with large sample sizes.  With non-normally distributed data, neither technique could consistently detect differences across the groups in two of the paths, suggesting that both techniques struggle with the prediction of a highly skewed and kurtotic dependent variable.  Both techniques detected the differences in the other paths consistently under conditions of non-normality, with the component-based approach preferable at moderate effect sizes, particularly for smaller samples.&lt;/p&gt;</abstract>
+<fpage>197</fpage>
+<lpage>214</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss1/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2791&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2791</articleid>
+<submission-date>2009-03-02T13:03:35-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>752229</context-key>
+<submission-path>misq/vol33/iss1/12</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Assessing Between-Group Differences in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

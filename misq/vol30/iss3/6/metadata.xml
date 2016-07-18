@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Order Lead-Time Improvement Following Enterprise Information Technology Implementation:  An Empirical Study</title>
+<publication-date>2006-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Cotteleer</lname>
+<fname>Mark</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Bendoly</lname>
+<fname>Elliot</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Enterprise resource planning</keyword>
+<keyword>visibility</keyword>
+<keyword>variability reduction</keyword>
+<keyword>continuous improvement</keyword>
+<keyword>organizational learning</keyword>
+<keyword>empirical research</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper investigates the influence of enterprise systems implementation on operational performance.  The work extends the literature on enterprise systems by focusing on changes in process dynamics as a source for ongoing firm-level performance improvement.   A case discussion of Tristen Inc., a firm that implemented ERP and subsequently experienced benefits through gains to its continuous improvement efforts, is examined in light of theorized impacts of such implementations on process dynamics.  Analyses of longitudinal data suggest that performance along a key metric motivating the ERP initiative (i.e., order fulfillment lead-time) showed a significant improvement immediately after system deployment.  The data further suggest that the system implementation gave rise to an ongoing trend of performance improvement, in contrast to a stable performance trend prior to go-live.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss3/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2772&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2772</articleid>
+<submission-date>2008-12-18T07:55:19-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683762</context-key>
+<submission-path>misq/vol30/iss3/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

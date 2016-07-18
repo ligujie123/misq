@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Knowledge Integration and Information Technology Project Performance</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Mitchell</lname>
+<fname>Victoria</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>IT performance</keyword>
+<keyword>MIS management</keyword>
+<keyword>knowledge management</keyword>
+<keyword>management structure</keyword>
+<keyword>integrative capabilities</keyword>
+<keyword>dynamic capabilities</keyword>
+<keyword>project delay</keyword>
+</keywords>
+<abstract>&lt;p&gt;Successful product and process design depends on management’s ability to integrate fragmented pockets of specialized knowledge. This integrative capability has important implications for large-scale information technology projects. This article examines the relationship between timely project completion and two dimensions of management’s integrative capability:  access to external knowledge and internal knowledge integration. Measures of these two dimensions are used to predict on-time project completion, where completion is a function of the duration of IT-related project delays.  In a longitudinal study of 74 enterprise application integration projects in the medical sector, integrative capability was measured from the point of view of the CIO and a facility IT manager. Accounting for several project controls, our Cox regression results indicate both integrative dimensions significantly mitigate the duration of IT-related project delays, thus promoting timely project completion. The analysis also reveals the importance of taking management structure into consideration when studying IT phenomena in networked organizations.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss4/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2682&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2682</articleid>
+<submission-date>2008-12-11T13:20:48-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680664</context-key>
+<submission-path>misq/vol30/iss4/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

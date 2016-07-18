@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Team Approach to Managing the Development of a Decision Support System</title>
+<publication-date>1979-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Locander</lname>
+<fname>William</fname>
+</author>
+<author>
+<lname>Napier</lname>
+<fname>H.</fname>
+</author>
+<author>
+<lname>Scamell</lname>
+<fname>Richard</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol3/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1839&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1839</articleid>
+<submission-date>2008-08-18T07:50:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583266</context-key>
+<submission-path>misq/vol3/iss1/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1979-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Identity Crisis Within the IS Discipline:  Defining and Communicating the Discipline’s Core Properties</title>
+<publication-date>2003-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+<author>
+<lname>Zmud</lname>
+<fname>Robert</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>IS discipline</keyword>
+<keyword>IT artifact</keyword>
+<keyword>IT nomological net</keyword>
+<keyword>errors of exclusion</keyword>
+<keyword>errors of inclusion</keyword>
+</keywords>
+<abstract>&lt;p&gt;We are concerned that the IS research community is making the discipline’s central identity ambiguous by, all too frequently, under-investigating phenomena intimately associated with IT-based systems and over-investigating phenomena distantly associated with IT-based systems.  In this commentary, we begin by discussing why establishing an identity for the IS field is important. We then describe what such an identity may look like by proposing a core set of properties, i.e., concepts and phenomena, that define the IS field.  Next, we discuss research by IS scholars that either fails to address this core set of properties (labeled as error of exclusion) or that addresses concepts/phenomena falling outside this core set (labeled as error of inclusion).  We conclude by offering suggestions for redirecting IS scholarship toward the concepts and phenomena that we argue define the core of the IS discipline.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2664&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2664</articleid>
+<submission-date>2008-12-11T10:32:16-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680434</context-key>
+<submission-path>misq/vol27/iss2/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

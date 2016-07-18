@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Information Systems Continuance: An Expectation-Confirmation Model</title>
+<publication-date>2001-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Bhattacherjee</lname>
+<fname>Anol</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS use</keyword>
+<keyword>continuance</keyword>
+<keyword>acceptance</keyword>
+<keyword>user satisfaction</keyword>
+<keyword>confirmation</keyword>
+<keyword>expectation-confirmation theory</keyword>
+<keyword>technology acceptance model</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper examines cognitive beliefs and affect influencing one’s intention to continue using (continuance) information systems (IS).  Expectation-confirmation theory is adapted from the consumer behavior literature and integrated with theoretical and empirical findings from prior IS usage research to theorize a model of IS continuance.  Five research hypotheses derived from this model are empirically validated using a field survey of online banking users.  The results suggest that users’ continuance intention is determined by their satisfaction with IS use and perceived usefulness of continued IS use.  User satisfaction, in turn, is influenced by their confirmation of expectation from prior IS use and perceived usefulness.  Post-acceptance perceived usefulness is influenced by users’ confirmation level.  This study draws attention to the substantive differences between acceptance and continuance behaviors, theorizes and validates one of the earliest theoretical models of IS continuance, integrates confirmation and user satisfaction constructs within our current understanding of IS use, conceptualizes and creates an initial scale for measuring IS continuance, and offers an initial explanation for the acceptance-discontinuance anomaly.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss3/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2617&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2617</articleid>
+<submission-date>2008-12-09T08:32:44-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678549</context-key>
+<submission-path>misq/vol25/iss3/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

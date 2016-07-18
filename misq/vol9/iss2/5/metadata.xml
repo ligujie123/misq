@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Methodological Issues in Experimental IS Research: Experiences and Recommendations</title>
+<publication-date>1985-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Jarvenpaa</lname>
+<fname>Sirkka</fname>
+</author>
+<author>
+<lname>Dickson</lname>
+<fname>Gary</fname>
+</author>
+<author>
+<lname>DeSanctis</lname>
+<fname>Gerardine</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol9/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1948&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1948</articleid>
+<submission-date>2008-08-18T09:20:22-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583579</context-key>
+<submission-path>misq/vol9/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1985-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

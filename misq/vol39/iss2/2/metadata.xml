@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Guest Editorial:  Research Framework for AIS Grand Vision of the Bright ICT Initiative</title>
+<publication-date>2015-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>jklee@business.kaist.ac.kr</email>
+<institution>Korea Advanced Institute of Science and Technology</institution>
+<lname>Lee</lname>
+<fname>Jae Kyu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Bright ICT</keyword>
+<keyword>Bright Internet</keyword>
+<keyword>AIS initiative</keyword>
+</keywords>
+<abstract>&lt;p&gt;The Internet has become a minefield of crime, fakes, and terror perpetuated by anonymous users on a global scale. The security burden of protecting organizations is becoming increasingly difficult and costly, and this burden cannot be lessened under the current Internet protocol. In order to fundamentally solve these side effects, the Council of the Association for Information Systems (AIS) has adopted a grand vision of an ICT-Enabled Bright Society (in short, the &lt;em&gt;Bright ICT Initiative&lt;/em&gt;). With the goal of preventing undesirable activities on the Internet, diverse issues can be investigated using a bottom-up perspective. Scholars are beginning to examine the concept and various approaches with the support of the AIS conferences and the information system journals. However, a unique approach and fundamental solution must be identified in order to drastically eliminate the negative side effects of these adverse online activities. In order to achieve this, four principles are proposed that will provide the foundation of the framework for a new and safer Internet platform, the &lt;em&gt;Bright Internet&lt;/em&gt;, while protecting users’ privacy at an appropriate level. The proposed principles are &lt;em&gt;origin responsibility, deliverer responsibility, rule-based digital search warrants,&lt;/em&gt; and &lt;em&gt;traceable anonymity.&lt;/em&gt; This endeavor requires the investigation of technologies, policies, and international agreements on which new business models can be created.&lt;/p&gt;</abstract>
+<fpage>iii</fpage>
+<lpage>xii</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3231&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3231</articleid>
+<submission-date>2015-04-30T07:25:25-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7049710</context-key>
+<submission-path>misq/vol39/iss2/2</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Guest Editorial:  The Bright ICT Initiative</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Managing Risk in Software Process Improvement:  An Action Research Approach</title>
+<publication-date>2004-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Iversen</lname>
+<fname>Jakob</fname>
+<mname>H.</mname>
+</author>
+<author>
+<lname>Mathiassen</lname>
+<fname>Lars</fname>
+</author>
+<author>
+<lname>Nielsen</lname>
+<fname>Peter</fname>
+<mname>Axel</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Risk management</keyword>
+<keyword>software process improvement</keyword>
+<keyword>action research</keyword>
+<keyword>collaborative practice research</keyword>
+</keywords>
+<abstract>&lt;p&gt;Many software organizations engage in software process improvement (SPI) initiatives to increase their capability to develop quality solutions at a competitive level.  Such efforts, however, are complex and very demanding.  A variety of risks makes it difficult to develop and implement new processes.  We studied SPI in its organizational context through collaborative practice research (CPR), a particular form of action research.  The CPR program involved close collaboration between practitioners and researchers over a three-year period to understand and improve SPI initiatives in four Danish software organizations.  The problem of understanding and managing risks in SPI teams emerged in one of the participating organizations and led to this research.  We draw upon insights from the literature on SPI and software risk management as well as practical lessons learned from managing SPI risks in the participating software organizations.  Our research offers two contributions.  First, we contribute to knowledge on SPI by proposing an approach to understand and manage risks in SPI teams.  This risk management approach consists of a framework for understanding risk areas and risk resolution strategies within SPI and a related process for managing SPI risks.  Second, we contribute to knowledge on risk management within the information systems and software engineering disciplines.  We propose an approach to tailor risk management to specific contexts.  This approach consists of a framework for understanding and choosing between different forms of risk management and a process to tailor risk management to specific contexts.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2704&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2704</articleid>
+<submission-date>2008-12-12T12:20:12-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681216</context-key>
+<submission-path>misq/vol28/iss3/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

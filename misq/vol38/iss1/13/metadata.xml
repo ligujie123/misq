@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Complementary Online Services in Competitive Markets:  Maintaining Profitability in the Presence of Network Effects</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>etzionh@umich.edu</email>
+<institution>University of Michigan - Ann Arbor</institution>
+<lname>Etzion</lname>
+<fname>Hila</fname>
+</author>
+<author>
+<email>mpang2@gmu.edu</email>
+<institution>George Mason University</institution>
+<lname>Pang</lname>
+<fname>Min-Seok</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online services</keyword>
+<keyword>network effects</keyword>
+<keyword>e-commerce</keyword>
+<keyword>analytical modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;A growing number of firms are strategically utilizing information technology and the Internet to provide online services to consumers who buy their products.  Online services differ from traditional services because they often promote interactivity among users and exhibit positive network effects.  While the service increases the value obtained by consumers, network effects are known to intensify price competition and thus may reduce firms’ profits.  In this paper, we model the competition between two firms that sell a differentiated product when each firm can offer a complementary online service to its customers.  We derive the market equilibrium and determine how firms should adjust their strategies to account for network effects.  We find that when the service exhibits network effects, a firm’s decision whether or not to offer the service depends on both the competitor’s decision and the competitor’s service quality.  When the service does not exhibit network effects, this is not the case.  In addition, we show that a firm can benefit from the technological ability to offer the service, and from an increase in the strength of network effects or in the market size of the service, only when the value customers derive from the direct functionalities (those that do not rely on the network) of the service are sufficiently high. As a result, a firm’s investment in the direct functionalities of its service increases with the strength of network effects of the service as long as the marginal development cost is not too high.  Finally, we show that inefficiencies in terms of the number of firms offering the service as well as the total number of service users may prevail.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>231</fpage>
+<lpage>248</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3165&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3165</articleid>
+<submission-date>2014-03-03T09:56:15-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5253247</context-key>
+<submission-path>misq/vol38/iss1/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Complementary Online Services in Competitive Markets</value>
+</field>
+</fields>
+</document>
+</documents>

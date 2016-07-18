@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Affect in Web Interfaces:  A Study of the Impacts of Web Page Visual Complexity and Order</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jdeng@westga.edu</email>
+<institution>University of West Georgia</institution>
+<lname>Deng</lname>
+<fname>Liqiong</fname>
+</author>
+<author>
+<email>mspoole@illinois.edu</email>
+<institution>University of Illinois Urbana-Champaign</institution>
+<lname>Poole</lname>
+<fname>Marshall</fname>
+<mname>Scott</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Webpage visual design</keyword>
+<keyword>webpage visual complexity</keyword>
+<keyword>webpage order</keyword>
+<keyword>emotional response</keyword>
+<keyword>approach behavior</keyword>
+</keywords>
+<abstract>&lt;p&gt;This research concentrates on visual complexity and order as central factors in the design of webpages that enhance users’ positive emotional reactions and facilitate desirable psychological states and behaviors.  Drawing on existing theories and empirical findings in the environmental psychology, human–computer interaction, and marketing research literatures, a research model is developed to explain the relationships among visual complexity and order design features of a webpage, induced emotional responses in users, and users’ approach behaviors toward the website as moderated by users’ metamotivational states.  A laboratory experiment was  conducted to test the model and its associated hypotheses.  The results of the study suggested that a web user’s initial emotional responses (i.e., pleasantness and arousal), evoked by the visual complexity and order design features of a webpage when first encountered, will have carry-over effects on subsequent approach behavior toward the website.  The results also revealed how webpage visual complexity and order influence users’ emotions and behaviors differently when users are in different metamotivational states.  The salience and importance of webpage visual complexity and order for users’ feelings of pleasantness were largely dependent on users’ metamotivational states.&lt;/p&gt;</abstract>
+<fpage>711</fpage>
+<lpage>730</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2931&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2931</articleid>
+<submission-date>2010-11-29T14:47:10-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664572</context-key>
+<submission-path>misq/vol34/iss4/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Impacts of Web Page Visual Complexity and Order</value>
+</field>
+</fields>
+</document>
+</documents>

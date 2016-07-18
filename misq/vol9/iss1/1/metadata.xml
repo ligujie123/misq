@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Evaluation of Benchmarking as a Computer Performance Evaluation Technique</title>
+<publication-date>1985-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Lewis</lname>
+<fname>Byron</fname>
+</author>
+<author>
+<lname>Crews</lname>
+<fname>Albert</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol9/iss1/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1938&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1938</articleid>
+<submission-date>2008-08-18T09:20:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583569</context-key>
+<submission-path>misq/vol9/iss1/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1985-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

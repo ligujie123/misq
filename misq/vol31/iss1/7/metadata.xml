@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Cognitive Stopping Rules for Terminating Information Search in Online Tasks</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Browne</lname>
+<fname>Glen</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Pitts</lname>
+<fname>Mitzi</fname>
+<mname>G.</mname>
+</author>
+<author>
+<lname>Wetherbe</lname>
+<fname>James</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information search</keyword>
+<keyword>cognitive stopping rules</keyword>
+<keyword>online search behavior</keyword>
+<keyword>decision making</keyword>
+<keyword>task types and dimensions</keyword>
+</keywords>
+<abstract>&lt;p&gt;Online search has become a significant activity in the daily lives of individuals throughout much of the world. The almost instantaneous availability of billions of Web pages has caused a revolution in the way people seek information. Despite the increasing importance of online search behavior in decision making and problem solving, very little is known about why people stop searching for information online. In this paper, we review the literature concerning online search and cognitive stopping rules, and then describe specific types of information search tasks. Based on this theoretical development, we generated hypotheses and conducted an experiment with 115 participants each performing three search tasks on the Web. Our findings show that people utilize a number of stopping rules to terminate search, and that the stopping rule used depends on the type of task performed. Implications for online information search theory and practice are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2658&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2658</articleid>
+<submission-date>2008-12-11T08:19:38-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680261</context-key>
+<submission-path>misq/vol31/iss1/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

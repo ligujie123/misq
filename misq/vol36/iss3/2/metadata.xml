@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Riding the Wave:  Past Trends and Future Directions for Health IT Research</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>darryl.romanow@ceprin.org</email>
+<institution>Georgia State University</institution>
+<lname>Romanow</lname>
+<fname>Darryl</fname>
+</author>
+<author>
+<email>scho@ggc.edu</email>
+<institution>Georgia Gwinnett College</institution>
+<lname>Cho</lname>
+<fname>Sunyoung</fname>
+</author>
+<author>
+<email>dstraub@cis.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>x</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3041&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3041</articleid>
+<submission-date>2012-09-05T11:22:21-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3295313</context-key>
+<submission-path>misq/vol36/iss3/2</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-05T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments:  Riding the Wave</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Uncovering the Intellectual Core of the Information Systems Discipline</title>
+<publication-date>2008-10-27T15:06:12-07:00</publication-date>
+<authors>
+<author>
+<email>sidorova@unt.edu</email>
+<institution>University of North Texas</institution>
+<lname>Sidorova</lname>
+<fname>Anna</fname>
+</author>
+<author>
+<email>evangeln@unt.edu</email>
+<institution>University of North Texas</institution>
+<lname>Evangelopoulos</lname>
+<fname>Nicholas</fname>
+</author>
+<author>
+<email>jsv@wsu.edu</email>
+<institution>Washington State University</institution>
+<lname>Valacich</lname>
+<fname>Joseph</fname>
+<mname>S.</mname>
+</author>
+<author>
+<email>ramakrit@unt.edu</email>
+<institution>University of North Texas</institution>
+<lname>Ramakrishnan</lname>
+<fname>Thiagarajan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS identity</keyword>
+<keyword>IS research issues</keyword>
+<keyword>IS research agenda</keyword>
+<keyword>organizational identity</keyword>
+<keyword>latent semantic analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;What is the intellectual core of the information systems discipline?  This study uses latent semantic analysis to examine a large body of published IS research in order to address this question.  Specifically, the abstracts of all research papers over the time period from 1985 through 2006 published in three top IS research journals—MIS Quarterly, Information Systems Research, and Journal of Management Information Systems—were analyzed.  This analysis identified five core research areas:  (1) information technology and organizations; (2) IS development; (3) IT and individuals; (4) IT and markets; and (5) IT and groups.  Over the time frame of our analysis, these core topics have remained quite stable.  However, the specific research themes within each core area have evolved significantly, reflecting research that has focused less on technology development and more on the social context in which information technologies are designed and used.  As such, this analysis demonstrates that the information systems academic discipline has maintained a relatively stable research identity that focuses on how IT systems are developed and how individuals, groups, organizations, and markets interact with IT.&lt;/p&gt;</abstract>
+<fpage>467</fpage>
+<lpage>482</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss3/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2546&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2546</articleid>
+<submission-date>2008-10-27T13:45:47-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656662</context-key>
+<submission-path>misq/vol32/iss3/3</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Sidorova, A., Evangelopoulos, N., Valacich, J. S., and Ramakrishnan, T.  2008.  &quot;Uncovering the Intellectual Core of the Information Systems Discipline,&quot; MIS Quarterly (32:3), pp. 467-482.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

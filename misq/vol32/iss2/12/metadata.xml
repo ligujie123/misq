@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Transformational Technologies and the Creation of New Work Practices:  Making Implicit Knowledge Explicit in Task-Based Offshoring</title>
+<publication-date>2008-10-27T14:09:44-07:00</publication-date>
+<authors>
+<author>
+<email>Leonardi@northwestern.edu</email>
+<institution>Northwestern University</institution>
+<lname>Leonardi</lname>
+<fname>Paul</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>diane.bailey@stanford.edu</email>
+<institution>Stanford University</institution>
+<lname>Bailey</lname>
+<fname>Diane</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Transformational technologies</keyword>
+<keyword>work practices</keyword>
+<keyword>offshoring</keyword>
+<keyword>knowledge transfer</keyword>
+<keyword>distributed work</keyword>
+</keywords>
+<abstract>&lt;p&gt;Studies have shown the knowledge transfer problems that arise when communication and storage technologies are employed to accomplish work across time and space.  Much  less is known about knowledge transfer problems associated with transformational technologies, which afford the creation, modification, and manipulation of digital artifacts.  Yet, these technologies play a critical role in offshoring by allowing the distribution of work at the task level, what we call task-based offshoring.  For example, computer-aided engineering applications transform input like physical dimensions, location coordinates, and material properties into computational models that can be shared electronically among engineers around the world as they work together on analysis tasks. Digital artifacts created via transformational technologies often embody implicit knowledge that must be correctly interpreted to successfully act upon the artifacts.  To explore what problems might arise in interpreting this implicit knowledge across time and space, and how individuals might remedy these problems, we studied a firm that sent engineering tasks from home sites in Mexico and the United States to an offshore site in India.  Despite having proper formal education and ample tool skills, the Indian engineers had difficulty interpreting the implicit knowledge embodied in artifacts sent to them from Mexico and the United States.  To resolve and prevent the problems that subsequently arose, individuals from the home sites developed five new work practices to transfer occupational knowledge to the offshore site.  The five practices were defining requirements, monitoring progress, fixing returns, routing tasks strategically, and filtering quality.  The extent to which sending engineers in our study were free from having to enact these new work practices because on-site coordinators acted on their behalf predicted their perceptions of the effectiveness of the offshoring arrangement, but Indian engineers preferred learning from sending engineers, not on-site coordinators.  Our study contributes to theories of knowledge transfer and has practical implications for managing task-based offshoring arrangements.&lt;/p&gt;</abstract>
+<fpage>411</fpage>
+<lpage>436</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss2/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2539&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2539</articleid>
+<submission-date>2008-10-27T13:08:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656626</context-key>
+<submission-path>misq/vol32/iss2/12</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Leonardi, P. M., and Bailey, D. E.  2008.  “Transformational Technologies and the Creation of New Work Practices:  Making Implicit Knowledge Explicit in Task-Based Offshoring,”  MIS Quarterly (32:2), pp. 411-436.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

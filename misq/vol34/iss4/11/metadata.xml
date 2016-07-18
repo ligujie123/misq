@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Price Effects in Online Product Reviews:  An Analytical Model and Empirical Analysis</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>xli@business.uconn.edu</email>
+<institution>University of Connecticut</institution>
+<lname>Li</lname>
+<fname>Xinxin</fname>
+</author>
+<author>
+<email>lhitt@wharton.upenn.edu</email>
+<lname>Hitt</lname>
+<fname>Lorin</fname>
+<mname>M</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Online product reviews</keyword>
+<keyword>review bias</keyword>
+<keyword>price effects</keyword>
+<keyword>empirical analysis</keyword>
+<keyword>optimal pricing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Consumer reviews may reflect not only perceived quality but also the difference between quality and price (perceived value). In markets where product prices change frequently, these price-influenced reviews may be biased as a signal of product quality when used by consumers possessing no knowledge of historical prices. In this paper, we develop an analytical model that examines the impact of price-influenced reviews on firm optimal pricing and consumer welfare. We quantify the price effects in consumer reviews for different formats of review systems using actual market prices and online consumer ratings data collected for the digital camera market. Our empirical results suggest that unidimensional ratings, commonly used in most review systems, can be substantially biased by price effects. In fact, unidimensional ratings are more closely correlated with ratings of product value than ratings of product quality. Our findings suggest the importance for firms to account for these price effects in their overall marketing strategy and suggest that review systems could better serve consumers by explicitly expanding review dimensions to separate perceived value and perceived quality.&lt;/p&gt;</abstract>
+<fpage>809</fpage>
+<lpage>831</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2935&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2935</articleid>
+<submission-date>2010-11-29T14:57:55-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664596</context-key>
+<submission-path>misq/vol34/iss4/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Price Effects in Online Product Reviews</value>
+</field>
+</fields>
+</document>
+</documents>

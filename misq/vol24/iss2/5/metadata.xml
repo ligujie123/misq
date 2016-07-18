@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>System Life Expectancy and the Maintenance Effort:  Exploring Their Equilibrium</title>
+<publication-date>2000-06-16T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Swanson</lname>
+<fname>E.</fname>
+<mname>B.</mname>
+</author>
+<author>
+<lname>Dans</lname>
+<fname>Enrique</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol24/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2373&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2373</articleid>
+<submission-date>2008-08-18T13:40:50-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584740</context-key>
+<submission-path>misq/vol24/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-06-16T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

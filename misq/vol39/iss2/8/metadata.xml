@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Leading Collaboration in Online Communities</title>
+<publication-date>2015-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>samer.faraj@mcgill.ca</email>
+<institution>McGill University</institution>
+<lname>Faraj</lname>
+<fname>Samer</fname>
+</author>
+<author>
+<email>kudaravalli@hec.fr</email>
+<institution>HEC Paris</institution>
+<lname>Kudaravalli</lname>
+<fname>Srinivas</fname>
+</author>
+<author>
+<email>mwasko@uab.edu</email>
+<institution>University of Alabama at Birmingham</institution>
+<lname>Wasko</lname>
+<fname>Molly</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online leadership</keyword>
+<keyword>leader behaviors</keyword>
+<keyword>online communities</keyword>
+<keyword>structural social capital</keyword>
+<keyword>knowledge collaboration</keyword>
+<keyword>network analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Despite the growing importance of online communities in creating knowledge and facilitating collaboration, there has been limited research examining the role of leaders in such settings. In this paper, we propose a framework that integrates behavioral and structural approaches to explore the antecedents of leadership in online communities focused on knowledge work. Specifically, we propose that sociability and knowledge contribution behaviors as well as structural social capital lead to being identified as a leader by members of the online community. We test this framework using social network, survey, and message-level content analysis data collected from three different online communities focused on technical topics. The results from our zero inflated negative binomial models, with 6,709 messages from 976 individuals, provide strong support for the framework that is developed in this study. Our study contributes to both theory and practice by identifying the behavioral and structural antecedents of leadership in online communities.&lt;/p&gt;</abstract>
+<fpage>393</fpage>
+<lpage>412</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3238&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3238</articleid>
+<submission-date>2015-04-30T08:12:57-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7050084</context-key>
+<submission-path>misq/vol39/iss2/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Leading Collaboration in Online Communities</value>
+</field>
+</fields>
+</document>
+</documents>

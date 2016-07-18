@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding and Predicting Electronic Commerce Adoption:  An Extension of the Theory of Planned Behavior</title>
+<publication-date>2006-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Fygenson</lname>
+<fname>Mendel</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Theory of planned behavior</keyword>
+<keyword>perceived behavioral control</keyword>
+<keyword>self-efficacy</keyword>
+<keyword>controllability</keyword>
+<keyword>technology adoption</keyword>
+<keyword>technology acceptance model</keyword>
+<keyword>trust</keyword>
+<keyword>electronic commerce</keyword>
+<keyword>consumer behavior</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper extends Ajzen’s (1991) theory of planned behavior (TPB) to explain and predict the process of e-commerce adoption by consumers. The process is captured through two online consumer behaviors: (1) getting information and (2) purchasing a product from a Web vendor. First, we simultaneously model the association between these two contingent online behaviors and their respective intentions by appealing to consumer behavior theories and the theory of implementation intentions, respectively. Second, following TPB, we derive for each behavior its intention, attitude, subjective norm, and perceived behavioral control (PBC). Third, we elicit and test a comprehensive set of salient beliefs for each behavior.   A longitudinal study with online consumers supports the proposed e-commerce adoption model, validating the predictive power of TPB and the proposed conceptualization of PBC as a higher-order factor formed by self-efficacy and controllability. Our findings stress the importance of trust and technology adoption variables (perceived usefulness and ease of use) as salient beliefs for predicting e-commerce adoption, justifying the integration of trust and technology adoption variables within the TPB framework. In addition, technological characteristics (download delay, Website navigability, and information protection), consumer skills, time and monetary resources, and product characteristics (product diagnosticity and product value) add to the explanatory and predictive power of our model. Implications for Information Systems, e-commerce, TPB, and the study of trust are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2753&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2753</articleid>
+<submission-date>2008-12-15T12:07:32-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>682088</context-key>
+<submission-path>misq/vol30/iss1/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

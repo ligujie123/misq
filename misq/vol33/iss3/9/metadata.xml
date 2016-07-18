@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigating User Resistance to Information Systems Implementation:  A Status Quo Bias Perspective</title>
+<publication-date>2009-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>kimhw@yonsei.ac.kr</email>
+<institution>Yonsei University and National University of Singapore</institution>
+<lname>Kim</lname>
+<fname>Hee-Woong</fname>
+</author>
+<author>
+<email>atreyi@comp.nus.edu.sg</email>
+<institution>National University of Singapore</institution>
+<lname>Kankanhalli</lname>
+<fname>Atreyi</fname>
+</author>
+</authors>
+<keywords>
+<keyword>User resistance</keyword>
+<keyword>IS implementation</keyword>
+<keyword>status quo</keyword>
+<keyword>bias theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;User resistance to information systems implementation has been identified as a salient reason for the failure of new systems and hence needs to be understood and managed.  While previous research has explored the reasons for user resistance, there are gaps in our understanding of how users evaluate change related to a new information system and decide to resist it.  In particular, missing in the explanation of user decision making is the concept of status quo bias, that is, that user resistance can be due to the bias or preference to stay with the current situation.  Motivated thus, this study develops a model to explain user resistance prior to a new IS implementation by integrating the technology acceptance and resistance literatures with the status quo bias perspective.  The results of testing the model in the context of a new enterprise system implementation indicate the central role of switching costs in increasing user resistance.  Further, switching costs also mediate the relationship between other antecedents (colleague opinion and self-efficacy for change) and user resistance.  Additionally, perceived value and organizational support for change are found to reduce user resistance.  This research advances the theoretical understanding of user acceptance and resistance prior to a new IS implementation and offers organizations suggestions for managing such resistance.&lt;/p&gt;</abstract>
+<fpage>567</fpage>
+<lpage>582</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss3/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2866&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2866</articleid>
+<submission-date>2009-08-21T11:59:04-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>961847</context-key>
+<submission-path>misq/vol33/iss3/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>User Resistance to IS Implementation</value>
+</field>
+</fields>
+</document>
+</documents>

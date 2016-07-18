@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Interpretation of Formative Measurement in Information Systems Research</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>cenfetelli@sauder.ubc.edu</email>
+<institution>The University of British Columbia</institution>
+<lname>Cenfetelli</lname>
+<fname>Ronald</fname>
+<mname>T.</mname>
+</author>
+<author>
+<email>genevieve.bassellier@mcgill.ca</email>
+<institution>McGill University</institution>
+<lname>Bassellier</lname>
+<fname>Genevieve</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Structural equation modeling</keyword>
+<keyword>formative measurement</keyword>
+<keyword>formative indicators</keyword>
+<keyword>measurement theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;Within the Information Systems literature, there has been an emerging interest in the use of formative measurement in structural equation modeling (SEM).  This interest is exemplified by descriptions of the nature of formative measurement (e.g., Chin 1998a), and more recently the proper specification of formatively measured constructs (Petter et al. 2007) as well as application of such constructs (e.g., Barki et al. 2007).  Formative measurement is a useful alternative to reflective measurement.  However, there has been little guidance on interpreting the results when formative measures are employed.  Our goal is to provide guidance relevant to the interpretation of formative measurement results through the examination of the following six issues:  multicollinearity; the number of indicators specified for a formatively measured construct; the possible co-occurrence of negative and positive indicator weights; the absolute versus relative contributions made by a formative indicator; nomological network effects; and the possible effects of using partial least squares (PLS) versus covariance-based SEM techniques.  We provide prescriptions for researchers to consider when interpreting the results of formative measures as well as an example to illustrate these prescriptions.&lt;/p&gt;</abstract>
+<fpage>689</fpage>
+<lpage>708</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2876&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2876</articleid>
+<submission-date>2009-11-30T12:30:44-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074905</context-key>
+<submission-path>misq/vol33/iss4/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Formative Measurement in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

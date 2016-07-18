@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Three-Perspective Model of Culture, Information Systems, and Their Development and Use</title>
+<publication-date>2008-10-27T15:06:28-07:00</publication-date>
+<authors>
+<author>
+<email>Antonio.Kappos@hec.ca</email>
+<institution>HEC Montreal</institution>
+<lname>Kappos</lname>
+<fname>Antonio</fname>
+</author>
+<author>
+<email>suzanne.rivard@hec.ca</email>
+<institution>HEC Montreal</institution>
+<lname>Rivard</lname>
+<fname>Suzanne</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS development</keyword>
+<keyword>IS use</keyword>
+<keyword>IS characteristics</keyword>
+<keyword>culture</keyword>
+<keyword>integration</keyword>
+<keyword>differentiation</keyword>
+<keyword>fragmentation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Culture plays an increasingly important role in information systems initiatives, and it receives considerable attention from researchers who have studied a variety of aspects of its role in IS initiatives.  Notwithstanding the contributions of research to date, our knowledge of how culture influences— and is influenced by—the development and use processes and an information system itself remains fragmented.  Knowledge fragmentation is amplified by the fact that conceptualizations of culture differ among researchers.  Indeed, most researchers agree that culture consists of patterns of meaning underlying a variety of manifestations.  Researchers diverge, however, on the degree of consensus on these interpretations that they assume to be reached within a collective.  In order to integrate these divergent conceptualizations of culture, we adopt the view that no single perspective is sufficient to capture the complexity of interplay between culture, the processes of developing and using an IS, and the IS itself.  We have, therefore, adopted a conceptualization that views culture from three perspectives—integration, differentiation, and fragmentation—that come into play simultaneously and jointly.  Using this conceptualization, the paper synthesizes what is known about the role of culture in IS initiatives, and proposes a model of the relationships between culture, the development and use processes, and an information system.&lt;/p&gt;</abstract>
+<fpage>601</fpage>
+<lpage>634</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss3/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2552&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2552</articleid>
+<submission-date>2008-10-27T14:11:14-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656680</context-key>
+<submission-path>misq/vol32/iss3/9</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Kappos, A., and Rivard, S.  2008.  “A Three-Perspective Model of Culture, Information Systems, and Their Development and Use,” MIS Quarterly (32:3), pp. 601-634.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

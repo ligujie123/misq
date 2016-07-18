@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Managing Consumer Privacy Concerns in Personalization:  A Strategic Analysis of Privacy Protection</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>djlee@hansung.ac.kr</email>
+<institution>Hansung University</institution>
+<lname>Lee</lname>
+<fname>Dong-Joo</fname>
+</author>
+<author>
+<email>jahn@business.kaist.ac.kr</email>
+<institution>Korea Advanced Institute of Science and Technology</institution>
+<lname>Ahn</lname>
+<fname>Jae-Hyeon</fname>
+</author>
+<author>
+<email>buffett@business.kaist.ac.kr</email>
+<institution>Korea Advanced Institute of Science and Technology</institution>
+<lname>Bang</lname>
+<fname>Youngsok</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information privacy</keyword>
+<keyword>consumer privacy concerns</keyword>
+<keyword>personalization</keyword>
+<keyword>privacy protection</keyword>
+<keyword>fair information practices</keyword>
+<keyword>game theory</keyword>
+<keyword>competitive analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Advances in information technology and e-commerce enable firms to make personalized offers to individual consumers based on information about the consumers. However, the collection and use of private information have caused serious concerns about privacy invasion by consumers, creating a personalization–privacy tradeoff. The key approach to address privacy concerns is via the protection of privacy through the implementation of fair information practices, a set of standards governing the collection and use of personal information. In this paper, we take a game-theoretic approach to explore the motivation of firms for privacy protection and its impact on competition and social welfare in the context of product and price personalization. We find that privacy protection can work as a competition-mitigating mechanism by generating asymmetry in the consumer segments to which firms offer personalization, enhancing the profit extraction abilities of the firms. In equilibrium, both symmetric and asymmetric choices of privacy protection by the firms can result, depending on the size of the personalization scope and the investment cost of protection. Further, as consumers become more concerned about their privacy, it is more likely that all firms adopt privacy protection. In the perspective of welfare, we show that autonomous choices of privacy protection by personalizing firms can improve social welfare at the expense of consumer welfare. We further find that regulation enforcing the implementation of fair information practices can be efficient from the social welfare perspective mainly by limiting the incentives of the firms to exploit the competition-mitigation effect.&lt;/p&gt;</abstract>
+<fpage>423</fpage>
+<lpage>444</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2961&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2961</articleid>
+<submission-date>2011-06-09T11:36:12-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2053842</context-key>
+<submission-path>misq/vol35/iss2/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-09T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Managing Consumer Privacy Concerns</value>
+</field>
+</fields>
+</document>
+</documents>

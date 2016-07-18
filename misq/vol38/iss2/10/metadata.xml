@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of Web Personalization on User Attitude and Behavior:  An Integration of the Elaboration Likelihood Model and Consumer Research Theory</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>susanna.ho@anu.edu.au</email>
+<institution>Australian National University</institution>
+<lname>Ho</lname>
+<fname>Shuk Ying</fname>
+</author>
+<author>
+<email>dbodoff@univ.haifa.ac.il</email>
+<institution>University of Haifa</institution>
+<lname>Bodoff</lname>
+<fname>David</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Elaboration likelihood model</keyword>
+<keyword>consumer search theory</keyword>
+<keyword>web personalization</keyword>
+<keyword>attitude persistence</keyword>
+<keyword>attitude confidence</keyword>
+</keywords>
+<abstract>&lt;p&gt;Web personalization can achieve two business goals:  increased advertising revenue and increased sales revenue.  The realization of the two goals is related to two kinds of user behavior:  item sampling and item selection.  Prior research does not provide a model of attitude formation toward a personalization agent nor of how attitudes relate to these two behaviors.  This limits our understanding of how web personalization can be managed to increase advertising revenues and/or sales revenues.  To fill this gap, the current research develops and tests a theoretical model of user attitudes and behaviors toward a personalization agent.  The model is based on an integration of two theories:  the elaboration likelihood model (ELM) and consumer search theory (CST).  In the integrated model, a user’s attitude toward a personalization agent is influenced by both the number of items he/she has sampled so far (from CST) and the degree to which he/she cognitively processes each one (from ELM).  In turn, attitude is modeled to influence both behaviors—that is, item selection and any further item sampling.  We conducted a lab study and a field study to test six hypotheses.  This research extends the theory on web personalization by providing a more complete picture of how sampling and processing of personalized recommendations influence a user’s attitude and behavior toward the personalization agent.  For online merchants, this research highlights the trade-off between item sampling and item selection and provides practical guidance on how to steer users toward the attitudes and behaviors that will realize their business goals&lt;/p&gt;</abstract>
+<fpage>497</fpage>
+<lpage>520</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss2/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3178&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3178</articleid>
+<submission-date>2014-05-28T10:03:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5627537</context-key>
+<submission-path>misq/vol38/iss2/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-05-28T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Effects of Web Personalization on User Attitude &amp; Behavior</value>
+</field>
+</fields>
+</document>
+</documents>

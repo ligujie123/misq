@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of Shaping on Knowledge Reuse for Organizational Improvement with Wikis</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>majchrza@usc.edu</email>
+<institution>University of Southern California</institution>
+<lname>Majchrzak</lname>
+<fname>Ann</fname>
+</author>
+<author>
+<email>c.wagner@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Wagner</lname>
+<fname>Christian</fname>
+</author>
+<author>
+<email>hdjryates@gmail.com</email>
+<institution>United States Air Force</institution>
+<lname>Yates</lname>
+<fname>Dave</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Wiki</keyword>
+<keyword>Intranet</keyword>
+<keyword>knowledge management</keyword>
+<keyword>KMS</keyword>
+<keyword>knowledge reuse</keyword>
+<keyword>shaping</keyword>
+<keyword>knowledge depth</keyword>
+<keyword>knowledge breadth</keyword>
+<keyword>transactive memory</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this study, we explore the Wiki affordance of enabling shaping behavior within organizational intranets supported by Wikis.  Shaping is the continuous revision of one’s own and others’ contributions to a Wiki.　 Shaping promotes knowledge reuse through improved knowledge integration.　 Recognizing and clarifying the role of shaping allows us to theorize new ways in which knowledge resources affect knowledge reuse.　 We examine the role of three knowledge resources of a Wiki contributor:  knowledge depth, knowledge breadth, and assessment of the level of development of the Wiki community’s transactive memory system.  We offer preliminary evidence based on a sample of experienced organizational Wiki users that the three different knowledge resources have differential effects on shaping, that these effects differ from the effects on the more common user behavior of simply adding domain knowledge to a Wiki, and that shaping and adding each independently affect contributors’ perceptions that their knowledge in the Wiki has been reused for organizational improvement.  By empirically distinguishing between the different knowledge antecedents and consequences of shaping and adding, we derive implications for theory and research on knowledge integration and reuse.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>455</fpage>
+<lpage>469</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3102&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3102</articleid>
+<submission-date>2013-05-21T13:55:07-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161536</context-key>
+<submission-path>misq/vol37/iss2/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Knowledge Reuse for Organizational Improvement</value>
+</field>
+</fields>
+</document>
+</documents>

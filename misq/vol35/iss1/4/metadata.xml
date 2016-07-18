@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Set of Principles for Conducting Critical Research in Information Systems</title>
+<publication-date>2011-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>m.myers@auckland.ac.nz</email>
+<institution>University of Auckland</institution>
+<lname>Myers</lname>
+<fname>Michael D.</fname>
+</author>
+<author>
+<email>h.k.klein@binghamton.edu</email>
+<institution>State University of New York at Binghamton</institution>
+<lname>Klein</lname>
+<fname>Heinz</fname>
+<mname>K.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Research methods</keyword>
+<keyword>critical research</keyword>
+<keyword>interpretive perspective</keyword>
+<keyword>critical perspective</keyword>
+<keyword>ethics</keyword>
+<keyword>values</keyword>
+</keywords>
+<abstract>&lt;p&gt;While criteria or principles for conducting positivist and interpretive research have been widely discussed in the IS research literature, criteria or principles for critical research are lacking. Therefore, the purpose of this paper is to propose a set of principles for the conduct of critical research in information systems. We examine the nature of the critical research perspective, clarify its significance, and review its major discourses, recognizing that its mission and methods cannot be captured by a fixed set of criteria once and for all, particularly as multiple approaches are still in the process of defining their identity. However, we suggest it is possible to formulate a set of principles capturing some of the commonalities of those approaches that have so far become most visible in the IS research literature. The usefulness of the principles is illustrated by analyzing three critical field studies in information systems. We hope that this paper will further reflection and debate on the important subject of grounding critical research methodology.&lt;/p&gt;</abstract>
+<fpage>17</fpage>
+<lpage>39</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2940&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2940</articleid>
+<submission-date>2011-03-02T09:04:23-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1837810</context-key>
+<submission-path>misq/vol35/iss1/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Principles for Conducting Critical Research in IS</value>
+</field>
+</fields>
+</document>
+</documents>

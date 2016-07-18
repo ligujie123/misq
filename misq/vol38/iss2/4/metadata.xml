@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Collection in the Digital Age:  Innovative Alternatives to Student Samples</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>zach@steelman.com</email>
+<institution>Oklahoma State University</institution>
+<lname>Steelman</lname>
+<fname>Zachary</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>bryan.hammer@okstate.edu</email>
+<institution>Oklahoma State University</institution>
+<lname>Hammer</lname>
+<fname>Bryan</fname>
+</author>
+<author>
+<email>mlimayem@usf.edu</email>
+<institution>ISYS, University of Arkansas, Fayetteville, AR, United States.</institution>
+<lname>Limayem</lname>
+<fname>Moez</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Data collection</keyword>
+<keyword>crowdsourcing</keyword>
+<keyword>sampling</keyword>
+<keyword>online research</keyword>
+<keyword>crowdsourcing market</keyword>
+</keywords>
+<abstract>&lt;p&gt;Online crowdsourcing markets (OCM) are becoming more popular as a source for data collection. In this paper, we examine the consistency of survey results across student samples, consumer panels, and online crowdsourcing markets (specifically Amazon’s Mechanical Turk) both within the United States and outside. We conduct two studies examining the technology acceptance model (TAM) and the expectation– disconfirmation theory (EDT) to explore potential differences in demographics, psychometrics, structural model estimates, and measurement invariances. Our findings indicate that (1)　U.S.-based OCM samples provide demographics much more similar to our student and consumer panel samples than the non-U.S.-based OCM samples; (2)　both U.S. and non-U.S. OCM samples provide initial psychometric properties (reliability, convergent, and divergent validity) that are similar to those of both student and consumer panels; (3)　non-U.S. OCM samples generally provide differences in scale means compared to those of our students, consumer panels, and U.S. OCM samples; and (4)　one of the non-U.S. OCM samples refuted the highly replicated and validated TAM model in the relationship of perceived usefulness to behavioral intentions. Although our post hoc analyses isolated some cultural and demographic effects with regard to the non-U.S. samples in Study 1, they did not address the model differences found in Study 2. Specifically, the inclusion of non-U.S. OCM respondents led to statistically significant differences in parameter estimates, and hence to different statistical conclusions. Due to these unexplained differences that exist within the non-U.S. OCM samples, we caution that the inclusion of non-U.S. OCM participants may lead to different conclusions than studies with only U.S. OCM participants. We are unable to conclude whether this is due to of cultural differences, differences in the demographic profiles of non-U.S. OCM participants, or some unexplored factors within the models. Therefore, until further research is conducted to explore these differences in detail, we urge researchers utilizing OCMs with the intention to generalize to U.S. populations focus on U.S.-based participants and exercise caution in using non-U.S. participants. We further recommend that researchers should clearly describe their OCM usage and design (e.g., demographics, participant filters, etc.) procedures. Overall, we find that U.S. OCM samples produced models that lead to similar statistical conclusions as both U.S. students and U.S. consumer panels at a considerably reduced cost.&lt;/p&gt;</abstract>
+<fpage>355</fpage>
+<lpage>378</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss2/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3172&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3172</articleid>
+<submission-date>2014-05-28T07:52:42-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5626749</context-key>
+<submission-path>misq/vol38/iss2/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-05-28T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Data Collection in the Digital Age</value>
+</field>
+</fields>
+</document>
+</documents>

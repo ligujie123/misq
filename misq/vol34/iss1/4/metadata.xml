@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Systems and Environmentally Sustainable Development:  Energy Informatics and New Directions for the IS Community</title>
+<publication-date>2010-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>rwatson@terry.uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Watson</lname>
+<fname>Richard</fname>
+<mname>T.</mname>
+</author>
+<author>
+<email>mcboudre@terry.uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Boudreau</lname>
+<fname>Marie-Claude</fname>
+</author>
+<author>
+<email>chenjw@uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Chen</lname>
+<fname>Adela</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Environmental sustainability</keyword>
+<keyword>energy informatics</keyword>
+<keyword>IS community</keyword>
+</keywords>
+<abstract>&lt;p&gt;While many corporations and Information Systems units recognize that environmental sustainability is an urgent problem to address, the IS academic community has been slow to acknowledge the problem and take action.  We propose ways for the IS community to engage in the development of environmentally sustainable business practices.  Specifically, as IS researchers, educators, journal editors, and association leaders, we need to demonstrate how the transformative power of IS can be leveraged to create an ecologically sustainable society.  In this Issues and Opinions piece, we advocate a research agenda to establish a new subfield of energy informatics, which applies information systems thinking and skills to increase energy efficiency. We also articulate how IS scholars can incorporate environmental sustainability as an underlying foundation in their teaching, and how IS leaders can embrace environmental sustainability in their core principles and foster changes that reduce the environmental impact of our community.&lt;/p&gt;</abstract>
+<fpage>23</fpage>
+<lpage>38</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2891&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2891</articleid>
+<submission-date>2010-03-03T14:06:10-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1193646</context-key>
+<submission-path>misq/vol34/iss1/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IS and Environmentally Sustainable Development</value>
+</field>
+</fields>
+</document>
+</documents>

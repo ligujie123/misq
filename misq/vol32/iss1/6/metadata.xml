@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology Governance in Information Technology Investment Decision Processes:  The Impact of Investment Characteristics, External Environment, and Internal Context</title>
+<publication-date>2008-10-10T12:26:21-07:00</publication-date>
+<authors>
+<author>
+<email>xuey@ecu.edu</email>
+<institution>East Carolina University</institution>
+<lname>Xue</lname>
+<fname>Yajiong</fname>
+</author>
+<author>
+<email>hliang@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Liang</lname>
+<fname>Huigang</fname>
+</author>
+<author>
+<email>william.boulton@wwu.edu</email>
+<institution>Western Washington University</institution>
+<lname>Boulton</lname>
+<fname>William</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>IT investment</keyword>
+<keyword>decision-making process</keyword>
+<keyword>IT governance</keyword>
+<keyword>centralization</keyword>
+<keyword>IT function power</keyword>
+<keyword>external environment</keyword>
+<keyword>investment characteristics</keyword>
+<keyword>monarchy</keyword>
+<keyword>duopoly</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study identifies governance patterns for information technology investment decision processes and explores the impact of organizations’ investment characteristics, external  environment, and internal context on the shaping of those patterns. By identifying the lead actors of the initiation, development, and approval stages in IT governance, the patterns of 57 IT investment decisions at 6 hospitals are analyzed.  The results reveal seven IT governance archetypes: (1) top management monarchy, (2) top management–IT duopoly, (3) IT monarchy, (4) administration monarchy, (5) administration– IT duopoly, (6) professional monarchy, and (7) professional– IT duopoly.  Each archetype is analyzed by taking into account four specific factors:  IT investment level, external influence, organizational centralization, and IT function power. This study makes several contributions to IT governance theory and practice.  First, IT governance is reframed to include pre-decision stages, highlighting the importance of participants other than the final decision maker.  Second, the variation of IT governance archetypes suggests that even when top management approval is required, the IT department may not play a key role in the IT investment decision process.  Third, governance of the pre-decision initiation and development stages is found to be jointly affected by several contextual factors, suggesting that the allocation of final decision rights is only a part of IT governance.  While decision rights may be allocated by the organization a priori, the actual patterns of IT governance are contingent on contextual factors.  It is important to understand how IT governance archetypes are shaped because they may affect desired outcomes of IT investments.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2523&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2523</articleid>
+<submission-date>2008-10-09T14:26:44-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>647459</context-key>
+<submission-path>misq/vol32/iss1/6</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Xue, Y., Liang, H., and Boulton, W. R.  2008.  &quot;Information Technology Governance in Information Technology Investment Decision Processes:  The Impact of Investment Characteristics, External Environment, and Internal Conflict,&quot; MIS Quarterly (32:1), pp. 67-96.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

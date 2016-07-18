@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Community Learning in Information Technology Innovation</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>pwang@umd.edu</email>
+<institution>University of Maryland, College Park, USA</institution>
+<lname>Wang</lname>
+<fname>Ping</fname>
+</author>
+<author>
+<email>neilr@sba.pdx.edu</email>
+<institution>Portland State University</institution>
+<lname>Ramiller</lname>
+<fname>Neil C.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information technology innovation</keyword>
+<keyword>innovation community</keyword>
+<keyword>community learning</keyword>
+<keyword>learning-about</keyword>
+<keyword>discourse</keyword>
+<keyword>management fashion</keyword>
+<keyword>organizing vision</keyword>
+</keywords>
+<abstract>&lt;p&gt;In striving to learn about an information technology innovation, organizations draw on knowledge resources available in the community of diverse interests that convenes around that innovation.  But even as such organizations learn about the innovation, so too does the larger community.  Community learning takes place as its members reflect upon their learning and contribute their experiences, observations, and insights to the community’s on-going discourse on the innovation.  Community learning and organizational learning thus build upon one another in a reciprocal cycle over time, as the stock of interpretations, adoption rationales, implementation strategies, and utilization patterns is expanded and refined.  We advance an overall model of this learning cycle, drawing on two community-level theories (management fashion and organizing vision), both of which complement the dominant emphases of the literature on IT innovation and learning.  Relative to this cycle, we then empirically examine, in particular, the dependence of community learning on organizational learning.  Sampling the public discourse on enterprise resource planning (ERP) over a 14-year period, we explore how different kinds of organizational actors can play different roles, at different times, in contributing different types of knowledge to an innovation’s public discourse.  The evidence suggests that research analysts and technology vendors took leadership early on in articulating the “know-what” (interpretation) and “know-why” (rationales) for ERP, while later on adopters came to dominate the discourse as its focus shifted to the “know-how” (strategies and capabilities).  We conclude by identifying opportunities for further inquiry on and strategic management of community learning and its interactions with organizational learning.&lt;/p&gt;</abstract>
+<fpage>709</fpage>
+<lpage>734</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2877&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2877</articleid>
+<submission-date>2009-11-30T12:33:02-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074916</context-key>
+<submission-path>misq/vol33/iss4/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Community Learning in IT Innovation</value>
+</field>
+</fields>
+</document>
+</documents>

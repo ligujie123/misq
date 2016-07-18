@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MISQ, Inc. or an Online Collective?  Is There a Journal Personality and What it Means for Authors</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>dstraub@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar W.</fname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>viii</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2914&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2914</articleid>
+<submission-date>2010-08-13T08:13:50-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444076</context-key>
+<submission-path>misq/vol34/iss3/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>EdCommentsV34N3.pdf</archive-name>
+<upload-name>EdCommentsV34N3.pdf</upload-name>
+<url>http://aisel.aisnet.org/cgi/viewcontent.cgi?filename=0&amp;amp;article=2914&amp;amp;context=misq&amp;amp;type=additional</url>
+<mime-type>application/pdf</mime-type>
+<description>EdCommentsV34N3.pdf</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

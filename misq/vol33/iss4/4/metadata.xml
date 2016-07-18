@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Commentary on Gill and Bhattacherjee:  Is There an Informing Crisis?</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>m.myers@auckland.ac.nz</email>
+<institution>University of Auckland</institution>
+<lname>Myers</lname>
+<fname>Michael D.</fname>
+</author>
+<author>
+<email>baskerville@acm.org</email>
+<institution>Georgia State University</institution>
+<lname>Baskerville</lname>
+<fname>Richard L.</fname>
+</author>
+</authors>
+<fpage>663</fpage>
+<lpage>665</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2874&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2874</articleid>
+<submission-date>2009-11-30T12:22:42-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074883</context-key>
+<submission-path>misq/vol33/iss4/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Commentary on Gill and Bhattacherjee</value>
+</field>
+</fields>
+</document>
+</documents>

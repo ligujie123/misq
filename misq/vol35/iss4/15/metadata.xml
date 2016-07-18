@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Virtual Space and Place:  Theory and Test</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>csaunders@bus.ucf.edu</email>
+<institution>University of Central Florida</institution>
+<lname>Saunders</lname>
+<fname>Carol</fname>
+</author>
+<author>
+<email>a.rutkowski@uvt.nl</email>
+<institution>Tilburg University</institution>
+<lname>Rutkowski</lname>
+<fname>Anne-Francoise</fname>
+</author>
+<author>
+<email>genuchten@ieee.org</email>
+<institution>Open Digital Dentistry</institution>
+<lname>van Genuchten</lname>
+<fname>Michiel</fname>
+</author>
+<author>
+<email>isdoug@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Vogel</lname>
+<fname>Douglas R.</fname>
+</author>
+<author>
+<email>julio.molina.orrego@gmail.com</email>
+<institution>GDF Suez</institution>
+<lname>Orrego</lname>
+<fname>Julio</fname>
+<mname>Molina</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Special Issue:  New Ventures in Virtual Worlds</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Virtual worlds</keyword>
+<keyword>Second Life</keyword>
+<keyword>virtual space</keyword>
+<keyword>place</keyword>
+<keyword>cognition</keyword>
+<keyword>perception</keyword>
+<keyword>familiarity</keyword>
+<keyword>presence</keyword>
+<keyword>social presence</keyword>
+<keyword>focused immersion</keyword>
+</keywords>
+<abstract>&lt;p&gt;Little is known about how individuals come to relate to settings in virtual worlds (VWs), which are defined as digital environments in which individuals, groups, and even organizations interact in virtual (that is to say, nonphysical) spaces. This research develops a theory of virtual space and place (VSP), specifically relating this to the setting of Second Life (SL), a prominent social virtual world. We explore how three-dimensional space, as perceived by users, is able to provide them with an interactive experience with virtual objects, as well as with other VW denizens. To test our theory, we build interactive work tools in SL that are designed to reflect various degrees of motion range and to influence presence. The three information technology tools are evaluated by 150 business professionals who are either familiar or unfamiliar with SL. Implications for practice and directions for future research are discussed.&lt;/p&gt;</abstract>
+<fpage>1079</fpage>
+<lpage>1098</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss4/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2996&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2996</articleid>
+<submission-date>2011-12-01T09:57:47-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2382529</context-key>
+<submission-path>misq/vol35/iss4/15</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Virtual Space and Place</value>
+</field>
+</fields>
+</document>
+</documents>

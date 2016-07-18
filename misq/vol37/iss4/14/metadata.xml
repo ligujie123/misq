@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Inferring App Demand from Publicly Available Data</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>rajiv.garg@mccombs.utexas.edu</email>
+<institution>University of Texas at Austin</institution>
+<lname>Garg</lname>
+<fname>Rajiv</fname>
+</author>
+<author>
+<email>rtelang@andrew.cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Telang</lname>
+<fname>Rahul</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Mobile apps</keyword>
+<keyword>app store</keyword>
+<keyword>sales-rank calibration</keyword>
+<keyword>app downloads</keyword>
+<keyword>pareto distribution</keyword>
+<keyword>Android</keyword>
+<keyword>Apple iTunes</keyword>
+<keyword>in-app purchase</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;With an abundance of products available online, many online retailers provide sales rankings to make it easier for consumers to find the best-selling products.  Successfully implementing product rankings online was done a decade ago by Amazon, and more recently by Apple’s App Store.  However, neither market provides actual download data, a very useful statistic for both practitioners and researchers.  In the past, researchers developed various strategies that allowed them to infer demand from rank data.  Almost all of that work is based on an experiment that shifts sales or collaboration with a vendor to get actual sales data.  In this research, we present an innovative method to use public data to infer the rank–demand relationship for the paid apps on Apple’s iTunes App Store.  We find that the top-ranked paid app for iPhone generates 150 times more downloads compared to the paid app ranked at 200.  Similarly, the top paid app on iPad generates 120 times more downloads compared to the paid app ranked at 200.  We conclude with a discussion on an extension of this framework to the Android platform, in-app purchases, and free apps.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1253</fpage>
+<lpage>1264</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3132&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3132</articleid>
+<submission-date>2013-12-02T08:59:56-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864559</context-key>
+<submission-path>misq/vol37/iss4/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Inferring App Demand from Publicly Available Data</value>
+</field>
+</fields>
+</document>
+</documents>

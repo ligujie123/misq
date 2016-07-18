@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Deal-Seeking Versus Brand-Seeking:  Search Behaviors and Purchase Propensities in Sponsored Search Platforms</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>il.im@yonsei.ac.kr</email>
+<institution>Yonsei University</institution>
+<lname>Im</lname>
+<fname>Il</fname>
+</author>
+<author>
+<email>jkjun@hufs.ac.kr</email>
+<institution>Hankuk University of Foreign Studies</institution>
+<lname>Jun</lname>
+<fname>Jongkun</fname>
+</author>
+<author>
+<email>wonseok.oh@kaist.ac.kr</email>
+<institution>Korea Advanced Institute of Science and Technology</institution>
+<lname>Oh</lname>
+<fname>Wonseok</fname>
+</author>
+<author>
+<email>seokohj@hufs.ac.kr</email>
+<institution>Hankuk University of Foreign Studies</institution>
+<lname>JEONG</lname>
+<fname>SEOK-OH</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Sponsored search</keyword>
+<keyword>deal-seeking</keyword>
+<keyword>brand-seeking</keyword>
+<keyword>experience goods</keyword>
+<keyword>click-through rate</keyword>
+<keyword>conversion rate</keyword>
+<keyword>hierarchical generalized linear model</keyword>
+<keyword>propensity score weighting</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Using a database of 11,001 unique sponsored search keywords, we investigate the relationship between the characteristics of keywords oriented around deal-seeking and brand-seeking and consumer search behaviors and buying propensities. On the basis of the search depth versus search breadth framework, we hypothesize that deal-seeking keywords elicit a search of greater breadth, whereas brand-seeking keywords induce a search of greater depth. We also explore the moderating effect of product type (search or experience goods) on the relationship between keyword characteristics and consumer search behaviors and how high-demand seasons (e.g., scheduled sales) influence consumers’ search and purchase behaviors. In addition, we estimate the effectiveness of keywords on the basis of their sales-per-cost performance. The findings indicate that search queries containing deal-seeking keywords are associated with higher click-through rates and conversion rates than are search queries without such keywords. We also find that the positive effect of deal-seeking keywords on click-through rates is more pronounced for experience goods than for search goods. However, we identify a negative interaction between experience goods and brand-seeking keywords. A comparison of deal-seeking and brand-seeking keywords in terms of cost effectiveness reveals that deal-seeking keywords generate approximately three times the sales of those produced by brand-seeking keywords.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>187</fpage>
+<lpage>203</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3278&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3278</articleid>
+<submission-date>2016-02-29T08:14:24-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235401</context-key>
+<submission-path>misq/vol40/iss1/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Deal-Seeking Versus Brand-Seeking</value>
+</field>
+</fields>
+</document>
+</documents>

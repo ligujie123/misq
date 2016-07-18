@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Out of Dedication or Constraint?  A Dual Model of Post-Adoption Phenomena and its Empirical Test in the Context of Online Services</title>
+<publication-date>2009-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>skim@bus.wisc.edu</email>
+<institution>University of Wisconsin--Madison</institution>
+<lname>Kim</lname>
+<fname>Sung</fname>
+<mname>S.</mname>
+</author>
+<author>
+<email>json@yonsei.ac.kr</email>
+<institution>Yonsei University</institution>
+<lname>Son</lname>
+<fname>Jai-Yeol</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online consumer behavior</keyword>
+<keyword>post-adoption behavior</keyword>
+<keyword>loyalty</keyword>
+<keyword>switching costs</keyword>
+<keyword>service-specific investments</keyword>
+<keyword>survey research</keyword>
+<keyword>structural equation modeling</keyword>
+</keywords>
+<abstract>&lt;p&gt;Sustained website traffic through consumers’ patronage at the post-adoption stages is known as a key to the survival of an online service provider.  Although a firm’s survival depends much on repeated use, whether or not a firm survives is also influenced by a variety of other behavioral outcomes that include, but are not limited to, word-of-mouth, willingness to pay, and inattentiveness to alternatives.  Whereas post-adoption research has recently paid attention to repeated use, the information systems field still lacks a systematic investiation into other behavioral outcomes that transcend mere usage.  In an attempt to extend the horizons of post-adoption research, we develop and test a model that explains post-adoption behaviors in the context of online services.  First, drawing on a dual model of relationship maintenance in consumer behavior research, we propose a conceptual framework to study and explain online consumer behavior.  In particular, our model predicts that two contrasting mechanisms, that is, dedication and constraint, are the main drivers of post-adoption phenomena (i.e., consumers’ post-adoption reactions to online services—beliefs, attitudes, intentions, and behaviors).  We empirically test the proposed dual model through the use of data collected from 510 users of online portals.  The results of structural equation modeling analysis indicate that, as expected, the dedication- and constraint-based mechanisms simultaneously, yet differentially, determine online consumer behavior.  In general, our findings suggest that it is essential in examining the complex nature of post-adoption phenomena to take into account the interplay of the dedication- and constraint-based mechanisms.&lt;/p&gt;</abstract>
+<fpage>49</fpage>
+<lpage>70</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2783&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2783</articleid>
+<submission-date>2009-03-02T12:35:16-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>752051</context-key>
+<submission-path>misq/vol33/iss1/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Post-Adoption Phenomena and Empirical Testing</value>
+</field>
+</fields>
+</document>
+</documents>

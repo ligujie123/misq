@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Assimilation of Enterprise Systems:  The Effect of Institutional Pressures and the Mediating Role of Top Management</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Liang</lname>
+<fname>Huigang</fname>
+</author>
+<author>
+<lname>Saraf</lname>
+<fname>Nilesh</fname>
+</author>
+<author>
+<lname>Hu</lname>
+<fname>Qing</fname>
+</author>
+<author>
+<lname>Xue</lname>
+<fname>Yajiong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Enterprise resource planning</keyword>
+<keyword>technology assimilation</keyword>
+<keyword>innovation diffusion</keyword>
+<keyword>top management</keyword>
+<keyword>institutional theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;We develop and test a theoretical model to investigate the assimilation of enterprise systems in the post-implementation stage within organizations. Specifically, this model explains how top management mediates the impact of external institutional pressures on the degree of usage of enterprise resource planning (ERP) systems. The hypotheses were tested using survey data from companies that have already implemented ERP systems. Results from partial least squares (PLS) analyses suggest that mimetic pressures positively affect top management beliefs, which then positively affects top management participation in the ERP assimilation process. In turn, top management participation is confirmed to positively affect the degree of ERP usage. Results also suggest that coercive pressures positively affect top management participation without the mediation of top management beliefs. Surprisingly, we do not find support for our hypothesis that top management participation mediates the effect of normative pressures on ERP usage—but instead we find that normative pressures directly affect ERP usage. Our findings highlight the important role of top management in mediating the effect of institutional pressures on IT assimilation. We confirm that, institutional pressures, which are known to be important for IT adoption and implementation, also contribute to post-implementation assimilation when the integration processes are prolonged and outcomes are dynamic and uncertain.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2656&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2656</articleid>
+<submission-date>2008-12-11T08:16:55-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680255</context-key>
+<submission-path>misq/vol31/iss1/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

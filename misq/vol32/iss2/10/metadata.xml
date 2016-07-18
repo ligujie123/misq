@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Is the World Really Flat?  A Look at Offshoring at an Online Programming Marketplace</title>
+<publication-date>2008-10-27T14:09:37-07:00</publication-date>
+<authors>
+<author>
+<email>gefend@drexel.edu</email>
+<institution>Drexel University</institution>
+<lname>Gefen</lname>
+<fname>David</fname>
+</author>
+<author>
+<email>carmel@american.edu</email>
+<institution>American University</institution>
+<lname>Carmel</lname>
+<fname>Erran</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Outsourcing</keyword>
+<keyword>offshoring</keyword>
+<keyword>online programming</keyword>
+<keyword>marketplace</keyword>
+<keyword>agency theory</keyword>
+<keyword>bidding</keyword>
+<keyword>PPP</keyword>
+</keywords>
+<abstract>&lt;p&gt;In a world that is flat, where all clients and providers can easily transact with one another, offshoring represents the proposition that information technology providers from low-wage nations can now underbid providers from high-wage nations and win contracts.  We examined a particularly flat “world”—an online programming marketplace—and found that this profound tilt to low-wage nations is overstated. We analyzed the entire history of transactions at one of the major online programming marketplaces, a marketplace for outsourcing small IT projects.  The data spanned 38 months and included over 263,000 bids by over 31,000 providers from 70 countries on over 20,000 small IT projects requested by over 7,900 clients from 59 countries.&lt;/p&gt;
+&lt;p&gt;Contrary to the world-is-flat proposition, the data in this particular site show some client preference for domestic providers.  However, the largest group of clients, the American clients, are a marked exception to clients in the rest of the world:  they give relatively less preference to domestic providers. In a sense, the American clients have a higher preference for offshore providers. Among non-American clients the preference for domestic providers is mitigated when both client and provider are from an English-speaking nation. Relative bid price, often very low already, also determines the winning bid, as does the ratio of purchasing power parity (PPP) between the country of the client and the country of the provider. Nonetheless, the strongest determinant of the winning bid is client loyalty: the client gives very strong preference to a provider with whom there has been a previous relationship, regardless of whether the provider is offshore or domestic.&lt;/p&gt;</abstract>
+<fpage>367</fpage>
+<lpage>384</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss2/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2537&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2537</articleid>
+<submission-date>2008-10-27T13:00:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656619</context-key>
+<submission-path>misq/vol32/iss2/10</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Gefen, D., and Carmel, E.  2008.  “Is the World Really Flat?  A Look at Offshoring in an Online Programming Marketplace,&quot; MIS Quarterly (32:2), pp. 367-384.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

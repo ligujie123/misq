@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Value of IT-Enabled Retailer Learning:  Personalized Product Recommendations and Customer Store Loyalty in Electronic Markets</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>tzhan2@email.uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Zhang</lname>
+<fname>Tongxiao (Catherine)</fname>
+</author>
+<author>
+<email>ragarwal@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Agarwal</lname>
+<fname>Ritu</fname>
+</author>
+<author>
+<email>hlucas@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Lucas</lname>
+<fname>Henry</fname>
+<mname>C.</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Article</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Personalized product recommendations</keyword>
+<keyword>recommender systems</keyword>
+<keyword>household production function</keyword>
+<keyword>retailer learning</keyword>
+<keyword>laboratory experiment</keyword>
+<keyword>online product brokering</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recent research has acknowledged the key role of information technology in helping build stronger and more enduring customer relationships. Personalized product recommendations (PPRs) adapted to individual customers’ preferences and tastes are one IT-enabled strategy that has been widely adopted by online retailers to enhance customers’ shopping experience. Although many online retailers have implemented PPRs on their electronic storefronts to improve customer retention, empirical evidence for the effects of PPRs on retention is sparse, and the limited anecdotal evidence is contradictory. We draw upon the household production function model in the consumer economics literature to develop a theoretical framework that explains the mechanisms through which PPRs influence customer store loyalty in electronic markets. We suggest that retailer learning that occurs as a result of customer knowledge obtained to enable personalization influences the efficiency of the online product brokering activity. Data collected from a two-phase lab experiment with 253 student subjects where the quality of PPRs was manipulated are used to empirically test the predictions of the theoretical model. Empirical analyses of the data indicate that retailer learning reflected in higher quality PPRs is associated with lower product screening cost, but higher product evaluation cost. We further find that higher quality PPRs are associated with greater value derived by consumers from the online product brokering activity in terms of higher decision making quality, which is positively associated with repurchase intention. The paper presents the implications, limitations, and contributions of this study along with areas for future research.&lt;/p&gt;</abstract>
+<fpage>859</fpage>
+<lpage>881</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss4/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2986&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2986</articleid>
+<submission-date>2011-12-01T09:12:43-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2382357</context-key>
+<submission-path>misq/vol35/iss4/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Value of IT-Enabled Retailer Learning</value>
+</field>
+</fields>
+</document>
+</documents>

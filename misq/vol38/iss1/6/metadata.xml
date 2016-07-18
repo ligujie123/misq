@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Explaining Data-Driven Document Classifications</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>david.martens@uantwerpen.be</email>
+<institution>University of Antwerp</institution>
+<lname>Martens</lname>
+<fname>David</fname>
+</author>
+<author>
+<email>fprovost@stern.nyu.edu</email>
+<institution>New York University</institution>
+<lname>Provost</lname>
+<fname>Foster</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Document classification</keyword>
+<keyword>instance level explanation</keyword>
+<keyword>text mining</keyword>
+<keyword>comprehensibility</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Many document classification applications require human understanding of the reasons for data-driven classification decisions by managers, client-facing employees, and the technical team. Predictive models treat documents as data to be classified, and document data are characterized by very high dimensionality, often with tens of thousands to millions of variables (words). Unfortunately, due to the high dimensionality, understanding the decisions made by document classifiers is very difficult. This paper begins by extending the most relevant prior theoretical model of explanations for intelligent systems to account for some missing elements. The main theoretical contribution is the definition of a new sort of explanation as a minimal set of words (terms, generally), such that removing all words within this set from the document changes the predicted class from the class of interest. We present an algorithm to find such explanations, as well as a framework to assess such an algorithm’s performance. We demonstrate the value of the new approach with a case study from a real-world document classification task: classifying web pages as containing objectionable content, with the goal of allowing advertisers to choose not to have their ads appear on those pages. A second empirical demonstration on news-story topic classification shows the explanations to be concise and document-specific, and to be capable of providing understanding of the exact reasons for the classification decisions, of the workings of the classification models, and of the business application itself. We also illustrate how explaining the classifications of documents can help to improve data quality and model performance.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>73</fpage>
+<lpage>99</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3158&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3158</articleid>
+<submission-date>2014-03-03T09:21:30-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5252742</context-key>
+<submission-path>misq/vol38/iss1/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Explaining Data-Driven Document Classifications</value>
+</field>
+</fields>
+</document>
+</documents>

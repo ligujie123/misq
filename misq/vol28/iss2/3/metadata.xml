@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>GIST: A Model for Design and Management of Content and Interactivity of Customer-Centric Web Sites</title>
+<publication-date>2004-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Albert</lname>
+<fname>Terri</fname>
+<mname>C.</mname>
+</author>
+<author>
+<lname>Goes</lname>
+<fname>Paulo</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Website analysis and design</keyword>
+<keyword>customer segmentation</keyword>
+<keyword>personalization</keyword>
+</keywords>
+<abstract>&lt;p&gt;Customer-centric Web-based systems, such as e-commerce Web sites, or sites that support customer relationship management (CRM) activities, are themselves information systems, but their design and maintenance need to follow vastly different approaches from the traditional systems lifecycle approach. Based on marketing frameworks that are applicable to the online world, and following design science principles, we develop a model to guide the design and the continuous management of such sites.  The model makes extensive use of current technologies for tracking the customers and their behaviors, and combines elements of data mining and statistical analyses.  A case study based on a financial services Web site is used to provide a preliminary validation and design evaluation of our approach.  The case study showed considerable measured improvement in the effectiveness of the company’s Web site.  In addition, it also highlighted an important benefit of the our approach: the identification of previously unknown or unexpected segments of visitors.  This finding can lead to promising new business opportunities.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2696&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2696</articleid>
+<submission-date>2008-12-12T11:31:27-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681151</context-key>
+<submission-path>misq/vol28/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

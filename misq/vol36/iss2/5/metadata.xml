@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Can Online Wait Be Managed?  The Effect of Filler Interfaces and Presentation Modes on Perceived Waiting Time ONline</title>
+<publication-date>2012-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>gabe.lee@uni.edu</email>
+<institution>University of Northern Iowa</institution>
+<lname>Lee</lname>
+<fname>Younghwa</fname>
+</author>
+<author>
+<email>achen@ku.edu</email>
+<institution>University of Kansas</institution>
+<lname>Chen</lname>
+<fname>Andrew</fname>
+<mname>N.K.</mname>
+</author>
+<author>
+<email>ilie.virginia@gmail.com</email>
+<institution>California Luthern University</institution>
+<lname>Ilie</lname>
+<fname>Virginia</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Filler interface</keyword>
+<keyword>interface design</keyword>
+<keyword>online wait management</keyword>
+<keyword>perceived waiting time</keyword>
+<keyword>cognitive absorption</keyword>
+<keyword>motion effect</keyword>
+<keyword>competition for attention</keyword>
+<keyword>visual search</keyword>
+<keyword>resource allocation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Long waits online undermine users’ evaluations of Web sites and their providers, triggering abandonment behaviors.  Yet e-business researchers and practitioners have not perfected mechanisms to respond to online wait issues.  A filler interface that runs during the wait for search results may influence online users’ perceived waiting time (PWT); however, no scientific investigation has attempted to design effective filler interfaces for managing online waits.  By adopting resource allocation theory, cognitive absorption theory, and human computer interaction (HCI) theories (competition for attention, visual search, and motion effect), we design diverse filler interfaces and investigate their effects on antecedents of PWT.  The proposed research model considers cognitive absorption factors such as temporal dissociation, focused immersion, and heightened enjoyment as antecedents of PWT, which in turn triggers three outcomes:  affective appraisals, cognitive appraisals, and Web site use intention. A multistage, multimethod approach is used to test the research hypotheses.  In the first stage, we compare a filler interface condition with a no-filler interface condition, and find the superiority of a filler interface with respect to inducing focused immersion and temporal dissociation.  In the second stage, we conduct two controlled experiments to examine whether filler interfaces with various designs (varying the presence and relevance of image, text, and image motion) distinctly influence antecedents of PWT and confirm their distinctive effects on focused immersion, temporal dissociation, and heightened enjoyment.  In addition, by conducting a structural equation modeling analysis, we find that our research model explains 51 percent, 51 percent, 44 percent, and 45 percent of the variance in PWT, affective appraisals, cognitive appraisals, and Web site use intention respectively.  Theoretical and practical implications of these findings are provided.&lt;/p&gt;</abstract>
+<fpage>365</fpage>
+<lpage>394</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3028&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3028</articleid>
+<submission-date>2012-05-25T09:16:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2915252</context-key>
+<submission-path>misq/vol36/iss2/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-05-25T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Effect of Filler Interfaces and Presentation Modes</value>
+</field>
+</fields>
+</document>
+</documents>

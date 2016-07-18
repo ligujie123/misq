@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Construct Measurement and Validation Procedures in MIS and Behavioral Research:  Integrating New and Existing Techniques</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mackenz@indiana.edu</email>
+<institution>Indiana University</institution>
+<lname>MacKenzie</lname>
+<fname>Scott</fname>
+<mname>B.</mname>
+</author>
+<author>
+<email>podsakof@indiana.edu</email>
+<institution>Indiana university</institution>
+<lname>Podsakoff</lname>
+<fname>Philip</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>podsakoff@email.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Podsakoff</lname>
+<fname>Nathan</fname>
+<mname>P.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Construct validation procedures; Scale development and validation; content</keyword>
+<keyword>convergent</keyword>
+<keyword>discriminant and nomological validity; formative and reflective indicator models</keyword>
+</keywords>
+<abstract>&lt;p&gt;Despite the fact that validating the measures of constructs is critical to building cumulative knowledge in MIS and the behavioral sciences, the process of scale development and validation continues to be a challenging activity. Undoubtedly, part of the problem is that many of the scale development procedures advocated in the literature are limited by the fact that they (1)　fail to adequately discuss how to develop appropriate conceptual definitions of the focal construct, (2)　often fail to properly specify the measurement model that relates the latent construct to its indicators, and (3)　underutilize techniques that provide evidence that the set of items used to represent the focal construct actually measures what it purports to measure. Therefore, the purpose of the present paper is to integrate new and existing techniques into a comprehensive set of recommendations that can be used to give researchers in MIS and the behavioral sciences a framework for developing valid measures. First, we briefly elaborate upon some of the limitations of current scale development practices. Following this, we discuss each of the steps in the scale development process while paying particular attention to the differences that are required when one is attempting to develop scales for constructs with formative indicators as opposed to constructs with reflective indicators. Finally, we discuss several things that should be done after the initial development of a scale to examine its generalizability and to enhance its usefulness.&lt;/p&gt;</abstract>
+<fpage>293</fpage>
+<lpage>334</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2956&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2956</articleid>
+<submission-date>2011-06-08T10:25:08-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2051682</context-key>
+<submission-path>misq/vol35/iss2/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-08T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Validation Procedures in MIS &amp; Behavioral Research</value>
+</field>
+</fields>
+</document>
+</documents>

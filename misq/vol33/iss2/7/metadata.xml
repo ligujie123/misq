@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Competing with Free:  The Impact of Movie Broadcasts on DVD Sales and Internet Piracy</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mdsmith@andrew.cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Smith</lname>
+<fname>Michael</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>rtelang@andrew.cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Telang</lname>
+<fname>Rahul</fname>
+</author>
+</authors>
+<keywords>
+<keyword>:  Information goods</keyword>
+<keyword>movie broadcasts</keyword>
+<keyword>movie promotion</keyword>
+<keyword>DVD sales</keyword>
+<keyword>movie piracy</keyword>
+<keyword>broadcast flag</keyword>
+<keyword>consumer surplus</keyword>
+</keywords>
+<abstract>&lt;p&gt;The creative industries have frequently expressed concern that they can’t compete with freely available copies of their content.  Competing with free is particularly concerning for movie studios, whose content may be more prone to single-use consumption than other industries such as music.  This issue has gained renewed importance recently with the advent of new digital video recording and distribution technologies, and the widespread availability of Internet piracy.&lt;/p&gt;
+&lt;p&gt;We examine competition between “free” and paid video content in two important contexts:  the impact of legitimate free distribution in one channel on sales through paid channels, and the impact of illegitimate free distribution in pirated channels on sales through paid channels.  We do this by studying the impact of movie broadcasts on DVD demand and the impact of piracy availability at the time of broadcast on DVD demand.  Our data include all movies shown on over-the-air and cable television during an eight-month period in 2005–2006.&lt;/p&gt;
+&lt;p&gt;With respect to the impact of movie broadcasts on piracy and sales, we find that movie broadcasts on over-the-air networks result in a significant increase in both DVD sales at Amazon. com and illegal downloads for those movies that are available on BitTorrent at the time of broadcast.  With respect to the impact of piracy on sales, we use the television broadcast as an exogenous demand shock and find that the availability of pirated content at the time of broadcast has no effect on post-broadcast DVD sales gains.&lt;/p&gt;
+&lt;p&gt;Together our results suggest that creative artists can use product differentiation and market segmentation strategies to compete with freely available copies of their content.  Specifically, the post-broadcast increase in DVD sales suggests that giving away content in one channel can stimulate sales in a paid channel if the free content is sufficiently differentiated from its paid counterpart.  Likewise, our finding that the presence of pirated content does not cannibalize sales for the movies in our sample suggests that if free and paid products appeal to separate customer segments, the presence of free products need not harm paid sales.&lt;/p&gt;</abstract>
+<fpage>321</fpage>
+<lpage>338</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2854&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2854</articleid>
+<submission-date>2009-06-01T09:13:42-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860213</context-key>
+<submission-path>misq/vol33/iss2/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Competing with Free</value>
+</field>
+</fields>
+</document>
+</documents>

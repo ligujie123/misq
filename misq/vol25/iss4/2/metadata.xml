@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Role of Aggregation in the Measurement of IT-Related Organizational Innovation</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Fichman</lname>
+<fname>Robert</fname>
+<mname>G.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Assimilation</keyword>
+<keyword>innovation adoption</keyword>
+<keyword>innovation diffusion</keyword>
+<keyword>implementation</keyword>
+<keyword>infusion</keyword>
+<keyword>routinization</keyword>
+<keyword>measurement</keyword>
+</keywords>
+<abstract>&lt;p&gt;The extent of organizational innovation with information technology, an important construct in the IT innovation literature, has been measured in many different ways.  Some measures have a narrow focus while others aggregate innovative behaviors across a set of innovations or stages in the assimilation lifecycle.  There appear to be some significant tradeoffs involving aggregation:  more aggregated measures can be more robust and generalizable and can promote stronger predictive validity, while less aggregated measures allow more context-specific investigations and can preserve clearer theoretical interpretations. This article begins with a conceptual analysis that identifies the circumstances when these tradeoffs are most likely to favor aggregated measures.  It is found that aggregation should be favorable when: (1) the researcher&#39;s interest is in general innovation or a model that generalizes to a class of innovations, (2) antecedents have effects in the same direction in all assimilation stages, (3) characteristics of organizations can be treated as constant across the innovations in the study, (4) characteristics of innovations can not be treated as constant across organizations in the study, (5) the set of innovations being aggregated includes substitutes or moderate complements, and (6) sources of noise in the measurement of innovation may be present. The article then presents an empirical study using data on the adoption of software process technologies by 608 U.S. based corporations. This study—which had circumstances quite favorable to aggregation— found that aggregating across three innovations within a technology class more than doubled the variance explained compared to single innovation models.  Aggregating across assimilation stages also had a slight positive effect on predictive validity.  Taken together, these results provide initial confirmation of the conclusions from the conceptual analysis regarding the circumstances favoring aggregation.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss4/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2620&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2620</articleid>
+<submission-date>2008-12-09T09:43:58-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678590</context-key>
+<submission-path>misq/vol25/iss4/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

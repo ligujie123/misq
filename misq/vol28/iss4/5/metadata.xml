@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Role of Individual Memory and Attention Processes During Electronic Brainstorming</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Potter</lname>
+<fname>Richard</fname>
+<mname>E.</mname>
+</author>
+<author>
+<lname>Balthazard</lname>
+<fname>Pierre</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ideation</keyword>
+<keyword>brainstorming</keyword>
+<keyword>memory</keyword>
+<keyword>cognitive load</keyword>
+<keyword>EMS</keyword>
+<keyword>GSS</keyword>
+</keywords>
+<abstract>&lt;p&gt;Electronic brainstorming (EBS) applications and their methodologies may have achieved the benchmark of enabling interactive users to perform as well as nominal groups.  The current challenge is to view this as a plateau and not an endpoint, and to seek ways of improving EBS performance.  In this study, we apply theory from cognitive psychology and adopt the individual, rather than the group, as the unit of analysis.  We present a model of idea generation cognition based on Hintzman’s MINERVA2 global matching model of memory cognition and additional literature from cognitive psychology on cueing and categorization.  Based on this model, we present a technique called cause cueing, which directs subjects’ attention to the causes of the target problem that they themselves have identified, and hypothesize that this will increase the number of ideas that an individual generates.  Also based on the model—and consistent with current views on production blocking—we hypothesize that receiving input from others during brainstorming will reduce the number of ideas that an individual generates.  Following is an EBS-based study that offers an empirical examination of (1) the effects of cueing attention to natural categories (causes) during idea generation and (2) the effects of cueing attention to ad hoc categories, represented by input from others, during idea generation.  A total of 82 subjects were randomly assigned to one of four conditions in a 2 × 2 factorial design ANOVA experiment.  Results indicate strong support for our model of idea generation as memory cognition.  Cueing participant attention to natural self-generated search categories via the cause cueing technique greatly increased the generation of ideas and high quality ideas, whether or not participants were also cued to attend to ad hoc categories (input from others).  Cueing attention to input from others was detrimental to the generation of ideas and the number of high quality ideas, clearly diminishing the positive effects of cueing to natural categories.  We explain how our theorizing and results are consistent with and extend earlier production blocking orientations in EBS research.  We also examine limitations of current EBS designs and suggest how prevailing methodologies can be modified to better support idea generation cognition.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss4/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2712&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2712</articleid>
+<submission-date>2008-12-12T13:19:19-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681267</context-key>
+<submission-path>misq/vol28/iss4/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

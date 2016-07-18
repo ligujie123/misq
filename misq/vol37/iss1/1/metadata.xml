@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Editor&#39;s Comments</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>pgoes@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Goes</lname>
+<fname>Paulo</fname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>vii</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3081&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3081</articleid>
+<submission-date>2013-03-01T07:38:32-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815105</context-key>
+<submission-path>misq/vol37/iss1/1</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments</value>
+</field>
+</fields>
+</document>
+</documents>

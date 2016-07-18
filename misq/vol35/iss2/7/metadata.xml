@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evaluating Effect, Composite, and Causal Indicators in Structural Equation Models</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>bollen@unc.edu</email>
+<institution>University of North Carolina at Chapel Hill</institution>
+<lname>Bollen</lname>
+<fname>Kenneth</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Causal indicators</keyword>
+<keyword>effect indicators</keyword>
+<keyword>formative indicators</keyword>
+<keyword>reflective indicators</keyword>
+<keyword>measurement</keyword>
+<keyword>validity</keyword>
+<keyword>structural equation models</keyword>
+<keyword>scale construction</keyword>
+<keyword>composites</keyword>
+</keywords>
+<abstract>&lt;p&gt;Although the literature on alternatives to effect indicators is growing, there has been little attention given to evaluating causal and composite (formative) indicators. This paper provides an overview of this topic by contrasting ways of assessing the validity of effect and causal indicators in structural equation models (SEMs). It　also draws a distinction between composite (formative) indicators and causal indicators and argues that validity is most relevant to the latter. Sound validity assessment of indicators is dependent on having an adequate overall model fit and on the relative stability of the parameter estimates for the latent variable and indicators as they appear in different models. If the overall fit and stability of estimates are adequate, then a researcher can assess validity using the unstandardized and standardized validity coefficients and the unique validity variance estimate. With multiple causal indicators or with effect indicators influenced by multiple latent variables, collinearity diagnostics are useful. These results are illustrated with a number of correctly and incorrectly specified hypothetical models.&lt;/p&gt;</abstract>
+<fpage>359</fpage>
+<lpage>372</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2958&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2958</articleid>
+<submission-date>2011-06-09T11:22:33-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2053820</context-key>
+<submission-path>misq/vol35/iss2/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-09T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Evaluating Effect, Composite, and Causal Indicators in SEMs</value>
+</field>
+</fields>
+</document>
+</documents>

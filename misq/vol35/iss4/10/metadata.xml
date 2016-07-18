@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>State of the Information Privacy Literature:  Where Are We Now and Where Should We Go?</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>pavlou@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Theory and Review</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Information privacy</keyword>
+<keyword>personal information</keyword>
+<keyword>information privacy concerns</keyword>
+</keywords>
+<abstract>&lt;p&gt;While information privacy has been studied in multiple disciplines over the years, the advent of the information age has both elevated the importance of privacy in theory and practice, and increased the relevance of information privacy literature for Information Systems, which has taken a leading role in the theoretical and practical study of information privacy. There is an impressive body of literature on information privacy in IS, and the two Theory and Review articles in this issue of MIS Quarterly review this literature. By integrating these two articles, this paper evaluates the current state of the IS literature on information privacy (where are we now?) and identifies promising research directions for advancing IS research on information privacy (where should we go?). Additional thoughts on further expanding the information privacy research in IS by drawing on related disciplines to enable a multidisciplinary study of information privacy are discussed.&lt;/p&gt;</abstract>
+<fpage>977</fpage>
+<lpage>988</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss4/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2991&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2991</articleid>
+<submission-date>2011-12-01T09:42:02-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2382492</context-key>
+<submission-path>misq/vol35/iss4/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>State of the Information Privacy Literature</value>
+</field>
+</fields>
+</document>
+</documents>

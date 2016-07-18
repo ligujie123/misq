@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Capturing Bottom-Up Information Technology Use Processes:  A Complex Adaptive Systems Model</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>nnan@ou.edu</email>
+<institution>University of Oklahoma</institution>
+<lname>Nan</lname>
+<fname>Ning</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Bottom-up IT use</keyword>
+<keyword>complex adaptive systems</keyword>
+<keyword>agent-based modeling</keyword>
+<keyword>individual-level IT use</keyword>
+<keyword>collective-level IT use</keyword>
+</keywords>
+<abstract>&lt;p&gt;Although information systems researchers have long recognized the possibility for collective- level information technology use patterns and outcomes to emerge from individual-level IT use behaviors, few have explored the key properties and mechanisms involved in this bottom-up IT use process. This paper seeks to build a theoretical framework drawing on the concepts and the analytical tool of complex adaptive systems (CAS) theory. The paper presents a CAS model of IT use that encodes a bottom-up IT use process into three interrelated elements: agents that consist of the basic entities of actions in an IT use process, interactions that refer to the mutually adaptive behaviors of agents, and an environment that represents the social organizational contexts of IT use. Agent-based modeling is introduced as the analytical tool for computationally representing and examining the CAS model of IT use. The operationability of the CAS model and the analytical tool are demonstrated through a theory-building exercise translating an interpretive case study of IT use to a specific version of the CAS model. While Orlikowski (1996) raised questions regarding the impacts of employee learning, IT flexibility, and workplace rigidity on IT-based organization transformation, the CAS model indicates that these factors in individual-level actions do not have a direct causal linkage with organizational- level IT use patterns and outcomes. This theory-building exercise manifests the intriguing nature of the bottom-up IT use process: collective-level IT use patterns and outcomes are the logical and yet often unintended or unforeseeable consequences of individual-level behaviors. The CAS model of IT use offers opportunities for expanding the theoretical and methodological scope of the IT use literature.&lt;/p&gt;</abstract>
+<fpage>505</fpage>
+<lpage>532</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2965&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2965</articleid>
+<submission-date>2011-06-09T11:54:01-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2053885</context-key>
+<submission-path>misq/vol35/iss2/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-09T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Capturing Bottom-Up IT Use Processes</value>
+</field>
+</fields>
+</document>
+</documents>

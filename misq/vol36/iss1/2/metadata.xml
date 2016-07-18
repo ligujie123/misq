@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Editor&#39;s Comments:  A Critical Look at the Use of PLS-SEM in MIS Quarterly</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>c.ringle@tuhh.de</email>
+<institution>Hamburg University of Technology</institution>
+<lname>Ringle</lname>
+<fname>Christian</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>sarstedt@bwl.lmu.de</email>
+<institution>Ludwig-Maximilians-University Munich</institution>
+<lname>Sarstedt</lname>
+<fname>Marko</fname>
+</author>
+<author>
+<email>dstraub@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar W.</fname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>xiv</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3022&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3022</articleid>
+<submission-date>2012-02-24T09:33:36-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2566609</context-key>
+<submission-path>misq/vol36/iss1/2</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments</value>
+</field>
+</fields>
+</document>
+</documents>

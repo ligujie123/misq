@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Knowledge-Based Model of Radical Innovation in Small Software Firms</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>carloj@msu.edu</email>
+<institution>Michigan State University</institution>
+<lname>Carlo</lname>
+<fname>Jessica</fname>
+<mname>Luo</mname>
+</author>
+<author>
+<email>kalle@case.edu</email>
+<institution>Case Western Reserve University</institution>
+<lname>Lyytinen</lname>
+<fname>Kalle</fname>
+</author>
+<author>
+<email>grose@wsu.edu</email>
+<institution>Washington State University</institution>
+<lname>Rose</lname>
+<fname>Gregory</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Absorptive capacity</keyword>
+<keyword>knowledge base models</keyword>
+<keyword>routines</keyword>
+<keyword>organization knowledge base</keyword>
+<keyword>IT innovation</keyword>
+<keyword>innovation ecology</keyword>
+<keyword>Internet computing</keyword>
+<keyword>mediation</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this paper, we adopt the lens of absorptive capacity (ACAP), defined by two dimensions—the knowledge base (consisting of knowledge diversity, depth, and linkages) and routines (consisting of sensing and experimentation)—to explain how a software firm’s knowledge endowments influence its level of radical information technology innovation during a technological breakthrough.  We distinguish three types of IT innovations—base, processes, and service innovation—that form an innovation ecology.  We posit that (1) ACAP is a relational construct where the impact of the knowledge base is mediated by routines; (2) IT innovations are either externally adopted or internally generated; and (3) knowledge antecedents associated with different types of innovations differ.  We hypothesize a three-step, mediated path (knowledge base -&gt; sensing -&gt; experimentation -&gt; innovation) for external innovation adoption, and a two-step path (knowledge diversity/depth -&gt; experimentation -&gt; innovation) for internal innovation creation to explain the software firm’s level of radical innovation across three IT innovation types.  We validate the model through a cross-sector study that examined how 121 small software firms innovated with Internet computing.  We confirm the mediated nature of ACAP for external base innovations, which are driven by all three knowledge-based factors as follows:  (1) knowledge depth (direct positive effect); (2) knowledge diversity (mediated three-step path), (3) knowledge linkages (mediated three step path).  Process innovations are externally driven by a three-step mediated path for knowledge linkages, as well as being directly affected by knowledge diversity, but negatively and directly impeded by knowledge depth.  Service innovations are not driven by any mediated influence of ACAP, but driven directly by knowledge diversity.  At the same time, both service and process innovations are strongly influenced by prior IT innovations:  base and/or service.  Several directions for future studies of radical IT innovation are proposed.&lt;/p&gt;</abstract>
+<fpage>865</fpage>
+<lpage>895</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3051&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3051</articleid>
+<submission-date>2012-09-06T07:27:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297885</context-key>
+<submission-path>misq/vol36/iss3/12</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Radical Innovation in Small Software Firms</value>
+</field>
+</fields>
+</document>
+</documents>

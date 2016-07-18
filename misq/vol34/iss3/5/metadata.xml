@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Detecting Fake Websites:  The Contribution of Statistical Learning Theory</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>abbasi@uwm.edu</email>
+<institution>University of Wisconsin, Milwaukee</institution>
+<lname>Abbasi</lname>
+<fname>Ahmed</fname>
+</author>
+<author>
+<email>zhuzhang@u.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Zhang</lname>
+<fname>Zhu</fname>
+</author>
+<author>
+<email>zimbra@u.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Zimbra</lname>
+<fname>David</fname>
+</author>
+<author>
+<email>hchen@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Chen</lname>
+<fname>Hsinchun</fname>
+</author>
+<author>
+<email>nunamaker@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Nunamaker</lname>
+<fname>Jay</fname>
+<mname>F.</mname>
+<suffix>Jr.</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Fake website detection</keyword>
+<keyword>Internet fraud</keyword>
+<keyword>design science</keyword>
+<keyword>statistical learning theory</keyword>
+<keyword>information systems development</keyword>
+<keyword>website classification</keyword>
+</keywords>
+<abstract>&lt;p&gt;Fake websites have become increasingly pervasive, generating billions of dollars in fraudulent revenue at the expense of unsuspecting Internet users.  The design and appearance of these websites makes it difficult for users to manually identify them as fake.  Automated detection systems have emerged as a mechanism for combating fake websites, however most are fairly simplistic in terms of their fraud cues and detection methods employed.  Consequently, existing systems are susceptible to the myriad of obfuscation tactics used by fraudsters, resulting in highly ineffective fake website detection performance.  In light of these deficiencies, we propose the development of a new class of fake website detection systems that are based on statistical learning theory (SLT).  Using a design science approach, a prototype system was developed to demonstrate the potential utility of this class of systems.  We conducted a series of experiments, comparing the proposed system against several existing fake website detection systems on a test bed encompassing 900 websites.  The results indicate that systems grounded in SLT can more accurately detect various categories of fake websites by utilizing richer sets of fraud cues in combination with problem-specific knowledge.  Given the hefty cost exacted by fake websites, the results have important implications for e-commerce and online security.&lt;/p&gt;</abstract>
+<fpage>435</fpage>
+<lpage>461</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2915&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2915</articleid>
+<submission-date>2010-08-13T08:20:28-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444101</context-key>
+<submission-path>misq/vol34/iss3/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Detecting Fake Websites</value>
+</field>
+</fields>
+</document>
+</documents>

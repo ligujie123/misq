@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Enterprise System Implementation and Employee and Job Performance:  Understanding the Role of Advice Networks</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>tracy@tracyannsykes.com</email>
+<institution>University of Arkansas</institution>
+<lname>Sykes</lname>
+<fname>Tracy</fname>
+<mname>Ann</mname>
+</author>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+<author>
+<email>jjohnson@walton.uark.edu</email>
+<institution>University of Arkansas, Fayetteville</institution>
+<lname>Johnson</lname>
+<fname>Jonathan</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Social networks</keyword>
+<keyword>get-advice</keyword>
+<keyword>give-advice</keyword>
+<keyword>enterprise system implementation</keyword>
+<keyword>job performance</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The implementation of enterprise systems, such as enterprise resource planning (ERP) systems, alters business processes and associated workflows, and introduces new software applications that employees must use.  Employees frequently find such technology-enabled organizational change to be a major challenge.  Although many challenges related to such changes have been discussed in prior work, little research has focused on post-implementation job outcomes of employees affected by such change.  We draw from social network theory— specifically, advice networks—to understand a key post-implementation job outcome (i.e., job performance).  We conducted a study among 87 employees, with data gathered before and after the implementation of an ERP system module in a business unit of a large organization.  We found support for our hypotheses that workflow advice and software advice are associated with job performance.  Further, as predicted, we found that the interactions of workflow and software get-advice, workflow and software give-advice, and software get- and give-advice were associated with job performance.  This nuanced treatment of advice networks advances our understanding of post-implementation success of enterprise systems.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>51</fpage>
+<lpage>72</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3157&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3157</articleid>
+<submission-date>2014-03-03T09:17:39-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5252725</context-key>
+<submission-path>misq/vol38/iss1/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Understanding the Role of Advice Networks</value>
+</field>
+</fields>
+</document>
+</documents>

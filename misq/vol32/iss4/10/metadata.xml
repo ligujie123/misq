@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>CyberGate:  A Design Framework and System for Text Analysis of Computer-Mediated Communication</title>
+<publication-date>2008-11-05T11:04:16-08:00</publication-date>
+<authors>
+<author>
+<email>abbasi@uwm.edu</email>
+<institution>University of Wisconsin, Milwaukee</institution>
+<lname>Abbasi</lname>
+<fname>Ahmed</fname>
+</author>
+<author>
+<email>hchen@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Chen</lname>
+<fname>Hsinchun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computer-mediated communication</keyword>
+<keyword>design framework</keyword>
+<keyword>text analsis systems</keyword>
+<keyword>design science</keyword>
+<keyword>information visualization</keyword>
+</keywords>
+<abstract>&lt;p&gt;Content analysis of computer-mediated communication (CMC) is important for evaluating the effectiveness of electronic communication in various organizational settings.  CMC text analysis relies on systems capable of providing suitable navigation and knowledge discovery functionalities.  However, existing CMC systems focus on structural features, with little support for features derived from message text.  This deficiency is attributable to the informational richness and representational complexities associated with CMC text.  In order to address this shortcoming, we propose a design framework for CMC text analysis systems.  Grounded in systemic functional linguistic theory, the proposed framework advocates the development of systems capable of representing the rich array of information types inherent in CMC text.  It also provides guidelines regarding the choice of features, feature selection, and visualization techniques that CMC text analysis systems should employ.  The CyberGate system was developed as an instantiation of the design framework.  CyberGate incorporates a rich feature set and complementary feature selection and visualization methods, including the writeprints and ink blots techniques.  An application example was used to illustrate the system’s ability to discern important patterns in CMC text.  Furthermore, results from numerous experiments conducted in comparison with benchmark methods confirmed the viability of CyberGate’s features and techniques.  The results revealed that the CyberGate system and its underlying design framework can dramatically improve CMC text analysis capabilities over those provided by existing systems.&lt;/p&gt;</abstract>
+<fpage>811</fpage>
+<lpage>837</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss4/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2577&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2577</articleid>
+<submission-date>2008-11-05T10:12:11-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>661430</context-key>
+<submission-path>misq/vol32/iss4/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

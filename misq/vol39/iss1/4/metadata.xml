@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>How Does the Internet Affect the Financial Market?  An Equilibrium Model of Internet-Facilitated Feedback Trading</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>zhang@ust.hk</email>
+<institution>Hong Kong University of Science and Technology</institution>
+<lname>Zhang</lname>
+<fname>Michael (Xiaoquan)</fname>
+</author>
+<author>
+<email>zhanglh2@sem.tsinghua.edu.cn</email>
+<institution>Tsinghua University</institution>
+<lname>Zhang</lname>
+<fname>Lihong</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Financial information</keyword>
+<keyword>financial market</keyword>
+<keyword>feedback strategy</keyword>
+<keyword>market stability</keyword>
+<keyword>online trading</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The ease of Internet stock trading has lured relatively inexperienced investors into the financial markets. This paper is a study of the consequences of the influx of these uninformed traders with a dynamic equilibrium framework. The results show that these strategic, uninformed online traders who adopt feedback strategies cannot outperform those who do not follow feedback strategies and that feedback trading cannot affect market equilibrium. The results also show that an informed trader’s equilibrium strategy and expected profit remain unchanged with or without feedback trading. The presence of feedback trading in the market does not affect the speed at which information gets incorporated into prices. If uninformed traders aggregately adopt a more aggressive feedback trading strategy, they bear a higher risk. It is therefore important to manage and contain these uninformed traders’ risks. The implications for regulating and designing such Internet trading systems are also discussed.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>17</fpage>
+<lpage>37</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3220&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3220</articleid>
+<submission-date>2015-03-02T10:26:39-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6758050</context-key>
+<submission-path>misq/vol39/iss1/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Internet&#39;s Impact on Financial Market</value>
+</field>
+</fields>
+</document>
+</documents>

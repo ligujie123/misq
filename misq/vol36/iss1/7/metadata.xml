@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Recommendation Networks and the Long Tail of Electronic Commerce</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>galos@post.tau.ac.il</email>
+<institution>Tel-Aviv University</institution>
+<lname>Oestreicher-Singer</lname>
+<fname>Gal</fname>
+</author>
+<author>
+<email>asundara@stern.nyu.edu</email>
+<lname>SUNDARARAJAN</lname>
+<fname>ARUN</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Networks</keyword>
+<keyword>social networks</keyword>
+<keyword>electronic commerce</keyword>
+<keyword>recommender systems</keyword>
+<keyword>Gini coefficient</keyword>
+<keyword>long tail</keyword>
+<keyword>influence</keyword>
+<keyword>social media</keyword>
+<keyword>Web 2.0</keyword>
+</keywords>
+<abstract>&lt;p&gt;It has been conjectured that the peer-based recommendations associated with electronic commerce lead to a redistribution of demand from popular products or &quot;blockbusters&quot; to less popular or &quot;niche&quot; products, and that electronic markets will therefore be characterized by a &quot;long tail&quot; of demand and revenue. We test this conjecture using the revenue distributions of books in over 200 distinct categories on Amazon.com and detailed daily snapshots of co-purchase recommendation networks in which the products of these categories are situated. We measure how much a product is influenced by its position in this hyperlinked network of recommendations using a variant of Google’s PageRank measure of centrality. We then associate the average influence of the network on each category with the inequality in the distribution of its demand and revenue, quantifying this inequality using the Gini coefficient derived from the category’s Lorenz curve. We establish that categories whose products are influenced more by the recommendation network have significantly flatter demand and revenue distributions, even after controlling for variation in average category demand, category size, and price differentials. Our empirical findings indicate that doubling the average network influence on a category is associated with an average increase of about 50 percent in the relative revenue for the least popular 20 percent of products, and with an average reduction of about 15 percent in the relative revenue for the most popular 20 percent of products. We also show that this effect is enhanced by higher assortative mixing and lower clustering in the network, and is greater in categories whose products are more evenly influenced by recommendations. The direction of these results persists over time, across both demand and revenue distributions, and across both daily and weekly demand aggregations. Our work illustrates how the microscopic economic data revealed by online networks can be used to define and answer new kinds of research questions, offers a fresh perspective on the influence of networked IT artifacts on business outcomes, and provides novel empirical evidence about the impact of visible recommendations on the long tail of electronic commerce.&lt;/p&gt;</abstract>
+<fpage>65</fpage>
+<lpage>83</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3008&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3008</articleid>
+<submission-date>2012-02-24T08:07:25-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2565964</context-key>
+<submission-path>misq/vol36/iss1/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Recommendation Networks and the Long Tail of Electronic Commerce</value>
+</field>
+</fields>
+</document>
+</documents>

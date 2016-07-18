@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of Tree-View Based Presentation Adaptation on Model Web Browsing</title>
+<publication-date>2011-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>boonlitadipat@gmail.com</email>
+<institution>King Mongkut&#39;s University of Technology Thonburi</institution>
+<lname>Adipat</lname>
+<fname>Boonlit</fname>
+</author>
+<author>
+<email>zhangd@umbc.edu</email>
+<institution>University of Maryland, Baltimore County</institution>
+<lname>Zhang</lname>
+<fname>Dongsong</fname>
+</author>
+<author>
+<email>zhoul@umbc.edu</email>
+<institution>University of Maryland, Baltimore County</institution>
+<lname>Zhou</lname>
+<fname>Lina</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Presentation adaptation</keyword>
+<keyword>mobile handheld device</keyword>
+<keyword>Web browsing and searching</keyword>
+<keyword>interface design</keyword>
+<keyword>usability testing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Accessing the Web from mobile handheld devices has become increasingly common. However, accomplishing that task remains challenging mainly due to the physical constraints of handheld devices and the static presentation of Web pages. Adapting the presentation of Web pages is, therefore, critical to enabling effective mobile Web browsing and information searching. 　Based on cognitive fit theory and information foraging theory, we propose a novel hybrid approach to adapting Web page presentation that integrates three types of adaptation techniques, namely tree-view, hierarchical text summarization, and colored keyword highlighting. By following the design science research framework, we implemented the proposed approach on handheld devices and empirically evaluated the effects of presentation adaptation on mobile Web browsing. The results show that presentation adaptation significantly improves user performance and perception of mobile Web browsing. We also discover that the positive impact of presentation adaptation is moderated by the complexity of an information search task. The findings have significant theoretical and practical implications for the design and implementation of mobile Web applications.&lt;/p&gt;</abstract>
+<fpage>99</fpage>
+<lpage>121</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2944&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2944</articleid>
+<submission-date>2011-03-02T09:26:20-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1837890</context-key>
+<submission-path>misq/vol35/iss1/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Tree-View Adaptation and Mobile Web Browsing</value>
+</field>
+</fields>
+</document>
+</documents>

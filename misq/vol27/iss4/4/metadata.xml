@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Disruptive Nature of Information Technology Innovations:  The Case of Internet Computing in Systems Development Organizations</title>
+<publication-date>2003-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Lyytinen</lname>
+<fname>Kalle</fname>
+</author>
+<author>
+<lname>Rose</lname>
+<fname>Gregory</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Internet computing</keyword>
+<keyword>innovation theory</keyword>
+<keyword>disruptive IT innovation</keyword>
+<keyword>IT innovation cores</keyword>
+<keyword>system development</keyword>
+<keyword>software management</keyword>
+<keyword>IT applications</keyword>
+</keywords>
+<abstract>&lt;p&gt;Information technology (IT) innovation can be defined as the creation and new organizational application of digital computer and communication technologies. The paper suggests that IT innovation theory needs to be expanded to analyze IT innovations in kind that exhibit atypical discontinuities in IT innovation behaviors by studying two questions.  First, can a model of disruptive IT innovations be created to understand qualitative changes in IT development processes and their outcomes so that they can be related to architectural discontinuities in computing capability?  Second, to what extent can the observed turmoil among systems development organizations that has been spawned by Internet computing be understood as a disruptive IT innovation?   To address the first question, a model of disruptive IT innovation is developed.  The model defines a disruptive IT innovation as an architectural innovation originating in the information technology base that has subsequent pervasive and radical impacts on development processes and their outcomes. These base innovations establish necessary but not sufficient conditions for subsequent innovation behaviors. To address the second question, the impact of Internet computing on eight leading-edge systems development organizations in the United States and Finland is investigated. The study shows that the adoption of Internet computing in these firms has radically impacted their IT innovation both in development processes and services&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2688&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2688</articleid>
+<submission-date>2008-12-11T14:05:52-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680699</context-key>
+<submission-path>misq/vol27/iss4/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

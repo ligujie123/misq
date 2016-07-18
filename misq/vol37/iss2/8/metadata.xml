@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Knowing What a User Likes:  A Design Science Approach to Interfaces that Automatically Adapt to Culture</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>reinecke@seas.harvard.edu</email>
+<institution>Harvard School of Engineering and Applied Sciences</institution>
+<lname>Reinecke</lname>
+<fname>Katharina</fname>
+</author>
+<author>
+<email>bernstein@ifi.uzh.ch</email>
+<institution>University of Zurich</institution>
+<lname>Bernstein</lname>
+<fname>Abraham</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Culture</keyword>
+<keyword>design science</keyword>
+<keyword>adaptive systems</keyword>
+<keyword>personalization</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Adapting user interfaces to a user’s cultural background can increase satisfaction, revenue, and market share. Conventional approaches to catering for culture are restricted to adaptations for specific countries and modify only a limited number of interface components, such as the language or date and time formats.  We argue that a more comprehensive personalization of interfaces to cultural background is needed to appeal to users in expanding markets.  This paper introduces a low-cost, yet efficient method to achieve this goal:  cultural adaptivity.  Culturally adaptive interfaces are able to adapt their look and feel to suit visual preferences.  In a design science approach, we have developed a number of artifacts that support cultural adaptivity, including a prototype web application.  We evaluate the efficacy of the prototype’s automatically generated interfaces by comparing them with the preferred interfaces of 105 Rwandan, Swiss, Thai, and multicultural users.  The findings demonstrate the feasibility of providing users with interfaces that correspond to their cultural preferences in a novel yet effective manner.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>427</fpage>
+<lpage>453</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3101&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3101</articleid>
+<submission-date>2013-05-21T13:51:31-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161523</context-key>
+<submission-path>misq/vol37/iss2/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Design Science Approach to Interfaces that Adapt to Culture</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Discovery and the Long Tail of Motion Picture Content</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>akumar1@ufl.edu</email>
+<institution>University of Florida</institution>
+<lname>Kumar</lname>
+<fname>Anuj</fname>
+</author>
+<author>
+<email>mds@andrew.cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Smith</lname>
+<fname>Michael</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>rtelang@andrew.cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Telang</lname>
+<fname>Rahul</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Incomplete information</keyword>
+<keyword>product discovery</keyword>
+<keyword>multichannel distribution</keyword>
+<keyword>movie industry</keyword>
+<keyword>cannibalization</keyword>
+<keyword>movie broadcast</keyword>
+<keyword>DVD sales and rental</keyword>
+<keyword>long tail</keyword>
+<keyword>sales distribution</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Recent papers have shown that, in contrast to the long tail theory, movie sales remain concentrated in a small number of hits. These papers have argued that concentrated sales can be explained, in part, by heterogeneity in quality and increasing returns from social effects. Our research analyzes an additional explanation: how incomplete information may skew sales patterns. We use the movie broadcast on pay-cable channels as an exogenous shock to the availability of information, and analyze how this shock changes the resulting sales distribution.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our data show that the pay-cable broadcast shifts the distribution of DVD sales toward long tail movies, suggesting an information spillover from the broadcast. We develop a learning-based movie discovery model to precisely quantify the two mechanisms of movie discovery: word-of-mouth from previous sales and information spillover from broadcast. We use this model to estimate the lost DVD sales due to incomplete information. Our study contributes to the literature by analyzing how information provided in one channel can change the assortment of the same products demanded in another channel.&lt;/p&gt;</abstract>
+<fpage>1057</fpage>
+<lpage>1078</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3205&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3205</articleid>
+<submission-date>2014-11-07T08:04:19-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6336988</context-key>
+<submission-path>misq/vol38/iss4/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Information Discovery &amp; the Long Tail of Motion Picture Content</value>
+</field>
+</fields>
+</document>
+</documents>

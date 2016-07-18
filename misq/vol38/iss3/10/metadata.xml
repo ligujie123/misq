@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Emergence of Power Laws in Online Communities:  The Role of Social Mechanisms and Preferential Attachment</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>steven@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Johnson</lname>
+<fname>Steven</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>samer.faraj@mcgill.ca</email>
+<institution>McGill University</institution>
+<lname>Faraj</lname>
+<fname>Samer</fname>
+</author>
+<author>
+<email>kudaravalli@hec.fr</email>
+<institution>HEC Paris</institution>
+<lname>Kudaravalli</lname>
+<fname>Sri</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online communities</keyword>
+<keyword>scale-free</keyword>
+<keyword>power law distribution</keyword>
+<keyword>preferential attachment</keyword>
+<keyword>social exchange</keyword>
+<keyword>reciprocity</keyword>
+<keyword>simulation</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Online communities bring together individuals with shared interest in joint action or sustained interaction. Power law distributions of user popularity appear ubiquitous in online communities but their formation mechanisms are not well understood. This study tests for the emergence of power law distributions via the mechanisms of preferential attachment, least efforts, direct reciprocity, and indirect reciprocity. Preferential attachment, where new entrants favor connections with already popular participants, is the predominant explanation suggested by prior literature. Yet, the attribution of preferential attachment or any other mechanism as a single unitary reason for the emergence of power law distributions runs contrary to the social nature of online communities and does not account for diversity of participants’ motivation. Agent-based modeling is used to test if a single social mechanism alone or multiple mechanisms together can generate power law distributions observed in online communities. Data from 28 online communities is used to calibrate, validate, and analyze the simulation. Simulated communication networks are randomly generated according to parameters for each hypothesis. The fit of the power law distribution in the model testing subset is then compared against the fit for these simulated networks. The major finding is that, in contrast to research in more general network settings, neither preferential attachment nor any other single mechanism alone generates a power law distribution. Instead, a blended model of preferential attachment with other social network formation mechanisms was most consistent with power law distributions seen in online communities. This suggests the need to move away from stylized explanations of network emergence that rely on single theories toward more highly socialized and multitheoretic explanations of community development.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>795</fpage>
+<lpage>808</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3193&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3193</articleid>
+<submission-date>2014-07-31T12:18:46-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854609</context-key>
+<submission-path>misq/vol38/iss3/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Power Laws in Online Communities</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Informational Cascades and Software Adoption on the Internet:  An Empirical Investigation</title>
+<publication-date>2009-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>wduan@gwu.edu</email>
+<institution>George Washington University</institution>
+<lname>Duan</lname>
+<fname>Wenjing</fname>
+</author>
+<author>
+<email>bin.gu@mccombs.utexas.edu</email>
+<institution>University of Texas at Austin</institution>
+<lname>Gu</lname>
+<fname>Bin</fname>
+</author>
+<author>
+<email>abw@uts.cc.utexas.edu</email>
+<institution>The University of Texas at Austin</institution>
+<lname>Whinston</lname>
+<fname>Andrew</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>E-commerce</keyword>
+<keyword>herding</keyword>
+<keyword>informational cascades</keyword>
+<keyword>decision making</keyword>
+<keyword>network effects</keyword>
+<keyword>word-of-mouth</keyword>
+<keyword>software download</keyword>
+<keyword>online communities</keyword>
+<keyword>online user review</keyword>
+</keywords>
+<abstract>&lt;p&gt;Online users often need to make adoption decisions without accurate information about the product values.  An informational cascade occurs when it is optimal for an online user, having observed others’ actions, to follow the adoption decision of the preceding individual without regard to his own information.  Informational cascades are often rational for individual decision making; however, it may lead to adoption of inferior products.  With easy availability of information about other users’ choices, the Internet offers an ideal environment for informational cascades.  In this paper, we empirically examine informational cascades in the context of online software adoption.  We find user behavior in adopting software products is consistent with the predictions of the informational cascades literature.  Our results demonstrate that online users’ choices of software products exhibit distinct jumps and drops with changes in download ranking, as predicted by informational cascades theory.  Furthermore, we find that user reviews have no impact on user adoption of the most popular product, while having an increasingly positive impact on the adoption of lower ranking products.  The phenomenon persists after controlling for alternative explanations such as network effects, word-of-mouth effects, and product diffusion.  Our results validate informational cascades as an important driver for decision making on the Internet.  The finding also offers an explanation for the mixed results reported in prior studies with regard to the influence of online user reviews on product sales.  We show that the mixed results could be due to the moderating effect of informational cascades.&lt;/p&gt;</abstract>
+<fpage>23</fpage>
+<lpage>48</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2782&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2782</articleid>
+<submission-date>2009-03-02T12:30:09-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>752035</context-key>
+<submission-path>misq/vol33/iss1/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Informational Cascades &amp; Software Adoption</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Representing Part–Whole Relations in Conceptual Modeling:  An Empirical Evaluation</title>
+<publication-date>2008-10-27T15:06:23-07:00</publication-date>
+<authors>
+<author>
+<email>gshanks@unimelb.edu.au</email>
+<institution>University of Melbourne</institution>
+<lname>Shanks</lname>
+<fname>Graeme</fname>
+</author>
+<author>
+<email>e.tansley@cqu.edu.au</email>
+<institution>Central Queensland University</institution>
+<lname>Tansley</lname>
+<fname>Elizabeth</fname>
+</author>
+<author>
+<email>jasminan@optusnet.com.au</email>
+<institution>Simsion and Associates</institution>
+<lname>Nuredini</lname>
+<fname>Jasmina</fname>
+</author>
+<author>
+<email>dtobin@unimelb.edu.au</email>
+<institution>University of Melbourne</institution>
+<lname>Tobin</lname>
+<fname>Daniel</fname>
+</author>
+<author>
+<email>Ron.Weber@monash.edu</email>
+<institution>Monash University</institution>
+<lname>Weber</lname>
+<fname>Ron</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Conceptual modeling</keyword>
+<keyword>information systems</keyword>
+<keyword>development</keyword>
+<keyword>ontology</keyword>
+<keyword>part-of relations</keyword>
+<keyword>aggregation</keyword>
+<keyword>composition</keyword>
+<keyword>meronymic relations</keyword>
+<keyword>mereology</keyword>
+<keyword>mereotopology</keyword>
+</keywords>
+<abstract>&lt;p&gt;The part-of construct is a fundamental element of many conceptual modeling grammars that is used to associate one thing (a component) with another thing (a composite).  Substantive theoretical issues surrounding the part-of construct remain to be resolved, however.  For instance, contrary to widespread claims, some researchers now argue the relationship between components and composites is not always transitive.  Moreover, how the part-of construct should be represented in a conceptual schema diagram remains a contentious issue.  Some analysts argue composites should be represented as a relationship or association.  Others argue they should be represented as an entity.  In this paper we use an ontological theory to support our arguments that composites should be represented as entities and not relationships or associations.  We also describe an experiment that we undertook to test whether representing composites as relationships or entities enables users to understand a domain better.  Our results support our arguments that using entities to represent composites enables users to better understand a domain.&lt;/p&gt;</abstract>
+<fpage>553</fpage>
+<lpage>573</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss3/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2550&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2550</articleid>
+<submission-date>2008-10-27T14:03:56-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656676</context-key>
+<submission-path>misq/vol32/iss3/7</submission-path>
+<fields>
+<field name="acknowledgements" type="string">
+<value>Shanks, G., Tansley, E., Nuredini, J., Tobin, D., and Weber, R.  2008.  “Representing Part–Whole Relations in Conceptual Modeling:  An Empirical Evaluation,” MIS Quarterly (32:3), pp. 553-573.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

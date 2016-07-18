@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>IS Employee Attitude and Perceptions at Varying Levels of Software Process Maturty</title>
+<publication-date>2012-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>janet.ply@pendere.com</email>
+<institution>Pendere, Inc.</institution>
+<lname>Ply</lname>
+<fname>Janet</fname>
+<mname>K.</mname>
+</author>
+<author>
+<email>joemoor@siue.edu</email>
+<institution>Southern Illinois University - Edwardsvile</institution>
+<lname>Moore</lname>
+<fname>Jo</fname>
+<mname>Ellen</mname>
+</author>
+<author>
+<email>cwilliaa@siue.edu</email>
+<institution>Southern Illinois University Edwardsville</institution>
+<lname>Williams</lname>
+<fname>Clay</fname>
+<mname>K.</mname>
+</author>
+<author>
+<email>jthatch@clemson.edu</email>
+<institution>Clemson University</institution>
+<lname>Thatcher</lname>
+<fname>Jason</fname>
+<mname>Bennett</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Software process improvement</keyword>
+<keyword>CMM</keyword>
+<keyword>job satisfaction</keyword>
+<keyword>role conflict</keyword>
+<keyword>role ambiguity</keyword>
+<keyword>work overload</keyword>
+<keyword>cynicism</keyword>
+<keyword>professional efficacy</keyword>
+<keyword>control theory</keyword>
+<keyword>IS professionals</keyword>
+</keywords>
+<abstract>&lt;p&gt;Taking a control theory view of software process innovation, we tested prevalent beliefs regarding software process maturity and Information Systems employee attitudes and perceptions by surveying 736 IS professionals in 10 organizations at varying levels of the CMM (capability maturity model).  Although anecdotal reports and the scant empirical studies to date suggest job attitudes and perceptions are more positive for employees in organizations at higher levels of software process maturity, we found evidence of a more complex picture.  While our data supported expectations that role conflict and perceived work overload were lower for IS professionals in organizations at a level of maturity where software process behavioral controls are implemented, other results were not fully in line with prevalent beliefs.  Most notably, IS workers reported significantly lower professional efficacy and lower job satisfaction in organizations at CMM Level 3, where behavioral controls are the dominant form of formal control, than in organizations at Level 1, which is relatively free of formal controls.  Some anticipated positive attitudes and perceptions surfaced in organizations at the highest rungs of software process maturity (CMM Levels 4/5), where the established behavioral controls are supplemented by substantial outcome controls, as IS professionals reported lower role ambiguity and higher job satisfaction than did their counterparts in organizations at CMM Level 3.&lt;/p&gt;</abstract>
+<fpage>601</fpage>
+<lpage>624</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss2/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3037&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3037</articleid>
+<submission-date>2012-05-25T10:00:51-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2915331</context-key>
+<submission-path>misq/vol36/iss2/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-05-25T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IS Employee Attitudes &amp; Perceptions</value>
+</field>
+</fields>
+</document>
+</documents>

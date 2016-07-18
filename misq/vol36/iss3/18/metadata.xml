@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Does PLS Have Advantages for Small Sample Size or Non-Normal Data?</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>dgoodhue@terry.uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Goodhue</lname>
+<fname>Dale L.</fname>
+</author>
+<author>
+<email>William.w.lewis@gmail.com</email>
+<lname>Lewis</lname>
+<fname>William</fname>
+</author>
+<author>
+<email>thompsrl@wfu.edu</email>
+<institution>Wake Forest University</institution>
+<lname>Thompson</lname>
+<fname>Ron</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Partial least squares</keyword>
+<keyword>PLS</keyword>
+<keyword>regression</keyword>
+<keyword>structural equation modeling</keyword>
+<keyword>statistical power</keyword>
+<keyword>small sample size</keyword>
+<keyword>non-normal distributions</keyword>
+<keyword>Monte Carlo simulation</keyword>
+</keywords>
+<abstract>&lt;p&gt;There is a pervasive belief in the MIS research community that PLS has advantages over other techniques when analyzing small sample sizes or data with non-normal distributions.  Based on these beliefs, major MIS journals have published studies using PLS with sample sizes that would be deemed unacceptably small if used with other statistical techniques.  We used Monte Carlo simulation more extensively than previous research to evaluate PLS, multiple regression, and LISREL in terms of accuracy and statistical power under varying conditions of sample size, normality of the data, number of indicators per construct, reliability of the indicators, and complexity of the research model.  We found that PLS performed as effectively as the other techniques in detecting actual paths, and not falsely detecting non-existent paths.  However, because PLS (like regression) apparently does not compensate for measurement error, PLS and regression were consistently less accurate than LISREL.  When used with small sample sizes, PLS, like the other techniques, suffers from increased standard deviations, decreased statistical power,and reduced accuracy.  All three techniques were remarkably robust against moderate departures from normality, and equally so.  In total, we found that the similarities in results across the three techniques were much stronger than the differences.&lt;/p&gt;</abstract>
+<fpage>981</fpage>
+<lpage>1001</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/18</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3057&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>18</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3057</articleid>
+<submission-date>2012-09-06T07:52:18-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297967</context-key>
+<submission-path>misq/vol36/iss3/18</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>PLS, Small Sample Size, and Non-Normal Data</value>
+</field>
+</fields>
+</document>
+</documents>

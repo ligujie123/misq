@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Minimizing Method Bias Through Programmatic Research</title>
+<publication-date>2009-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>andrew.burton-jones@sauder.ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Burton-Jones</lname>
+<fname>Andrew</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Construct</keyword>
+<keyword>measurement</keyword>
+<keyword>validity</keyword>
+<keyword>method bias</keyword>
+<keyword>method variance</keyword>
+<keyword>qualitative</keyword>
+<keyword>quantitative</keyword>
+</keywords>
+<abstract>&lt;p&gt;Researchers have long known that research methods influence construct measurements and that this influence, or method bias, can lead to false conclusions.  Despite much work in the methodological literature on specific aspects of method bias, such as common method bias and self-report bias, the meaning of method bias remains unclear, and there is no comprehensive approach for dealing with it.  This paper offers a clear definition of method bias, proposes a more comprehensive approach for dealing with it, and describes a demonstration exercise applying the approach in an empirical study of how individual system use and task performance relate. The demonstration suggests that the approach is feasible and illustrates how it can help researchers test theories and identify new research opportunities.&lt;/p&gt;</abstract>
+<fpage>445</fpage>
+<lpage>471</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2861&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2861</articleid>
+<submission-date>2009-08-21T11:26:16-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>961788</context-key>
+<submission-path>misq/vol33/iss3/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Minizing Method Bias</value>
+</field>
+</fields>
+</document>
+</documents>

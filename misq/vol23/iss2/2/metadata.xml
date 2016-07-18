@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Implications of Information Technology Infrastructure for Business Process Redesign</title>
+<publication-date>1999-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Broadbent</lname>
+<fname>Marianne</fname>
+</author>
+<author>
+<lname>Weill</lname>
+<fname>Peter</fname>
+</author>
+<author>
+<lname>Clair</lname>
+<fname>Don</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol23/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2345&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2345</articleid>
+<submission-date>2008-08-18T13:40:14-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584709</context-key>
+<submission-path>misq/vol23/iss2/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1999-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

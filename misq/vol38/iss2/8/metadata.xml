@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Proactive Versus Reactive Security Investments in the Healthcare Sector</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>juhee.kwon@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Kwon</lname>
+<fname>Juhee</fname>
+</author>
+<author>
+<email>m.eric.johnson@owen.vanderbilt.edu</email>
+<institution>Vanderbilt University</institution>
+<lname>Johnson</lname>
+<fname>M.</fname>
+<mname>Eric</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Security investment</keyword>
+<keyword>organizational learning</keyword>
+<keyword>proactive</keyword>
+<keyword>reactive</keyword>
+<keyword>healthcare</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study identifies the effects of security investments that arise from previous failures or external regulatory pressure.  Building on organizational learning theory, the study focuses on the healthcare sector where legislation mandates breach disclosure and detailed data on security investments are available.  Using a Cox proportional hazard model, we demonstrate that proactive security investments are associated with lower security failure rates.  Coupling that result with the economics of breach disclosure, we also show that proactive investments are more cost effective in healthcare security than reactive investments.  Our results further indicate that this effect is amplified at the state level, supporting the argument that security investments create positive externalities.  We also find that external pressure decreases the effect of proactive investments on security performance.  This implies that proactive investments, voluntarily made, have more impact than those involuntarily made.  Our findings suggest that security managers and policy makers should pay attention to the strategic and regulatory factors influencing security investment decisions.&lt;/p&gt;</abstract>
+<fpage>451</fpage>
+<lpage>471</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3176&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3176</articleid>
+<submission-date>2014-05-28T08:38:28-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5626930</context-key>
+<submission-path>misq/vol38/iss2/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-05-28T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Proactive Vs. Reactive Securyt investments in Healthcare</value>
+</field>
+</fields>
+</document>
+</documents>

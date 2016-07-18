@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Review:  Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues</title>
+<publication-date>2001-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Alavi</lname>
+<fname>Maryam</fname>
+</author>
+<author>
+<lname>Leidner</lname>
+<fname>Dorothy</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Knowledge is a broad and abstract notion that has defined epistemological debate in western philosophy since the classical Greek era.  In the past few years, however, there has been a growing  interest in treating knowledge as a significant organizational resource.  Consistent with the interest in organizational knowledge and knowledge management (KM), IS researchers have begun promoting a class of information systems, referred to as knowledge management systems (KMS). The objective of KMS is to support creation, transfer, and application of knowledge in organizations. Knowledge and knowledge management are complex and multi-faceted concepts. Thus, effective development and implementation of KMS requires a foundation in several rich literatures.   To be credible, KMS research and development should preserve and build upon the significant literature that exists in different but related fields. This paper provides a review and interpretation of knowledge management literatures in different fields with an eye toward identifying the important areas for research. We present a detailed process view of organizational knowledge management with a focus on the potential role of information technology in this process. Drawing upon the literature review and analysis of knowledge management processes, we discuss several important research issues surrounding the knowledge management processes and the role of IT in support of these processes.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2610&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2610</articleid>
+<submission-date>2008-12-09T07:10:34-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678511</context-key>
+<submission-path>misq/vol25/iss1/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Web-Based Virtual Learning Environments:  A Research Framework and a Preliminary Assessment of Effectiveness in Basic IT Skills Training</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Piccoli</lname>
+<fname>Gabriele</fname>
+</author>
+<author>
+<lname>Ahmad</lname>
+<fname>Rami</fname>
+</author>
+<author>
+<lname>Ives</lname>
+<fname>Blake</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Virtual learning environments</keyword>
+<keyword>Web-based training</keyword>
+<keyword>experimental research</keyword>
+<keyword>basic skills training</keyword>
+<keyword>information technology training</keyword>
+<keyword>computer self-efficacy.</keyword>
+</keywords>
+<abstract>&lt;p&gt;Internet technologies are having a significant impact on the learning industry.  For-profit organizations and traditional institutions of higher education have developed and are using web-based courses, but little is known about their effectiveness compared to traditional classroom education.  Our work focuses on the effectiveness of a web-based virtual learning environment (VLE) in the context of basic information technology skills training.   This article provides three main contributions.  First, it introduces and defines the concept of VLE, discussing how a VLE differs from the traditional classroom and differentiating it from the related, but narrower, concept of computer aided instruction (CAI).  Second, it presents a framework of VLE effectiveness, grounded in the technology-mediated learning literature, which frames the VLE research domain, and addresses the relationship between the main constructs.  Finally, it focuses on one essential VLE design variable, learner control, and compares a web-based VLE to a traditional classroom through a longitudinal experimental design.   Our results indicate that, in the context of IT basic skills training in undergraduate education, there are no significant differences in performance between students enrolled in the two environments.  However, the VLE leads to higher reported computer self-efficacy, while participants report being less satisfied with the learning process.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss4/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2619&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2619</articleid>
+<submission-date>2008-12-09T09:33:18-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678579</context-key>
+<submission-path>misq/vol25/iss4/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

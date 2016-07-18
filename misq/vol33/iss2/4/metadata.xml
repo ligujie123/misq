@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Scientific Basis for Rigor in Information Systems Research</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>AllenSLee@alum.mit.edu</email>
+<institution>Virginia Commonwealth University</institution>
+<lname>Lee</lname>
+<fname>Allen S.</fname>
+</author>
+<author>
+<email>ghubona@cis.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Hubona</lname>
+<fname>Geoffrey</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Theory testing</keyword>
+<keyword>theory building</keyword>
+<keyword>research methods</keyword>
+<keyword>methodology</keyword>
+<keyword>epistemology</keyword>
+<keyword>positivist research</keyword>
+<keyword>interpretive research</keyword>
+<keyword>action research</keyword>
+<keyword>design research</keyword>
+<keyword>quantitative research</keyword>
+<keyword>qualitative research</keyword>
+<keyword>rigor</keyword>
+<keyword>relevance</keyword>
+</keywords>
+<abstract>&lt;p&gt;Qualitative research is just as able as quantitative research to follow certain fundamental principles of logic in general and scientific reasoning in particular.  Two such principles are the logic of modus ponens and the logic of modus tollens. In this essay, we frame different research approaches—positivist research, interpretive research, action research, and design research—in the forms of modus ponens and modus tollens.  Three issues emerge from this framing and call into question how research is now conducted in the discipline of information systems.  They are the issue of a common scientific basis, the issue of the fallacy of affirming the consequent, and the issue of summative validity.  Both rigor and relevance in information systems research may be better achieved by attending to the three issues.&lt;/p&gt;</abstract>
+<fpage>237</fpage>
+<lpage>262</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2850&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2850</articleid>
+<submission-date>2009-06-01T08:56:43-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860190</context-key>
+<submission-path>misq/vol33/iss2/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Scientific Basis for Rigor in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Building Member Attachment in Online Communities:  Applying Theories of Group Identity and Interpersonal Bonds</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>chingren@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Ren</lname>
+<fname>Yuqing</fname>
+</author>
+<author>
+<email>harper@cs.unn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Harper</lname>
+<fname>F.</fname>
+<mname>Maxwell</mname>
+</author>
+<author>
+<email>mosch@cs.umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Drenner</lname>
+<fname>Sara</fname>
+</author>
+<author>
+<email>terveen@cs.umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Terveen</lname>
+<fname>Loren</fname>
+</author>
+<author>
+<email>kiesler@cs.cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Kiesler</lname>
+<fname>Sara</fname>
+</author>
+<author>
+<email>riedl@cs.umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Riedl</lname>
+<fname>John</fname>
+</author>
+<author>
+<email>roberg.kraut@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Kraut</lname>
+<fname>Robert</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online community</keyword>
+<keyword>group identity</keyword>
+<keyword>interpersonal bonds</keyword>
+<keyword>attachment</keyword>
+<keyword>participation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Online communities are increasingly important to organizations and the general public, but there is little theoretically based research on what makes some online communities more successful than others.  In this article, we apply theory from the field of social psychology to understand how online communities develop member attachment, an important dimension of community success.  We implemented and empirically tested two sets of community features for building member attachment by strengthening either group identity or interpersonal bonds.  To increase identity-based attachment, we gave members information about group activities and intergroup competition, and tools for group-level communication.  To increase bond-based attachment, we gave members information about the activities of individual members and interpersonal similarity, and tools for interpersonal communication.  Results from a six-month field experiment show that participants’ visit frequency and self-reported attachment increased in both conditions.  Community features intended to foster identity-based attachment had stronger effects than features intended to foster bond-based attachment.  Participants in the identity condition with access to group profiles and repeated exposure to their group’s activities visited their community twice as frequently as participants in other conditions.  The new features also had stronger effects on newcomers than on old-timers.  This research illustrates how theory from the social science literature can be applied to gain a more systematic understanding of online communities and how theory-inspired features can improve their success.&lt;/p&gt;</abstract>
+<fpage>841</fpage>
+<lpage>864</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3050&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3050</articleid>
+<submission-date>2012-09-06T07:22:06-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297880</context-key>
+<submission-path>misq/vol36/iss3/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Building Member Attachment in Online Communities</value>
+</field>
+</fields>
+</document>
+</documents>

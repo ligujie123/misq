@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>In Pursuit of Moderation:  Nine Common Errors and Their Solutions</title>
+<publication-date>2003-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Carte</lname>
+<fname>Traci</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Russell</lname>
+<fname>Craig</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Tests of moderation</keyword>
+<keyword>contingency models</keyword>
+<keyword>PLS</keyword>
+</keywords>
+<abstract>&lt;p&gt;One result of the increasing sophistication and complexity of MIS theory and research is the number of studies hypothesizing and testing for moderation effects. A review of the MIS and broader management literatures suggests researchers investigating moderated relationships often commit one or more errors falling into three broad categories: inappropriate use or interpretation of statistics, misalignment of research design with phenomena of interest, and measurement or scaling issues. Examples of nine common errors are presented. Commission of these errors is expected to yield literatures characterized by mixed results at best, and thoroughly erroneous results at worse. Procedures representing examples of best practice and reporting guidelines are provided to help MIS investigators avoid or minimize these errors.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss3/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2685&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2685</articleid>
+<submission-date>2008-12-11T13:42:22-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680688</context-key>
+<submission-path>misq/vol27/iss3/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

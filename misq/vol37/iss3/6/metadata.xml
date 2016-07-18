@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>When Does Technology Use Enable Network Change in Organizations?  A Comparative Study of Feature Use and Shared Affordances</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>Leonardi@northwestern.edu</email>
+<institution>Northwestern University</institution>
+<lname>Leonardi</lname>
+<fname>Paul</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Technology implementation</keyword>
+<keyword>organizational change</keyword>
+<keyword>advice networks</keyword>
+<keyword>feature use</keyword>
+<keyword>affordances</keyword>
+<keyword>frames</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The goal of this study is to augment explanations of &lt;strong&gt;how&lt;/strong&gt; newly implemented technologies enable network change within organizations with an understanding of &lt;strong&gt;when&lt;/strong&gt; such change is likely to happen.  Drawing on the emerging literature on technology affordances, the paper suggests that informal network change within interdependent organizational groups is unlikely to occur until users converge on a shared appropriation of the new technology’s features such that the affordances the technology enables are jointly realized.  In making the argument for the importance of &lt;strong&gt;shared affordances&lt;/strong&gt;, this paper suggests that group-level network change has its most profound implications at the organization level when individuals use the same subset of a new information technology’s features.  To explore this tentative theory, we turn to a comparative, multimethod, longitudinal study of computer-based simulation technology use in automotive engineering.  The findings of this explanatory case study show that engineers used the new technology for more than three months, during which time neither group experienced changes to their advice networks.  Initially, divergent uses of the technology’s features by engineers in both groups precluded them from being able to coordinate their work in ways that allowed them to structure their advice networks differently.  Eventually, engineers in only one of the two groups converged on the use of a common set of the technology’s features to enact a shared affordance.  This convergence was necessary to turn the technology into a resource that could collectively afford group members the ability to compare their simulation outputs with one another and, in so doing, alter the content and structure of the group’s advice network.  The implications of these findings for the literatures on technology feature use, affordances, social networks, and post-adoption behaviors in organizations are discussed.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>749</fpage>
+<lpage>775</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3118&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3118</articleid>
+<submission-date>2013-08-15T07:53:20-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440269</context-key>
+<submission-path>misq/vol37/iss3/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Comparative Study of Feature Use and Shared Affordances</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Are There Neural Gender Differences in Online Trust?  An fMRI Study on the Perceived Trustworthiness of eBay Offers</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>rene.riedl@jku.at</email>
+<institution>University of Linz</institution>
+<lname>Riedl</lname>
+<fname>René</fname>
+</author>
+<author>
+<email>marco.hubert@zeppelin-university.de</email>
+<institution>Zeppelin University</institution>
+<lname>Hubert</lname>
+<fname>Marco</fname>
+</author>
+<author>
+<email>peter.kenning@zeppelin-university.de</email>
+<institution>Zeppelin University</institution>
+<lname>Kenning</lname>
+<fname>Peter</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online trust</keyword>
+<keyword>trustworthiness</keyword>
+<keyword>functional magnetic resonance imaging (fMRI)</keyword>
+<keyword>gender</keyword>
+<keyword>eBay</keyword>
+</keywords>
+<abstract>&lt;p&gt;Research provides increasing evidence that women and men differ in their decisions to trust.  However, information systems research does not satisfactorily explain why these gender differences exist.  One possible reason is that, surprisingly, theoretical concepts often do not address the most obvious factor that influences human behavior:  biology.  Given the essential role of biological factors—and specifically those of the brain—in decisions to trust, the biological influences should naturally include those related to gender.  As trust considerations in economic decision making have become increasingly complex with the expansion of Internet use, understanding the related biological/brain functions and the involvement of gender provides a range of valuable insights.&lt;/p&gt;
+&lt;p&gt;To show empirically that online trust is associated with activity changes in certain brain areas, we used functional magnetic resonance imaging (fMRI).  In a laboratory experiment, we captured the brain activity of 10 female and 10 male participants simultaneous to decisions on trustworthiness of eBay offers.  We found that most of the brain areas that encode trustworthiness differ between women and men. Moreover, we found that women activated more brain areas than did men.  These results confirm the empathizing– systemizing theory, which predicts gender differences in neural information processing modes.&lt;/p&gt;
+&lt;p&gt;In demonstrating that perceived trustworthiness of Internet offers is affected by neurobiology, our study has major implications for both IS research and management.  We confirm the value of a category of research heretofore neglected in IS research and practice, and argue that future IS research investigating human behavior should consider the role of biological factors.  In practice, biological factors are a significant consideration for management, marketing, and engineering attempts to influence behavior.&lt;/p&gt;</abstract>
+<fpage>397</fpage>
+<lpage>428</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2912&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2912</articleid>
+<submission-date>2010-06-23T13:57:14-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1370010</context-key>
+<submission-path>misq/vol34/iss2/12</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Neural Gender Differences in Online Trust</value>
+</field>
+</fields>
+</document>
+</documents>

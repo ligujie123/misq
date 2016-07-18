@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information About Information:  A Taxonomy of Views</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>emckinn@bgsu.edu</email>
+<institution>Bowling Green State Univeristy</institution>
+<lname>McKinney</lname>
+<fname>Earl</fname>
+</author>
+<author>
+<email>Yoos_C@fortlewis.edu</email>
+<institution>Fort Lewis College, USAFA</institution>
+<lname>Yoos</lname>
+<fname>Chuck</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information theory</keyword>
+<keyword>taxonomy</keyword>
+<keyword>toke</keyword>
+<keyword>syntax</keyword>
+<keyword>representation</keyword>
+<keyword>adaptation</keyword>
+</keywords>
+<abstract>&lt;p&gt;“Information” is poorly defined in the Information Systems research literature, and is almost always unspecified, a reflexive, all-purpose but indiscriminant solution to an unbounded variety of problems.  We present a taxonomy of four views—token, syntax, representation, and adaptation—to enable scholars and practitioners to specify their concept of information.  This taxonomy is normative, but we also provide a background review of the etymology and chronology of information, and we sample uses of the term in current IS research.  IS research will improve as the term information, via the taxonomy we contribute, is employed more explicitly and consistently.&lt;/p&gt;</abstract>
+<fpage>329</fpage>
+<lpage>344</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2908&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2908</articleid>
+<submission-date>2010-06-23T13:45:07-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369991</context-key>
+<submission-path>misq/vol34/iss2/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Information About Information</value>
+</field>
+</fields>
+</document>
+</documents>

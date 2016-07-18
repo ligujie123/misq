@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Explaining Employee Job Performance:  The Role of Online and Offline Workplace Communication Networks</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>xiaojunzhang@ust.hk</email>
+<institution>Hong Kong University of Science and Technology</institution>
+<lname>Zhang</lname>
+<fname>Xiaojun</fname>
+</author>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Online networks</keyword>
+<keyword>offline networks</keyword>
+<keyword>communication networks</keyword>
+<keyword>social networks</keyword>
+<keyword>complementarity</keyword>
+<keyword>job performance</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;By distinguishing between employees’ online and offline workplace communication networks, this paper incorporates technology into social network theory to understand employees’ job performance.  Specifically, we conceptualize network ties as direct and indirect ties in both online and offline workplace communication networks, thus resulting in four distinct types of ties.  We theorize that employees’ ties in online and offline workplace communication networks are &lt;strong&gt;complementary resources&lt;/strong&gt; that interact to influence their job performance.  We found support for our model in a field study among 104 employees in a large telecommunication company.  The paper concludes with theoretical and practical implications. &lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>695</fpage>
+<lpage>722</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3116&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3116</articleid>
+<submission-date>2013-08-15T07:48:00-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440175</context-key>
+<submission-path>misq/vol37/iss3/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Online and Offline Networks</value>
+</field>
+</fields>
+</document>
+</documents>

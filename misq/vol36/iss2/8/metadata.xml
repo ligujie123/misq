@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding User Revisions When Using Information System Features:  Adaptive System Use and Triggers</title>
+<publication-date>2012-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>hsun@email.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Sun</lname>
+<fname>Heshan</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Post-adoptive system use</keyword>
+<keyword>adaptive system use</keyword>
+<keyword>triggers</keyword>
+<keyword>features in use</keyword>
+<keyword>formative factor</keyword>
+<keyword>personal innovativeness in IT</keyword>
+<keyword>facilitating conditions</keyword>
+</keywords>
+<abstract>&lt;p&gt;Post-adoptive system use is often characterized by cycles of adaptation, in which people actively revise how they use information systems.  This paper investigates &lt;strong&gt;how&lt;/strong&gt; and &lt;strong&gt;why&lt;/strong&gt; individual users revise their system use at the feature level.  A new concept, &lt;strong&gt;adaptive system use&lt;/strong&gt; (ASU), is conceptualized as a user’s revisions of which and how system features are used.  This research identifies four specific ASU behaviors that collectively describe how people revise their use of system features.  A model of ASU is developed based on Louis and Sutton’s (1991) research on how people switch to active thinking from automatic thinking.  The model specifies three antecedents of ASU (novel situations, discrepancies, and deliberate initiatives) and two moderators (personal innovativeness in IT and facilitating conditions).  An empirical study of 253 Microsoft Office users largely supported the research model.  The findings suggest that triggers―including novel situations, discrepancies, and deliberate initiatives―are a significant impetus to ASU.  This research also confirms moderating effects of personal innovativeness in IT.  The findings also show the relationships among triggers:  in addition to their direct impact on ASU, novel situations and deliberate initiatives exert their influence on ASU indirectly by giving rise to discrepancies in system use.  Moreover, a cluster analysis identifies three heterogeneous triggering conditions and reveals that people engage in different ASU behaviors under different triggering conditions.&lt;/p&gt;</abstract>
+<fpage>453</fpage>
+<lpage>478</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3031&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3031</articleid>
+<submission-date>2012-05-25T09:28:32-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2915274</context-key>
+<submission-path>misq/vol36/iss2/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-05-25T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Adaptive System Use</value>
+</field>
+</fields>
+</document>
+</documents>

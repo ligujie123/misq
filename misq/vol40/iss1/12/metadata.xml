@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>How Information Technology Strategy and Investments Influence Firm Performance:  Conjecture and Emirical Evidence</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>smithas@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Mithas</lname>
+<fname>Sunil</fname>
+</author>
+<author>
+<email>rrust@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Rust</lname>
+<fname>Roland</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information technology strategic emphasis</keyword>
+<keyword>IT ambidexterity</keyword>
+<keyword>IT strategic ambidexterity</keyword>
+<keyword>firm performance</keyword>
+<keyword>profitability</keyword>
+<keyword>IT investments</keyword>
+<keyword>revenue growth</keyword>
+<keyword>cost reduction</keyword>
+<keyword>dual emphasis</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, we develop conjectures for understanding how information technology (IT) strategy and IT investments jointly influence profitability and the market value of the firm. We view IT strategy as an expression of the dominant strategic objective that the firm chooses to emphasize, which can be revenue expansion, cost reduction, or a dual emphasis in which both goals are pursued. Using data from more than 300 firms in the United States, we find that at the mean value of IT investments, firms with a dual IT strategic emphasis have a higher market value as measured by Tobin’s Q than firms with a revenue or a cost emphasis, but they have similar levels of profitability. Of greater importance, IT strategic emphasis plays a significant role in moderating the relationship between IT investments and firm performance. Dual-emphasis firms have a stronger IT–Tobin’s Q relationship than revenue-emphasis firms. Dual-emphasis firms also have a stronger IT– profitability relationship than either revenue- or cost-emphasis firms. Overall, these findings imply that, at low levels of IT investment, the firm may need to choose between revenue expansion and cost reduction, but at higher levels of IT investment, dual-emphasis in IT strategy or IT strategic ambidexterity increasingly pays off.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>223</fpage>
+<lpage>245</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3280&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3280</articleid>
+<submission-date>2016-02-29T08:23:01-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235554</context-key>
+<submission-path>misq/vol40/iss1/12</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Influence of IT Strategy and Investments on Firm Performance</value>
+</field>
+</fields>
+</document>
+</documents>

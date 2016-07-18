@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Are Markets for Vulnerabilities Effective?</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>sam.ransbotham@bc.edu</email>
+<institution>Boston College</institution>
+<lname>Ransbotham</lname>
+<fname>Sam</fname>
+</author>
+<author>
+<email>saby.mitra@mgt.gatech.edu</email>
+<institution>Georgia Institute of Technology - Main Campus</institution>
+<lname>Mitra</lname>
+<fname>Sabyasachi</fname>
+</author>
+<author>
+<email>jon_ramsey@dell.com</email>
+<institution>Dell SecureWorks</institution>
+<lname>Ramsey</lname>
+<fname>Jon</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information security</keyword>
+<keyword>vulnerability disclosure</keyword>
+<keyword>information technology policy</keyword>
+</keywords>
+<abstract>&lt;p&gt;Current reward structures in security vulnerability disclosure may be skewed toward benefitting nefarious usage of vulnerability information rather than responsible disclosure. Recently suggested market-based mechanisms offer incentives to responsible security researchers for discovering and reporting vulnerabilities. However, concerns exist that any benefits gained through increased incentives for responsible discovery may be lost through information leakage. Using perspectives drawn from the diffusion of innovations literature, we examine the effectiveness of market-based vulnerability disclosure mechanisms. Empirical examination of two years of security alert data finds that market-based disclosure restricts the diffusion of vulnerability exploitations, reduces the risk of exploitation, and decreases the volume of exploitation attempts.&lt;/p&gt;</abstract>
+<fpage>43</fpage>
+<lpage>64</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3007&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3007</articleid>
+<submission-date>2012-02-24T08:04:35-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2565938</context-key>
+<submission-path>misq/vol36/iss1/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Are Markets for Vulnerabilities Effective?</value>
+</field>
+</fields>
+</document>
+</documents>

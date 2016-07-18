@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>E-Commerce Product Recommendation Agents:  Use, Characteristics, and Impact</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Xiao</lname>
+<fname>Bo</fname>
+</author>
+<author>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Recommendation agents (RAs) are software that elicits the interests or preferences of individual consumers for products, either explicitly or implicitly, and make recommendations accordingly. RAs have the potential to support and improve the quality of the decisions consumers make when searching for and selecting products online. They can reduce the information overload facing consumers, as well as the complexity of online searches. Prior research on RAs has focused mostly on developing and evaluating different underlying algorithms that generate recommendations. This paper instead identifies other important aspects of RAs, namely RA use, RA characteristics, provider credibility, and factors related to product, user, and user-RA interaction, which influence users’ decision making processes and outcomes, as well as their evaluation of RAs. It goes beyond generalized models, such as TAM, and identifies the RA-specific features, such as RA input, process and output design characteristics, that affect users’ evaluations, including their assessments of the usefulness and ease-of-use of RA applications.  Based on a review of existing literature on e-commerce RAs, this paper develops a conceptual model with 28  propositions derived from five theoretical perspectives. The propositions help answer the two research questions: (1) How do RA use, RA characteristics, and other factors influence consumer decision making processes and outcomes? (2) How do RA use, RA characteristics, and other factors influence users’ evaluations of RAs?  By identifying the critical gaps between what we know and what we need to know, this paper identifies potential areas of future research for scholars. It also provides advice to IS practitioners concerning the effective design and development of RAs.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2660&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2660</articleid>
+<submission-date>2008-12-11T08:23:28-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680267</context-key>
+<submission-path>misq/vol31/iss1/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

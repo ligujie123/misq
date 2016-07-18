@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Informatino Technology Implementers&#39; Responses to User Resistance:  Nature and Effects</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>suzanne.rivard@hec.ca</email>
+<institution>HEC Montreal</institution>
+<lname>Rivard</lname>
+<fname>Suzanne</fname>
+</author>
+<author>
+<email>liette.lapointe@mcgill.ca</email>
+<institution>McGill University</institution>
+<lname>Lapointe</lname>
+<fname>Liette</fname>
+</author>
+</authors>
+<keywords>
+<keyword>User resistance</keyword>
+<keyword>information technology implementation</keyword>
+<keyword>implementers’ response</keyword>
+<keyword>theory building</keyword>
+<keyword>case survey</keyword>
+<keyword>set-theoretic analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;User resistance has long been acknowledged as a critical issue during information technology implementation. Resistance can be functional when it signals the existence of problems with the IT or with its effects; it will be dysfunctional when it leads to organizational disruption.  Notwithstanding the nature of resistance, the implementers—business managers, functional managers, or IT professionals—have to address it.  Although the literature recognizes the importance of user resistance, it has paid little attention to implementers’ responses—and their effect—when resistance occurs.  Our study focuses on this phenomenon, and addresses two questions:  What are implementers’ responses to user resistance?  What are the effects of these responses on user resistance?  To answer these questions, we conducted a case survey, which combines the richness of case studies with the benefits of analyzing large quantities of data.  Our case database includes 89 cases with a total of 137 episodes of resistance.  In response to our first research question, we propose a taxonomy that includes four categories of implementers’ responses to user resistance:  inaction, acknowledgment, rectification, and dissuasion.  To answer our second question, we adopted a set-theoretic analysis approach, which we enriched with content analysis of the cases.  Based on these analyses, we offer a theoretical explanation of how implementers’ responses may affect the antecedents that earlier research found to be associated with user resistance behaviors.&lt;/p&gt;</abstract>
+<fpage>897</fpage>
+<lpage>920</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3052&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3052</articleid>
+<submission-date>2012-09-06T07:31:28-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3297900</context-key>
+<submission-path>misq/vol36/iss3/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-06T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT Implementers&#39; Responses to User Resistance</value>
+</field>
+</fields>
+</document>
+</documents>

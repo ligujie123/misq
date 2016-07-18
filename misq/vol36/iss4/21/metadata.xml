@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>MetaFraud: A Meta-Learning Framework for Detecting Financial Fraud</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>abbasi@comm.virginia.edu</email>
+<institution>University of Virginia</institution>
+<lname>Abbasi</lname>
+<fname>Ahmed</fname>
+</author>
+<author>
+<email>ca@byu.edu</email>
+<institution>Brigham Young University</institution>
+<lname>Albrecht</lname>
+<fname>Conan</fname>
+</author>
+<author>
+<email>anthony@vance.name</email>
+<institution>Brigham Young University</institution>
+<lname>Vance</lname>
+<fname>Anthony</fname>
+<mname>Osborn</mname>
+</author>
+<author>
+<email>James_Hansen@byu.edu</email>
+<institution>Brigham Young University</institution>
+<lname>Hansen</lname>
+<fname>James</fname>
+<mname>V.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Fraud detection</keyword>
+<keyword>financial statement fraud</keyword>
+<keyword>feature construction</keyword>
+<keyword>meta-learning</keyword>
+<keyword>business intelligence</keyword>
+<keyword>design science</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Financial fraud can have serious ramifications for the long-term sustainability of an organization, as well as adverse effects on its employees and investors, and on the economy as a whole.  Several of the largest bankruptcies in U.S. history involved firms that engaged in major fraud.  Accordingly, there has been considerable emphasis on the development of automated approaches for detecting financial fraud.  However, most methods have yielded performance results that are less than ideal.  In consequence, financial fraud detection continues as an important challenge for business intelligence technologies.  &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In light of the need for more robust identification methods, we use a design science approach to develop MetaFraud, a novel meta-learning framework for enhanced financial fraud detection.  To evaluate the proposed framework, a series of experiments are conducted on a test bed encompassing thousands of legitimate and fraudulent firms.  The results reveal that each component of the framework significantly contributes to its overall effectiveness.  Additional experiments demonstrate the effectiveness of the meta-learning framework over state-of-the-art financial fraud detection methods.  Moreover, the MetaFraud framework generates confidence scores associated with each prediction that can facilitate unprecedented financial fraud detection performance and serve as a useful decision-making aid.  The results have important implications for several stakeholder groups, including compliance officers, investors, audit firms, and regulators.&lt;/p&gt;</abstract>
+<fpage>1293</fpage>
+<lpage>1327</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss4/21</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3079&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>21</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3079</articleid>
+<submission-date>2012-12-07T10:56:28-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3521124</context-key>
+<submission-path>misq/vol36/iss4/21</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-12-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Meta-Learning Framework for Detecting Financial Fraud</value>
+</field>
+</fields>
+</document>
+</documents>

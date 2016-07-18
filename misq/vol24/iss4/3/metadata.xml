@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Is a Map More than a Picture?  The Role of SDSS Technology, Subject Characteristics, and Problem Complexity on Map Reading and Problem Solving</title>
+<publication-date>2000-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Mennecke</lname>
+<fname>Brian</fname>
+<mname>E.</mname>
+</author>
+<author>
+<lname>Crossland</lname>
+<fname>Martin</fname>
+<mname>D.</mname>
+</author>
+<author>
+<lname>Killingsworth</lname>
+<fname>Brenda</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;This research investigated how the use of a spatial decision support system (SDSS)—a type of geographic information system (GIS)—influenced the accuracy and efficiency of different types of problem solvers (i.e., professionals versus students) completing problems of varied complexity.  This research—the first to simultaneously study these variables—examined subjects who completed a problem involving spatially-referenced information.  The experiment was guided by a research model synthesized from various perspectives, including the theory of cognitive fit, prior research on map reading and interpretation, and research examining subject expertise and experience. The results are largely supportive of the research model and demonstrate that SDSS, an increasingly important class of management decision-making technology, increased the efficiency of users working on more complex problems.  Professionals were found to be more accurate but less efficient than students; however, professionals who used the SDSS were no more accurate than professionals using paper maps. Need for cognition, a construct that focuses on an individual’s willingness to engage in problem solving tasks, was found to be marginally related to accuracy. The implications of these findings for researchers and practitioners are presented and discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol24/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2601&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2601</articleid>
+<submission-date>2008-12-09T06:34:33-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678482</context-key>
+<submission-path>misq/vol24/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

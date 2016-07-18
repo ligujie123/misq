@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Membership Turnover and Collaboration Success in Online Communities:  Explaining Rises</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>sam.ransbotham@bc.edu</email>
+<institution>Boston College</institution>
+<lname>Ransbotham</lname>
+<fname>Sam</fname>
+</author>
+<author>
+<email>gerald.kane@bc.edu</email>
+<institution>Boson College</institution>
+<lname>Kane</lname>
+<fname>Kane</fname>
+<mname>C</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Article</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Online communities</keyword>
+<keyword>collaboration</keyword>
+<keyword>longitudinal study</keyword>
+<keyword>membership turnover</keyword>
+<keyword>information generation</keyword>
+<keyword>information retention</keyword>
+</keywords>
+<abstract>&lt;p&gt;Firms increasingly turn to online communities to create valuable information. These communities are empowered by new information technology-enabled collaborative tools, tools such as blogs, wikis, and social networks. Collaboration on these platforms is characterized by considerable membership turnover, which could have significant effects on collaborative outcomes. We hypothesize that membership retention relates in a curvilinear fashion to effective collaboration: positively up to a threshold and negatively thereafter. The longitudinal history of 2,065 featured articles on Wikipedia offers support for this hypotheses: Contributions from a mixture of new and experienced participants both increases the likelihood that an article will be promoted to featured article status and decreases the risk it will be demoted after having been promoted. These findings imply that, contrary to many of the assumptions in previous research, participant retention does not have a strictly positive effect on emerging collaborative environments. Further analysis of our data provides empirical evidence that knowledge creation and knowledge retention are actually distinct phases of community-based peer production, and that communities may on average experience more turnover than ideal during the knowledge retention phase.&lt;/p&gt;</abstract>
+<fpage>613</fpage>
+<lpage>627</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2973&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2973</articleid>
+<submission-date>2011-08-23T11:22:35-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185848</context-key>
+<submission-path>misq/vol35/iss3/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Membership Turnover Collaboration Success in Online Communities</value>
+</field>
+</fields>
+</document>
+</documents>

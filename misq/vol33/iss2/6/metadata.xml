@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Interactive Decision Aids for Consumer Decision Making in E-Commerce:  The Influence of Perceived Strategy Restrictiveness</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>weiquan@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Wang</lname>
+<fname>Weiquan</fname>
+</author>
+<author>
+<email>benbasat@sauder.ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Decision aid</keyword>
+<keyword>decision strategy</keyword>
+<keyword>restrictiveness</keyword>
+<keyword>cognitive effort</keyword>
+<keyword>advice quality</keyword>
+<keyword>strategy normativeness</keyword>
+<keyword>strategy complementarity</keyword>
+<keyword>explanation</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper extends the effort–accuracy framework of cognition by taking into account the perceived strategy restrictiveness of decision aids, and tests the extended framework in a context in which online decision aids are used to elicit consumers’ preferences, automate the processing of the preferences, and provide product advice for consumers.  Three types of decision aids with different decision strategy support capabilities (an additive-compensatory based aid, an elimination-based aid, and a hybrid aid supporting both strategies) are compared in terms of users’ perceptions of strategy restrictiveness, advice quality, and cognitive effort.  These comparisons are grounded on the properties of normativeness and complementarity of decision strategies employed by the aids.  A normative strategy takes into account both the users’ attribute preferences and the relative importance of such preferences, and allows for trade-offs among preferences (e.g., additive–compensatory).  Strategy complementarity indicates support for decision rules based on multiple strategies (e.g., both additive–compensatory and elimination strategies).&lt;/p&gt;
+&lt;p&gt;The experimental results support the validity of the extended effort–accuracy–restrictiveness framework and the effects of strategy normativeness, but not the effects of strategy complementarity.  In addition to the perceptions of cognitive effort and advice quality, perceived strategy restrictiveness exerts a significant influence on consumers’ intentions to use online decision aids.  The additive–compensatory aid is perceived to be less restrictive, of higher quality, and less effortful than the elimination aid, whereas the hybrid aid is not perceived to be any different from the additive–compensatory aid.&lt;/p&gt;</abstract>
+<fpage>293</fpage>
+<lpage>320</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2852&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2852</articleid>
+<submission-date>2009-06-01T09:06:07-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860201</context-key>
+<submission-path>misq/vol33/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Interactive Decision Aids</value>
+</field>
+</fields>
+</document>
+</documents>

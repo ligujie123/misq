@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Empirical Investigation of Net-Enabled Business Value</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Barua</lname>
+<fname>Anitesh</fname>
+</author>
+<author>
+<lname>Konana</lname>
+<fname>Prabhudev</fname>
+</author>
+<author>
+<lname>Whinston</lname>
+<fname>Andrew</fname>
+<mname>B.</mname>
+</author>
+<author>
+<lname>Yin</lname>
+<fname>Fang</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Business value of IT</keyword>
+<keyword>net-enabled business transformation</keyword>
+<keyword>digitization</keyword>
+<keyword>resource-based view</keyword>
+<keyword>online informational capability</keyword>
+<keyword>business process alignment</keyword>
+</keywords>
+<abstract>&lt;p&gt;Many traditional organizations have undertaken major initiatives to leverage the Internet to transform how they coordinate value activities with customers, suppliers, and other business partners with the objective of improving firm performance. This paper addresses processes through which business value is created through such Internet-enabled value chain activities. Relying on the resource-based view of the firm, we propose a model positing that a firm’s abilities to coordinate and exploit firm resources (processes, information technology, and readiness of customers and suppliers) create online informational capabilities  (a higher order resource) which then leads to improved operational and financial performance. The outcome of a firm’s online informational capabilities is reflected in superior operational performance through customer and supplier-side digitization efforts, which reflect the extent to which transactions and external interactions occur electronically. We also hypothesize that increased customer and supplier-side digitization leads to better financial performance. The model is tested with data from over 1,000 firms in the manufacturing, retail, and wholesale sectors. The analysis suggests that while most firms are lagging in their supplier-side initiatives relative to the customer-side, supplier-side digitization has a strong positive impact on customer-side digitization, which, in turn, leads to better financial performance. Further, both customer and supplier readiness to engage in digital interactions are shown to be as important as a firm’s internal digitization initiatives, implying that a firm’s transformation-related decisions should include its customers’ and suppliers’ resources and incentives.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2711&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2711</articleid>
+<submission-date>2008-12-12T13:16:11-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681266</context-key>
+<submission-path>misq/vol28/iss4/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

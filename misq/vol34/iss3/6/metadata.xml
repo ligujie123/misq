@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Circuits of Power:  A Study of Mandated Compliance to an Information Systems Security De Jure Standard in a Government Organization</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>stephen.smith@services.nsw.gov.au</email>
+<institution>New South Wales Govenrment</institution>
+<lname>Smith</lname>
+<fname>Stephen</fname>
+</author>
+<author>
+<email>d.winchester@unsw.edu.au</email>
+<institution>University of New South Wales</institution>
+<lname>Winchester</lname>
+<fname>Donald</fname>
+<mname>W</mname>
+</author>
+<author>
+<email>d.bunker@econ.usyd.edu.au</email>
+<institution>University of Sydney</institution>
+<lname>Bunker</lname>
+<fname>Deborah</fname>
+</author>
+<author>
+<email>r.jamieson@unsw.edu.au</email>
+<institution>University of NSW, Australia</institution>
+<lname>Jamieson</lname>
+<fname>Rodger</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information systems security (ISS)</keyword>
+<keyword>ISS de jure standards</keyword>
+<keyword>politics and power</keyword>
+<keyword>circuits of power</keyword>
+<keyword>resistance</keyword>
+<keyword>norms</keyword>
+<keyword>culture</keyword>
+<keyword>institutionalization</keyword>
+<keyword>canonical action research</keyword>
+<keyword>e-commerce</keyword>
+</keywords>
+<abstract>&lt;p&gt;Organizations need to protect information assets against cyber crime, denial-of-service attacks, web hackers, data breaches, identity and credit card theft, and fraud.  Criminals often try to achieve financial, political, or personal gain through these attacks, so the threats that their actions prompt are insidious motivators for organizations to adopt information systems security (ISS) approaches.  Extant ISS research has traditionally examined ISS in e-commerce business organizations.  The present study investigates ISS within government, analyzing power relationships during an ISS standards adoption and accreditation process, where a head of state mandates that all government agencies are to comply with a national de jure ISS standard.  Using a canonical action research method, designated managers of ISS services across small, medium, and large agencies were monitored and assessed for progress to accreditation through surveys, interviews, participant observation at round table forums, and focus groups.  By 2008, accreditation status across the 89 agencies participating in this study was approximately 33 percent fully accredited, with 67 percent partially compliant. The research uses Clegg’s (1989) circuits of power framework to interpret power, resistance, norms, and cultural relationships in the process of compliance.  The paper highlights that a strategy based on organization subunit size is helpful in motivating and assisting organizations to move toward accreditation.  Mandated standard accreditation was inhibited by insufficient resource allocation, lack of senior management input, and commitment.  Factors contributing to this resistance were group norms and cultural biases.&lt;/p&gt;</abstract>
+<fpage>463</fpage>
+<lpage>486</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2916&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2916</articleid>
+<submission-date>2010-08-13T08:24:42-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444109</context-key>
+<submission-path>misq/vol34/iss3/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Circuits of Power</value>
+</field>
+</fields>
+</document>
+</documents>

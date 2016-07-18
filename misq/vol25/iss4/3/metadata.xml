@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Revolution or Evolution:  A Comparison of Object-Oriented and Structured Systems Development Methods</title>
+<publication-date>2001-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Sircar</lname>
+<fname>Sumit</fname>
+</author>
+<author>
+<lname>Nerur</lname>
+<fname>Sridhar</fname>
+<mname>P.</mname>
+</author>
+<author>
+<lname>Mahapatra</lname>
+<fname>Radhakanta</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS development</keyword>
+<keyword>structured development approach</keyword>
+<keyword>object-oriented approach</keyword>
+<keyword>software development methodologies</keyword>
+<keyword>author co-citation analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper examines the changes engendered when moving from a structured to an object-oriented systems development approach and reconciles the differing views concerning whether this represents an evolutionary or revolutionary change.  Author co-citation analysis is used to elucidate the ideational and conceptual relationships between the two approaches.  The difference in conceptual distance at the analysis and design level compared to that at the programming level is explained using Henderson’s framework for organizational change.  The conceptual shift during analysis and design is considered architectural, whereas for programming it is deemed merely incremental. The managerial implications of these findings are discussed and suggestions for improving the likelihood of success in the adoption of object-oriented systems development methods are provided.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2621&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2621</articleid>
+<submission-date>2008-12-09T10:40:10-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678684</context-key>
+<submission-path>misq/vol25/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reach and Grasp</title>
+<publication-date>2004-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>King</lname>
+<fname>John</fname>
+<mname>Leslie</mname>
+</author>
+<author>
+<lname>Lyytinen</lname>
+<fname>Kalle</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information Systems</keyword>
+<keyword>identity</keyword>
+<keyword>legitimacy</keyword>
+<keyword>theoretic core</keyword>
+<keyword>discipline</keyword>
+<keyword>disciplinary</keyword>
+<keyword>academic politics</keyword>
+</keywords>
+<abstract>&lt;p&gt;The short history of Information Systems suggests persistent anxiety about the field’s purported lack of academic legitimacy.  A common refrain in the anxiety discourse is that legitimacy can be obtained only by creating a strong theoretic core  for the field.  This essay takes exception with this view, attributing the anxiety to the field’s relative youth, its focus on technology in a technophobic  institutional environment, and academic ethnocentrism within and without the field.  While developing stronger theory might be helpful, it is more important that the IS field pushes back against the hegemony of IS critics outside the field whose arguments masquerade as concerns about academic quality. The anxiety discourse should be replaced by the IS field’s aggressive pursuit of new instructional and research opportunities that cross traditional institutional barriers and the pursuit of  excellence on academic criteria deemed important by the field itself.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol28/iss4/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2709&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2709</articleid>
+<submission-date>2008-12-12T13:11:03-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681261</context-key>
+<submission-path>misq/vol28/iss4/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2004-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Systems Development Quality Control</title>
+<publication-date>1978-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Halloran</lname>
+<fname>Dennis</fname>
+</author>
+<author>
+<lname>Manchester</lname>
+<fname>Susan</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol2/iss1/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1829&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1829</articleid>
+<submission-date>2008-08-18T07:20:04-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583216</context-key>
+<submission-path>misq/vol2/iss1/14</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1978-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

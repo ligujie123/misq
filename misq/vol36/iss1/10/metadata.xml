@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Revisiting Bias Due to Construct Misspecification:  Different Results from Considering Coefficients in Standardized Form</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>maguirr6@depaul.edu</email>
+<institution>DePaul University</institution>
+<lname>Aguirre-Urreta</lname>
+<fname>Miguel</fname>
+<mname>I.</mname>
+</author>
+<author>
+<email>gmarakas@ku.edu</email>
+<institution>University of Kansas</institution>
+<lname>Marakas</lname>
+<fname>George</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Construct specification</keyword>
+<keyword>formative</keyword>
+<keyword>reflective</keyword>
+<keyword>simulations</keyword>
+<keyword>standardized coefficients</keyword>
+<keyword>unstandardized coefficients</keyword>
+</keywords>
+<abstract>&lt;p&gt;Researchers in a number of disciplines, including Information Systems, have argued that much of past research may have incorrectly specified the relationship between latent variables and indicators as reflective when an understanding of a construct and its measures indicates that a formative specification would have been warranted. Coupled with the posited severe biasing effects of construct misspecification on structural parameters, these two assertions would lead to concluding that an important portion of our literature is largely invalid. While we do not delve into the issue of when one specification should be employed over another, our work here contends that construct misspecification, but with a particular exception, does not lead to severely biased estimates. We argue, and show through extensive simulations, that a lack of attention to the metric in which relationships are expressed is responsible for the current belief in the negative effects of misspecification.&lt;/p&gt;</abstract>
+<fpage>123</fpage>
+<lpage>138</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3011&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3011</articleid>
+<submission-date>2012-02-24T08:26:12-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2566089</context-key>
+<submission-path>misq/vol36/iss1/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Revisiting Bias Due to Construct Misspecification</value>
+</field>
+</fields>
+</document>
+</documents>

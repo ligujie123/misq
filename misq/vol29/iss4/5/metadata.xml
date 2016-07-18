@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Managing Client Dialogues During Information Systems Design to Facilitate Client Learning</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Majchrzak</lname>
+<fname>Ann</fname>
+</author>
+<author>
+<lname>Beath</lname>
+<fname>Cynthia</fname>
+</author>
+<author>
+<lname>Lim</lname>
+<fname>Ricardo</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Chin</lname>
+<fname>Wynne</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;It has long been recognized that client learning is an important factor in the successful development of information systems.  While there is little question that clients should learn, there is less clarity about how best to facilitate client learning during developer-client meetings.  In this study, we suggest that a cooperative learning strategy called collaborative elaboration developed by educational psychologists provides a theoretical and practical basis for stimulating client learning during an IS design process. The problem with assessing the effects of collaborative elaboration, however, is in controlling for the many other factors that might affect client learning and outcomes of an IS design phase.  In a unique research opportunity, we were able to measure the use of collaborative elaboration among 85 developers and clients involved in 17 projects over a semester-long IS design process.  The projects were homogeneous with respect to key contextual variables.  Our PLS analysis suggested that teams using more collaborative elaboration had more client learning and teams with more client learning achieved better IS design phase outcomes.  This suggests that theories about collaborative elaboration have significant potential for helping IS researchers identify new approaches for stimulating client learning early in the IS design process.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss4/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2741&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2741</articleid>
+<submission-date>2008-12-15T10:26:34-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681983</context-key>
+<submission-path>misq/vol29/iss4/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

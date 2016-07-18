@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Nature of Organizational Decision Making and the Design of Decision Support Systems</title>
+<publication-date>1981-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Huber</lname>
+<fname>George</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol5/iss2/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1858&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1858</articleid>
+<submission-date>2008-08-18T08:40:12-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583371</context-key>
+<submission-path>misq/vol5/iss2/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1981-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

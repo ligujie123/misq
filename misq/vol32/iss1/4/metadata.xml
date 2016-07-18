@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Contribution Behaviors in Distributed Environments</title>
+<publication-date>2008-10-10T12:26:14-07:00</publication-date>
+<authors>
+<author>
+<institution>University of Western Ontario</institution>
+<lname>Olivera</lname>
+<fname>Fernando</fname>
+</author>
+<author>
+<institution>Carnegie Mellon University</institution>
+<lname>Goodman</lname>
+<fname>Paul</fname>
+<mname>S.</mname>
+</author>
+<author>
+<institution>National University of Singapore</institution>
+<lname>Tan</lname>
+<fname>Sharon</fname>
+<mname>Swee-Lin</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Contribution behaviors</keyword>
+<keyword>knowledge sharing</keyword>
+<keyword>knowledge management</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this paper, we develop a framework for understanding contribution behaviors, which we define as voluntary acts of helping others by providing information.  Our focus is on why and how people make contributions in geographically distributed organizations where contributions occur primarily through information technologies.  We develop a model of contribution behaviors that delineates three mediating mechanisms:  (1) awareness; (2) searching and matching; and (3) formulation and delivery.  We specify the cognitive and motivational elements involved in these mechanisms and the role of information technology in facilitating contributions.  We discuss the implications of our framework for developing theory and for designing technology to support contribution behaviors.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2521&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2521</articleid>
+<submission-date>2008-10-09T14:21:00-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>647381</context-key>
+<submission-path>misq/vol32/iss1/4</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Olivera, F., Goodman, P. S., and Tan, S. S-L.  2008.  &quot;Contribution Behaviors in Distributed Environments,&quot; MIS Quarterly (32:1), pp. 23-42.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

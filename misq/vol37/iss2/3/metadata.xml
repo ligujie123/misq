@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Positioning and Presenting Design Science Research for Maximum Impact</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>shirley.gregor@anu.edu.au</email>
+<institution>Australian National University</institution>
+<lname>Gregor</lname>
+<fname>Shirley</fname>
+</author>
+<author>
+<email>ahevner@usf.edu</email>
+<institution>University of South Florida</institution>
+<lname>Hevner</lname>
+<fname>Alan</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Design science research (DSR)</keyword>
+<keyword>knowledge</keyword>
+<keyword>design artifact</keyword>
+<keyword>knowledge contribution framework</keyword>
+<keyword>publication schema</keyword>
+<keyword>information systems</keyword>
+<keyword>computer science discipline</keyword>
+<keyword>engineering discipline</keyword>
+<keyword>DSR theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Design science research (DSR) has staked its rightful ground as an important and legitimate Information Systems (IS) research paradigm.  We contend that DSR has yet to attain its full potential impact on the development and use of information systems due to gaps in the understanding and application of DSR concepts and methods.  This essay aims to help researchers (1)　appreciate the levels of artifact abstractions that may be DSR contributions, (2)　identify appropriate ways of consuming and producing knowledge when they are preparing journal articles or other scholarly works, (3)　understand and position the knowledge contributions of their research projects, and (4)　structure a DSR article so that it emphasizes significant contributions to the knowledge base.  Our focal contribution is the DSR knowledge contribution framework with two dimensions based on the existing state of knowledge in both the problem and solution domains for the research opportunity under study.  In addition, we propose a DSR communication schema with similarities to more conventional publication patterns, but which substitutes the description of the DSR artifact in place of a traditional results section. We evaluate the DSR contribution framework and the DSR communication schema via examinations of DSR exemplar publications&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>337</fpage>
+<lpage>355</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3096&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3096</articleid>
+<submission-date>2013-05-21T13:32:30-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161469</context-key>
+<submission-path>misq/vol37/iss2/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Positioning and Presenting Design Science Research for Maximum Impact</value>
+</field>
+</fields>
+</document>
+</documents>

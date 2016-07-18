@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Work Dispersion, Process-Based Learning, and Offshore Software Development Performance</title>
+<publication-date>2008-10-27T14:09:47-07:00</publication-date>
+<authors>
+<author>
+<email>nramasub@smu.edu.sg</email>
+<institution>Singapore Management University</institution>
+<lname>Ramasubbu</lname>
+<fname>Narayan</fname>
+</author>
+<author>
+<email>smithas@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Mithas</lname>
+<fname>Sunil</fname>
+</author>
+<author>
+<email>ckemerer@katz.pitt.edu</email>
+<institution>University of Pittsburgh</institution>
+<lname>Kemerer</lname>
+<fname>Chris</fname>
+<mname>F.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Offshore software development</keyword>
+<keyword>capability maturity model</keyword>
+<keyword>sofware project performance</keyword>
+<keyword>software engineering</keyword>
+<keyword>software productivity</keyword>
+<keyword>software quality</keyword>
+<keyword>distributed teams</keyword>
+<keyword>global service disaggregation</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this paper we develop a learning-mediated model of offshore software project productivity and quality to examine whether widely adopted structured software processes are effective in mitigating the negative effects of work dispersion in offshore software development.  We explicate how the key process areas of the capability maturity model (CMM) can be utilized as a platform to launch learning routines in offshore software development and thereby explain why some offshore software development process improvement initiatives are more effective than others.  We validate our learning-mediated model of offshore software project performance by utilizing data collected from 42 offshore software projects of a large firm that operates at the CMM level-5 process maturity.  Our results indicate that investments in structured processes mitigate the negative effects of work dispersion in offshore software development.  We also find that the effect of software process improvement initiatives is mediated through investments in process-based learning activities.  These results imply that investments in structured processes and the corresponding process-based learning activities can be an economically viable way to counter the challenges of work dispersion and improve offshore project performance.  We discuss the implication of these results for the adoption of normative process models by offshore software firms.&lt;/p&gt;</abstract>
+<fpage>437</fpage>
+<lpage>458</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss2/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2540&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2540</articleid>
+<submission-date>2008-10-27T13:12:57-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656629</context-key>
+<submission-path>misq/vol32/iss2/13</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Ramasubbu, N., Mithas, S., and Kemerer, C. F.   2008.  “Work Dispersion, Process-Based Learning, and Offshore Software Development Performance,” MIS Quarterly (32:2), pp. 437-458.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

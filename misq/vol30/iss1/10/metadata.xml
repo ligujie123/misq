@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Ethical Decision Making in Software Piracy:  Initial Development and Test of a Four-Component Model</title>
+<publication-date>2006-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Moores</lname>
+<fname>Trevor</fname>
+<mname>T.</mname>
+</author>
+<author>
+<lname>Cha-Jan Chang</lname>
+<fname>Jerry</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ethics</keyword>
+<keyword>morality</keyword>
+<keyword>ethical decision-making</keyword>
+<keyword>moral reasoning</keyword>
+<keyword>ethical scenarios</keyword>
+<keyword>intellectual property rights</keyword>
+<keyword>software piracy</keyword>
+<keyword>age</keyword>
+<keyword>gender</keyword>
+</keywords>
+<abstract>&lt;p&gt;Software piracy costs the software industry billions of dollars each year.  To better understand piracy, we propose a model of ethical decision making that is an adaptation of the four-component model of morality.  This model defines four internal processes that result in external moral behavior:  recognition, judgment, intention, and behavior.  We test our model with a sample of Information Systems students in Hong Kong who provided measures of self-reported behavior regarding levels of buying and using pirated software.  Using partial least squares, we investigated the causal pathways of the model and the effects of age and gender.  We find that use is determined by buying, buying is determined by intention, and intention is determined by judgment.  Although respondents recognized software piracy as an infringement of intellectual property rights, this fact did not affect their judgment of the morality of the act.  We also find significant differences in the ethical decision-making process based on age but only limited differences based on gender.  We discuss the implications of these results, including the development of a professional ethics program&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss1/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2755&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2755</articleid>
+<submission-date>2008-12-15T12:29:31-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>682106</context-key>
+<submission-path>misq/vol30/iss1/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

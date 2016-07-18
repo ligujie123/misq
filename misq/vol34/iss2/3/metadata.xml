@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Computing in Everyday Life:  A Call for Research on Experiential Computing</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>youngjin.yoo@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Yoo</lname>
+<fname>Youngjin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Experiential computing</keyword>
+<keyword>science of artificial</keyword>
+<keyword>design</keyword>
+<keyword>digitalization</keyword>
+</keywords>
+<abstract>&lt;p&gt;The information systems field emerged as a new discipline of artificial science as a result of intellectual efforts to understand the nature and consequences of computer and communication technology in modern organizations.  As the rapid development of digital technology continues to make computers and computing a part of everyday experiences, we are once again in need of a new discipline of the artificial.  In this essay, I argue that the IS community must expand its intellectual boundaries by embracing experiential computing as an emerging field of inquiry in order to fill this growing intellectual void.  Experiential computing involves digitally mediated embodied experiences in everyday activities through everyday artifacts that have embedded computing capabilities.  Experiential computing is enabled by the mediation of four dimensions of human experiences (time, space, actors, and artifacts) through digital technology.  Drawing on a research framework that encompasses both behavioral and design sciences, six research opportunities that the IS research community can explore are suggested.  Ultimately, I propose that the IS field return to its roots, the science of the artificial, by decisively expanding the scope of its inquiry and establishing a new domain of research on computing in everyday life experiences.&lt;/p&gt;</abstract>
+<fpage>213</fpage>
+<lpage>231</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2903&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2903</articleid>
+<submission-date>2010-06-23T12:21:59-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369857</context-key>
+<submission-path>misq/vol34/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Computing in Everyday Life</value>
+</field>
+</fields>
+</document>
+</documents>

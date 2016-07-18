@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>When Does Repository KMS Use Lift Performance?  The Role of Alternative Knowledge Sources and Task Environments</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>seungkim@yonseiac.kr</email>
+<institution>Yonsei University</institution>
+<lname>Kim</lname>
+<fname>Seung Hyun</fname>
+</author>
+<author>
+<email>tridas@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Mukhopadhyay</lname>
+<fname>Tridas</fname>
+</author>
+<author>
+<email>robert.kraut@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Kraut</lname>
+<fname>Robert</fname>
+<mname>E</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Business value of IT</keyword>
+<keyword>knowledge management systems</keyword>
+<keyword>IT usage</keyword>
+<keyword>knowledge channels</keyword>
+<keyword>contingent impact</keyword>
+<keyword>retail grocery</keyword>
+<keyword>complementarity</keyword>
+<keyword>situated knowledge performance framework</keyword>
+<keyword>knowledge management</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Despite a general consensus that use of information technology (IT) is an important link between IT investments and performance, the extant literature provides only a limited explanation as to when the use of IT lifts performance. We posit that the impact of knowledge management systems (KMS) usage is contingent on users’ alternative sources of knowledge as well as their specific task environments. We investigate under what conditions repository KMS use leads to higher performance outcomes in a retail grocery context. We use a unique longitudinal dataset composed of objective measures of KMS use and sales performance of 273 managers over 146 weeks collected from a retail grocery chain. We obtain two main results. First, we find a diminishing impact of KMS use for managers who also use other sources of codified knowledge, namely physical or computerized alternative knowledge sources, whereas a complementary relationship seems to exist between KMS use and social sources of knowledge. Second, KMS use produces higher benefits for managers whose task environments require a greater volume of information and knowledge, but smaller benefits for those managers whose task environments demand rapidly changing information and knowledge. Our work contributes to both the IT business value and the KM literature by studying the contingent impact of IT usage while broadening the theoretical scope of the situated knowledge performance framework with a critical empirical test based on fine-grained objective and longitudinal data.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>133</fpage>
+<lpage>156</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3276&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3276</articleid>
+<submission-date>2016-02-29T08:05:22-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235287</context-key>
+<submission-path>misq/vol40/iss1/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>When Does Repository KMS Use Lift Performance?</value>
+</field>
+</fields>
+</document>
+</documents>

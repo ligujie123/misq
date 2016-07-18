@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design Principles for Virtual Worlds</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>Alok@purdue.edu</email>
+<institution>Purdue University</institution>
+<lname>Chaturvedi</lname>
+<fname>Alok</fname>
+</author>
+<author>
+<email>drdolk@nps.edu</email>
+<institution>Naval Postgraduate School</institution>
+<lname>Dolk</lname>
+<fname>Daniel</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>dren@ua.edu</email>
+<institution>University of Alabama</institution>
+<lname>Drnevich</lname>
+<fname>Paul</fname>
+<mname>L</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Special Issue:  New Ventures in Virtual Worlds</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Design Principles for Virtual Worlds</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this research note, we examine the design, development, validation, and use of virtual worlds. Our purpose in doing so is to extend the design science paradigm by developing a set of design principles applicable to the context of virtual environments, particularly those using agent-based simulation as their underlying technology. Our central argument is that virtual worlds comprise a new class of information system, one that combines the structural aspects of traditional modeling and simulation systems in concert with emergent user dynamics of systems supporting emergent knowledge processes. Our approach involves two components. First, we review the characteristics of agent-based virtual worlds (ABVWs) to discern design requirements that may challenge current design theory. From this review, we derive a set of design principles based on deep versus emergent structures where deep structures reflect conventional modeling and simulation system architectures and emergent structures capture the unpredictable user–system dynamics inherent in emergent knowledge processes, which increasingly characterize virtual worlds. We illustrate how these design challenges are addressed with an exemplar of a complex mirror world, a large-scale ABVW we developed called Sentient World. Our contribution is the insight of partitioning ABVW architectures into deep and emergent structures that mirror modeling systems and emergent knowledge processes respectively, while developing extended design principles to facilitate their integration. We conclude with a discussion of the implications of our design principles for informing and guiding future research and practice.&lt;/p&gt;</abstract>
+<fpage>673</fpage>
+<lpage>684</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2976&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2976</articleid>
+<submission-date>2011-08-23T11:31:53-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185921</context-key>
+<submission-path>misq/vol35/iss3/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Design Principles for Virtual Worlds</value>
+</field>
+</fields>
+</document>
+</documents>

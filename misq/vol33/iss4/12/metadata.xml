@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Resolving Difference Score Issues in Information Systems Research</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>gklein@uccs.edu</email>
+<institution>University of Colorado at Colorado Springs</institution>
+<lname>Klein</lname>
+<fname>Gary</fname>
+</author>
+<author>
+<email>jjiang@bus.ucf.edu</email>
+<institution>University of Central Florida</institution>
+<lname>Jiang</lname>
+<fname>James</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>pcheney@bus.ucf.edu</email>
+<lname>Cheney</lname>
+<fname>Paul</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Difference scores</keyword>
+<keyword>indirect measures</keyword>
+<keyword>polynomial regression analysis</keyword>
+<keyword>IS SERVQUAL</keyword>
+</keywords>
+<abstract>&lt;p&gt;A number of models and theories in information systems research include concepts of a match between two variables or states.  The development of measures for this concept can present problems, because decisions must be made about the nature of the comparison.  Should indirect measures of the match be employed, then methodological issues arise about how to best handle the measure when testing the model. Difference scores are commonly used to measure a match between variables or states in IS research, but these have implicit assumptions about the theory and data characteristics that are often false.  Not unexpectedly, false assumptions can lead to erroneous conclusions about the relationships among the variables that are used to determine a match in a research model.  The implicit assumptions restrict the form of the relationships and limit the IS researcher’s ability to understand the possible interplay among theoretical concepts.  We suggest some guidelines for the formation and testing of models that measure the match.  In addition, we recommend polynomial regression analysis as one means of analyzing the more complex relationships in IS studies.  We then use an IS service quality example to illustrate the issues involved in the use of matching variables and make suggestions with regard to using or avoiding difference scores.&lt;/p&gt;</abstract>
+<fpage>811</fpage>
+<lpage>826</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2882&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2882</articleid>
+<submission-date>2009-11-30T12:46:53-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074941</context-key>
+<submission-path>misq/vol33/iss4/12</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Resolving Difference Score Issues in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

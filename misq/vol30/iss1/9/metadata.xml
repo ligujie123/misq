@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Incorporating Software Agents into Supply Chains:  Experimental Investigation with a Procurement Task</title>
+<publication-date>2006-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Nissen</lname>
+<fname>Mark</fname>
+<mname>E.</mname>
+</author>
+<author>
+<lname>Sengupta</lname>
+<fname>Kishore</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Agents</keyword>
+<keyword>artificial intelligence</keyword>
+<keyword>behavioral decision theory</keyword>
+<keyword>computer-aided decision making</keyword>
+<keyword>human performance</keyword>
+<keyword>procurement; supply chain management</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recently, researchers have begun investigating an emerging, technology-enabled innovation that involves the use of intelligent software agents in enterprise supply chains. Software agents combine and integrate capabilities of several information technology classes in a novel manner that enables supply chain management and decision making in modes not supported previously by IT and not reported previously in the information systems literature. Indeed, federations and swarms of software agents today are moving the boundaries of computer-aided decision making more generally. Such moving boundaries highlight promising new opportunities for competitive advantage in business, in addition to novel theoretical insights. But they also call for shifting research thrusts in information systems.  The stream of research associated with this article is taking some first steps to address such issues by examining experimentally the capabilities, limitations, and boundaries of agent technology for computer-based decision support and automation in the procurement domain. Procurement represents an area of particular potential for agent-based process innovation, as well as reflecting some of the greatest technological advances in terms of agents emerging from the laboratory. Procurement is imbued with considerable ambiguity in its task environment, ambiguity that presents a fundamental limitation to IT-based automation of decision making and knowledge work. By investigating the comparative performance of human and software agents across varying levels of ambiguity in the procurement domain, the experimentation described in this article helps to elucidate some new boundaries of computer-based decision making quite broadly. We seek in particular to learn from this domain and to help inform computer-based decision making, agent technological design, and IS research more generally.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss1/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2754&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2754</articleid>
+<submission-date>2008-12-15T12:17:58-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>682096</context-key>
+<submission-path>misq/vol30/iss1/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

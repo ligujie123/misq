@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Value of Privacy Assurance:  An Exploratory Field Experiment</title>
+<publication-date>2007-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Hui</lname>
+<fname>Kai-Lung</fname>
+</author>
+<author>
+<lname>Teo</lname>
+<fname>Hock</fname>
+<mname>H.</mname>
+</author>
+<author>
+<lname>Lee</lname>
+<fname>Sang-Yong</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Privacy assurance</keyword>
+<keyword>field experiment</keyword>
+<keyword>privacy statement</keyword>
+<keyword>privacy seal</keyword>
+<keyword>monetary incentive</keyword>
+<keyword>information request</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper reports the results of an exploratory field experiment in Singapore that assessed the values of two types of privacy assurance privacy statements and privacy seals.  We collaborated with a local firm to host the experiment on its website with its real domain name, and the subjects were not informed of the experiment.  Hence, it provided a field observation of the subjects&#39; behavioral responses toward the privacy assurances.  We found that (1) the existence of a privacy statement induced more subjects to disclose their personal information but that of a privacy seal did not; (2) monetary incentive had a positive influence on disclosure; and (3) information request had a negative influence on disclosure.  These results were robust in other specifications that used alternative measures for some of our model variables.  We discuss this study in relation to the extant privacy literature, most of which employs surveys and laboratory experiments for data collection, and draw related managerial implications.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2654&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2654</articleid>
+<submission-date>2008-12-11T08:11:33-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680249</context-key>
+<submission-path>misq/vol31/iss1/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2007-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

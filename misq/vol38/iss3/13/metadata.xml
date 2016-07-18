@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Toward Generalizable Sociomaterial Inquiry:  A Computational Approach for Zooming In and Out of Sociomaterial Routines</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>james.gasin@byu.edu</email>
+<institution>Brigham Young University</institution>
+<lname>Gaskin</lname>
+<fname>James</fname>
+</author>
+<author>
+<email>berente@uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Berente</lname>
+<fname>Nicholas</fname>
+</author>
+<author>
+<email>kalle@case.edu</email>
+<institution>Case Western Reserve University</institution>
+<lname>Lyytinen</lname>
+<fname>Kalle</fname>
+</author>
+<author>
+<email>youngjin.yoo@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Yoo</lname>
+<fname>Youngjin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Sociomaterial</keyword>
+<keyword>sociotechnical</keyword>
+<keyword>rational reconstruction</keyword>
+<keyword>computational social science</keyword>
+<keyword>methodology</keyword>
+<keyword>sequence analysis</keyword>
+<keyword>routines</keyword>
+<keyword>mixed methods</keyword>
+<keyword>organizational routines</keyword>
+<keyword>generative grammar</keyword>
+<keyword>lexicon</keyword>
+<keyword>lexical notation</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, a computational, mixed methods approach that combines qualitative analysis with a novel approach to sequence analysis for studying the entanglement of human activities and digital capabilities in organizational routines is described. The approach is scalable across multiple contexts and complements the dominant idiographic modes of sociomaterial inquiry. The approach is rooted in the epistemology of a &quot;rational reconstruction&quot; consistent with the interpretive stance underlying the sociomaterial position. It arms researchers with the means to seek and uncover regularities in the ways human activities and digital capabilities become entangled across contexts by enabling the identification and articulation of generalizable patterns of sociomaterial activity. The computational approach is founded on sequence-analytic techniques that originated from the field of computational biology (genetics), but are now gaining popularity in the study of temporally ordered social phenomena such as organizational routines. These techniques are extended by drawing upon theoretical insights gained within sociomaterial scholarship on how the digital and the social become entangled. By detecting the variation in activities, actors, artifacts, and affordances that comprise what we denote a sociomaterial routine, the approach directly attends to ways in which human actors and the material features of technology become entangled in patterns of practice. Beyond motivating and describing the approach, the different insights that researchers can generate through its application in the study of the digitalization of organizational routines are illustrated. We conclude by suggesting several lines of inquiry that can enrich sociomaterial research.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>849</fpage>
+<lpage>871</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3196&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3196</articleid>
+<submission-date>2014-07-31T12:33:48-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854665</context-key>
+<submission-path>misq/vol38/iss3/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Toward Generalizable Sociomaterial Inquiry</value>
+</field>
+</fields>
+</document>
+</documents>

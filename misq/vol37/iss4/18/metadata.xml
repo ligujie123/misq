@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Motivating Energy-Efficient Behavior with Green IS:  An Investigation of Goal Setting and the Role of Defaults</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>cloock@ethz.ch</email>
+<lname>Loock</lname>
+<fname>Claire-Michelle</fname>
+</author>
+<author>
+<email>thorsten.staake@uni-bamberg.de</email>
+<institution>University of Bamberg, Germany</institution>
+<lname>Staake</lname>
+<fname>Thorsten</fname>
+</author>
+<author>
+<email>frederic.thiesse@uni-wuerzberg.de</email>
+<institution>Julius-Maximilian University of Wuerzburg, Germany</institution>
+<lname>Thiesse</lname>
+<fname>Frédéric</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Green IS</keyword>
+<keyword>energy conservation</keyword>
+<keyword>consumption feedback</keyword>
+<keyword>goal setting</keyword>
+<keyword>defaults</keyword>
+<keyword>field experiment</keyword>
+<keyword>design research</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This study investigates the role of information systems in stimulating energy-efficient behavior in private households.  We present the example of Velix, a web portal designed to motivate customers of a utility company to reduce their electricity consumption.  In particular, we consider the effectiveness of goal setting functionality and defaults in influencing energy conservation behavior.  For this purpose, we use the web portal as a test of the theoretical propositions underlying its design.  Based on data collected from a field experiment with 1,791 electricity consumers, we test hypotheses regarding the structural relations between defaults and goals, the impact of defaults and goals on consumption behavior, and the moderating role of feedback on goal choice. Our results confirm the positive impact of goal setting on energy conservation.  We show that default goals lead to statistically significant savings by affecting goal choice.  However, if the default goals are set too low or too high with respect to a self-set goal, the defaults will detrimentally affect behavior.  We also show that feedback on goal attainment moderates the effect of default goals on goal choice.  The results extend the knowledge on goal setting and defaults and have implications for the design of effective energy feedback systems.  The study’s approach, which combines hypothesis-driven work and design-oriented IS research, could serve as a blueprint for further research endeavors of this kind, particularly with regard to feedback systems based on future smart metering infrastructures.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1313</fpage>
+<lpage>1332</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/18</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3140&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>18</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3140</articleid>
+<submission-date>2013-12-02T09:36:32-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864660</context-key>
+<submission-path>misq/vol37/iss4/18</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Motivating Energy-Efficient Behavior with Green IS</value>
+</field>
+</fields>
+</document>
+</documents>

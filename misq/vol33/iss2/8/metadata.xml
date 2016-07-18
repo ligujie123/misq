@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Adoption of Electronic Health Records in the Presence of Privacy Concerns:  The Elaboration Likelihood Model and Individual Persuasion</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>cangst@nd.edu</email>
+<institution>University of Notre Dame</institution>
+<lname>Angst</lname>
+<fname>Corey</fname>
+<mname>M.</mname>
+</author>
+<author>
+<email>ragarwal@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Agarwal</lname>
+<fname>Ritu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Privacy</keyword>
+<keyword>elaboration likelihood model</keyword>
+<keyword>ELM</keyword>
+<keyword>electronic health records</keyword>
+<keyword>EHR</keyword>
+<keyword>concern for information privacy</keyword>
+<keyword>CFIP</keyword>
+<keyword>attitude</keyword>
+</keywords>
+<abstract>&lt;p&gt;Within the emerging context of the digitization of health care, electronic health records (EHRs) constitute a significant technological advance in the way medical information is stored, communicated, and processed by the multiple parties involved in health care delivery.  However, in spite of the anticipated value potential of this technology, there is widespread concern that consumer privacy issues may impede its diffusion. In this study, we pose the question:  Can individuals be persuaded to change their attitudes and opt-in behavioral intentions toward EHRs, and allow their medical information to be digitized even in the presence of significant privacy concerns?  To investigate this question, we integrate an individual’s concern for information privacy (CFIP) with the elaboration likelihood model (ELM) to examine attitude change and likelihood of opting-in to an EHR system.  We theorize that issue involvement and argument framing interact to influence attitude change, and that concern for information privacy further moderates the effects of these variables.  We also propose that likelihood of adoption is driven by concern for information privacy and attitude.  We test our predictions using an experiment with 366 subjects where we manipulate the framing of the arguments supporting EHRs.  We find that an individual’s CFIP interacts with argument framing and issue involvement to affect attitudes toward the use of EHRs.  In addition, results suggest that attitude toward EHR use and CFIP directly influence opt-in behavioral intentions.  An important finding for both theory and practice is that even when people have high concerns for privacy, their attitudes can be positively altered with appropriate message framing.  These results as well as other theoretical and practical implications are discussed.&lt;/p&gt;</abstract>
+<fpage>339</fpage>
+<lpage>370</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2853&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2853</articleid>
+<submission-date>2009-06-01T09:09:45-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860210</context-key>
+<submission-path>misq/vol33/iss2/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Privacy Concerns with E-Health Records</value>
+</field>
+</fields>
+</document>
+</documents>

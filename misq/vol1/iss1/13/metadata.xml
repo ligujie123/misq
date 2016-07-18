@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>RAFT: An Information System for Fiscal Analysis</title>
+<publication-date>1977-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Johnson</lname>
+<fname>James</fname>
+</author>
+<author>
+<lname>Kozar</lname>
+<fname>Kenneth</fname>
+</author>
+<author>
+<lname>Ruch</lname>
+<fname>David</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol1/iss1/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1813&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1813</articleid>
+<submission-date>2008-08-18T07:00:03-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583189</context-key>
+<submission-path>misq/vol1/iss1/13</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1977-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

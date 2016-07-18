@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Addressing the Personalization–Privacy Paradox:  An Empirical Assessment from a Field Experiment on Smartphone Users</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jsutanto@ethz.ch</email>
+<institution>ETH Zurich</institution>
+<lname>Sutanto</lname>
+<fname>Juliana</fname>
+</author>
+<author>
+<email>elia.palme@newscron.com</email>
+<institution>Newscron Ltd., Switzerland</institution>
+<lname>Palme</lname>
+<fname>Elia</fname>
+</author>
+<author>
+<email>tancho@comp.nus.edu.sg</email>
+<institution>City University of Hong Kong</institution>
+<lname>Tan</lname>
+<fname>Chuan-Hoo</fname>
+</author>
+<author>
+<email>phangcw@fudan.edu.cn</email>
+<institution>Fudan University, China</institution>
+<lname>Phang</lname>
+<fname>Chee Wei</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Personalization–privacy paradox</keyword>
+<keyword>mobile advertising applications</keyword>
+<keyword>uses and gratification</keyword>
+<keyword>information boundary theory</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Privacy has been an enduring concern associated with commercial information technology (IT) applications, in particular regarding the issue of personalization.  IT-enabled personalization, while potentially making the user computing experience more gratifying, often relies heavily on the user’s personal information to deliver individualized services, which raises the user’s privacy concerns.  We term the tension between personalization and privacy, which follows from marketers exploiting consumers’ data to offer personalized product information, the &lt;strong&gt;personalization–privacy paradox&lt;/strong&gt;.  To better understand this paradox, we build on the theoretical lenses of uses and gratification theory and information boundary theory to conceptualize the extent to which privacy impacts the process and content gratifications derived from personalization, and how an IT solution can be designed to alleviate privacy concerns.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Set in the context of personalized advertising applications for smartphones, we propose and prototype an IT solution, referred to as a &lt;strong&gt;personalized, privacy-safe application&lt;/strong&gt;, that retains users’ information locally on their smartphones while still providing them with personalized product messages.  We validated this solution through a field experiment by benchmarking it against two more conventional applications:  a base &lt;strong&gt;non-personalized application&lt;/strong&gt; that broadcasts non-personalized product information to users, and a &lt;strong&gt;personalized, non-privacy safe application&lt;/strong&gt; that transmits user information to a central marketer’s server.  The results show that (compared to the non-personalized application), while personalized, privacy-safe or not  increased application usage (reflecting process gratification), it was only when it was privacy-safe that users saved product messages (reflecting content gratification) more frequently.  Follow-up surveys corroborated these nuanced findings and further revealed the users’ psychological states, which  explained our field experiment results.  We found that saving advertisements for content gratification led to a perceived intrusion of information boundary that made users reluctant to do so.  Overall our proposed IT solution, which delivers a personalized service but avoids transmitting users’ personal information to third parties, reduces users’ perceptions that their information boundaries are being intruded upon, thus mitigating the personalization–privacy paradox and increasing both process and content gratification.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1141</fpage>
+<lpage>1164</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3143&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3143</articleid>
+<submission-date>2013-12-02T12:34:16-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4865648</context-key>
+<submission-path>misq/vol37/iss4/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Addressing the Personalization–Privacy Paradox</value>
+</field>
+</fields>
+</document>
+</documents>

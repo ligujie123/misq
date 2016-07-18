@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Correlated Failures, Diversification, and Information Security Risk Management</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>pychen@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Chen</lname>
+<fname>Pei-yu</fname>
+</author>
+<author>
+<email>gkataria@google.com</email>
+<institution>Booz &amp; Co.</institution>
+<lname>Kataria</lname>
+<fname>Gaurav</fname>
+</author>
+<author>
+<email>rk2x@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Krishnan</lname>
+<fname>Ramayya</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Security</keyword>
+<keyword>diversification</keyword>
+<keyword>downtime loss</keyword>
+<keyword>software allocation</keyword>
+<keyword>network effects</keyword>
+<keyword>risk management</keyword>
+<keyword>correlated failures</keyword>
+</keywords>
+<abstract>&lt;p&gt;The increasing dependence on information networks for business operations has focused managerial attention on managing risks posed by failure of these networks. In this paper, we develop models to assess the risk of failure on the availability of an information network due to attacks that exploit software vulnerabilities. Software vulnerabilities arise from software installed on the nodes of the network. When the same software stack is installed on multiple nodes on the network, software vulnerabilities are shared among them. These shared vulnerabilities can result in correlated failure of multiple nodes resulting in longer repair times and greater loss of availability of the network. Considering positive network effects (e.g., compatibility) alone without taking the risks of correlated failure and the resulting downtime into account would lead to overinvestment in homogeneous software deployment. Exploiting characteristics unique to information networks, we present a queuing model that allows us to quantify downtime loss faced by a rm as a function of (1)　investment in security technologies to avert attacks, (2)　software diversification to limit the risk of correlated failure under attacks, and (3)　investment in IT resources to repair failures due to attacks. The novelty of this method is that we endogenize the failure distribution and the node correlation distribution, and show how the diversification strategy and other security measures/investments may impact these two distributions, which in turn determine the security loss faced by the firm. We analyze and discuss the effectiveness of diversification strategy under different operating conditions and in the presence of changing vulnerabilities. We also take into account the benefits and costs of a diversification strategy. Our analysis provides conditions under which diversification strategy is advantageous.&lt;/p&gt;</abstract>
+<fpage>387</fpage>
+<lpage>422</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2960&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2960</articleid>
+<submission-date>2011-06-09T11:31:16-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2053834</context-key>
+<submission-path>misq/vol35/iss2/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-09T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Correlated Failures, Diversification, and Information Security Risk Management</value>
+</field>
+</fields>
+</document>
+</documents>

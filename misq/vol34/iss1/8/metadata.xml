@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vital Signs for Virtual Teams:  An Empirically Developed Trigger Model for Technology Adaptation Interventions</title>
+<publication-date>2010-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>dominic_thomas@bus.emory.edu</email>
+<institution>Emory University</institution>
+<lname>Thomas</lname>
+<fname>Dominic</fname>
+</author>
+<author>
+<email>bostrom@terry.uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Bostrom</lname>
+<fname>Robert</fname>
+<mname>P.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Virtual teams</keyword>
+<keyword>leadership</keyword>
+<keyword>project management</keyword>
+<keyword>IS development teams</keyword>
+<keyword>empirical research</keyword>
+<keyword>critical incident technique</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study explores how team leaders sense the need for technology adaptation intervention in distributed, computer-mediated (“virtual”) teams.  Analysis and coding of critical incident data collected in interviews of practicing leaders produce a five-trigger model including (1) external constraint, (2) internal constraint, (3) information and communication technology (ICT) inadequacy, (4) ICT knowledge, skills, and abilities inadequacy, and (5) trust and relationship inadequacies.  The resulting five-trigger model provides several key contributions including (1) a diagnostic tool for examining real, multi-trigger team technology adaptation contexts, enabling better leader training and evaluation as well as improved research on team technology adaptation and interventions and (2) a better understanding of the relationship between the technology structure strength indicators in adaptive structuration theory and the need for team technology adaptation intervention.&lt;/p&gt;</abstract>
+<fpage>115</fpage>
+<lpage>142</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2895&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2895</articleid>
+<submission-date>2010-03-03T14:17:16-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1193832</context-key>
+<submission-path>misq/vol34/iss1/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Trigger Model for Technology Adaptation Interventions</value>
+</field>
+</fields>
+</document>
+</documents>

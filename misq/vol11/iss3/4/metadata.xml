@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Instant Quality Control of Large Batch Processing Jobs</title>
+<publication-date>1987-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Ahituv</lname>
+<fname>Niv</fname>
+</author>
+<author>
+<lname>Zelek</lname>
+<fname>Meir</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol11/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2043&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2043</articleid>
+<submission-date>2008-08-18T11:40:22-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584013</context-key>
+<submission-path>misq/vol11/iss3/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1987-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

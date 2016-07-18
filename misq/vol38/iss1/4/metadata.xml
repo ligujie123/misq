@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Collaboration Through Open Superposition:  A Theory of the Open Source Way</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jhowison@ischool.utexas.edu</email>
+<institution>University of Texas at Austin</institution>
+<lname>Howison</lname>
+<fname>James</fname>
+</author>
+<author>
+<email>crowston@syr.edu</email>
+<institution>Syracuse University</institution>
+<lname>Crowston</lname>
+<fname>Kevin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Open source</keyword>
+<keyword>information systems development</keyword>
+<keyword>materiality</keyword>
+<keyword>socio-technical system</keyword>
+<keyword>collaboration</keyword>
+<keyword>coordination</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This paper develops and illustrates the theory of collaboration through open superposition:  the process of depositing motivationally independent layers of work on top of each other over time.  The theory is developed in a study of community-based free and open source software (FLOSS) development, through a research arc of discovery (participant observation), replication (two archival case studies), and theorization.  The theory explains two key findings:  (1)　the overwhelming majority of work is accomplished with only a single programmer working on any one task, and (2)　tasks that appear too large for any one individual are more likely to be deferred until they are easier rather than being undertaken through structured team work.  Moreover, the theory explains how working through open superposition can lead to the discovery of a work breakdown that results in complex, functionally interdependent, work being accomplished without crippling search costs.  We identify a set of socio-technical contingencies under which collaboration through open superposition is likely to be effective, including characteristics of artifacts made from information as the objects being worked on.  We demonstrate the usefulness of the theory by using it to analyze difficulties in learning from FLOSS in other domains of work and in the IS function of for-profit organizations.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>29</fpage>
+<lpage>50</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3156&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3156</articleid>
+<submission-date>2014-03-03T09:01:00-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5252567</context-key>
+<submission-path>misq/vol38/iss1/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Collaboration Through Open Superposition</value>
+</field>
+</fields>
+</document>
+</documents>

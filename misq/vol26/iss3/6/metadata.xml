@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Evidence of the Effect of Trust Building Technology in Electronic Markets: Price Premiums and Buyer Behavior</title>
+<publication-date>2002-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Ba</lname>
+<fname>Sulin</fname>
+</author>
+<author>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Trust</keyword>
+<keyword>credibility</keyword>
+<keyword>reputation</keyword>
+<keyword>information asymmetry</keyword>
+<keyword>price premiums</keyword>
+<keyword>feedback mechanisms</keyword>
+<keyword>electronic markets</keyword>
+<keyword>online risks</keyword>
+</keywords>
+<abstract>&lt;p&gt;Despite the wide use of reputational mechanisms such as eBay’s Feedback Forum to promote trust, empirical studies have shown conflicting results as to whether online feedback mechanisms induce trust and lead to higher auction prices.  This study examines the extent to which trust can be induced by proper feedback mechanisms in electronic markets, and how some risk factors play a role in trust formation.  Drawing from economic, sociological, and marketing theories and using data from both an online experiment and an online auction market, we demonstrate that appropriate feedback mechanisms can induce calculus-based credibility trust without repeated interactions between two transacting parties. Trust can mitigate information asymmetry by reducing transaction-specific risks, therefore generating price premiums for reputable sellers.  In addition, the research also examines the role that trust plays in mitigating the risks inherent in transactions that involve very expensive products.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss3/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2633&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2633</articleid>
+<submission-date>2008-12-10T12:34:32-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>679702</context-key>
+<submission-path>misq/vol26/iss3/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

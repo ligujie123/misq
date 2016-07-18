@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Extending the Understanding of End User Information Systems Satisfaction Formation:  An Equitable Needs Fulfillment Model Approach</title>
+<publication-date>2008-10-10T12:26:18-07:00</publication-date>
+<authors>
+<author>
+<institution>Hong Kong Polytechnic University</institution>
+<lname>Au</lname>
+<fname>N.</fname>
+</author>
+<author>
+<institution>Hong Kong Polytechnic University</institution>
+<lname>Ngai</lname>
+<fname>E. W. T.</fname>
+</author>
+<author>
+<institution>Hong Kong Polytechnic University</institution>
+<lname>Cheng</lname>
+<fname>T. C. E.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>User satisfaction</keyword>
+<keyword>information systems</keyword>
+<keyword>measurement</keyword>
+<keyword>equitable needs fulfillment</keyword>
+<keyword>equity</keyword>
+<keyword>expectations</keyword>
+<keyword>IS implementation</keyword>
+<keyword>PLS</keyword>
+</keywords>
+<abstract>&lt;p&gt;End user satisfaction (EUS) is critical to successful information systems implementation.  Many EUS studies in the past have attempted to identify the antecedents of EUS, yet most of the relationships found have been criticized for their lack of a strong theoretical underpinning.  Today it is generally understood that IS failure is due to psychological and organizational issues rather than technological issues, hence individual differences must be addressed.  This study proposes a new model with an objective to extend our understanding of the antecedents of EUS by incorporating three well-founded theories of motivation, namely expectation theory, needs theory, and equity theory.  The uniqueness of the model not only recognizes the three different needs (i.e., work performance, relatedness, and self-development) that users may have with IS use, but also the corresponding inputs required from each individual to achieve those needs fulfillments, which have been ignored in most previous studies.  This input/needs fulfillment ratio, referred to as equitable needs fulfillment, is likely to vary from one individual to another and satisfaction will only result in a user if the needs being fulfilled are perceived as “worthy” to obtain.&lt;/p&gt;
+&lt;p&gt;The partial least squares (PLS) method of structural equation modeling was used to analyze 922 survey returns collected form the hotel and airline sectors.  The results of the study show that IS end users do have different needs.  Equitable work performance fulfillment and equitable relatedness fulfillment play a significant role in affecting the satisfaction of end users.  The results also indicate that the impact of perceived IS performance expectations on EUS is not as significant as most previous studies have suggested.  The conclusion is that merely focusing on the technical soundness of the IS and the way in which it benefits employees may not be sufficient.  Rather, the input requirements of users for achieving the corresponding needs fulfillments also need to be examined.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2520&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2520</articleid>
+<submission-date>2008-10-09T14:16:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>647377</context-key>
+<submission-path>misq/vol32/iss1/5</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Au, N., Ngai, E. W. T., and Cheng, T. C. E.  2008.  &quot;Extending the Understanding of End User Information Systems Satisfaction Formation:  An Equitable Needs Fulfillment Model Approach,&quot; MIS Quarterly (32:1), pp. 43-66.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

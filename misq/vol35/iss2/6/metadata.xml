@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Incorporating Formative Measures into Covariance-Based Structural Equation Models</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>adamantios.diamantopoulos@univie.ac.at</email>
+<institution>University of Vienna</institution>
+<lname>Diamantopoulos</lname>
+<fname>Adamantios</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Formative measurement</keyword>
+<keyword>formative indicators</keyword>
+<keyword>covariance structure analysis</keyword>
+<keyword>PLS</keyword>
+<keyword>MIMIC models</keyword>
+<keyword>identification</keyword>
+<keyword>scaling options</keyword>
+<keyword>model evaluation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Formatively measured constructs have been increasingly used in information systems research. With few exceptions, however, extant studies have been relying on the partial least squares (PLS) approach to specify and estimate structural models involving constructs measured with formative indicators. This paper highlights the benefits of employing covariance structure analysis (CSA) when investigating such models and illustrates its application with the LISREL program. The aim is to provide practicing IS researchers with an understanding of key issues and potential problems associated with formatively measured constructs within a covariance-based modeling framework and encourage them to consider using CSA in their future research endeavors.&lt;/p&gt;</abstract>
+<fpage>335</fpage>
+<lpage>358</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2957&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2957</articleid>
+<submission-date>2011-06-09T11:19:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2053815</context-key>
+<submission-path>misq/vol35/iss2/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-09T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Incorporating Formative Measures in CBSEM</value>
+</field>
+</fields>
+</document>
+</documents>

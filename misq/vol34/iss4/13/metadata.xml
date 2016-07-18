@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of Information Technology and Transactive Memory Systems on Knowledge Sharing, Application, and Team Performance:  A Field Study</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>sy1013@business.kaist.edu</email>
+<institution>Samsung Life Insurance</institution>
+<lname>Choi</lname>
+<fname>Sue Young</fname>
+</author>
+<author>
+<email>hsl@business.kaist.ac.kr</email>
+<institution>Korea Advanced Institute of Science and Technology</institution>
+<lname>Lee</lname>
+<fname>Heeseok</fname>
+</author>
+<author>
+<email>youngjin.yoo@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Yoo</lname>
+<fname>Youngjin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Transactive memory system</keyword>
+<keyword>knowledge management</keyword>
+<keyword>team performance</keyword>
+<keyword>field study</keyword>
+</keywords>
+<abstract>&lt;p&gt;In contemporary knowledge-based organizations, teams often play an essential role in leveraging knowledge resources. Organizations make significant investments in information technology to support knowledge management practices in teams.  At the same time, recent studies show that the transactive memory system (TMS)—the specialized division of cognitive labor among team members that relates to the encoding, storage, and retrieval of knowledge—is an important factor that affects a team’s performance.  Yet little is known of how IT support for knowledge management practices in organizations affects the development of TMS. Furthermore, the precise role of TMS on knowledge sharing and knowledge application, which in turn influences team performance, has not been fully explored.  In order to close this gap in the literature, we conducted a field study that involved 139 on-going teams of 743 individuals from two major firms in South Korea.  Our results show that IT support in organizations has a positive impact on the development of TMS in teams, and that both TMS and IT support have a positive impact on knowledge sharing and knowledge application.  Furthermore, we found that knowledge sharing has a positive impact on knowledge application, which in turn has a direct impact on team performance.  However, contrary to our expectation, knowledge sharing does not have a direct impact on team performance and its impact on team performance was fully mediated by knowledge application. Our research shows that organizations can improve team members’ meta-knowledge of who knows what through the careful investment in information technology. Finally, our results show that sharing knowledge alone is not enough. Organizations must ensure that shared knowledge is in fact applied in order to improve team performance.&lt;/p&gt;</abstract>
+<fpage>855</fpage>
+<lpage>870</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2937&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2937</articleid>
+<submission-date>2010-11-29T15:04:36-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664613</context-key>
+<submission-path>misq/vol34/iss4/13</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Impact of IT and Transactive Memory Systems</value>
+</field>
+</fields>
+</document>
+</documents>

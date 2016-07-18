@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of State-Based and Event-Based Data Representations on User Performance in Query Formulation Tasks</title>
+<publication-date>2006-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Allen</lname>
+<fname>Gove</fname>
+<mname>N.</mname>
+</author>
+<author>
+<lname>March</lname>
+<fname>Salvatore</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Query formulation performance</keyword>
+<keyword>event-based</keyword>
+<keyword>state-based</keyword>
+<keyword>artifact-based</keyword>
+<keyword>data models</keyword>
+<keyword>database user view</keyword>
+<keyword>sense-making</keyword>
+<keyword>E-R diagram</keyword>
+</keywords>
+<abstract>&lt;p&gt;Ad hoc query formulation is an important task in effectively utilizing organizational data resources.  To facilitate this task, managers and casual end-users are commonly presented with database views expressly constructed for their use.  Differences in the way in which things, states, and events are represented in such views can affect a user’s ability to understand the database, potentially leading to different levels of performance (i.e., accuracy, confidence, and prediction of the accuracy of their queries).  An experiment was conducted over the Internet involving 342 subjects from 6 universities in North America and Europe to investigate these effects.  When presented with an event-based view, subjects expressing low or very low comfort levels in reading entity-relationship diagrams expressed confidence that better predicted query accuracy although there were no significant differences in actual query accuracy or level of confidence expressed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2761&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2761</articleid>
+<submission-date>2008-12-18T07:05:58-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683746</context-key>
+<submission-path>misq/vol30/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

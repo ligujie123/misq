@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Multilevel Model of Resistance to Information Technology Implementation</title>
+<publication-date>2005-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Lapointe</lname>
+<fname>Liette</fname>
+</author>
+<author>
+<lname>Rivard</lname>
+<fname>Suzanne</fname>
+</author>
+</authors>
+<keywords>
+<keyword>User resistance</keyword>
+<keyword>information technology implementation</keyword>
+<keyword>information system implementation</keyword>
+<keyword>longitudinal perspective</keyword>
+<keyword>multilevel approach</keyword>
+<keyword>resistance behaviors</keyword>
+<keyword>semantic analysis</keyword>
+<keyword>case study</keyword>
+</keywords>
+<abstract>&lt;p&gt;To better explain resistance to information technology implementation, we used a multilevel, longitudinal approach. We first assessed extant models of resistance to IT. Using semantic analysis, we identified five basic components of resistance:  behaviors, object, subject, threats, and initial conditions. We further examined extant models to (1) carry out a preliminary specification of the nature of the relationships between these components and (2) refine our understanding of the multilevel nature of the phenomenon. Using analytic induction, we examined data from three case studies of clinical information systems implementations in hospital settings, focusing on physicians’ resistance behaviors.  The resulting mixed-determinants model suggests that group resistance behaviors vary during implementation. When a system is introduced, users in a group will first assess it in terms of the interplay between its features and individual and/or organizational-level initial conditions.  They then make projections about the consequences of its use. If expected consequences are threatening, resistance behaviors will result. During implementation, should some trigger occur to either modify or activate an initial condition involving the balance of power between the group and other user groups, it will also modify the object of resistance, from system to system significance. If the relevant initial conditions pertain to the power of the resisting group vis-à-vis the system advocates, the object of resistance will also be modified, from system significance to system advocates. Resistance behaviors will follow if threats are perceived from the interaction between the object of resistance and initial conditions. We also found that the bottom-up process by which group resistance behaviors emerge from individual behaviors is not the same in early versus late implementation. In early implementation, the emergence process is one of compilation, described as a combination of independent, individual behaviors. In later stages of implementation, if group level initial conditions have become active, the emergence process is one of composition, described as the convergence of individual behaviors.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss3/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2734&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2734</articleid>
+<submission-date>2008-12-15T08:29:29-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681846</context-key>
+<submission-path>misq/vol29/iss3/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

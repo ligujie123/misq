@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Interpersonal Confilt and Its Management In Information System Development</title>
+<publication-date>2001-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Barki</lname>
+<fname>Henri</fname>
+</author>
+<author>
+<lname>Hartwick</lname>
+<fname>Jon</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS project management</keyword>
+<keyword>IS project teams</keyword>
+<keyword>user/analyst interaction</keyword>
+<keyword>conflict resolution</keyword>
+</keywords>
+<abstract>&lt;p&gt;Researchers from a wide range of management areas agree that conflicts are an important part of organizational life and that their study is important. Yet, interpersonal conflict is a neglected topic in information system development (ISD). Based on definitional properties of interpersonal conflict identified in the management and organizational behavior literatures, this paper tests a model of how individuals participating in ISD projects perceive interpersonal conflict and examines the relationships between interpersonal conflict, management of the conflict, and ISD outcomes. Questionnaire data was obtained from 265 IS staff and 272 users working on 162 ISD projects. Results indicated that the construct of interpersonal conflict was reflected by three key dimensions: disagreement, interference, and negative emotion. While conflict management was found to have positive effects on ISD outcomes, it did not substantially mitigate the negative effects of interpersonal conflict on these outcomes. In other words, the impact of interpersonal conflict was perceived to be negative, regardless of how it was managed or resolved.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2613&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2613</articleid>
+<submission-date>2008-12-09T07:45:52-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678527</context-key>
+<submission-path>misq/vol25/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

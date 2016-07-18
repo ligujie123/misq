@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Methodological Implications of Critical Realism for Mixed-Methods Research</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>Markos.Zachariadis@wbs.ac.uk</email>
+<institution>The University of Warwick</institution>
+<lname>Zachariadis</lname>
+<fname>Markos</fname>
+</author>
+<author>
+<email>s.v.scott@lse.ac.uk</email>
+<institution>London School of Economics and Political Science</institution>
+<lname>Scott</lname>
+<fname>Susan</fname>
+</author>
+<author>
+<email>m.barrett@jbs.cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Barrett</lname>
+<fname>Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS research</keyword>
+<keyword>critical realism</keyword>
+<keyword>retroduction</keyword>
+<keyword>mixed methods</keyword>
+<keyword>qualitative and quantitative methods</keyword>
+<keyword>econometric modeling</keyword>
+<keyword>qualitative enquiry</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Building on recent developments in mixed methods, we discuss the methodological implications of critical realism and explore how these can guide dynamic mixed-methods research design in information systems. Specifically, we examine the core ontological assumptions of CR in order to gain some perspective on key epistemological issues such as causation and validity, and illustrate how these shape our logic of inference in the research process through what is known as &lt;strong&gt;retroduction&lt;/strong&gt;.  We demonstrate the value of a CR-led mixed-methods research approach by drawing on a study that examines the impact of ICT adoption in the financial services sector.  In doing so, we provide insight into the interplay between qualitative and quantitative methods and the particular value of applying mixed methods guided by CR methodological principles.  Our positioning of demi-regularities within the process of retroduction contributes a distinctive development in this regard.  We argue that such a research design enables us to better address issues of validity and the development of more robust meta-inferences.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>855</fpage>
+<lpage>879</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3124&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3124</articleid>
+<submission-date>2013-08-15T08:54:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440666</context-key>
+<submission-path>misq/vol37/iss3/12</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Methodological Implications of CR for Mixed-Methods Research</value>
+</field>
+</fields>
+</document>
+</documents>

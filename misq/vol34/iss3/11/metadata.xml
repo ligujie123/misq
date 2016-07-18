@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Market Value of Voluntary Disclosures Concerning Information Security</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>LGORDON@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Gordon</lname>
+<fname>L.</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>mloeb@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Loeb</lname>
+<fname>Martin</fname>
+<mname>P</mname>
+</author>
+<author>
+<email>tashfeen.sohail@ie.edu</email>
+<institution>IE Business School, Madrid</institution>
+<lname>Sohail</lname>
+<fname>Tashfeen</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information security</keyword>
+<keyword>market value</keyword>
+<keyword>voluntary disclosures</keyword>
+<keyword>selection-bias</keyword>
+<keyword>bid–ask spread</keyword>
+</keywords>
+<abstract>&lt;p&gt;Information security is a fundamental concern for corporations operating in today’s digital economy.  The number of firms disclosing items concerning their information security on reports filed with the U.S. Securities and Exchange Commission (SEC) has increased in recent years.  A question then arises as to whether or not there is value to the voluntary disclosures concerning information security.  Thus, the primary objective of this paper is to assess empirically the market value of voluntary disclosures of items pertaining to information security.  Based on a sample of 1,641 disclosing and 19,266 non-disclosing firm-years in a cross-sectional pooled model, our primary findings provide strong evidence that voluntarily disclosing items concerning information security is associated positively with the market value of a firm.  These findings are based on the use of a market-value relevance model, as well as a bid-ask spread analysis. The study’s findings are robust to alternative statistical analyses. The findings also provide support for the signaling argument, which states that managers disclose information in a manner consistent with increased firm value.  Finally, the study findings provide some insight into the strategic choice that firms make regarding voluntary disclosures about information security.&lt;/p&gt;</abstract>
+<fpage>567</fpage>
+<lpage>594</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2921&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2921</articleid>
+<submission-date>2010-08-13T08:40:48-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444191</context-key>
+<submission-path>misq/vol34/iss3/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Market Value of Voluntary Disclosures</value>
+</field>
+</fields>
+</document>
+</documents>

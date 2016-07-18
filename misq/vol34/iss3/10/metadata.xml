@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fear Appeals and Information Security Behaviors:  An Empirical Study</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>ajohnston@uab.edu</email>
+<institution>University of Alabama Birmingham</institution>
+<lname>Johnston</lname>
+<fname>Allen</fname>
+<mname>C.</mname>
+</author>
+<author>
+<email>mwarkentin@acm.org</email>
+<institution>Mississippi State University</institution>
+<lname>Warkentin</lname>
+<fname>Merrill</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information security</keyword>
+<keyword>countermeasures</keyword>
+<keyword>protection motivation theory</keyword>
+<keyword>fear appeals</keyword>
+<keyword>persuasive communication</keyword>
+<keyword>information assurance</keyword>
+<keyword>threat appraisal</keyword>
+<keyword>coping appraisal</keyword>
+</keywords>
+<abstract>&lt;p&gt;Information technology executives strive to align the actions of end users with the desired security posture of management and of the firm through persuasive communication.  In many cases, some element of fear is incorporated within these communications.  However, within the context of computer security and information assurance, it is not yet clear how these fear-inducing arguments, known as fear appeals, will ultimately impact the actions of end users.  The purpose of this study is to investigate the influence of fear appeals on the compliance of end users with recommendations to enact specific individual computer security actions toward the mitigation of threats.  An examination was performed that culminated in the development and testing of a conceptual model representing an infusion of technology adoption and fear appeal theories.&lt;/p&gt;
+&lt;p&gt;Results of the study suggest that fear appeals do impact end user behavioral intentions to comply with recommended individual acts of security, but the impact is not uniform across all end users.  It is determined in part by perceptions of self-efficacy, response efficacy, threat severity, and social influence.  The findings of this research contribute to information systems security research, human–computer interaction, and organizational communication by revealing a new paradigm in which IT users form perceptions of the technology, not on the basis of performance gains, but on the basis of utility for threat mitigation.&lt;/p&gt;</abstract>
+<fpage>549</fpage>
+<lpage>566</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2920&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2920</articleid>
+<submission-date>2010-08-13T08:37:46-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444187</context-key>
+<submission-path>misq/vol34/iss3/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Fear Appeals and Information Security Behaviors</value>
+</field>
+</fields>
+</document>
+</documents>

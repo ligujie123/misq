@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digression and Value Concatenation to Enable Privacy-Preserving Regression</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>xiaobai_li@uml.edu</email>
+<institution>University of Massachusetts Lowell</institution>
+<lname>Li</lname>
+<fname>Xiao-Bai</fname>
+</author>
+<author>
+<email>sumit@utdallas.edu</email>
+<institution>University of Texas at Dallas</institution>
+<lname>Sarkar</lname>
+<fname>Sumit</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Privacy</keyword>
+<keyword>data analytics</keyword>
+<keyword>data mining</keyword>
+<keyword>regression</keyword>
+<keyword>regression trees</keyword>
+<keyword>anonymization</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Regression techniques can be used not only for legitimate data analysis, but also to infer private information about individuals. In this paper, we demonstrate that regression trees, a popular data-analysis and data-mining technique, can be used to effectively reveal individuals’ sensitive data. This problem, which we call a &lt;strong&gt;regression attack&lt;/strong&gt;, has not been addressed in the data privacy literature, and existing privacy-preserving techniques are not appropriate in coping with this problem. We propose a new approach to counter regression attacks. To protect against privacy disclosure, our approach introduces a novel measure, called &lt;strong&gt;digression&lt;/strong&gt;, which assesses the sensitive value disclosure risk in the process of building a regression tree model. Specifically, we develop an algorithm that uses the measure for pruning the tree to limit disclosure of sensitive data. We also propose a dynamic value-concatenation method for anonymizing data, which better preserves data utility than a user-defined generalization scheme commonly used in existing approaches. Our approach can be used for anonymizing both numeric and categorical data. An experimental study is conducted using real-world financial, economic, and healthcare data. The results of the experiments demonstrate that the proposed approach is very effective in protecting data privacy while preserving data quality for research and analysis.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>679</fpage>
+<lpage>698</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3188&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3188</articleid>
+<submission-date>2014-07-31T11:54:33-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854438</context-key>
+<submission-path>misq/vol38/iss3/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Digression and Value Concatenation to Enable Privacy-Preserving Regression</value>
+</field>
+</fields>
+</document>
+</documents>

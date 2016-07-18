@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Genres of Inquiry in Design-Science Research:  Justification and Evaluation of Knowledge Production</title>
+<publication-date>2015-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>baskerville@acm.org</email>
+<institution>Georgia State University</institution>
+<lname>Baskerville</lname>
+<fname>Richard</fname>
+<mname>L</mname>
+</author>
+<author>
+<email>mkaul@unr.edu</email>
+<institution>University of Nevada, Reno</institution>
+<lname>Kaul</lname>
+<fname>Mala</fname>
+</author>
+<author>
+<email>vstorey@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Storey</lname>
+<fname>Veda</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Design science research</keyword>
+<keyword>genres of inquiry</keyword>
+<keyword>evaluation</keyword>
+<keyword>duality</keyword>
+<keyword>knowledge scope</keyword>
+<keyword>knowledge goal</keyword>
+<keyword>knowledge moment</keyword>
+<keyword>centrality of knowledge</keyword>
+<keyword>idiographic science</keyword>
+<keyword>nomothetic science</keyword>
+<keyword>endogenous pluralism</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Recognizing that design is at the core of information systems development has led to a design-science research paradigm where differing kinds of knowledge goals give form to differing kinds of knowledge processes within a single study. This paper analyzes knowledge production in design-science research to explain how an endogenous form of pluralism characterizes such studies, making it problematic to associate any design-science study with a single view of knowledge production. Instead, a design-science research study exhibits up to four different modes of reasoning, called &lt;strong&gt;genres of inquiry&lt;/strong&gt;. These genres are derived from two dualities that contrast differing knowledge goals and differing knowledge scope in the knowledge production process. The first duality arises from the sometimes seemingly contradictory knowledge goals of science versus design. The second duality reflects the contradiction between the scope of the knowledge produced, which may be idiographic or nomothetic. The evolutionary and iterative nature of a design-science study compels different knowledge goals and scope at different moments throughout a project. Because of this momentary nature, a single design-science study can be associated with multiple genres of inquiry. This understanding of the variety in the genres of inquiry advances the discourse on the nature of design-science research and the justification and evaluation of its outcomes. Consequently, a corresponding set of criteria for knowledge justification and evaluation is provided for each genre of inquiry.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>541</fpage>
+<lpage>564</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3246&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3246</articleid>
+<submission-date>2015-08-27T08:20:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7522854</context-key>
+<submission-path>misq/vol39/iss3/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-08-27T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Genres of Inquiry in Design-Science Research</value>
+</field>
+</fields>
+</document>
+</documents>

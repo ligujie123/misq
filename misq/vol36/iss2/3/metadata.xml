@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Open Knowledge Creation:  Bringing Transparency and Inclusiveness to the Peer Review Process</title>
+<publication-date>2012-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>don.hardaway@gmail.com</email>
+<institution>Saint Louis University</institution>
+<lname>Hardaway</lname>
+<fname>Donald</fname>
+<mname>E.</mname>
+</author>
+<author>
+<email>rscamell@uh.edu</email>
+<institution>University of Houston</institution>
+<lname>Scamell</lname>
+<fname>Richard</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Peer review</keyword>
+<keyword>communicating research</keyword>
+<keyword>Google knol and group services</keyword>
+</keywords>
+<abstract>&lt;p&gt;The peer review process that has been in place for many years has recognized shortcomings.  The Internet provides a means for changing this process.  This paper offers a more transparent and inclusive design for peer review referred to as &lt;strong&gt;open knowledge creation&lt;/strong&gt;.  The design proposed utilizes Google knol and group services. The open knowledge creation design consists of four stages:  creation, review/revision, evaluation/adoption, and publication.  It is intended to offer existing or new journals an alternative to the traditional peer review of research.&lt;/p&gt;</abstract>
+<fpage>339</fpage>
+<lpage>346</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3026&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3026</articleid>
+<submission-date>2012-05-25T09:06:30-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2915235</context-key>
+<submission-path>misq/vol36/iss2/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-05-25T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Open Knowledge Creation</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Neutralization:  New Insights into the Problem of Employee Systems Security Policy Violations</title>
+<publication-date>2010-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mikko.t.siponen@jyu.fi</email>
+<institution>University of Oulu, Finland</institution>
+<lname>Siponen</lname>
+<fname>Mikko</fname>
+</author>
+<author>
+<email>anthony@vance.name</email>
+<institution>Brigham Young University</institution>
+<lname>Vance</lname>
+<fname>Anthony</fname>
+<mname>Osborn</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Neutralization theory</keyword>
+<keyword>deterrence theory</keyword>
+<keyword>IS security policies</keyword>
+<keyword>IS security</keyword>
+<keyword>compliance</keyword>
+</keywords>
+<abstract>&lt;p&gt;Employees’ failure to comply with information systems security policies is a major concern for information technology security managers.  In efforts to understand this problem, IS security researchers have traditionally viewed violations of IS security policies through the lens of deterrence theory.  In this article, we show that neutralization theory, a theory prominent in Criminology but not yet applied in the context of IS, provides a compelling explanation for IS security policy violations and offers new insight into how employees rationalize this behavior.  In doing so, we propose a theoretical model in which the effects of neutralization techniques are tested alongside those of sanctions described by deterrence theory.  Our empirical results highlight neutralization as an important factor to take into account with regard to developing and implementing organizational security policies and practices.&lt;/p&gt;</abstract>
+<fpage>487</fpage>
+<lpage>502</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss3/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2917&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2917</articleid>
+<submission-date>2010-08-13T08:27:32-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1444112</context-key>
+<submission-path>misq/vol34/iss3/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Employee IS Security Policy Violations</value>
+</field>
+</fields>
+</document>
+</documents>

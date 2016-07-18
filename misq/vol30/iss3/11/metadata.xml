@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology and Pricing Decisions:  Price Adjustments in Online Computer Markets</title>
+<publication-date>2006-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Oh</lname>
+<fname>Wonseok</fname>
+</author>
+<author>
+<lname>Lucas</lname>
+<fname>Henry</fname>
+<mname>C.</mname>
+<suffix>Jr</suffix>
+</author>
+</authors>
+<keywords>
+<keyword>Market transparency</keyword>
+<keyword>strategic pricing</keyword>
+<keyword>price adjustment</keyword>
+<keyword>information technology</keyword>
+<keyword>electronic markets</keyword>
+<keyword>computer simulations</keyword>
+</keywords>
+<abstract>&lt;p&gt;Determining prices is a key management task for a merchant.  IT-enabled electronic markets facilitate price discovery by both buyers and sellers compared to traditional, physical markets. Recent research on electronic markets has revealed that IT has increased market transparency due to increased accessibility and availability of market information. However, what online sellers do in terms of strategic pricing decisions, in particular price adjustment behavior over time, has not been fully investigated. Due to the ease of making price changes, electronic sellers can execute a number of different pricing strategies, including setting the frequency and amount of price changes. We investigate the “opaque” side of electronic markets by exploring online sellers’ price adjustment patterns over time. More specifically, we identify four questions related to pricing decisions, which lead to hypotheses about how managers determine prices in electronic markets. The paper tests the hypotheses with data from the online computer commodity market.  We found, through a simulation analysis, that this market exhibits synchronized price changes, not random changes that are frequently found in traditional markets. Interestingly, small price increases occur more frequently than decreases, while the frequency of price adjustment is significantly associated with a product’s price dispersion.  A ranking analysis suggests that online sellers change their price strategies frequently, which makes it difficult for consumers to respond appropriately. The paper discusses the implications of our findings for management and for future research on market transparency and strategic pricing in electronic markets.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss3/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2778&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2778</articleid>
+<submission-date>2008-12-18T10:09:49-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683827</context-key>
+<submission-path>misq/vol30/iss3/11</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Content Sharing in a Social Broadcasting Environment:  Evidence from Twitter</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>zhan.m.shi@asu.edu</email>
+<institution>Arizona State University</institution>
+<lname>Shi</lname>
+<fname>Zhan</fname>
+</author>
+<author>
+<email>huaxia.rui@simon.rochester.edu</email>
+<institution>Simon School of Business, University of Rochester, Rochester, NY, United States.</institution>
+<lname>Rui</lname>
+<fname>Huaxia</fname>
+</author>
+<author>
+<email>abw@uts.cc.utexas.edu</email>
+<institution>The University of Texas at Austin</institution>
+<lname>Whinston</lname>
+<fname>Andrew</fname>
+<mname>B</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Content sharing</keyword>
+<keyword>social broadcasting</keyword>
+<keyword>information diffusion</keyword>
+<keyword>Twitter</keyword>
+<keyword>weak tie</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The rise of social broadcasting technologies has greatly facilitated open access to information worldwide, not only by powering decentralized information production and consumption, but also by expediting information diffusion through social interactions like content sharing.  Voluntary information sharing by users in the context of Twitter, the predominant social broadcasting site, is studied by modeling both the technology and user behavior.  A detailed data set about the official content-sharing function on Twitter, called &lt;strong&gt;retweet&lt;/strong&gt;, is collected and the statistical relationships between users’ social network characteristics and their retweeting acts are documented.  A two-stage consumption-sharing model is then estimated using the conditional maximum likelihood estimatio (MLE) method.  The empirical results convincingly support our hypothesis that weak ties (in the form of unidirectional links) are more likely to engage in the social exchange process of content sharing.  Specifically, we find that after a median quality tweet (as defined in the sample) is consumed, the likelihood that a unidirectional follower will retweet is 3.1 percentage point higher than the likelihood that a bidirectional follower will do so.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>123</fpage>
+<lpage>142</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3160&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3160</articleid>
+<submission-date>2014-03-03T09:28:24-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5252779</context-key>
+<submission-path>misq/vol38/iss1/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Content Sharing in a Social Broadcasting Environment</value>
+</field>
+</fields>
+</document>
+</documents>

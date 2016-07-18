@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Toward a New Theory of the Contribution of the IT Function in Organizations</title>
+<publication-date>2012-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>manon.guillemette@usherbrooke.ca</email>
+<institution>University of Sherbrooke</institution>
+<lname>Guillemette</lname>
+<fname>Manon</fname>
+<mname>G,</mname>
+</author>
+<author>
+<email>guy.pare@hec.ca</email>
+<lname>Pare</lname>
+<fname>Guy</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT function</keyword>
+<keyword>IT management profile</keyword>
+<keyword>IT contribution</keyword>
+<keyword>CIO</keyword>
+<keyword>theory building</keyword>
+<keyword>typological theory</keyword>
+<keyword>field study</keyword>
+</keywords>
+<abstract>&lt;p&gt;Because changes in organizations and information technology environments are enduring, the alignment of the IT function with business objectives must not only be understood, but constantly renewed and adjusted.  This is amply reflected in recent surveys of CIOs, which consistently suggest that the notion of alignment is a top challenge and management priority.  Many CIOs face a double challenge when addressing the issue of alignment:  they must first clarify top management’s expectations and assumptions about IT, which may be contradictory, and then understand their implications for how the IT department should be managed (i.e., translate the function’s strategic mission into an IT management model that adds value to the organization).&lt;/p&gt;
+&lt;p&gt;The characterization of the IT function has constituted a central and growing subject of research in the information systems field.  Although the extant literature has much to teach us, knowledge in this area is nevertheless fragmented and has not been properly integrated.  In response to these limitations, this study proposes and tests a new theory of the contribution of the IT function.  Specifically, our objective is to offer an explanation of the contribution of the IT function in organizations with a typology of ideal profiles.&lt;/p&gt;
+&lt;p&gt;A field study was conducted in 24 large Canadian companies in order to validate a set of research propositions.  Our results first suggest that there are five distinct “ideal” IT management profiles in organizations and each of these profiles tends to focus on specific sources of value.  Next, we observed that IT functions that are close to the ideal of any given profile seem to be outperforming those with hybrid profiles.  Finally, our findings provide a compelling explanation as to how ideal IT management profiles are adopted in organizations.  The article concludes with a discussion of the theoretical and practical implications of the proposed theory.&lt;/p&gt;</abstract>
+<fpage>529</fpage>
+<lpage>551</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss2/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3034&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3034</articleid>
+<submission-date>2012-05-25T09:41:23-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2915298</context-key>
+<submission-path>misq/vol36/iss2/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-05-25T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Contribution of the IT Function in Organizations</value>
+</field>
+</fields>
+</document>
+</documents>

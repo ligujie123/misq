@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology Outsourcing and Non-IT Operating Costs:  An Empirical Investigation</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>kunsoo.han@mcgill.ca</email>
+<institution>McGill University</institution>
+<lname>Han</lname>
+<fname>Kunsoo</fname>
+</author>
+<author>
+<email>smithas@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Mithas</lname>
+<fname>Sunil</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT outsourcing</keyword>
+<keyword>information technology</keyword>
+<keyword>IT expenditures</keyword>
+<keyword>IT impacts</keyword>
+<keyword>IT services</keyword>
+<keyword>IT labor</keyword>
+<keyword>IT human capital</keyword>
+<keyword>non-IT operating costs</keyword>
+<keyword>business value of IT</keyword>
+<keyword>IT governance</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Does information technology outsourcing reduce non-IT operating costs?  This study examines this question and also asks whether internal IT investments moderate the relationship between IT outsourcing and non-IT operating costs.  Using a panel data set of approximately 300 U.S. firms from 1999 to 2003, we find that IT outsourcing has a significant negative association with firms’ non-IT operating costs.  However, this finding does not imply that firms should completely outsource their entire IT function.  Our results suggest that firms benefit more in terms of reduction in non-IT operating costs when they also have higher levels of complementary investments in internal IT, especially IT labor.  Investments in internal IT systems can make business processes more amenable to outsourcing, and complementary investments in internal IT staff can facilitate monitoring of vendor performance and coordination with vendors.  We discuss the implications of these findings for further research and for practice. &lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>315</fpage>
+<lpage>331</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3095&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3095</articleid>
+<submission-date>2013-03-01T09:06:22-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815988</context-key>
+<submission-path>misq/vol37/iss1/15</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT Outsourcing and Non-IT Operating Costs</value>
+</field>
+</fields>
+</document>
+</documents>

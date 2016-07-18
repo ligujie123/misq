@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Update and Extension to SEM Guidelines for Admnistrative and Social Science Research</title>
+<publication-date>2011-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>gefend@drexel.edu</email>
+<institution>Drexel University</institution>
+<lname>Gefen</lname>
+<fname>D</fname>
+</author>
+<author>
+<email>dstraub@cis.gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Straub</lname>
+<fname>Detmar</fname>
+<mname>W.</mname>
+</author>
+<author>
+<email>erigdon@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Rigdon</lname>
+<fname>Edward</fname>
+<mname>E.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Structural equation modeling</keyword>
+</keywords>
+<fpage>iii</fpage>
+<lpage>xiv</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2952&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2952</articleid>
+<submission-date>2011-06-08T10:06:01-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2051635</context-key>
+<submission-path>misq/vol35/iss2/2</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-06-08T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editor&#39;s Comments:  An Update to SEM</value>
+</field>
+</fields>
+</document>
+</documents>

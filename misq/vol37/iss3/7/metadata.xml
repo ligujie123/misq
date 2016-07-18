@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Integrating Service Quality with System and Information Quality:  An Empirical Test in the E-Service Context</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>david.xu@wichita.edu</email>
+<institution>Wichita State University</institution>
+<lname>Xu</lname>
+<fname>David</fname>
+</author>
+<author>
+<email>benbasat@sauder.ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+<author>
+<email>cenfetelli@sauder.ubc.ca</email>
+<institution>University of British Columbia, Canada</institution>
+<lname>Cenfetelli</lname>
+<fname>Ronald T.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Service quality (SQ)</keyword>
+<keyword>information quality (IQ)</keyword>
+<keyword>system quality (SysQ)</keyword>
+<keyword>service satisfaction</keyword>
+<keyword>perceived enjoyment (PE)</keyword>
+<keyword>empirical</keyword>
+<keyword>e-service</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Wixom and Todd (2005) integrated the user satisfaction and the technology acceptance literatures to theorize about and account for the influence of the information technology artifact on usage.  Based on Wixom and Todd’s integrated model of technology usage, we propose the 3Q model by investigating the role of service quality (SQ), in addition to system quality (SysQ) and information quality (IQ), in website adoption.  Attention to SQ is critical, as consumer websites have increasingly become the target of SQ assessment made by consumers, not just traditional SysQ and IQ evaluations.  As part of our study, we further theorize and empirically test the relationships among these three types of quality constructs and hypothesize that perceived SysQ influences perceived IQ and perceived SQ, and perceived IQ influences perceived SQ.  Our study extends the Wixom and Todd model in the e-service context and is the first of its kind to empirically examine the combined impact of perceived SQ, perceived SysQ, and perceived IQ on usage intention.  Our study advances the theoretical understanding of SQ and the relationships among perceptions of SysQ, IQ, and SQ in the e-service context.  The results also inform practitioners that high IQ and SysQ can directly or indirectly improve SQ in the e-service context.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>777</fpage>
+<lpage>794</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3119&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3119</articleid>
+<submission-date>2013-08-15T07:56:51-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440288</context-key>
+<submission-path>misq/vol37/iss3/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Integrating Service Quality with System and Information Quality</value>
+</field>
+</fields>
+</document>
+</documents>

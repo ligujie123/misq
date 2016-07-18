@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Dialogue Management: Support for Dialogue Independence</title>
+<publication-date>1988-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Kuo</lname>
+<fname>Feng-Yang</fname>
+</author>
+<author>
+<lname>Konsynski</lname>
+<fname>Benn</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol12/iss3/16</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2083&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2083</articleid>
+<submission-date>2008-08-18T11:41:12-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584055</context-key>
+<submission-path>misq/vol12/iss3/16</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1988-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

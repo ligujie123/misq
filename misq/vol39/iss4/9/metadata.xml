@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Campus Emergency Notification Systems:  An Examination of Factors Affecting Compliance with Alerts</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>wencuihan@gmail.com</email>
+<institution>University of Illinois at Urbana-Champaign</institution>
+<lname>Han</lname>
+<fname>Wencui</fname>
+</author>
+<author>
+<email>serkanada@selcuk.edu.tr</email>
+<institution>Selçuk University</institution>
+<lname>Ada</lname>
+<fname>Serkan</fname>
+</author>
+<author>
+<email>rsharman@buffalo.edu</email>
+<institution>University at Buffalo</institution>
+<lname>Sharman</lname>
+<fname>Raj</fname>
+</author>
+<author>
+<email>mgmtrao@buffalo.edu</email>
+<institution>University at Buffalo</institution>
+<lname>Rao</lname>
+<fname>H.</fname>
+<mname>Raghav</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Compliance</keyword>
+<keyword>campus alerts</keyword>
+<keyword>emergency notification systems</keyword>
+<keyword>information quality trust</keyword>
+<keyword>scenario-based survey</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The increasing number of campus-related emergency incidents, in combination with the requirements imposed by the Clery Act, have prompted college campuses to develop emergency notification systems to inform community members of extreme events that may affect them. Merely deploying emergency notification systems on college campuses, however, does not guarantee that these systems will be effective; student compliance plays a very important role in establishing such effectiveness. Immediate compliance with alerts, as opposed to delayed compliance or noncompliance, is a key factor in improving student safety on campuses. This paper investigates the critical antecedents that motivate students to comply immediately with messages from campus emergency notification systems. Drawing on Etzioni’s compliance theory, a model is developed. Using a scenario-based survey method, the model is tested in five types of events—snowstorm, active shooter, building fire, health-related, and robbery—and with more than 800 college students from the Northern region of the United States. The results from this study suggest that subjective norm and information quality trust are, in general, the most important factors that promote immediate compliance. This research contributes to the literature on compliance, emergency notification systems, and emergency response policies.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>909</fpage>
+<lpage>929</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss4/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3265&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3265</articleid>
+<submission-date>2015-11-19T08:50:04-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7862609</context-key>
+<submission-path>misq/vol39/iss4/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-11-19T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Campus Emergency Notification Systems</value>
+</field>
+</fields>
+</document>
+</documents>

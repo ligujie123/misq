@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Patterns in Information Systems Portfolio Prioritization:  Evidence from Decision Tree Induction</title>
+<publication-date>2015-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>karhade@ust.hk</email>
+<institution>Hong Kong University of Science and Technology</institution>
+<lname>Karhade</lname>
+<fname>Prasanna</fname>
+</author>
+<author>
+<email>mjshaw@illinois.edu</email>
+<institution>University of Illinois at Urbana-Champaign</institution>
+<lname>Shaw</lname>
+<fname>Michael</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>rsubrama@illinois.edu</email>
+<institution>University of Illinois at Urbana-Champaign</institution>
+<lname>Subramanyam</lname>
+<fname>Ramanath</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS strategy</keyword>
+<keyword>IS portfolio prioritization</keyword>
+<keyword>IT portfolio management</keyword>
+<keyword>IS governance</keyword>
+<keyword>IT governance</keyword>
+<keyword>decision making</keyword>
+<keyword>decision tree induction</keyword>
+</keywords>
+<abstract>&lt;p&gt;Questions pertaining to the locus of information systems (IS) governance have been extensively examined in existing research. However, questions pertaining to the decision rationale applied for IS portfolio prioritization (why are certain initiatives approved, and why are certain others rejected), noted to be a critical component of IS governance, need further investigation. We submit that the IS strategy of a firm is likely to explain the decision rationale it applies to IS portfolio prioritization and maintain that it is critical to ensure this decision rationale is in congruence with the firm’s IS strategy. By extending prior theoretical work on IS strategy types, we develop theoretical profiles of the decision rationale applied to IS portfolio prioritization using three attributes: communicability of decision rationale, consistency in applying decision rationale, and risk appropriateness of decision rationale. Since the decision rationale applied for IS portfolio prioritization is often tacit, unknown even to the decision makers themselves, we employ the decision tree induction methodology to discover this tacit decision rationale. We analyze over 150 IS portfolio prioritization decisions on a multimillion dollar IS portfolio of a multibusiness, Fortune 50 firm and our findings, which support our propositions, indicate that firms that adopt different IS strategies rely on systematically different profiles of decision rationale for IS portfolio prioritization. Implications for IS governance practices are developed.&lt;/p&gt;</abstract>
+<fpage>413</fpage>
+<lpage>433</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss2/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3239&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3239</articleid>
+<submission-date>2015-04-30T08:16:38-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7050114</context-key>
+<submission-path>misq/vol39/iss2/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Patterns in IS Portfolio Prioritization</value>
+</field>
+</fields>
+</document>
+</documents>

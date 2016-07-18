@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Taking Industry Seriously in Information Systems Research</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Chiasson</lname>
+<fname>Mike</fname>
+<mname>W.</mname>
+</author>
+<author>
+<lname>Davidson</lname>
+<fname>Elizabeth</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information systems theory</keyword>
+<keyword>institutional theory</keyword>
+<keyword>industry content</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this essay, we argue that industry receives little attention in IS research and theory, despite its increasingly important influence on information systems (IS) activities.  This is evident both in the narrow range of industries examined in IS research and the infrequent consideration of industry in theory.  We base these observations on an analysis of IS publications in two top-tier journals (MIS Quarterly and Information Systems Research) over eight years.  Drawing from institutional theory, we consider various ways industry can be addressed and assess how industry influences IS activities.  We conclude that industry provides an important contextual “space” to build new IS theory and to evaluate the boundaries of existing IS theory.  We outline a range of strategies for incorporating industry into IS research.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss4/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2738&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2738</articleid>
+<submission-date>2008-12-15T10:04:28-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681950</context-key>
+<submission-path>misq/vol29/iss4/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

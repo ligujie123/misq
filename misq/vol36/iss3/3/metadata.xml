@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On the Use of Neurophysiological Tools in IS Research:  Developing a Research Agenda for NeuroIS</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>angelika@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Dimoka</lname>
+<fname>Angelika</fname>
+</author>
+<author>
+<email>rajiv.banker@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Banker</lname>
+<fname>Rajiv</fname>
+</author>
+<author>
+<email>izak.benbasat@ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+<author>
+<email>fdavis@walton.uark.edu</email>
+<institution>University of Arkansas &amp; Sogang University</institution>
+<lname>Davis</lname>
+<fname>Fred</fname>
+</author>
+<author>
+<email>ardennis@indiana.edu</email>
+<institution>Indiana University</institution>
+<lname>Dennis</lname>
+<fname>Alan</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>gefend@drexel.edu</email>
+<institution>Drexel University</institution>
+<lname>Gefen</lname>
+<fname>D</fname>
+</author>
+<author>
+<email>alok@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Gupta</lname>
+<fname>Alok</fname>
+</author>
+<author>
+<email>anja.ischebeck@uni-graz.at</email>
+<institution>University of Graz</institution>
+<lname>Ischebeck</lname>
+<fname>Anja</fname>
+</author>
+<author>
+<email>peter.kenning@zeppelin-university.de</email>
+<institution>Zeppelin University</institution>
+<lname>Kenning</lname>
+<fname>Peter</fname>
+</author>
+<author>
+<email>pavlou@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>gernot.mueller@tugraz.at</email>
+<institution>Graz University of Technology</institution>
+<lname>Muller-Putz</lname>
+<fname>Gernot</fname>
+</author>
+<author>
+<email>rene.riedl@jku.at</email>
+<institution>University of Linz</institution>
+<lname>Riedl</lname>
+<fname>René</fname>
+</author>
+<author>
+<email>jan.vom.brocke@uni.li</email>
+<institution>University of Liechtenstein</institution>
+<lname>vom Brocke</lname>
+<fname>Jan</fname>
+</author>
+<author>
+<email>bernd.weber@ukb.uni-bonn.de</email>
+<institution>University of Bonn</institution>
+<lname>Weber</lname>
+<fname>Bernd</fname>
+</author>
+</authors>
+<keywords>
+<keyword>NeuroIS</keyword>
+<keyword>neuroscience</keyword>
+<keyword>neurophysiological tools</keyword>
+<keyword>psychophysiological tools</keyword>
+<keyword>neuroimaging</keyword>
+</keywords>
+<abstract>&lt;p&gt;This article discusses the role of commonly used neurophysiological tools such as psychophysiological tools (e.g., EKG, eye tracking) and neuroimaging tools (e.g., fMRI, EEG) in Information Systems research.  There is heated interest now in the social sciences in capturing presumably objective data directly from the human body, and this interest in neurophysiological tools has also been gaining momentum in IS research (termed NeuroIS).  This article first reviews commonly used neurophysiological tools with regard to their major strengths and weaknesses.  It then discusses several promising application areas and research questions where IS researchers can benefit from the use of neurophysiological data.  The proposed research topics are presented within three thematic areas:  (1) development and use of systems, (2) IS strategy and business outcomes, and (3) group work and decision support.  The article concludes with recommendations on how to use neurophysiological tools in IS research along with a set of practical suggestions for developing a research agenda for NeuroIS and establishing NeuroIS as a viable subfield in the IS literature.&lt;/p&gt;</abstract>
+<fpage>679</fpage>
+<lpage>702</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3042&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3042</articleid>
+<submission-date>2012-09-05T11:48:10-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3295434</context-key>
+<submission-path>misq/vol36/iss3/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-05T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Use of Neurophysiological Tools in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

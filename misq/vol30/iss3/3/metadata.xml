@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Transformation of Open Source Software</title>
+<publication-date>2006-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Fitzgerald</lname>
+<fname>Brian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Open source software</keyword>
+<keyword>free software</keyword>
+<keyword>IS development</keyword>
+</keywords>
+<abstract>&lt;p&gt;A frequent characterization of open source software is the somewhat outdated, mythical one of a collective of supremely talented software hackers freely volunteering their services to produce uniformly high-quality software. I contend that the open source software phenomenon has metamorphosed into a more mainstream and commercially viable form, which I label as OSS 2.0. I illustrate this transformation using a framework of process and product factors, and discuss the shift in the application of the bazaar metaphor from the development process to the product delivery and support process. Overall the OSS 2.0 phenomenon is significantly different from its free software antecedent. Its emergence accentuates the fundamental alteration of the basic ground-rules in the software landscape, signifying the end of the proprietary-driven model that has prevailed for the past 20 years or so. Thus, a clear understanding of the characteristics of the emergent OSS 2.0 phenomenon is required to address key challenges for research and practice.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss3/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2768&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2768</articleid>
+<submission-date>2008-12-18T07:37:27-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683756</context-key>
+<submission-path>misq/vol30/iss3/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

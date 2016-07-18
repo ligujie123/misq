@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Framework for Comparing Information Engineering Methods</title>
+<publication-date>1988-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Hackathorn</lname>
+<fname>Richard</fname>
+</author>
+<author>
+<lname>Karimi</lname>
+<fname>Jahangir</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol12/iss2/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2069&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2069</articleid>
+<submission-date>2008-08-18T11:40:58-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584041</context-key>
+<submission-path>misq/vol12/iss2/14</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1988-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

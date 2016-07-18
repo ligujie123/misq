@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Focus and Diversity in Information Systems Research:  Meeting the Dual Demands of a Healthy Applied Discipline</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>hztaylor@u.washington.edu</email>
+<institution>University of Washington</institution>
+<lname>Taylor</lname>
+<fname>Hazel</fname>
+</author>
+<author>
+<email>stuart@waikato.ac.nz</email>
+<institution>University of Waikato</institution>
+<lname>Dillon</lname>
+<fname>Stuart</fname>
+</author>
+<author>
+<email>mvanwingen@ci.everett.wa.us</email>
+<institution>Everett Public Library</institution>
+<lname>Van Wingen</lname>
+<fname>Melinda</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS discipline</keyword>
+<keyword>IS research</keyword>
+<keyword>author co-citation analysis</keyword>
+<keyword>focus</keyword>
+<keyword>diversity</keyword>
+</keywords>
+<abstract>&lt;p&gt;Drawing on sociology of science foundations, we argue that, in order to survive and prosper, healthy applied disciplines must meet the dual demands of academic and practitioner audiences by demonstrating both focus and diversity in their research.  First, we use this concomitant modality to explain why previous studies into the structure of the Information Systems discipline have reported contradictory results, with some finding a focused field while others conclude that the field is diverse.  In support of our argument, we then present the results of a longitudinal, author co-citation analysis, looking across the full range of journals in which IS research is published.  Our results suggest that the IS field has sustained a focus on research within three subfields over a 20-year period from 1986 to 2005:  (1) a thematic miscellany of research on development, implementation, and use of systems in various application domains; (2) IS strategy and business outcomes; and (3) group work and decision support.  At the same time, the field has demonstrated considerable diversity within and around these core subfields, with researchers responding flexibly to the rapidly changing field by investigating these areas with new paradigms and in new contexts, and by exploring new topics including inter-business and Internet applications, computer-supported collaborative work, virtual teams, and knowledge management.  Finally, we demonstrate that, over the 20-year period from 1986 to 2005, the discipline has shifted from fragmented adhocracy to a polycentric state, which is particularly appropriate to an applied discipline such as IS that must address the dual demands of focus and diversity in a rapidly changing technological context.&lt;/p&gt;</abstract>
+<fpage>647</fpage>
+<lpage>667</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2928&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2928</articleid>
+<submission-date>2010-11-29T14:36:03-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664545</context-key>
+<submission-path>misq/vol34/iss4/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Focus and Diversity in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

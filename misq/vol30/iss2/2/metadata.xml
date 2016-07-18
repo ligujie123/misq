@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Reliability, Mindfulness, and Information Systems</title>
+<publication-date>2006-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Butler</lname>
+<fname>Brian</fname>
+<mname>S.</mname>
+</author>
+<author>
+<lname>Gray</lname>
+<fname>Peter</fname>
+<mname>H.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Mindfulness</keyword>
+<keyword>reliability</keyword>
+<keyword>IS operations</keyword>
+<keyword>IS management</keyword>
+<keyword>IS design</keyword>
+<keyword>resilience</keyword>
+</keywords>
+<abstract>&lt;p&gt;In a world where information technology is both important and imperfect, organizations and individuals are faced with the ongoing challenge of determining how to use complex, fragile systems in dynamic contexts to achieve reliable outcomes.  While reliability is a central concern of information systems practitioners at many levels, there has been limited consideration in information systems scholarship of how firms and individuals create, manage, and use technology to attain reliability.  We propose that examining how individuals and organizations use information systems to reliably perform work will increase both the richness and relevance of IS research.  Drawing from studies of individual and organizational cognition, we examine the concept of mindfulness as a theoretical foundation for explaining efforts to achieve individual and organizational reliability in the face of complex technologies and surprising environments.  We then consider a variety of implications of mindfulness theories of reliability, in the form of alternative interpretations of existing knowledge and new directions for inquiry in the areas of IS operations, design, and management.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2757&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2757</articleid>
+<submission-date>2008-12-18T06:30:30-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683732</context-key>
+<submission-path>misq/vol30/iss2/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

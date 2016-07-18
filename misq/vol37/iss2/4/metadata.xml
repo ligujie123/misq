@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Ambivalent Ontology of Digital Artifacts1</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>j.kallinikos@lse.ae.uk</email>
+<institution>London School of Economics and Political Science</institution>
+<lname>Kallinikos</lname>
+<fname>Jannis</fname>
+</author>
+<author>
+<email>aake@iki.fi</email>
+<institution>Hanken School of Economics</institution>
+<lname>Aaltonen</lname>
+<fname>Aleksi</fname>
+</author>
+<author>
+<email>am.itm@cbs.dk</email>
+<institution>Copenhagen Business School</institution>
+<lname>Marton</lname>
+<fname>Attila</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Digital artifacts</keyword>
+<keyword>digital objects</keyword>
+<keyword>archives</keyword>
+<keyword>search engines</keyword>
+<keyword>information platforms and infrastructures</keyword>
+<keyword>modularity</keyword>
+<keyword>reflexivity</keyword>
+<keyword>change</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Digital artifacts are embedded in wider and constantly shifting ecosystems such that they become increasingly editable, interactive, reprogrammable, and distributable.  This state of flux and constant transfiguration renders the value and utility of these artifacts contingent on shifting webs of functional relations with other artifacts across specific contexts and organizations.  By the same token, it apportions control over the development and use of these artifacts over a range of dispersed stakeholders and makes their management a complex technical and social undertaking.  These ideas are illustrated with reference to (1)　provenance and authenticity of digital documents within the overall context of archiving and social memory and (2)　the content dynamics occasioned by the findability of content mediated by Internet search engines.  We conclude that the steady change and transfiguration of digital artifacts signal a shift of epochal dimensions that calls for rethinking some of the inherited wisdom in IS research and practice.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>357</fpage>
+<lpage>370</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3097&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3097</articleid>
+<submission-date>2013-05-21T13:36:14-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161480</context-key>
+<submission-path>misq/vol37/iss2/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Ambivalent Ontology of Digital Artifacts1</value>
+</field>
+</fields>
+</document>
+</documents>

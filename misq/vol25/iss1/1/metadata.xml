@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Validation in Information Systems Research:  A State-of-the-Art Assessment</title>
+<publication-date>2001-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Boudreau</lname>
+<fname>Marie-Claude</fname>
+</author>
+<author>
+<lname>Gefen</lname>
+<fname>David</fname>
+</author>
+<author>
+<lname>Straub</lname>
+<fname>Detmar</fname>
+<mname>W.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Over 10 years ago, the issue of whether IS researchers were rigorously validating their quantitative, positivist instruments was raised (Straub 1989).  In the years that have passed since that time, the profession has undergone many changes.  Novel technologies and management trends have come and gone.  New professional societies have been formed and grown in prominence and new demands have been placed on the field’s research and teaching obligations.  But the issue of rigor in IS research has persisted throughout all such changes.  Without solid validation of the instruments that are used to gather data upon which findings and interpretations are based, the very scientific basis of positivist, quantitative research is threatened.     As a retrospective on the Straub article, this research seeks to determine if and how the field has advanced in instrument validation.  As evidence of the change, we coded positivist, quantitative research articles in five major journals over a recent three year period for use of validation techniques.  Findings suggest that the field has advanced in many areas, but, overall, it appears that a majority of published studies are still not sufficiently validating their instruments.  Based on these findings, approaches are suggested for reinvigorating the quest for validation in IS research via content/construct validity, reliability, and manipulation validity.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol25/iss1/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2605&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2605</articleid>
+<submission-date>2008-12-09T06:50:21-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678492</context-key>
+<submission-path>misq/vol25/iss1/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2001-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

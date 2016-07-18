@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Systems Research Behaviors:  What Are the Normative Standards?</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>gove@byu.edu</email>
+<institution>Brigham Young University</institution>
+<lname>Allen</lname>
+<fname>Gove</fname>
+<mname>N.</mname>
+</author>
+<author>
+<email>nick_ball@byu.edu</email>
+<institution>Brigham Young University</institution>
+<lname>Ball</lname>
+<fname>Nicholas</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>jeff.smith@muohio.edu</email>
+<institution>Miami University - Oxford</institution>
+<lname>Smith</lname>
+<fname>H.</fname>
+<mname>Jeff</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Issues and Opinions</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Normative standards</keyword>
+<keyword>information systems research</keyword>
+<keyword>Code of Research Conduct</keyword>
+<keyword>survey</keyword>
+</keywords>
+<abstract>&lt;p&gt;Information systems researchers frequently face quandaries in their professional lives. We present the results of a study of academic IS researchers that assesses their judgments and the prevalence of 29 questionable research-related behaviors. We find that the focus and stages of researchers’ careers influence their judgments of these behaviors. 　Membership in the Association for Information Systems (AIS) and adherence to the AIS Code of Research Conduct are also associated with IS researchers’ judgments. There is strong evidence to suggest that IS researchers expect to engage in questionable behaviors more in the future than they report having done in the past. As a result of the study, we recommend that the IS community revisit the AIS Code of Research Conduct on a regular basis and take active steps to both educate its members on professional normative standards and to uphold the standards of our community.&lt;/p&gt;</abstract>
+<fpage>533</fpage>
+<lpage>551</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2969&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2969</articleid>
+<submission-date>2011-08-23T09:57:41-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185506</context-key>
+<submission-path>misq/vol35/iss3/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IS Research Behaviors</value>
+</field>
+</fields>
+</document>
+</documents>

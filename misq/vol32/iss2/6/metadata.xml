@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Two-Stage Offshoring:  An Investigation of the Irish Bridge</title>
+<publication-date>2008-10-27T14:09:22-07:00</publication-date>
+<authors>
+<author>
+<email>helena.holmstrom.olsson@ituniv.se</email>
+<institution>IT University of Gothenburg</institution>
+<lname>Holmstrom Olsson</lname>
+<fname>Helena</fname>
+</author>
+<author>
+<email>eoin.oconchir@lero.ie</email>
+<institution>University of Limerick</institution>
+<lname>O Conchuir</lname>
+<fname>Eoin</fname>
+</author>
+<author>
+<email>par.agerfalk@dis.uu.se</email>
+<institution>Uppsala University</institution>
+<lname>Agerfalk</lname>
+<fname>Par</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>brian.fitzgerald@ul.ie</email>
+<institution>University of Limerick</institution>
+<lname>Fitzgerald</lname>
+<fname>Brian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Offshore sourcing</keyword>
+<keyword>offshoring</keyword>
+<keyword>customer-vendor relationship</keyword>
+<keyword>relational exchange</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper investigates two-stage offshoring as experienced by the Irish sites of two large global companies, headquartered in the United States, with significant software development operations.  As part of these companies, the Irish sites act as a bridge in their offshoring arrangements:  While the U.S. sites offshore work to Ireland, the Irish sites offshore work further to India and, hence, have experience of being both customer and vendor in two-stage offshore sourcing relationships. Using a framework derived from relational exchange theory (RET), we conducted multiple case study research to investigate and develop an initial theoretical model of the implementation of this two-stage offshoring bridge model.  Our study shows that while both companies act as bridges in two-stage offshoring arrangements, their approaches differ in relation to (1) team integration, (2) organizational level implementation, and (3) site hierarchy.  Although, there are opportunities afforded by the bridge model at present, the extent to which these opportunities will be viable into the future is open to question.  As revealed in our study, temporal location seems to favor a bridge location such as Ireland, certainly with United States–Asian partners.  However, location alone will not be enough to maintain position in future two-stage offshoring arrangements.  Furthermore, our research supports the view that offshoring tends to progress through a staged sequence of progressively lower cost destinations.  Such a development suggests that two-stage offshoring, as described in this paper, will eventually become what we would term multistage offshoring.&lt;/p&gt;</abstract>
+<fpage>257</fpage>
+<lpage>279</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2533&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2533</articleid>
+<submission-date>2008-10-27T12:40:28-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656593</context-key>
+<submission-path>misq/vol32/iss2/6</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Olsson, H. H., O Conchuir, E., and Agerfalk, P. J.  2008.  &quot;Two-Stage Offshoring:  An Investigation of the Irish Bridge,&quot; MIS Quarterly (32:2), pp. 257-279.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

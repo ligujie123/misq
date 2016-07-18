@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Vocal Minority and Silent Majority:  How Do Online Ratings Reflect Population Perceptions of Quality?</title>
+<publication-date>2015-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>ggao@rhsmith.umd.edu</email>
+<institution>University of Maryland - College Park</institution>
+<lname>Gao</lname>
+<fname>Guodong</fname>
+<mname>(Gordon)</mname>
+</author>
+<author>
+<email>greenwood@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Greenwood</lname>
+<fname>Brad</fname>
+<mname>N.</mname>
+</author>
+<author>
+<email>ragarwal@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Agarwal</lname>
+<fname>Ritu</fname>
+</author>
+<author>
+<email>mccu0056@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>McCullough</lname>
+<fname>Jeffrey</fname>
+<mname>S.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Online ratings</keyword>
+<keyword>physician quality</keyword>
+<keyword>online word-of-mouth</keyword>
+<keyword>professional services</keyword>
+<keyword>informativeness</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Consumer-generated ratings typically share an objective of illuminating the quality of a product or service for other buyers. While ratings have become ubiquitous and influential on the Internet, surprisingly little empirical research has investigated how these online assessments reflect the opinion of the population at large, especially in the domain of professional services where quality is often opaque to consumers. Building on the word-of-mouth literature, we examine the relationship between online ratings and population perceptions of physician quality. We leverage a unique dataset which includes direct measures of both the offline population’s perception of physician quality and consumer-generated online reviews. As a result, we are able to examine how online ratings reflect patients’ opinions about physician quality. In sharp contrast to the widely voiced concerns by medical practitioners, we find that physicians who are rated lower in quality by the patient population are less likely to be rated online. Although ratings provided online are positively correlated with patient population opinions, the online ratings tend to be exaggerated at the upper end of the quality spectrum. This study is the first to provide empirical evidence of the relationship between online ratings and the underlying consumer-perceived quality, and extends prior research on online word-of-mouth to the domain of professional services.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>565</fpage>
+<lpage>589</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3247&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3247</articleid>
+<submission-date>2015-08-27T08:28:14-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7522895</context-key>
+<submission-path>misq/vol39/iss3/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-08-27T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Online Ratings and Population Perceptions of Quality</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Predicting Intention to Adopt Interorganizational Linkages: An Institutional Perspective</title>
+<publication-date>2003-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Teo</lname>
+<fname>H.</fname>
+<mname>H.</mname>
+</author>
+<author>
+<lname>Wei</lname>
+<fname>K.</fname>
+<mname>K</mname>
+</author>
+<author>
+<lname>Benbasat</lname>
+<fname>I.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Financial Electronic Data Interchange</keyword>
+<keyword>Interorganizational Systems</keyword>
+<keyword>Institutional Influences</keyword>
+<keyword>Mimetic Pressures</keyword>
+<keyword>Coercive Pressures</keyword>
+<keyword>Normative Pressures</keyword>
+</keywords>
+<abstract>&lt;p&gt;This study used Institutional Theory as a lens to understand the factors that enable the adoption of interorganizational systems. It posits that mimetic, coercive, and normative pressures existing in an institutionalized environment could influence organizational predisposition toward an information technology-based interorganizational linkage. Survey-based research was carried out to test this theory. Following questionnaire development, validation and pretest with a pilot study, data was collected from the CEO, the CFO and the CIO to measure the institutional pressures they faced and their intentions to adopt Financial Electronic Data Interchange (FEDI). A firm-level structural model was developed based on the CEO’s, the CFO’s, and the CIO’s data. LISREL and PLS were used for testing the measurement and structural models respectively. Results showed that all three institutional pressures: mimetic pressures, coercive pressures, and normative pressures had a significant influence on organizational intention to adopt FEDI. Except for perceived extent of adoption among suppliers, all other subconstructs were significant in the model. These results provide strong support for institutional-based variables as predictors of adoption intention for interorganizational linkages. These findings indicate that organizations are embedded in institutional networks and call for greater attention to be directed at understanding institutional pressures when investigating information technology innovations adoption.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol27/iss1/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2649&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2649</articleid>
+<submission-date>2008-12-11T08:01:27-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680235</context-key>
+<submission-path>misq/vol27/iss1/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2003-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

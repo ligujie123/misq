@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Contributing Knowledge to Electronic Repositories:  An Empirical Investigation</title>
+<publication-date>2005-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Kankanhalli</lname>
+<fname>Atreyi</fname>
+</author>
+<author>
+<email>btan@comp.nus.edu.sg</email>
+<lname>Tan</lname>
+<fname>Bernard</fname>
+<mname>C. Y.</mname>
+</author>
+<author>
+<lname>Wei</lname>
+<fname>Kwok-Kee</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Knowledge management</keyword>
+<keyword>electronic knowledge repositories</keyword>
+<keyword>knowledge contribution</keyword>
+<keyword>social exchange</keyword>
+<keyword>social capital</keyword>
+</keywords>
+<abstract>&lt;p&gt;Organizations are attempting to leverage their knowledge resources by employing knowledge management (KM) systems, a key form of which are electronic knowledge repositories (EKRs). A large number of KM initiatives fail due to reluctance of employees to share knowledge through these systems. Motivated by such concerns, this study formulates and tests a theoretical model to explain EKR usage by knowledge contributors. The model employs social exchange theory to identify cost and benefit factors affecting EKR usage, and social capital theory to account for the moderating influence of contextual factors. The model is validated through a large-scale survey of public sector organizations. The results reveal that knowledge self-efficacy and enjoyment in helping others significantly impact EKR usage by knowledge contributors. Contextual factors (generalized trust, pro-sharing norms, and identification) moderate the impact of codification effort, reciprocity, and organizational reward on EKR usage, respectively. It can be seen that extrinsic benefits (reciprocity and organizational reward) impact EKR usage contingent on particular contextual factors whereas the effects of intrinsic benefits (knowledge self-efficacy and enjoyment in helping others) on EKR usage are not moderated by contextual factors. The loss of knowledge power and image do not appear to impact EKR usage by knowledge contributors. Besides contributing to theory building in KM, the results of this study inform KM practice.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss1/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2721&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2721</articleid>
+<submission-date>2008-12-15T06:31:44-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681749</context-key>
+<submission-path>misq/vol29/iss1/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

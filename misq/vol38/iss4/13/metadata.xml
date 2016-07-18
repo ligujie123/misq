@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Symbolic Action Research in Information Systems:  Introduction to the Special Issue</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>aakhus@rutgers.edu</email>
+<institution>Rutgers University</institution>
+<lname>Aakhus</lname>
+<fname>Mark</fname>
+</author>
+<author>
+<email>par.agerfalk@im.uu.se</email>
+<institution>Uppsala University, Sweden</institution>
+<lname>Ågerfalk</lname>
+<fname>Pär</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>kalle@case.edu</email>
+<institution>Case Western Reserve University</institution>
+<lname>Lyytinen</lname>
+<fname>Kalle</fname>
+</author>
+<author>
+<email>teeni@post.tau.ac.il</email>
+<institution>Tel Aviv University</institution>
+<lname>Te&#39;eni</lname>
+<fname>Dov</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Symbolic action</keyword>
+<keyword>information system</keyword>
+<keyword>semiotics</keyword>
+<keyword>speech act</keyword>
+<keyword>symbol action</keyword>
+<keyword>communication</keyword>
+<keyword>collaboration</keyword>
+<keyword>design</keyword>
+<keyword>research methods</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This special issue introduction explores the need to study information systems as symbolic action systems, defines broadly the research domain and related assumptions, notes the origins of this perspective, articulates its key lines of study, and discusses the state of the field in light of published research. The essay also positions the three papers of the special issue in the broader Information Systems (IS) discourse and notes their specific contribution in bridging so far unconnected streams of research and expanding research methods amenable to symbolic action research. This introductory essay furthermore observes some unique challenges in pulling together the special issue that invited the editors to combat against the tendency to approach communicative processes associated with information systems as primarily psychological processes. In closing we note several lines of inquiry that can strengthen future studies of symbolic action including better design theories, more flexible and open use of methods, and attentive use of rich traditions that inform symbolic action research in　IS.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1187</fpage>
+<lpage>1200</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3210&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3210</articleid>
+<submission-date>2014-11-07T08:22:38-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6337156</context-key>
+<submission-path>misq/vol38/iss4/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Foreword:  Symbolic Action Research in IS</value>
+</field>
+</fields>
+</document>
+</documents>

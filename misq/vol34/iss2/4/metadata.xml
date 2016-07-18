@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Systems Strategy:  Reconceptualization, Measurement, and Implications</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>d.chen@tcu.edu</email>
+<institution>Texas Christian University</institution>
+<lname>Chen</lname>
+<fname>Daniel</fname>
+</author>
+<author>
+<email>martin@mocker.nl</email>
+<institution>Reutlingen University</institution>
+<lname>Mocker</lname>
+<fname>Martin</fname>
+</author>
+<author>
+<email>d.preston@tcu.edu</email>
+<institution>Texas Christian University</institution>
+<lname>Preston</lname>
+<fname>David</fname>
+<mname>S.</mname>
+</author>
+<author>
+<email>alexander.teubner@ercis.de</email>
+<institution>European Research Center for Information Systems</institution>
+<lname>Teubner</lname>
+<fname>Alexander</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS strategy</keyword>
+<keyword>IS strategic alignment</keyword>
+<keyword>strategic IS planning</keyword>
+<keyword>competitive advantage</keyword>
+</keywords>
+<abstract>&lt;p&gt;Information systems strategy is of central importance to IS practice and research.  Our extensive review of the literature suggests that the concept of IS strategy is a term that is used readily; however, it is also a term that is not fully understood. In this study, we follow a perspective paradigm based on the strategic management literature to define IS strategy as an organizational perspective on the investment in, deployment, use, and management of IS.  Through a systematic literature search, we identify the following three conceptions of IS strategy employed implicitly in 48 articles published in leading IS journals that focus on the construct of IS strategy: (1) IS strategy as the use of IS to support business strategy; (2) IS strategy as the master plan of the IS function; and (3) IS strategy as the shared view of the IS role within the organization.  We find the third conception best fits our definition of IS strategy.  As such, we consequently propose to operationalize IS strategy as the degree to which the organization has a shared perspective to seek innovation through IS. Specifically, our proposed IS strategic typology suggests an organization’s IS strategy falls into one of the two defined categories (i.e., IS innovator or IS conservative) or is simply undefined.  We also develop measures for this new typology. We argue that the proposed instrument, which was cross-validated across both chief information officers and senior business executives, has the potential to serve as a diagnostic tool through which the organization can directly assess its IS strategy.  We contend that our reconceptualization and operationalization of IS strategy provides theoretical and practical implications that advance the current level of understanding of IS strategy from extant studies within three predominant literature streams: strategic IS planning, IS/business strategic alignment, and competitive use of IS.&lt;/p&gt;</abstract>
+<fpage>233</fpage>
+<lpage>259</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2904&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2904</articleid>
+<submission-date>2010-06-23T13:29:59-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369953</context-key>
+<submission-path>misq/vol34/iss2/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Information Systems Strategy</value>
+</field>
+</fields>
+</document>
+</documents>

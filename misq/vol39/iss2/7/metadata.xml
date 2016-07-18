@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Coping with Information Technology:  Mixed Emotions, Vacillation, and Nonconforming Use Patterns</title>
+<publication-date>2015-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>mst.itm@cbs.dk</email>
+<institution>Copenhagen Business School</institution>
+<lname>Stein</lname>
+<fname>Mari-Klara</fname>
+</author>
+<author>
+<email>sue.newell@sussex.ac.uk</email>
+<institution>Sussex University</institution>
+<lname>Newell</lname>
+<fname>Sue</fname>
+</author>
+<author>
+<email>elwagner@pdx.edu</email>
+<institution>Portland State University</institution>
+<lname>Wagner</lname>
+<fname>Erica</fname>
+<mname>L</mname>
+</author>
+<author>
+<email>rgalliers@bentley.edu</email>
+<institution>Bentley University</institution>
+<lname>Galliers</lname>
+<fname>Robert</fname>
+<mname>D</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Emotions</keyword>
+<keyword>IT use patterns</keyword>
+<keyword>adaptation behaviors</keyword>
+<keyword>ambivalence</keyword>
+<keyword>qualitative research</keyword>
+</keywords>
+<abstract>&lt;p&gt;Achieving the promised business benefits of an IT system is intimately tied to the continued incorporation of the system into the work practices it is intended to support. While much is known about different social, cognitive, and technical factors that influence initial adoption and use, less is known about the role of emotional factors in users’ behaviors. Through an in-depth field study conducted in two North American universities, we examine the role of emotions in how specific IT use patterns emerge. We find that there are five different characteristics of an IT stimulus event (cues) that, when interacting in a reinforcing manner, elicit a single class of emotions (uniform affective responses) and, when interacting in an oppositional manner, elicit mixed emotions (ambivalent affective responses). While users respond to uniform emotions with clear adaptation strategies, they deal with ambivalent emotions by combining different adaptation behaviors, a vacillating strategy between emphasizing positive and negative aspects of the stimulus. Surprisingly, these ambivalent emotions and vacillating strategies can lead to active and positive user engagement, exhibited in task and tool adaptation behaviors and improvisational use patterns that, despite their nonconformity to terms of use, can have positive organizational implications.&lt;/p&gt;</abstract>
+<fpage>367</fpage>
+<lpage>392</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3237&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3237</articleid>
+<submission-date>2015-04-30T08:09:49-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7050059</context-key>
+<submission-path>misq/vol39/iss2/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-04-30T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Coping with Information Technology</value>
+</field>
+</fields>
+</document>
+</documents>

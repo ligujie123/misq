@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Toward Ethical Information Systems:  The Contribution of Discourse Ethics</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jmingers@kent.ac.uk</email>
+<institution>University of Kent</institution>
+<lname>Mingers</lname>
+<fname>John</fname>
+</author>
+<author>
+<email>g.walsham@jbs.cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Walsham</lname>
+<fname>Geoff</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Ethics and IS</keyword>
+<keyword>ethical theories</keyword>
+<keyword>Habermas</keyword>
+<keyword>discourse ethics</keyword>
+<keyword>deliberative democracy</keyword>
+<keyword>soft systems methodology</keyword>
+</keywords>
+<abstract>&lt;p&gt;Ethics is important in the Information Systems field as illustrated by the direct effect of the Sarbanes-Oxley Act on the work of IS professionals.  There is a substantial literature on ethical issues surrounding computing and information technology in the contemporary world, but much of this work is not published nor widely cited in the mainstream IS literature.  The purpose of this paper is to offer one contribution to an increased emphasis on ethics in the IS field.  The distinctive contribution is a focus on Habermas’s discourse ethics.  After outlining some traditional theories of ethics and morality, the literature on IS and ethics is reviewed, and then the paper details the development of discourse ethics.  Discourse ethics is different from other approaches to ethics as it is grounded in actual debates between those affected by decisions and proposals.  Recognizing that the theory could be considered rather abstract, the paper discusses the need to pragmatize discourse ethics for the IS field through, for example, the use of existing techniques such as soft systems methodology.  In addition, the practical potential of the theory is illustrated through a discussion of its application to specific IS topic areas including Web 2.0, open source software, the digital divide, and the UK biometric identity card scheme.  The final section summarizes ways in which the paper could be used in IS research, teaching, and practice.&lt;/p&gt;</abstract>
+<fpage>833</fpage>
+<lpage>854</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/12</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2936&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>12</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2936</articleid>
+<submission-date>2010-11-29T15:01:12-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664607</context-key>
+<submission-path>misq/vol34/iss4/12</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Toward Ethical Informaiton Systems</value>
+</field>
+</fields>
+</document>
+</documents>

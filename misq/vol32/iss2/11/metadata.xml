@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>&quot;Outsourcing to an Unknown Workforce:  Exploring Opensourcing as a Global Sourcing Strategy</title>
+<publication-date>2008-10-27T14:09:41-07:00</publication-date>
+<authors>
+<author>
+<email>par.agerfalk@dis.uu.se</email>
+<institution>Uppsala University</institution>
+<lname>Agerfalk</lname>
+<fname>Par</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>bf@ul.ie</email>
+<institution>University of Limerick</institution>
+<lname>Fitzgerald</lname>
+<fname>Brian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Open source</keyword>
+<keyword>opensourcing</keyword>
+<keyword>offshoring</keyword>
+<keyword>outsourcing</keyword>
+<keyword>global software development</keyword>
+<keyword>crowdsourcing</keyword>
+<keyword>multimethod research</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper presents a psychological contract perspective on the use of the open source development model as a global sourcing strategy—opensourcing, as we term it here—whereby commercial companies and open source communities collaborate on development of software of commercial interest to the company.  Building on previous research on information systems outsourcing, a theoretical framework for exploring the opensourcing phenomenon is derived.  The first phase of the research concerned qualitative case studies involving three commercial organizations (IONA Technologies, Philips Medical Systems, and Telefonica) that had “liberated” what had hitherto been proprietary software and sought to grow a global open source community around their product.  We followed this with a large-scale survey involving additional exemplars of the phenomenon.  The study identifies a number of symmetrical and complementary customer and community obligations that are associated with opensourcing success.  We also identify a number of tension points on which customer and community perceptions tend to vary.  Overall the key watchwords for opensourcing are openness, trust, tact, professionalism, transparency, and complementariness:  The customer and community need to establish a trusted partnership of shared responsibility in building an overall opensourcing ecosystem.  The study reveals an ongoing shift from OSS as a community of individual developers to OSS as a community of commercial organizations, primarily small to medium-sized enterprises.  It also reveals that opensourcing provides ample opportunity for companies to headhunt top developers, hence moving from outsourcing to a largely unknown OSS workforce toward recruitment of developers from a global open source community whose talents have become known as a result of the opensourcing experience.&lt;/p&gt;</abstract>
+<fpage>385</fpage>
+<lpage>409</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss2/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2538&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2538</articleid>
+<submission-date>2008-10-27T13:04:10-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>656624</context-key>
+<submission-path>misq/vol32/iss2/11</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Agerfalk, P. J., and Fitzgerald, B.  2008.  “Outsourcing to an Unknown Workforce:  Exploring Opensourcing as a Global Sourcing Strategy,” MIS Quarterly (32:2), pp. 385-409.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

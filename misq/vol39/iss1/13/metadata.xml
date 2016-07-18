@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Distributed Tuning of Boundary Resources:  The Case of Apple&#39;s iOS Service System</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>be.itm@cbs.dk</email>
+<institution>Copenhagen Business School</institution>
+<lname>Eaton</lname>
+<fname>Ben</fname>
+</author>
+<author>
+<email>S.M.Elaluf-Calderwood@lse.ac.uk</email>
+<institution>London School of Economics and Political Science</institution>
+<lname>Elaluf-Calderwood</lname>
+<fname>Silvia</fname>
+</author>
+<author>
+<email>c.sorensen@lse.ac.uk</email>
+<institution>London School of Economics and Political Science</institution>
+<lname>Sorensen</lname>
+<fname>Carsten</fname>
+</author>
+<author>
+<email>youngjin.yoo@temple.edu</email>
+<lname>Yoo</lname>
+<fname>Youngjin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Service system innovation</keyword>
+<keyword>mobile platform</keyword>
+<keyword>ecosystem</keyword>
+<keyword>digital infrastructure</keyword>
+<keyword>boundary resource dynamics</keyword>
+<keyword>tuning</keyword>
+<keyword>sociomateriality</keyword>
+<keyword>iOS</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The digital age has seen the rise of service systems involving highly distributed, heterogeneous, and resource-integrating actors whose relationships are governed by shared institutional logics, standards, and digital technology. The cocreation of service within these service systems takes place in the context of a paradoxical tension between the logic of generative and democratic innovations and the logic of infrastructural control. Boundary resources play a critical role in managing the tension as a firm that owns the infrastructure can secure its control over the service system while independent firms can participate in the service system. In this study, we explore the evolution of boundary resources. Drawing on Pickering’s (1993) and Barrett et al.’s (2012) conceptualizations of tuning, the paper seeks to forward our understanding of how heterogeneous actors engage in the tuning of boundary resources within Apple’s iOS service system. We conduct an embedded case study of Apple’s iOS service system with an in-depth analysis of 4,664 blog articles concerned with 30 boundary resources covering 6 distinct themes. Our analysis reveals that boundary resources of service systems enabled by digital technology are shaped and reshaped through distributed tuning, which involves cascading actions of accommodations and rejections of a network of heterogeneous actors and artifacts. Our study also shows the dualistic role of power in the distributed tuning process.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>217</fpage>
+<lpage>243</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3229&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3229</articleid>
+<submission-date>2015-03-02T12:13:08-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6759459</context-key>
+<submission-path>misq/vol39/iss1/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Distributed Tuning of Boundary Resources</value>
+</field>
+</fields>
+</document>
+</documents>

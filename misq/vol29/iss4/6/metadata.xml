@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of Virtual Reality on Consumer Learning:  An Empirical Investigation</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Suh</lname>
+<fname>Kil-Soo</fname>
+</author>
+<author>
+<lname>Lee</lname>
+<fname>Young</fname>
+<mname>Eun</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Virtual reality</keyword>
+<keyword>consumer learning</keyword>
+<keyword>interface design in e-commerce</keyword>
+<keyword>cognitive fit</keyword>
+</keywords>
+<abstract>&lt;p&gt;As competition in business-to-consumer electronic commerce becomes fiercer, Web-based stores are attempting to attract consumers’ attention by exploiting state-of-the-art technologies. Virtual reality (VR) on the Internet has recently been gaining prominence because it enables consumers to experience products realistically over the Internet, thereby mitigating the problems associated with consumers’ lack of physical contact with products. However, while the employment of  has increased in B2C e-commerce, its impact has not been explored extensively by research in the Information Systems field.  The present study investigates whether and under what circumstances  enhances consumer learning about products. In general,  enables consumers to learn about products thoroughly by providing high-quality, three-dimensional images of products, interactivity with the products, and increased telepresence. In addition, congruent with the theory of cognitive fit, the effects of  are more pronounced when it exhibits products whose salient attributes are completely apparent through visual and auditory cues (because most VR on desktop computers uses only those two sensory modalities to deliver information). Based on these attributes, we distinguish between two types of products—virtually high experiential (VHE) and virtually low experiential (VLE)—in terms of the sensory modalities that are used and required for product inspection. Hypotheses arising from the distinctions expressed by these terms were tested via a laboratory experiment. The results support the predictions that VR interfaces increase overall consumer learning about products and that these effects extend to VHE products more significantly than to VLE products.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss4/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2742&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2742</articleid>
+<submission-date>2008-12-15T10:29:12-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681985</context-key>
+<submission-path>misq/vol29/iss4/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Effective Design and Use of Computer Decision Models</title>
+<publication-date>1984-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Fuerst</lname>
+<fname>William</fname>
+</author>
+<author>
+<lname>Martin</lname>
+<fname>Merle</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol8/iss1/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1919&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1919</articleid>
+<submission-date>2008-08-18T09:10:44-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583514</context-key>
+<submission-path>misq/vol8/iss1/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1984-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

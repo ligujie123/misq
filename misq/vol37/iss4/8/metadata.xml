@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Changes in Employees&#39; Job Characteristics During an Enterprise System Implementation:  A Latent Growth Modeling Perspective</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>hbala@indiana.edu</email>
+<institution>Indiana University</institution>
+<lname>Bala</lname>
+<fname>Hillol</fname>
+</author>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Enterprise systems</keyword>
+<keyword>business process</keyword>
+<keyword>work process</keyword>
+<keyword>job characteristics</keyword>
+<keyword>job demands</keyword>
+<keyword>job control</keyword>
+<keyword>job satisfaction</keyword>
+<keyword>latent growth modeling</keyword>
+<keyword>process characteristics</keyword>
+<keyword>technology characteristics</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Enterprise system implementations often create tension in organizations.  On the one hand, these systems can provide significant operational and strategic benefits.  On the other hand, implementation of these systems is risky and a source of major disruptions.  In particular, employees experience significant changes in their work environment during an implementation.  Although the relationship between ES implementations and employees’ jobs has been noted in prior research, there is limited research on the nature, extent, determinants, and outcomes of &lt;strong&gt;changes&lt;/strong&gt; in employees’ job characteristics following an ES implementation.  This paper develops and tests a model, termed the &lt;strong&gt;job characteristics change model&lt;/strong&gt; (JCCM), that posits that employees will experience substantial changes in two job characteristics (i.e., &lt;strong&gt;job demands&lt;/strong&gt; and &lt;strong&gt;job control&lt;/strong&gt;) during the shakedown phase (i.e., immediately after the rollout) of an ES implementation.  These changes are theorized to be predicted by work process characteristics, namely &lt;strong&gt;perceived process complexity&lt;/strong&gt;, &lt;strong&gt;perceived process rigidity&lt;/strong&gt;, and &lt;strong&gt;perceived process radicalness&lt;/strong&gt;, that in turn will be influenced by technology characteristics (i.e., &lt;strong&gt;perceived technology complexity&lt;/strong&gt;, &lt;strong&gt;perceived technology reconfigurability&lt;/strong&gt;, and &lt;strong&gt;perceived technology customization&lt;/strong&gt;).  JCCM further posits that changes in job characteristics will influence employees’ &lt;strong&gt;job satisfaction&lt;/strong&gt;.  Longitudinal field studies conducted in two organizations (N = 281 and 141 respectively) provided support for the model.  The scientific and practical implications of the findings are discussed.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1113</fpage>
+<lpage>1140</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3131&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3131</articleid>
+<submission-date>2013-12-02T08:56:10-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864542</context-key>
+<submission-path>misq/vol37/iss4/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Changes in Employee Job Characteristics During ES Implementation</value>
+</field>
+</fields>
+</document>
+</documents>

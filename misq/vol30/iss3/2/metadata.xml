@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Audio MP3</title>
+<publication-date>2006-09-01T00:00:00-07:00</publication-date>
+<authors>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss3/2</coverpage-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2847</articleid>
+<submission-date>2009-04-24T06:53:05-07:00</submission-date>
+<native-url>http://aisel.aisnet.org/context/misq/article/2847/type/native/viewcontent</native-url>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>831632</context-key>
+<submission-path>misq/vol30/iss3/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

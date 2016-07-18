@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>ANALYZING THE PAST TO PREPARE FOR THE FUTURE: WRITING A LITERATURE REVIEW</title>
+<publication-date>2002-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>jwebster@business.queensu.ca</email>
+<institution>Queen’s School of Business, Queen’s University</institution>
+<lname>Webster</lname>
+<fname>Jane</fname>
+</author>
+<author>
+<email>rwatson@terry.uga.edu</email>
+<institution>Terry College of Business, The University of Georgia</institution>
+<lname>Watson</lname>
+<fname>Richard</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2625&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2625</articleid>
+<submission-date>2008-12-09T11:32:06-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678720</context-key>
+<submission-path>misq/vol26/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

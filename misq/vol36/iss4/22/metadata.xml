@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Hidden Markov Model for Collaborative Filtering</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>nachi@bu.edu</email>
+<institution>Boston University</institution>
+<lname>Sahoo</lname>
+<fname>Nachiketa</fname>
+</author>
+<author>
+<email>psidhu@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>singh</lname>
+<fname>param vir</fname>
+</author>
+<author>
+<email>tridas@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Mukhopadhyay</lname>
+<fname>Tridas</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Recommender systems</keyword>
+<keyword>collaborative filtering</keyword>
+<keyword>changing preference</keyword>
+<keyword>dynamic models</keyword>
+<keyword>latent class model</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, we present a method to make personalized recommendations when user preferences change over time.  Most of the works in the recommender systems literature have been developed under the assumption that user preference has a static pattern.  However, this is a strong assumption especially when the user is observed over a long period of time.  With the help of a data set on employees’ blog reading behavior, we show that users’ product selection behaviors change over time.  We propose a hidden Markov model to correctly interpret the users’ product selection behaviors and make personalized recommendations.  The user preference is modeled as a hidden Markov sequence.  A variable number of product selections of different types by each user in each time period requires a novel observation model.  We propose a negative binomial mixture of multinomial to model such observations.  This allows us to identify stable global preferences of users and to track individual users through these preferences.  We evaluate our model using three real-world data sets with different characteristics.  They include data on employee blog reading behavior inside a firm, users’ movie rating behavior at Netflix, and users’ music listening behavior collected through last.fm.  We compare the recommendation performance of the proposed model with that of a number of collaborative filtering algorithms and a recently proposed temporal link prediction algorithm.  We find that the proposed HMM-based collaborative filter performs as well as the best among the alternative algorithms when the data is sparse or static.  However, it outperforms the existing algorithms when the data is less sparse and the user preference is changing.  We further examine the performances of the algorithms using simulated data with different characteristics and highlight the scenarios where it is beneficial to use a dynamic model to generate product recommendation.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1329</fpage>
+<lpage>1356</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss4/22</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3080&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>22</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3080</articleid>
+<submission-date>2012-12-07T10:58:50-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3521166</context-key>
+<submission-path>misq/vol36/iss4/22</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-12-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Hidden Markov Model for Collaborative Filtering</value>
+</field>
+</fields>
+</document>
+</documents>

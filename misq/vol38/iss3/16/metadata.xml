@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Trichordal Temporal Approach to Digital Coordination:  The Sociomaterial Mangling of the CERN Grid</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>W.VENTERS@LSE.AC.UK</email>
+<institution>London School of Economics and Political Science</institution>
+<lname>Venters</lname>
+<fname>William</fname>
+</author>
+<author>
+<email>eivor.oborn@wbs.ac.uk</email>
+<institution>Warwick University</institution>
+<lname>Oborn</lname>
+<fname>Eivor</fname>
+</author>
+<author>
+<email>m.barrett@bs.cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Barrett</lname>
+<fname>Michael</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Grid computing</keyword>
+<keyword>coordination</keyword>
+<keyword>development</keyword>
+<keyword>case study</keyword>
+<keyword>mangle of practice</keyword>
+<keyword>temporality</keyword>
+<keyword>digital infrastructure</keyword>
+<keyword>transparency</keyword>
+<keyword>sustainable change</keyword>
+<keyword>performativity</keyword>
+<keyword>sociomaterial</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This paper develops a sociomaterial perspective on digital coordination. It extends Pickering’s mangle of practice by using a trichordal approach to temporal emergence. We provide new understanding as to how the nonhuman and human agencies involved in coordination are embedded in the past, present, and future. We draw on an in-depth field study conducted between 2006 and 2010 of the development, introduction, and use of a computing grid infrastructure by the CERN particle physics community. Three coordination tensions are identified at different temporal dimensions, namelyobtaining adequate transparency in the present, modeling a future infrastructure, and the historical disciplining of social and material inertias. We propose and develop the concept of digital coordination, and contribute a trichordal temporal approach to understanding the development and use of digital infrastructure as being orientated to the past and future while emerging in the present.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;This is an open access article and may be downloaded free of charge from the &quot;Online Supplements&quot; section of the &lt;em&gt;MIS Quarterly&lt;/em&gt; website (&lt;a href=&quot;http://misq.org&quot;&gt;http://misq.org&lt;/a&gt;).&lt;/p&gt;</abstract>
+<fpage>927</fpage>
+<lpage>949</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/16</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3199&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3199</articleid>
+<submission-date>2014-07-31T12:46:56-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854763</context-key>
+<submission-path>misq/vol38/iss3/16</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Trichordal Temporal Approach to Digital Coordination</value>
+</field>
+</fields>
+</document>
+</documents>

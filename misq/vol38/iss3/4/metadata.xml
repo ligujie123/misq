@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Differential Effects of Prior Experience on the Malware Resolution Process</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>seungkim@yonsei.ac.kr</email>
+<institution>Yonsei University and National University of Singapore</institution>
+<lname>Kim</lname>
+<fname>Seung Hyun</fname>
+</author>
+<author>
+<email>bkim@korea.ac.kr</email>
+<institution>Korea University</institution>
+<lname>Kim</lname>
+<fname>Byung Cho</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information security</keyword>
+<keyword>economics of information systems</keyword>
+<keyword>learning curve</keyword>
+<keyword>antivirus software</keyword>
+<keyword>malware</keyword>
+<keyword>targeted attack</keyword>
+<keyword>information sharing</keyword>
+<keyword>catastrophe</keyword>
+<keyword>knowledge retention</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Despite growing interest in the economic and policy aspects of information security, little academic research has used field data to examine the development process of a security countermeasure provider. In this paper, we empirically examine the learning process a security software developer undergoes in resolving a malware problem. Using the data collected from a leading antivirus software company in Asia, we study the differential effects of experience on the malware resolution process. Our findings reveal that general knowledge from cross-family experience has greater impact than specific knowledge from within-family experience on performance in the malware resolution process. We also examine the factors that drive the differential effects of prior experience. Interestingly, our data show that cross-family experience is more effective than within-family experience in malware resolution when malware targets the general public than when a specific victim is targeted. Similar results—for example, the higher (lower) effect of cross-family (within-family) experience— were observed in the presence of information sharing among software vendors or during a disruption caused by a catastrophe. Our study contributes to a better understanding of the specific expertise required for security countermeasure providers to be able to respond under varying conditions to fast-evolving malware&lt;/em&gt;.&lt;/p&gt;</abstract>
+<fpage>656</fpage>
+<lpage>678</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3187&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3187</articleid>
+<submission-date>2014-07-31T11:51:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854418</context-key>
+<submission-path>misq/vol38/iss3/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Differential Effects of Prior Experience on the Malware Resolution Process</value>
+</field>
+</fields>
+</document>
+</documents>

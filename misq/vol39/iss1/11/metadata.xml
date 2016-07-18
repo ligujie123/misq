@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Value of Self-Service:  Long-Term Effects of Technology-Based Self-Service Usage on Customer Retention</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ascherer@ethz.ch</email>
+<institution>ETH Zürich</institution>
+<lname>Scherer</lname>
+<fname>Anne</fname>
+</author>
+<author>
+<email>Nancy.Wuenderlich@wiwi.uni-paderborn.de</email>
+<institution>University of Paderborn</institution>
+<lname>Wünderlich</lname>
+<fname>Nancy</fname>
+<mname>V.</mname>
+</author>
+<author>
+<email>fwangenheim@ethz.ch</email>
+<institution>ETH Zürich</institution>
+<lname>von Wangenheim</lname>
+<fname>Florian</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Self-service</keyword>
+<keyword>e-service</keyword>
+<keyword>value-in-context</keyword>
+<keyword>customer retention</keyword>
+<keyword>customer defection</keyword>
+<keyword>longitudinal</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Advancements in information technology have changed the way customers experience a service encounter and their relationship with service providers. Especially technology-based self-service channels have found their way into the 21&lt;sup&gt;st&lt;/sup&gt; century service economy. While research embraces these channels for their cost-efficiency, it has not examined whether a shift from personal to self-service affects customer–firm relationships. Drawing from the service-dominant logic and its central concept of value-in-context, we discuss customers’ value creation in self-service and personal service channels and examine the long-term impact of these channels on customer retention. Using longitudinal customer data, we investigate how the ratio of self-service versus personal service use influences customer defection over time. Our findings suggest that the ratio of self-service to personal service used affects customer defection in a U-shaped manner, with intermediate levels of both self-service and personal service use being associated with the lowest likelihood of defection. We also find that this effect mitigates over time. We conclude that firms should not shift customers toward self-service channels completely, especially not at the beginning of a relationship. Our study underlines the importance of understanding when and how self-service technologies create valuable customer experiences and stresses the notion of actively managing customers’ cocreation of value.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>177</fpage>
+<lpage>200</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3227&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3227</articleid>
+<submission-date>2015-03-02T12:05:55-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6759288</context-key>
+<submission-path>misq/vol39/iss1/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Value of Self-Service</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding Network Effects in Software Markets: Evidence from Web Server Pricing</title>
+<publication-date>2002-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Gallaugher</lname>
+<fname>John</fname>
+<mname>M.</mname>
+</author>
+<author>
+<lname>Wang</lname>
+<fname>Yu-Ming</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Hedonic pricing</keyword>
+<keyword>network effects</keyword>
+<keyword>network externalities</keyword>
+<keyword>composite goods</keyword>
+<keyword>two-sided markets</keyword>
+<keyword>open standards</keyword>
+<keyword>mindshare</keyword>
+<keyword>trialability</keyword>
+<keyword>World Wide Web server market</keyword>
+</keywords>
+<abstract>&lt;p&gt;Prior theoretical research has established that many software products are subject to network effects and exhibit the characteristics of two-sided markets.  However, despite the importance of the software industry to the world economy, few studies have attempted to empirically examine these characteristics, or several others which theory suggests impact software price.  This study develops and tests a research-grounded model of two-sided software markets that accounts for several key factors influencing software pricing, including network externalities, cross-market complementarities, standards, mindshare, and trialability.  Applying the model to the context of the market for Web server software, several key findings are offered.  First, a positive market share to price relationship is identified, offering support for the network externalities hypothesis even though the market examined is based on open standards.  Second, the results suggest that the market under study behaves as a two-sided market in that firms able to capture market share for one product enjoy benefits in terms of both market share and price for the complement.  Third, the positive price benefits of securing consumer mindshare, of supporting dominant standards, and from offering a trial product are demonstrated.  Last, a negative price shock is also identified in the period after a well-known, free-pricing rival has entered the market.  Nonetheless, network effects continued to remain significant during the period.  These findings enhance our understanding of software markets, offer new techniques for examining such markets, and suggest the wisdom of allocating resources to develop advantages in the factors studied.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2635&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2635</articleid>
+<submission-date>2008-12-11T06:45:48-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680121</context-key>
+<submission-path>misq/vol26/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Multilevel Model for Measuring Fit Between a Firm’s Competitive Strategies and Information Systems Capabilities</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>tmclaren@ryerson.ca</email>
+<institution>Ryerson University</institution>
+<lname>McLaren</lname>
+<fname>Tim</fname>
+<mname>S</mname>
+</author>
+<author>
+<email>headm@mcmaster.ca</email>
+<institution>McMaster University</institution>
+<lname>Head</lname>
+<fname>Milena</fname>
+</author>
+<author>
+<email>yuanyuf@mcmaster.ca</email>
+<institution>McMaster University</institution>
+<lname>Yuan</lname>
+<fname>Yufei</fname>
+</author>
+<author>
+<email>ychan@business.queensu.ca</email>
+<institution>Queen&#39;s University - Kingston, Ontario</institution>
+<lname>Chan</lname>
+<fname>Yolande</fname>
+<mname>E</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Article</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Strategic alignment</keyword>
+<keyword>information systems capabilities</keyword>
+<keyword>configurational theory</keyword>
+<keyword>strategic archetypes</keyword>
+<keyword>design science</keyword>
+<keyword>research methods</keyword>
+</keywords>
+<abstract>&lt;p&gt;To compete in a highly dynamic marketplace, firms must frequently adapt and align their competitive strategies and information systems. The dominant literature on the strategic fit of a firm’s information systems focuses primarily on high-level measures of the strategic fit of a firm’s overall IS portfolio and the impact of fit on business performance. This paper addresses the need for a more fine-grained approach for assessing the specific areas of misfit between a firm’s competitive strategies and IS capabilities. We describe the design and evaluation of a multilevel strategic fit (MSF) measurement model that enables researchers and practitioners to measure the strategic fit of a firm’s information systems at both an overall and a detailed level. The steps in the model include identifying the relevant IS capabilities according to the type of system; measuring the current level of support for each capability using a capabilities instrument; identifying the ideal level of support for each capability using an adaptation of Conant et al.’s (1990) instrument to assess strategic archetype; and comparing the ideal and realized level of support for each capability. Evidence from a multiple case study analysis indicates that the fine-grained assessment of strategic fit can strengthen the validity, utility, and ease of corroboration of the strategic fit measurement outputs. The paper also demonstrates how an iterative design science research approach, with its emphasis on evaluating the utility of prototype artifacts, is well suited to developing field-tested and theoretically grounded measurement models and instruments that are accessible to practitioners. This focus on practical utility in turn provides researchers with results that can be more readily corroborated, thus improving the quality and usefulness of the research findings.&lt;/p&gt;</abstract>
+<fpage>909</fpage>
+<lpage>929</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss4/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2988&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2988</articleid>
+<submission-date>2011-12-01T09:23:31-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2382432</context-key>
+<submission-path>misq/vol35/iss4/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Measuring Fit Between Competitive Strategies and IS Capabilities</value>
+</field>
+</fields>
+</document>
+</documents>

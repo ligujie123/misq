@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Creation of Social Value:  Can an Online Health Community Reduce Rural-Urban Health Disparities?</title>
+<publication-date>2016-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jmgoh@sfu.ca</email>
+<institution>Simon Fraser University</institution>
+<lname>Goh</lname>
+<fname>Jie Mein</fname>
+</author>
+<author>
+<email>ggao@rhsmith.umd.edu</email>
+<institution>University of Maryland - College Park</institution>
+<lname>Gao</lname>
+<fname>Guodong</fname>
+<mname>(Gordon)</mname>
+</author>
+<author>
+<email>ragarwal@rhsmith.umd.edu</email>
+<institution>University of Maryland</institution>
+<lname>Agarwal</lname>
+<fname>Ritu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Healthcare</keyword>
+<keyword>online communities</keyword>
+<keyword>social value</keyword>
+<keyword>disparities</keyword>
+<keyword>social network</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The striking growth of online communities in recent years has sparked significant interest in understanding and quantifying benefits of participation. While research has begun to document the economic outcomes associated with online communities, quantifying the social value created in these collectives has been largely overlooked. This study proposes that online health communities create social value by addressing rural–urban health disparities via improved health capabilities. Using a unique data set from a rare disease community, we provide one of the first empirical studies of social value creation. Our quantitative analysis using exponential random graph models reveals patterns of social support exchanged between users and the variations in these patterns based on users’ location. We find that, overall, urban users are net suppliers of social support while rural participants are net recipients, suggesting that technology-mediated online health communities are able to alleviate rural–urban health disparities. This study advances extant understanding of value production in online collectives, and yields implications for policy. &lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>247</fpage>
+<lpage>263</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol40/iss1/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3281&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3281</articleid>
+<submission-date>2016-02-29T08:26:26-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>8235621</context-key>
+<submission-path>misq/vol40/iss1/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2016-02-29T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2016-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>/Creation of Social Value with Online Health Communities</value>
+</field>
+</fields>
+</document>
+</documents>

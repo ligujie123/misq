@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Insider Threats in a Financial Institution:  Analysis of Attack-Proneness of Information Systems Applications</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jwang@uta.edu</email>
+<institution>University of Texas at Arlington</institution>
+<lname>Wang</lname>
+<fname>Jingguo</fname>
+</author>
+<author>
+<email>mgupta3@buffalo.edu</email>
+<institution>SUNY Buffalo</institution>
+<lname>Gupta</lname>
+<fname>Manish</fname>
+</author>
+<author>
+<email>mgmtrao@buffalo.edu</email>
+<lname>Rao</lname>
+<fname>H.</fname>
+<mname>Raghav</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information security</keyword>
+<keyword>insider threats</keyword>
+<keyword>routine activity theory</keyword>
+<keyword>information systems applications</keyword>
+<keyword>MCMC</keyword>
+<keyword>risk quantification</keyword>
+<keyword>dark side of IS</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This study investigates the risk of insider threats associated with different applications within a financial institution. Extending routine activity theory (RAT) from criminology literature to information systems security, hypotheses regarding how application characteristics, namely value, inertia, visibility, accessibility, and guardians, cause applications to be exposed to insider threats are developed. Routine activity theory is synthesized with survival modeling, specifically a Weibull hazard model, and users’ system access behavior is investigated using seven months of field data from the institution. The inter-arrival times of two successive unauthorized access attempts on an application are employed as the measurement of risk. For a robustness check, the daily number of unauthorized attempts experienced by an application as an alternative measurement of risk are introduced and a zero-inflated Poisson-Gamma model is developed. The Markov chain Monte Carlo (MCMC) method is used for model estimations. The results of the study support the empirical application of routine activity theory in understanding insider threats, and provide a picture of how different applications have different levels of exposure to such threats. Theoretical and practical implications for risk management regarding insider threats are discussed. This study is among the first that uses behavioral logs to investigate victimization risk and attack proneness associated with information assets.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>91</fpage>
+<lpage>112</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3223&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3223</articleid>
+<submission-date>2015-03-02T11:52:46-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6759067</context-key>
+<submission-path>misq/vol39/iss1/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Insider Threats in a Financial Institution</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Centrality–IS Proficiency Alignment and Workgroup Performance</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>gerald.kane@bc.edu</email>
+<institution>Boson College</institution>
+<lname>Kane</lname>
+<fname>Gerald</fname>
+<mname>C</mname>
+</author>
+<author>
+<email>sborgatti@uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Borgatti</lname>
+<fname>Steve</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Note</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Social network analysis</keyword>
+<keyword>IS proficiency</keyword>
+<keyword>centrality</keyword>
+<keyword>multimodal networks</keyword>
+<keyword>healthcare delivery</keyword>
+<keyword>performance</keyword>
+<keyword>collective use</keyword>
+<keyword>multilevel analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Virtually all of the extensive previous research investigating the effect of information systems proficiency on performance has been conducted at the individual level. Little research has investigated the relationship between IS proficiency and performance at the group level. In this paper, we argue that IS proficiency at the group level may be more than the simple sum or average of the IS proficiency of individual group members. Rather, effective group-level IS proficiency may also be a function of how a group’s IS proficiency is distributed across its members. Relying on concepts associated with social network analysis (SNA), we introduce the concept of centrality–IS proficiency alignment. We argue that groups will perform better if their more proficient members are highly central in the group’s communication and workflows network. Data from 468 employees in 32 workgroups show that centrality–IS proficiency alignment is significantly and positively related to performance across multiple systems examined individually and with the portfolio of systems examined as a whole. This approach effectively integrates the structural and resource perspectives of SNA, providing a roadmap so that others may follow a similar approach to address broader questions of group-level user–system interactions in the IS literature and more general questions of central resource alignment in the broader organizational literature.&lt;/p&gt;</abstract>
+<fpage>1063</fpage>
+<lpage>1078</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss4/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2995&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2995</articleid>
+<submission-date>2011-12-01T09:52:34-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2382516</context-key>
+<submission-path>misq/vol35/iss4/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Centrality–IS Proficiency Alignment</value>
+</field>
+</fields>
+</document>
+</documents>

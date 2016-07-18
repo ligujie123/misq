@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Insiders&#39; Protection of Organizational Information Assets:  Development of a Systematics-Based Taxonomy and Theory of Diversity for Protection-Motivated Behaviors</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>cposey@cba.ua.edu</email>
+<institution>University of Alabama, Tuscaloosa</institution>
+<lname>Posey</lname>
+<fname>Clay</fname>
+</author>
+<author>
+<email>troberts@LaTech.edu</email>
+<institution>Louisiana Tech University</institution>
+<lname>Roberts</lname>
+<fname>Tom</fname>
+<mname>L</mname>
+</author>
+<author>
+<email>paul.lowry.phd@gmail.com</email>
+<institution>City University of Hong Kong</institution>
+<lname>Lowry</lname>
+<fname>Paul</fname>
+<mname>Benjamin</mname>
+</author>
+<author>
+<email>rbennett@latech.edu</email>
+<institution>Louisiana Tech University</institution>
+<lname>Bennett</lname>
+<fname>Rebecca</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>courtney@latech.edu</email>
+<institution>Louisiana Tech University</institution>
+<lname>Courtney</lname>
+<fname>James</fname>
+<mname>F.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Protection-motivated behaviors</keyword>
+<keyword>behavioral information security</keyword>
+<keyword>systematics</keyword>
+<keyword>theory of diversity</keyword>
+<keyword>multidimensional scaling</keyword>
+<keyword>cluster analysis</keyword>
+<keyword>taxonomy</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Protecting information from a variety of security threats is a daunting organizational activity.  Organization managers must recognize the roles that organization insiders have in protecting information resources rather than solely relying upon technology to provide this protection.  Unfortunately, compared to negative insider behaviors, the extant literature provides sparse coverage of beneficial insider activities.  The few beneficial activities in the literature represent only a small portion of the diverse collection of insiders’ protective actions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This research focuses on &lt;strong&gt;protection-motivated behaviors&lt;/strong&gt; (PMBs), which are volitional behaviors enacted by organization insiders to protect (1)　organizationally relevant information and (2)　the computer-based information systems in which the information is stored, collected, disseminated, and/or manipulated from information security threats.  Based on systematics, we propose a six-step methodology of qualitative and quantitative approaches to develop a taxonomy and theory of diversity for PMBs.  These approaches integrate the classification techniques of multidimensional scaling (MDS), property fitting (ProFit), and cluster analyses.  We leverage these techniques to identify and display how insiders collectively classify 67 unique PMBs and their homogeneous classes.  Our taxonomy provides researchers and practitioners a comprehensive guide and common nomenclature for PMBs.  Our methodology can be similarly used to create other theories of diversity.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1189</fpage>
+<lpage>1210</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/11</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3138&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>11</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3138</articleid>
+<submission-date>2013-12-02T09:26:31-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864633</context-key>
+<submission-path>misq/vol37/iss4/11</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Protectoin of Organizational Information Assets</value>
+</field>
+</fields>
+</document>
+</documents>

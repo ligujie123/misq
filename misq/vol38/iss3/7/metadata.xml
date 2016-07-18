@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Expectation Confirmation in Information Systems Research:  A Test of Six Competing Models</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>suebrown@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Brown</lname>
+<fname>Sue</fname>
+</author>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+<author>
+<email>sandeep.goyal@louisville.edu</email>
+<institution>University of Louisville</institution>
+<lname>Goyal</lname>
+<fname>Sandeep</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Expectations</keyword>
+<keyword>disconfirmation</keyword>
+<keyword>software use</keyword>
+<keyword>polynomial modeling</keyword>
+<keyword>response surface analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Expectation confirmation research in general, and in information systems (IS) in particular, has produced conflicting results. In this paper, we discuss six different models of expectation confirmation: assimilation, contrast, generalized negativity, assimilation-contrast, experiences only, and expectations only. Relying on key constructs from the technology acceptance model (TAM), we test each of these six models that suggests different roles for expectations and experiences of the key predictor—here, perceived usefulness—and their impacts on key outcomes—here, behavioral intention, use, and satisfaction. Data were collected in a field study from 1,113 participants at two points in time. Using polynomial modeling and response surface analysis, we provide the analytical representations for each of the six models and empirically test them to demonstrate that the assimilation-contrast is the best existing model in terms of its ability to explain the relationships between expectations and experiences of perceived usefulness and important dependent variables—namely, behavioral intention, use, and satisfaction—in individual-level research on IS implementations.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>729</fpage>
+<lpage>756</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3190&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3190</articleid>
+<submission-date>2014-07-31T12:03:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854468</context-key>
+<submission-path>misq/vol38/iss3/7</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Expectation Confirmation in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

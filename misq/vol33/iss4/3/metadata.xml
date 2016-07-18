@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Fashion Waves in Information Systems Research and Practice</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>baskerville@acm.org</email>
+<institution>Georgia State University</institution>
+<lname>Baskerville</lname>
+<fname>Richard L.</fname>
+</author>
+<author>
+<email>m.myers@auckland.ac.nz</email>
+<institution>University of Auckland</institution>
+<lname>Myers</lname>
+<fname>Michael D.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Innovation</keyword>
+<keyword>adoption</keyword>
+<keyword>diffusion</keyword>
+<keyword>management fashion</keyword>
+<keyword>information systems fashion</keyword>
+<keyword>fashion setting</keyword>
+<keyword>research agenda</keyword>
+<keyword>information systems practice</keyword>
+</keywords>
+<abstract>&lt;p&gt;Building on neo-institutional theory and theories of innovation and diffusion, recent work in the field of management has suggested that management research and practice is characterized by fashions.  A management fashion is a relatively transitory belief that a certain management technique leads rational management progress.  Using bibliographic research, we apply Abrahamson’s management fashion theory to information systems research and practice.  Our findings reveal that information systems research and practice, like management research and practice, is indeed characterized by fashions.  These “IS fashion waves” are relatively transitory and represent a burst of interest in particular topics by IS researchers and practitioners.  However, while our findings show that IS research closely parallels practice, we suggest that a more proactive engagement of IS academics is needed in the IS fashion-setting process.&lt;/p&gt;</abstract>
+<fpage>647</fpage>
+<lpage>662</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2872&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2872</articleid>
+<submission-date>2009-11-30T12:14:48-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074868</context-key>
+<submission-path>misq/vol33/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Fashion Waves in IS Research &amp; Practice</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Effects of 3D Imagery on Managerial Data Interpretation</title>
+<publication-date>1986-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Lee</lname>
+<fname>Jong</fname>
+</author>
+<author>
+<lname>MacLachian</lname>
+<fname>James</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol10/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1977&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1977</articleid>
+<submission-date>2008-08-18T09:21:05-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583608</context-key>
+<submission-path>misq/vol10/iss3/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1986-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

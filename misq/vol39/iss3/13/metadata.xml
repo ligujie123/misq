@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Friendships in Online Peer-to-Peer Lending:  Pipes, Prisms, and Relational Herding</title>
+<publication-date>2015-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>deliu@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Liu</lname>
+<fname>De</fname>
+</author>
+<author>
+<email>dbrass@uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Brass</lname>
+<fname>Daniel</fname>
+<mname>J.</mname>
+</author>
+<author>
+<email>ericlu@psu.edu</email>
+<institution>Pennsylvania State University, Hazelton</institution>
+<lname>Lu</lname>
+<fname>Yong</fname>
+<mname>(Eric)</mname>
+</author>
+<author>
+<email>chendongyu@suda.edu.cn</email>
+<institution>Soochow University</institution>
+<lname>Chen</lname>
+<fname>Dongyu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Peer-to-peer lending</keyword>
+<keyword>friendship relationships</keyword>
+<keyword>social networks</keyword>
+<keyword>prism effect</keyword>
+<keyword>herding</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This paper investigates how friendship relationships act as pipes, prisms, and herding signals in a large online, peer-to-peer (P2P) lending site. By analyzing decisions of lenders, we find that friends of the borrower, especially close offline friends, act as financial &lt;strong&gt;pipes&lt;/strong&gt; by lending money to the borrower. On the other hand, the &lt;strong&gt;prism&lt;/strong&gt; effect of friends’ endorsements via bidding on a loan negatively affects subsequent bids by third parties. However, when offline friends of a potential lender, especially close friends, place a bid, a &lt;strong&gt;relational herding&lt;/strong&gt; effect occurs as potential lenders are likely to follow their offline friends with a bid. &lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>729</fpage>
+<lpage>742</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss3/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3255&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3255</articleid>
+<submission-date>2015-08-27T09:01:43-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7523125</context-key>
+<submission-path>misq/vol39/iss3/13</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-08-27T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Friendships in Online P2P Lending</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Predictive Analytics in Information Systems Research</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>gshmueli@rhsmith.umd.edu</email>
+<institution>University of Maryland, College Park</institution>
+<lname>Shmueli</lname>
+<fname>Galit</fname>
+</author>
+<author>
+<email>okoppius@rsm.nl</email>
+<institution>Erasmus University</institution>
+<lname>Koppius</lname>
+<fname>Otto</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Essay</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Prediction</keyword>
+<keyword>causal explanation</keyword>
+<keyword>theory building</keyword>
+<keyword>theory testing</keyword>
+<keyword>statistical model</keyword>
+<keyword>data mining</keyword>
+<keyword>modeling process</keyword>
+</keywords>
+<abstract>&lt;p&gt;This research essay highlights the need to integrate predictive analytics into information systems research and shows several concrete ways in which this goal can be accomplished. Predictive analytics include empirical methods (statistical and other) that generate data predictions as well as methods for assessing predictive power. Predictive analytics not only assist in creating practically useful models, they also play an important role alongside explanatory modeling in theory building and theory testing. We describe six roles for predictive analytics: new theory generation, measurement development, comparison of competing theories, improvement of existing models, relevance assessment, and assessment of the predictability of empirical phenomena. Despite the importance of predictive analytics, we find that they are rare in the empirical IS literature. Extant IS literature relies nearly exclusively on explanatory statistical modeling, where statistical inference is used to test and evaluate the explanatory power of underlying causal models, and predictive power is assumed to follow automatically from the explanatory model. However, explanatory power does not imply predictive power and thus predictive analytics are necessary for assessing predictive power and for building empirical models that predict well. To show that predictive analytics and explanatory statistical modeling are fundamentally disparate, we show that they are different in each step of the modeling process. These differences translate into different final models, so that a pure explanatory statistical model is best tuned for testing causal hypotheses and a pure predictive model is best in terms of predictive power. We convert a well-known explanatory paper on TAM to a predictive context to illustrate these differences and show how predictive analytics can add theoretical and practical value to IS research.&lt;/p&gt;</abstract>
+<fpage>553</fpage>
+<lpage>572</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2970&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2970</articleid>
+<submission-date>2011-08-23T10:00:46-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185525</context-key>
+<submission-path>misq/vol35/iss3/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Predictive Analytics in IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

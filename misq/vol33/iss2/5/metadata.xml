@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Internet Exchanges for Used Goods:  An Empirical Analysis of Trade Patterns and Adverse Selection</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>aghose@stern.nyu.edu</email>
+<institution>New York University</institution>
+<lname>Ghose</lname>
+<fname>Anindya</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information uncertainty</keyword>
+<keyword>adverse selection</keyword>
+<keyword>user-generated content</keyword>
+<keyword>text analysis</keyword>
+<keyword>seller reputation</keyword>
+<keyword>product quality</keyword>
+<keyword>used goods</keyword>
+<keyword>electronic markets</keyword>
+<keyword>information asymmetry</keyword>
+<keyword>trade patterns</keyword>
+</keywords>
+<abstract>&lt;p&gt;In the past few years, we have witnessed the increasing ubiquity of user-generated content on seller reputation and product condition in Internet-based used-good markets. Recent theoretical models of trading and sorting in used-good markets provide testable predictions to use to examine the presence of adverse selection and trade patterns in such dynamic markets.  A key aspect of such empirical analyses is to distinguish between product-level uncertainty and seller-level uncertainty, an aspect the extant literature has largely ignored.  Based on a unique, 5-month panel data set of user-generated content on used good quality and seller reputation feedback collected from Amazon, this paper examines trade patterns in online used-good markets across four product categories (PDAs, digital cameras, audio players, and laptops).  Drawing on two different empirical tests and using content analysis to mine the textual feedback of seller reputations, the paper provides evidence that adverse selection continues to exist in online markets.  First, it is shown that after controlling for price and other product, and for seller-related  factors, higher quality goods take a longer time to sell compared to lower quality goods.  Second, this result also holds when the relationship between sellers’ reputation scores and time to sell is examined.  Third, it is shown that price declines are larger for more unreliable products, and that products with higher levels of intrinsic unreliability exhibit a more negative relationship between price decline and volume of used good trade.  Together, our findings suggest that despite the presence of signaling mechanisms such as reputation feedback and product condition disclosures, the information asymmetry problem between buyers and sellers persists in online markets due to both product-based and seller-based information uncertainty.  No consistent evidence of substitution or complementarity effects between product-based and seller-level uncertainty are found.  Implications for research and practice are discussed.&lt;/p&gt;</abstract>
+<fpage>263</fpage>
+<lpage>291</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2851&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2851</articleid>
+<submission-date>2009-06-01T09:00:56-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860195</context-key>
+<submission-path>misq/vol33/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Internet Exchagnes for Used Goods</value>
+</field>
+</fields>
+</document>
+</documents>

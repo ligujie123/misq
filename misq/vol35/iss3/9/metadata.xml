@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Innovation Impacts of Using Social Bookmarking Systems</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>pgray@virginia.edu</email>
+<institution>University of Virginia</institution>
+<lname>Gray</lname>
+<fname>Peter</fname>
+<mname>H.</mname>
+</author>
+<author>
+<email>sparise@babson.edu</email>
+<institution>Babson College</institution>
+<lname>Parise</lname>
+<fname>Salvatore</fname>
+</author>
+<author>
+<email>biyer@babson.edu</email>
+<institution>Babson College</institution>
+<lname>Iyer</lname>
+<fname>Bala</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Note</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Social tagging systems</keyword>
+<keyword>social bookmarking systems</keyword>
+<keyword>social technologies</keyword>
+<keyword>Web 2.0 technologies</keyword>
+<keyword>Social network analysis</keyword>
+</keywords>
+<abstract>&lt;p&gt;Many organizational innovations can be explained by the movement of ideas and information from one social context to another, &quot;from where they are known to where they are not&quot; (Hargadon 2002, p. 41). A relatively new technology, social bookmarking, is increasingly being used in many organizations (McAfee 2006), and may enhance employee innovativeness by providing a new, socially mediated channel for discovering information. Users of such systems create publicly viewable lists of bookmarks (each being a hyperlink to an information resource) and often assign searchable keywords (&quot;tags&quot;) to these bookmarks. We explore two different perspectives on how accessing others’ bookmarks could enhance how innovative an individual is at work. First, we develop two hypotheses around the idea that quantity may be a proxy for diversity, following a well established literature that holds that the more information obtained and the larger the number of sources consulted, the higher the likelihood an individual will come across novel ideas. Next, we offer two hypotheses adapted from social network research that argue that the shape of the network of connections that is created when individuals access each others’ bookmarks can reflect information novelty, and that individuals whose networks bridge more structural holes and have greater effective reach are likely to be more innovative. An analysis of bookmarking system use in a global professional services firm provides strong support for the social diversity of information sources as a predictor of employee innovativeness, but no support that the number of bookmarks accessed matters. By extending the social networks literature to theorize the functionalities offered by social bookmarking systems, this research establishes structural holes theory as a valuable lens through which social technologies may be understood.&lt;/p&gt;</abstract>
+<fpage>629</fpage>
+<lpage>643</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2974&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2974</articleid>
+<submission-date>2011-08-23T11:25:32-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185854</context-key>
+<submission-path>misq/vol35/iss3/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Innovation Impacts of Using Social Bookmarking Systems</value>
+</field>
+</fields>
+</document>
+</documents>

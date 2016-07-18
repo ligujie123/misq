@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Web 2.0 Environmental Scanning and Adaptive Decision Support for Business Mergers and Acquisitions</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>raylau@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Lau</lname>
+<fname>Raymond</fname>
+<mname>Yiu-Keung</mname>
+</author>
+<author>
+<email>issliao@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Liao</lname>
+<fname>Stephen</fname>
+<mname>Shaoyi</mname>
+</author>
+<author>
+<email>kfwong@se.cuhk.edu.hk</email>
+<institution>The Chinese University of Hong Kong</institution>
+<lname>Wong</lname>
+<fname>K. F.</fname>
+</author>
+<author>
+<email>kwchiu@cityu.edu.hk</email>
+<institution>City University of Hong Kong</institution>
+<lname>Chiu</lname>
+<fname>Dickson</fname>
+<mname>K. W.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Domain-specific sentiment analysis</keyword>
+<keyword>business relation mining</keyword>
+<keyword>statistical learning</keyword>
+<keyword>evolutionary learning</keyword>
+<keyword>business intelligence</keyword>
+<keyword>Web 2.0</keyword>
+<keyword>mergers and acquisitions</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Globalization has triggered a rapid increase in cross-border mergers and acquisitions (M&amp;As).  However, research shows that only 17 percent of cross-border M&amp;As create shareholder value.  One of the main reasons for this poor track record is top management’s lack of attention to nonfinancial aspects (e.g., sociocultural aspects) of M&amp;As.  With the rapid growth of Web 2.0 applications, online environmental scanning provides top executives with unprecedented opportunities to tap into collective web intelligence to develop better insights about the sociocultural and political–economic factors that cross-border M&amp;As face.  Grounded in Porter’s five forces model, one major contribution of our research is the design of a novel due diligence scorecard model that leverages collective web intelligence to enhance M&amp;A decision making.  Another important contribution of our work is the design and development of an adaptive business intelligence (BI) 2.0 system underpinned by an evolutionary learning approach, domain-specific sentiment analysis, and business relation mining to operationalize the aforementioned scorecard model for adaptive M&amp;A decision support.  With Chinese companies’ cross-border M&amp;As as the business context, our experimental results confirm that the proposed adaptive BI 2.0 system can significantly aid decision makers under different M&amp;A scenarios.  The managerial implication of our findings is that firms can apply the proposed BI 2.0 technology to enhance their strategic decision making, particularly when making cross-border investments in targeted markets for which private information may not be readily available.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1239</fpage>
+<lpage>1268</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss4/19</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3077&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>19</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3077</articleid>
+<submission-date>2012-12-07T10:49:13-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3521083</context-key>
+<submission-path>misq/vol36/iss4/19</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-12-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Web 2.0 Environmental Scanning &amp; Adaptive Decision Support</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology Outsourcing, Knowledge Transfer, and Firm Productivity:  An Empirical Analysis</title>
+<publication-date>2012-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ybchang@unist.ac.kr</email>
+<institution>Ulsan National Institute of Science and Technology</institution>
+<lname>Chang</lname>
+<fname>Young Bong</fname>
+</author>
+<author>
+<email>vgurbaxa@uci.edu</email>
+<institution>University of California, Irvine</institution>
+<lname>Gurbaxani</lname>
+<fname>Viijay</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT outsourcing</keyword>
+<keyword>productivity</keyword>
+<keyword>knowledge transfer</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Firms are increasingly sourcing internal information systems functions from external service providers.  However, there is limited empirical evidence of the economic impact of this delivery option and, more specifically, of the productivity gains accruing to firms that have outsourced.  Moreover, there is little evidence of the role and contributions of the individual mechanisms by which service providers create value for client firms.  We are particularly interested in whether client firms benefit from the accumulated knowledge held by information technology (IT) service firms.  In this paper, we examine the impact of IT outsourcing on the productivity of firms that choose this mode of services delivery focusing, on the role of IT-related knowledge.  Since firms self-select into their optimal sourcing mode, we use a variety of econometric techniques including propensity score-based matching and switching regression to control for potential bias arising from endogenously determined sourcing modes.  We demonstrate that IT outsourcing does lead to productivity gains for firms that select this mode of service delivery.  Our results also suggest that IT-related knowledge held by IT services vendors enables these productivity gains, the magnitude of which is moderated by a firm’s IT intensity.  Moreover, the value of outsourcing to a client firm increases with its propensity for outsourcing, which in turn depends on firm-specific attributes including efficiency level, financial leverage, and variability in business conditions.  Our analyses also show that firms that outsource have been able to achieve additional productivity gains from contracting out compared with their counterfactuals.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1043</fpage>
+<lpage>1063</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss4/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3068&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3068</articleid>
+<submission-date>2012-12-07T09:22:05-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3520708</context-key>
+<submission-path>misq/vol36/iss4/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-12-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT Outsourcing, Knowledge Transfer, and Firm Productivity</value>
+</field>
+</fields>
+</document>
+</documents>

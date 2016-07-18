@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology and Administrative Efficiency in U.S. State Governments:  A Stochastic Frontier Approach</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>minspang@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Pang</lname>
+<fname>Min-Seok</fname>
+</author>
+<author>
+<email>atafti@uic.edu</email>
+<institution>Univrersity of Illinois at Chicago</institution>
+<lname>Tafti</lname>
+<fname>Ali</fname>
+</author>
+<author>
+<email>mskrish@umich.edu</email>
+<institution>University of Michigan</institution>
+<lname>Krishnan</lname>
+<fname>M. S.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT value</keyword>
+<keyword>public sector</keyword>
+<keyword>U.S. state governments</keyword>
+<keyword>stochastic frontier analysis</keyword>
+<keyword>translog cost function</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;This paper explores value creation from government use of information technologies (IT). While the majority of studies in the information systems (IS) discipline have focused on discovering IT business value in for-profit organizations, the performance effects of IT in the public sector have not been extensively studied in either the IS or the public administration literature. We examine whether IT improves administrative efficiency in U.S. state governments. Utilizing IT budget data in state governments, the census data on state government expenditures, and a variety of information on public services that states provide, we measure technical efficiency with a stochastic frontier analysis and a translog cost function and estimate the effect of IT spending on efficiency. Our analyses provide evidence for a positive relationship between IT spending and cost efficiency and indicate that, on average, a $1 increase in per capita IT budget is associated with $1.13 in efficiency gains. This study contributes to the IS literature by expanding the scope of IT value research to public sector organizations and provides meaningful implications for elected officials and public sector managers.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1079</fpage>
+<lpage>1101</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3206&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3206</articleid>
+<submission-date>2014-11-07T08:08:05-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6337016</context-key>
+<submission-path>misq/vol38/iss4/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT and Administrative Efficiency</value>
+</field>
+</fields>
+</document>
+</documents>

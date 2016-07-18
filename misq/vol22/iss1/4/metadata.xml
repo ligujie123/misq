@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Success of Data Resource Management in Distributed Environments: An Empirical Investigation</title>
+<publication-date>1998-01-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>jain@csd.uwm.edu</email>
+<institution>University of Wisconsin-Milwaukee</institution>
+<lname>Jain</lname>
+<fname>Hemant</fname>
+</author>
+<author>
+<email>ramurthy@csd.uwm.edu</email>
+<institution>University of Wisconsin-Milwaukee</institution>
+<lname>Ramamurthy</lname>
+<fname>K.</fname>
+</author>
+<author>
+<institution>Samsung Data Systems Co. Ltd.</institution>
+<lname>Ryu</lname>
+<fname>Hwa-Suk</fname>
+</author>
+<author>
+<email>yasai@csd.uwm.edu</email>
+<institution>University of Wisconsin-Milwaukee</institution>
+<lname>Yasai-Ardekani</lname>
+<fname>Masoud</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Data resource management</keyword>
+<keyword>distributed processing</keyword>
+<keyword>distributed databases</keyword>
+<keyword>gestalt fit</keyword>
+<keyword>cluster analysis</keyword>
+<keyword>autonomy</keyword>
+<keyword>centralization</keyword>
+<keyword>intersite data dependence</keyword>
+</keywords>
+<abstract>&lt;p&gt;The trend toward distributed processing has significantly increased the awareness of data as a key corporate resource and underscored the importance of its managemenItn. spite of this, there is a lack of empirical investigation of issues related to data resource management (DRM) in distributed processing environments. Being perhaps the first empirical attempt, this exploratory study identifies four information systems( IS) variables related to DRMin a distributed environment. It also seeks to examine the notion of gestalt fit to describe the nature of the relationships among these variables. In addition, the study evaluates whether intemally congruent groups outperform their opposites in realizing DRMs uccess. The results of cluster analysis support the view of gestalt fit by identifying five clusters. The results also suggest that organizations represented by a well-blended configuration of high intersite data dependence, high centralization of IS decisions, high concentration IS resources at the central site, and low DRM-related autonomy granted to local sites appear to realize a greater degree of DRM success than the other groups. The implications of the study are discussed, and further research directions are proposed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol22/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2836&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2836</articleid>
+<submission-date>2009-04-03T08:19:46-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>810575</context-key>
+<submission-path>misq/vol22/iss1/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1998-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

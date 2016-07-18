@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>An Investigation of Information Systems Use Patterns:  Technological Events as Triggers, the Effect of Time, and Consequences for Performance</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ana.ortiz-de-guinea@hec.ca</email>
+<institution>HEC Montreal</institution>
+<lname>Ortiz de Guinea</lname>
+<fname>Ana</fname>
+</author>
+<author>
+<email>jwebster@business.queensu.ca</email>
+<institution>Queen&#39;s University - Kingston, Ontario</institution>
+<lname>Webster</lname>
+<fname>Jane</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Emotion</keyword>
+<keyword>affect</keyword>
+<keyword>behavior</keyword>
+<keyword>cognition</keyword>
+<keyword>performance</keyword>
+<keyword>pattern</keyword>
+<keyword>IS use</keyword>
+<keyword>usage</keyword>
+<keyword>heart rate</keyword>
+<keyword>EKG</keyword>
+<keyword>physiology</keyword>
+<keyword>physiological arousal</keyword>
+<keyword>automaticity</keyword>
+<keyword>continuance</keyword>
+<keyword>technological effects</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Information systems use represents one of the core concepts defining the discipline.  In this article, we develop a rich conceptualization of IS use patterns as individuals’ emotions, cognition, and behaviors while employing an information technology to accomplish a work-related task.  By combining two novel perspectives—the affect–object paradigm and automaticity—with coping theory, we theorize how different patterns appear and disappear as a result of different IT events—expected and discrepant—as well as over time, and how these patterns influence short-term performance.  In order to test our hypotheses, we conducted two studies, one qualitative and the other quantitative, that combined different methods (e.g., open-ended questions, physiological data, videos, protocol analysis) to study the influence of expected and discrepant events.  The synergistic properties of the two studies demonstrate the existence of two IS use patterns, automatic and adjusting.  Most interactions are automatic, and adjusting patterns, triggered by discrepant IT events, fade over time and transition into automatic ones.  Further, automatic patterns result in enhanced short-term performance, while adjusting ones do not.  Our conceptualization of IS use patterns is useful because it addresses important questions (such as why negative IT perceptions persist) and clarifies that it is how (rather than how much) people use IT that is pertinent for performance.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1165</fpage>
+<lpage>1188</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3137&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3137</articleid>
+<submission-date>2013-12-02T09:18:47-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864612</context-key>
+<submission-path>misq/vol37/iss4/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>An Investigation of IS Use Patterns</value>
+</field>
+</fields>
+</document>
+</documents>

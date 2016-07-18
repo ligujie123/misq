@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>How Do Enterprise Resource Planning Systems Affect Firm Risk?  Post-Implementation Impact</title>
+<publication-date>2015-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>ftian@hku.hk</email>
+<institution>The University of Hong Kong</institution>
+<lname>Tian</lname>
+<fname>Feng</fname>
+</author>
+<author>
+<email>xuxin@sem.tsinghua.edu.cn</email>
+<institution>Tsinghua University</institution>
+<lname>Xu</lname>
+<fname>Sean Xin</fname>
+</author>
+</authors>
+<keywords>
+<keyword>ERP systems</keyword>
+<keyword>firm risk</keyword>
+<keyword>performance volatility</keyword>
+<keyword>post-implementation</keyword>
+<keyword>environmental uncertainty</keyword>
+<keyword>ERP system scope</keyword>
+<keyword>business value</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Managing firm risk, or firm performance volatility, is a key task for contemporary firms. Although information technology (IT) has been generally viewed as an effective information processing tool that enables firms to better cope with uncertainty, thus holding the potential to mitigate firm performance volatility, evidence to support this view is lacking in the literature. We theorize that enterprise resource planning (ERP) systems, a major type of enterprise IT applications, can help reduce firm risk and, in particular, we argue that, to uncover the risk reduction effect of ERP systems, a research focus on the post-implementation stage is needed. Based on a sample of 2,127 firm-year observations, we found that ERP systems in the post-implementation stage were associated with reduced firm risk, and that the risk reduction effect was stronger for ERP systems with a greater scope of functional and operational modules, especially functional modules. We further found that, on average, the risk reduction effect of ERP systems became greater when firms’ operating environments feature higher uncertainty, while the risk reduction associated with fully deploying ERP system modules seem to level off as environmental uncertainty increases. These findings extend our understanding of the business value of ERP systems by shedding light on the risk reduction benefit of ERP systems.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>39</fpage>
+<lpage>60</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3221&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3221</articleid>
+<submission-date>2015-03-02T10:30:08-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6758076</context-key>
+<submission-path>misq/vol39/iss1/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-03-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>How ERP Systems Affect Firm Risk</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>So, Talk to Me:  The Effect of Explicit Goals on the Comprehension of Business Process Narratives</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Kuechler</lname>
+<fname>Bill</fname>
+</author>
+<author>
+<lname>Vaishnavi</lname>
+<fname>Vijay</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Decision support systems</keyword>
+<keyword>decision making; human–computer interface</keyword>
+<keyword>process comprehension</keyword>
+</keywords>
+<abstract>&lt;p&gt;Unstructured data, most of it text-based and computer mediated, makes up a rapidly growing majority of the knowledge store of most organizations. Entire classes of information systems:  knowledge management systems and enterprise content management systems have emerged to monitor, manage and support decision making from this primarily textual data.   IS research has treated text as a unitary variable.  However, research from cognitive science strongly suggests that a deeper investigation of how text is comprehended would allow the development of more effective computer-based knowledge and communications systems.  Our research extends IS research on the effects of information presentation on decision making by investigating the attributes of text rather than comparing text to other information presentation modes such as graphs or numbers.  Our study also contributes to the sparse empirical IS research on problem formulation, the initial phase of decision making.  Informed by research on information presentation, decision making, and narrative comprehension we designed a series of experiments that demonstrate that the explicit inclusion of goal information for activities in narrative descriptions of problematic business processes increases overall comprehension, decision making confidence, and short and long term recall.  Based on our experimental findings we propose that augmenting text-based IS to elicit and saliently present explicit goal information would significantly enhance the decision support capability of these systems especially for rapid, ad hoc decisions about business process situations.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss4/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2684&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2684</articleid>
+<submission-date>2008-12-11T13:26:40-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680675</context-key>
+<submission-path>misq/vol30/iss4/10</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

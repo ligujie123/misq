@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Qualitative Research in Information Systems</title>
+<publication-date>1997-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Myers</lname>
+<fname>Michael</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol21/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2302&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2302</articleid>
+<submission-date>2008-08-18T13:30:44-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584624</context-key>
+<submission-path>misq/vol21/iss2/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1997-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

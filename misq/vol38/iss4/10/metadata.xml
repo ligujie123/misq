@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Peer Influence in the Diffusion of iPhone 3G over a Large Social Network</title>
+<publication-date>2014-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>miguelgodinhomatos@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Godinho de Matos</lname>
+<fname>Miguel</fname>
+</author>
+<author>
+<email>pedrof@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Ferreira</lname>
+<fname>Pedro</fname>
+</author>
+<author>
+<email>krack@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Krackhardt</lname>
+<fname>David</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Peer influence</keyword>
+<keyword>homophily</keyword>
+<keyword>diffusion</keyword>
+<keyword>community identification</keyword>
+<keyword>viral marketing</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper, we study the effect of peer influence in the diffusion of the iPhone 3G across a number of communities sampled from a large dataset provided by a major European Mobile carrier in one country. We identify tight communities of users in which peer influence may play a role and use instrumental variables to control for potential correlation between unobserved subscriber heterogeneity and friends’ adoption. We provide evidence that the propensity of a subscriber to adopt increases with the percentage of friends who have already adopted. During a period of 11 months, we estimate that 14 percent of iPhone 3Gs sold by this carrier were due to peer influence. This result is obtained after controlling for social clustering, gender, previous adoption of mobile Internet data plans, ownership of technologically advanced handsets, and heterogeneity in the regions where subscribers move during the day and spend most of their evenings. This result remains qualitatively unchanged when we control for changes over time in the structure of the social network. We provide results from several policy experiments showing that, with this level of effect of peer influence, the carrier would have hardly benefitted from using traditional marketing strategies to seed the iPhone 3G to benefit from viral marketing.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>1103</fpage>
+<lpage>1133</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss4/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3207&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3207</articleid>
+<submission-date>2014-11-07T08:11:35-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>6337040</context-key>
+<submission-path>misq/vol38/iss4/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-11-07T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Peer Influence in a Large Social Network</value>
+</field>
+</fields>
+</document>
+</documents>

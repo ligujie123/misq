@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Impact of Analyst-Induced Misinformation on the Requirements Elicitation Process</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>r.appan@csuohio.edu</email>
+<institution>Cleveland State University</institution>
+<lname>Appan</lname>
+<fname>Radha</fname>
+</author>
+<author>
+<email>glenn.browne@ttu.edu</email>
+<institution>Texas Tech University</institution>
+<lname>Browne</lname>
+<fname>Glenn</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Information requirements determination</keyword>
+<keyword>misinformation effect</keyword>
+<keyword>user–analyst communication</keyword>
+<keyword>user participation</keyword>
+<keyword>elicitation techniques</keyword>
+<keyword>systems development</keyword>
+</keywords>
+<abstract>&lt;p&gt;Information requirements determination (IRD) is concerned with developing accurate requirements for a proposed system, primarily by eliciting information from users and other organizational stakeholders. In this paper we build and test theory concerning a significant threat to the accuracy of information requirements, termed the &lt;strong&gt;misinformation effect&lt;/strong&gt;. Misinformation is distorted, false, or other erroneous or misleading information that does not reflect the true state of the world or state of mind of the person communicating the information. The misinformation effect refers to the tendency of people to recall misleading or false information introduced to them following an event instead of original material learned or observed at the time the event occurred. During user–analyst communication in the IRD process, analysts may introduce misinformation in their discussions with users. We use the misinformation effect literature to hypothesize that in such circumstances users are likely to recall misinformation introduced by analysts rather than their true beliefs and knowledge of facts. Additionally, we use literature in social psychology to hypothesize that the misinformation effect will be stronger when misinformation is introduced using a social technique rather than a nonsocial technique. We conducted an experiment to test the misinformation effect in the requirements elicitation process. Results indicated that (1)　introduction of misinformation reduces the accuracy of requirements provided by users, and (2)　social techniques (interviews) are more vulnerable to the misinformation effect than nonsocial techniques (surveys). Our research contributes to the information systems literature by identifying an important reason that requirements provided by users may be inaccurate, and to IRD practice by identifying important dilemmas caused by the misinformation effect as well as potential solutions. We also contribute to the psychology literature by demonstrating the existence of the misinformation effect with users’ experiential factual knowledge and beliefs in a business context, and by aiding in understanding the underlying causes of the misinformation effect. We discuss implications of our findings and directions for future research to address challenges resulting from the misinformation effect.&lt;/p&gt;</abstract>
+<fpage>85</fpage>
+<lpage>106</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3009&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3009</articleid>
+<submission-date>2012-02-24T08:11:15-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2565975</context-key>
+<submission-path>misq/vol36/iss1/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Impact of Analyst-Induced Misinformation</value>
+</field>
+</fields>
+</document>
+</documents>

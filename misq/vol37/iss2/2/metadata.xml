@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Commonalities Across IS Silos and Intradisciplinary Information Systems Research</title>
+<publication-date>2013-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>goes@eller.arizona.edu</email>
+<institution>University of Arizona</institution>
+<lname>Goes</lname>
+<fname>Paulo</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<fpage>iii</fpage>
+<lpage>vii</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss2/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3111&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>3111</articleid>
+<submission-date>2013-05-21T14:28:12-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4161666</context-key>
+<submission-path>misq/vol37/iss2/2</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-05-21T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Editors Comments</value>
+</field>
+</fields>
+</document>
+</documents>

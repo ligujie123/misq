@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Table of Contents, Volume 35, Issue 3</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>misq@umn.edu</email>
+<institution>University of Minnesota - Twin Cities</institution>
+<lname>Quarterly</lname>
+<fname>MIS</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2966&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>editorial</document-type>
+<type>article</type>
+<articleid>2966</articleid>
+<submission-date>2011-08-23T09:43:22-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185424</context-key>
+<submission-path>misq/vol35/iss3/1</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Table of Contents</value>
+</field>
+</fields>
+</document>
+</documents>

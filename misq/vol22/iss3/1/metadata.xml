@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Editor&#39;s Comments Volume 22 Iss. 3</title>
+<publication-date>1998-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Zmud</lname>
+<fname>Bob</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol22/iss3/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2841&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2841</articleid>
+<submission-date>2009-04-06T11:43:41-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>813048</context-key>
+<submission-path>misq/vol22/iss3/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1998-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

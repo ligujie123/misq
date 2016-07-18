@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Estimating the Effect of Common Method Variance:  The Method-Method Pair Technique with an Illustration from TAM Research</title>
+<publication-date>2009-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>rajeev@uow.edu.au</email>
+<institution>University of Melbourne</institution>
+<lname>Sharma</lname>
+<fname>Rajeev</fname>
+</author>
+<author>
+<email>p.yetton@unsw.edu.au</email>
+<institution>University of New South Wales</institution>
+<lname>Yetton</lname>
+<fname>Philip</fname>
+</author>
+<author>
+<email>jeff-crawford@utulsa.edu</email>
+<institution>University of Tulsa</institution>
+<lname>Crawford</lname>
+<fname>Jeff</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Common method variance</keyword>
+<keyword>common method bias</keyword>
+<keyword>meta-analysis</keyword>
+<keyword>perceived usefulness</keyword>
+<keyword>use</keyword>
+<keyword>system use</keyword>
+<keyword>usage</keyword>
+<keyword>technology acceptance model</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper presents a meta-analysis-based technique to estimate the effect of common method variance on the validity of individual theories.  The technique explains between-study variance in observed correlations as a function of the susceptibility to common method variance of the methods employed in individual studies.  The technique extends to mono-method studies the concept of method variability underpinning the classic multitrait–multimethod technique.  The application of the technique is demonstrated by analyzing the effect of common method variance on the observed correlations between perceived usefulness and usage in the technology acceptance model literature.  Implications of the technique and the findings for future research are discussed.&lt;/p&gt;</abstract>
+<fpage>473</fpage>
+<lpage>490</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2862&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2862</articleid>
+<submission-date>2009-08-21T11:31:02-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>961804</context-key>
+<submission-path>misq/vol33/iss3/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Estimating the Effect of Common Method Variance</value>
+</field>
+</fields>
+</document>
+</documents>

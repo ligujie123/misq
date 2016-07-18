@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Co-Creation in Virtual Worlds:  The Design of the User Experience</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>tkohler@hpu.edu</email>
+<institution>Hawaii Pacific University</institution>
+<lname>Kohler</lname>
+<fname>Thomas</fname>
+</author>
+<author>
+<email>johann.fueller@hyve.de</email>
+<institution>Innsbruck University School of Management</institution>
+<lname>Fueller</lname>
+<fname>Johann</fname>
+</author>
+<author>
+<email>kurt.matzler@uibk.ac.at</email>
+<institution>Innsbruck University School of Management</institution>
+<lname>Matzler</lname>
+<fname>Kurt</fname>
+</author>
+<author>
+<email>daniel.stieger@modelwrkstatt.org</email>
+<institution>Innsbruck University School of Management</institution>
+<lname>Stieger</lname>
+<fname>Daniel</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Special Issue:  New Ventures in Virtual Worlds</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Virtual worlds</keyword>
+<keyword>Second Life</keyword>
+<keyword>co-creation</keyword>
+<keyword>action research</keyword>
+<keyword>experience design</keyword>
+</keywords>
+<abstract>&lt;p&gt;Emerging virtual worlds, such as the prominent Second Life, offer unprecedented opportunities for companies to collaborate with co-creating users. However, pioneering corporate co-creation systems fail to attract a satisfying level of participation and engagement. The experience users have with the co-creation system is the key to making virtual places a vibrant source of great connections, creativity, and co-creation. While prior research on co-creation serves as a foundation for this work, it does not provide adequate guidance on how to design co-creation systems in virtual worlds. To address this shortcoming, a 20-month action research project was conducted to study the user’s experience and to identify design principles for virtual co-creation systems. In two action research cycles, a virtual co-creation system called Ideation Quest was created, deployed, evaluated, and improved. The study reveals how to design co-creation systems and enriches research on co-creation to fit the virtual world context. Practitioners receive a helpful framework to leverage virtual worlds for co-creation.&lt;/p&gt;</abstract>
+<fpage>773</fpage>
+<lpage>788</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/16</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2981&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>16</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2981</articleid>
+<submission-date>2011-08-23T11:51:50-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185967</context-key>
+<submission-path>misq/vol35/iss3/16</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Co-Creation in Virtual Worlds</value>
+</field>
+</fields>
+</document>
+</documents>

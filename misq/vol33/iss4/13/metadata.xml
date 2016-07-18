@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Nonlinearities Between Attitude and Subjective Norms in Information Technology Acceptance:  A Negative Synergy?</title>
+<publication-date>2009-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>titah@em-lyon.com</email>
+<institution>EMLYON Business School</institution>
+<lname>Titah</lname>
+<fname>Ryad</fname>
+</author>
+<author>
+<email>henri.barki@hec.ca</email>
+<institution>HEC Montreal</institution>
+<lname>Barki</lname>
+<fname>Henri</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT acceptance</keyword>
+<keyword>theory of complementarities</keyword>
+<keyword>latent variable interactions</keyword>
+<keyword>nonlinear modeling</keyword>
+<keyword>structural equation modeling</keyword>
+<keyword>quadratic latent variables</keyword>
+<keyword>response surface methodology</keyword>
+</keywords>
+<abstract>&lt;p&gt;Empirical results both from information technology acceptance research as well as from other fields suggest that attitude and subjective norms may have a nonlinear relationship.  Based on the economic theory of complementarities, the present paper hypothesizes a substitution relationship or negative synergy between attitude and subjective norms in organizational IT use contexts.  Employing two methods for modeling and measuring nonlinear effects of latent constructs, as well as two approaches for visualizing and interpreting interaction and quadratic terms, structural equation modeling analysis of data collected from 258 users of a variety of IT applications in 14 organizations provides support for the hypothesis that attitude and subjective norms were substitutes in predicting intention to use.&lt;/p&gt;</abstract>
+<fpage>827</fpage>
+<lpage>844</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss4/13</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2883&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>13</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2883</articleid>
+<submission-date>2009-11-30T12:50:04-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1074956</context-key>
+<submission-path>misq/vol33/iss4/13</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Nonlinearities Between Attitude and Subjective Norms</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using IT to Reengineer Business Education: An Exploratory Investigation of Collaborative Telelearning</title>
+<publication-date>1995-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Alavi</lname>
+<fname>Maryam</fname>
+</author>
+<author>
+<lname>Wheeler</lname>
+<fname>Bradley</fname>
+</author>
+<author>
+<lname>Valacich</lname>
+<fname>Joseph</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Collaborative telelearning</keyword>
+<keyword>technology mediated learning</keyword>
+<keyword>desktop videoconferencing</keyword>
+<keyword>collaborative work ssytems</keyword>
+<keyword>IT in business education</keyword>
+</keywords>
+<fpage>293</fpage>
+<lpage>312</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol19/iss3/2</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2259&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>2</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2259</articleid>
+<submission-date>2008-08-18T13:21:30-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584569</context-key>
+<submission-path>misq/vol19/iss3/2</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1995-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Collaborative Telelearning</value>
+</field>
+</fields>
+</document>
+</documents>

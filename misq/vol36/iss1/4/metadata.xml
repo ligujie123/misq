@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Ends of Information Systems Research:  A Pragmatic Framework</title>
+<publication-date>2012-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>panos.constantinides@wbs.ac.uk</email>
+<institution>Frederick University</institution>
+<lname>Constantinides</lname>
+<fname>Panos</fname>
+</author>
+<author>
+<email>m.chiasson@lancaster.ac.uk</email>
+<institution>Lancaster University</institution>
+<lname>Chiasson</lname>
+<fname>Mike</fname>
+<mname>W.</mname>
+</author>
+<author>
+<email>l.introna@lancaster.ac.uk</email>
+<lname>Introna</lname>
+<fname>Lucas</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS research practice</keyword>
+<keyword>rigor and relevance</keyword>
+<keyword>pragmatism</keyword>
+<keyword>ethics</keyword>
+</keywords>
+<abstract>&lt;p&gt;In this paper, we argue that any effort to understand the state of the Information Systems field has to view IS research as a series of normative choices and value judgments about the ends of research. To assist a systematic questioning of the various ends of IS research, we propose a pragmatic framework that explores the choices IS researchers make around theories and methodologies, ethical methods of conduct, desirable outcomes, and the long-term impact of the research beyond a single site and topic area. We illustrate our framework by considering and questioning the explicit and implicit choices of topics, design and execution, and the representation of knowledge in experimental research—research often considered to be largely beyond value judgments and power relations. We conclude with the implications of our pragmatic framework by proposing practical questions for all IS researchers to consider in making choices about relevant topics, design and execution, and representation of findings in their research.&lt;/p&gt;</abstract>
+<fpage>1</fpage>
+<lpage>19</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss1/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3005&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3005</articleid>
+<submission-date>2012-02-24T07:57:36-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2565855</context-key>
+<submission-path>misq/vol36/iss1/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-02-24T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Pragmatic Framework of IS Research</value>
+</field>
+</fields>
+</document>
+</documents>

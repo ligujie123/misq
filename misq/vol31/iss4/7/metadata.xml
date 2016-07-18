@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Role of Online Trading Communities in Managing Internet Auction Fraud</title>
+<publication-date>2008-11-05T09:33:50-08:00</publication-date>
+<authors>
+<author>
+<email>aeh.chua@auckland.ac.nz</email>
+<institution>Nanyang Technological University</institution>
+<lname>Chua</lname>
+<fname>Cecil</fname>
+<mname>Eng Huang</mname>
+</author>
+<author>
+<email>WAREHAM@ACM.ORG</email>
+<institution>University of Ramon Llull</institution>
+<lname>Wareham</lname>
+<fname>Jonathan</fname>
+<mname>D.</mname>
+</author>
+<author>
+<email>drobey@gsu.edu</email>
+<institution>Georgia State University, USA</institution>
+<lname>Robey</lname>
+<fname>Daniel</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Auction fraud</keyword>
+<keyword>e-commerce</keyword>
+<keyword>authority</keyword>
+<keyword>communities</keyword>
+<keyword>clan control</keyword>
+<keyword>informal social control</keyword>
+</keywords>
+<abstract>&lt;p&gt;Internet auctions demonstrate that advances in information technologies can create more efficient venues of exchange between large numbers of traders.  However, the growth of Internet auctions has been accompanied by a corresponding growth in Internet auction fraud.  Much extant research on Internet auction fraud in the information systems literature is conducted at the individual level of analysis, thereby limiting its focus to the choices of individual traders or trading dyads.  The criminology literature, in contrast, recognizes that social and community factors are equally important influences on the perpetration and prevention of crime.  We employ social disorganization theory as a lens to explain how online auction communities address auction fraud and how those communities interact with formal authorities.  We show how communities may defy, coexist, or cooperate with the formal authority of auction houses.  These observations are supported by a qualitative analysis of three cases of online anticrime communities operating in different auction product categories.  Our analysis extends aspects of social disorganization theory to online communities.  We conclude that community-based clan control may operate in concert with authority-based formal control to manage the problem of Internet auction fraud more effectively.&lt;/p&gt;</abstract>
+<fpage>759</fpage>
+<lpage>781</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol31/iss4/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2562&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2562</articleid>
+<submission-date>2008-11-05T08:35:14-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>661350</context-key>
+<submission-path>misq/vol31/iss4/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

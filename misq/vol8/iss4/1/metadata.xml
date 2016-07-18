@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Requirements, Needs, and Priorities: A Structured Approach for Determining MIS Project Definition</title>
+<publication-date>1984-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Batiste</lname>
+<fname>John</fname>
+</author>
+<author>
+<lname>Jung</lname>
+<fname>John</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol8/iss4/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1933&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1933</articleid>
+<submission-date>2008-08-18T09:20:09-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583564</context-key>
+<submission-path>misq/vol8/iss4/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1984-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Rhetorical Approach to IT Diffusion:  Reconceptualizing the Ideology-Framing Relationship in Computerization Movements</title>
+<publication-date>2013-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>m.barrett@jbs.cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Barrett</lname>
+<fname>Michael</fname>
+</author>
+<author>
+<email>Loizos.Heracleous@wbs.ac.uk</email>
+<institution>The University of Warwick</institution>
+<lname>Heracleous</lname>
+<fname>Loizos</fname>
+</author>
+<author>
+<email>g.walsham@jbs.cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Walsham</lname>
+<fname>Geoff</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Computerization movements</keyword>
+<keyword>diffusion</keyword>
+<keyword>IT innovation</keyword>
+<keyword>discourse</keyword>
+<keyword>open source</keyword>
+<keyword>free software</keyword>
+<keyword>ideology</keyword>
+<keyword>rhetoric</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In this paper we propose rhetoric as a valuable yet underdeveloped alternative paradigm for examining IT diffusion.  Building on recent developments of computerization movements theory, our rhetorical approach proposes that two central elements of the theory, framing and ideology, rather than being treated as separate can be usefully integrated.  We suggest that IT diffusion can be usefully explored through examining the interrelationship of the deep structures underlying ideology and the type and sequence of rhetorical claims underpinning actors’ framing strategies.  Our theoretical developments also allow us to better understand competing discourses influencing the diffusion process.  These discourses reflect the ideologies and shape the framing strategies of actors in the broader field context.  We illuminate our theoretical approach by drawing on the history of the diffusion of free and open source software.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>201</fpage>
+<lpage>220</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss1/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3090&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3090</articleid>
+<submission-date>2013-03-01T08:48:44-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3815851</context-key>
+<submission-path>misq/vol37/iss1/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Rhetorical Approach to IT Diffusion</value>
+</field>
+</fields>
+</document>
+</documents>

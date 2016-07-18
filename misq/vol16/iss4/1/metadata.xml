@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Understanding the CEO/CIO Relationship</title>
+<publication-date>1992-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Feeny</lname>
+<fname>David</fname>
+</author>
+<author>
+<lname>Edwards</lname>
+<fname>Brian</fname>
+</author>
+<author>
+<lname>Simpson</lname>
+<fname>Keppel</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol16/iss4/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2193&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2193</articleid>
+<submission-date>2008-08-18T12:01:13-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584179</context-key>
+<submission-path>misq/vol16/iss4/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1992-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Principles for Conducting Critical Realist Case Study Research in Information Systems</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>wynn@udayton.edu</email>
+<institution>University of Dayton</institution>
+<lname>Wynn</lname>
+<fname>D</fname>
+</author>
+<author>
+<email>cwillaa@siue.edu</email>
+<institution>Southern Illinois University Edwardsville</institution>
+<lname>Williams</lname>
+<fname>Clay</fname>
+<mname>K</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Critical realism</keyword>
+<keyword>case study research</keyword>
+<keyword>methodology</keyword>
+<keyword>philosophy</keyword>
+<keyword>causal explanation</keyword>
+</keywords>
+<abstract>&lt;p&gt;Critical realism is emerging as a viable philosophical paradigm for conducting social science research, and has been proposed as an alternative to the more prevalent paradigms of positivism and interpretivism.  Few papers, however, have offered clear guidance for applying this philosophy to actual research methodologies. Under critical realism, a causal explanation for a given phenomenon is inferred by explicitly identifying the means by which structural entities and contextual conditions interact to generate a given set of events. Consistent with this view of causality, we propose a set of methodological principles for conducting and evaluating critical realism-based explanatory case study research within the information systems field.  The principles are derived directly from the ontological and epistemological assumptions of critical realism.  We demonstrate the utility of each of the principles through examples drawn from existing critical realist case studies.  The article concludes by discussing the implications of critical realism based research for IS research and practice.&lt;/p&gt;</abstract>
+<fpage>787</fpage>
+<lpage>810</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3048&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3048</articleid>
+<submission-date>2012-09-05T12:26:43-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3295598</context-key>
+<submission-path>misq/vol36/iss3/9</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-05T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Principles for Conducting Critical Realist Case Study Research in IS</value>
+</field>
+</fields>
+</document>
+</documents>

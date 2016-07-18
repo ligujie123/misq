@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Zones of Tolerance:  Alternative Scales for Measuring Information Systems Service Quality</title>
+<publication-date>2005-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Kettinger</lname>
+<fname>William</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Lee</lname>
+<fname>Choong</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>IS service quality</keyword>
+<keyword>zones of tolerance</keyword>
+<keyword>IS management</keyword>
+<keyword>SERVQUAL</keyword>
+<keyword>evaluation</keyword>
+<keyword>user expectations</keyword>
+<keyword>information services function</keyword>
+</keywords>
+<abstract>&lt;p&gt;The expectation norm of comparison for Information Systems SERVQUAL has been challenged on both conceptual and empirical grounds, drawing into question the instrument’s practical value.  To address the criticism that the original IS SERVQUAL’s expectation measure is ambiguous, we test a new set of scales that posits that service expectations exist at two levels which IS customers use as a basis to assess IS service quality:  (1) desired service:  the level of IS service desired, and (2) adequate service:  the minimum level of IS service customers are willing to accept.  Defining these two levels is a zone of tolerance (ZOT) that represents the range of IS service performance a customer would consider satisfactory. In other words, IS customer service expectations are characterized by a range of levels, rather than a single expectation point. This research note adapts the ZOT and the generic operational definition from marketing to the IS field, assessing its psychometric properties. Our findings conclude that the instrument shows validity of a four-dimension IS ZOT SERVQUAL measure for desired, adequate, and perceived service quality levels, identifying 18 commonly applicable question items. This measure addresses past criticism while offering a practical diagnostic tool.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2739&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2739</articleid>
+<submission-date>2008-12-15T10:07:54-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681953</context-key>
+<submission-path>misq/vol29/iss4/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

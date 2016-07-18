@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Nature and Consequences of Trade-Off Transparency in the Context of Recommendation Agents</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>david.xu@wichita.edu</email>
+<institution>Wichita State University</institution>
+<lname>Xu</lname>
+<fname>David</fname>
+</author>
+<author>
+<email>benbasat@sauder.ubc.ca</email>
+<institution>University of British Columbia</institution>
+<lname>Benbasat</lname>
+<fname>Izak</fname>
+</author>
+<author>
+<email>cenfetelli@sauder.ubc.edu</email>
+<institution>The University of British Columbia</institution>
+<lname>Cenfetelli</lname>
+<fname>Ronald</fname>
+<mname>T.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Interface design</keyword>
+<keyword>task complexity</keyword>
+<keyword>recommendation agents (RAs)</keyword>
+<keyword>trade-off transparency</keyword>
+<keyword>perceived enjoyment</keyword>
+<keyword>perceived product diagnosticity</keyword>
+<keyword>perceived decision effort</keyword>
+<keyword>perceived decision quality</keyword>
+</keywords>
+<abstract>&lt;p&gt;That recommendation agents (RAs) can substantially improve consumers’ decision making is well understood. Far less understood is the influence of specific design attributes of the RA interface on decision making and other outcome measures.  We investigate a novel design for an RA interface that enables it to interactively demonstrate trade-offs among product attribute values (i.e., trade-off transparency feature) to improve consumers’ perceived product diagnosticity and perceived enjoyment.  We also examine the extent to which the trade-offs among product attribute values should be revealed to the user.  Further, based on the stimulus– organism–response model, we develop a theoretical model that extends the effort–accuracy framework by proposing perceived enjoyment and perceived product diagnosticity as two antecedents for perceived decision quality and perceived decision effort, respectively.  In an experimental study, we find that (1)　the trade-off transparency feature significantly affects perceived enjoyment and perceived product diagnosticity, (2)　perceived enjoyment and perceived product diagnosticity follow an inverted U-shaped curve as the level of trade-off transparency increases, (3)　although users spend more time understanding attribute trade-offs with the trade-off transparency feature, they are more efficient in selecting a product, (4)　perceived enjoyment simultaneously leads to better perceived decision quality and lower perceived decision effort, and (5)　perceived product diagnosticity leads to better perceived decision quality without compromising perceptions of decision effort.  Theoretically, this study increases our understanding of how the design of an RA interface can improve consumers’ product diagnosticity and enjoyment, and proposes two antecedents to improve perceived decision quality and reduce perceived decision effort.  For design practitioners, our results indicate the importance of providing the trade-off transparency design feature to potential consumers.&lt;/p&gt;</abstract>
+<fpage>379</fpage>
+<lpage>406</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3173&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3173</articleid>
+<submission-date>2014-05-28T07:58:01-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5626768</context-key>
+<submission-path>misq/vol38/iss2/5</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-05-28T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>The Nature and Consequences of Trade-Off Transparency</value>
+</field>
+</fields>
+</document>
+</documents>

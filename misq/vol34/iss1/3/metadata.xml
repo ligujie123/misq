@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Systems Innovation for Environmental Sustainability</title>
+<publication-date>2010-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>npmelv@umich.edu</email>
+<institution>University of Michigan</institution>
+<lname>Melville</lname>
+<fname>Nigel</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Belief–action–outcome (BAO) framework</keyword>
+<keyword>environment</keyword>
+<keyword>environmental management system</keyword>
+<keyword>green</keyword>
+<keyword>information system</keyword>
+<keyword>innovation</keyword>
+<keyword>organization</keyword>
+<keyword>sustainability</keyword>
+</keywords>
+<abstract>&lt;p&gt;Human life is dependent upon the natural environment, which, most would agree, is rapidly degrading.  Business enterprises are a dominant form of social organization and contribute to the worsening, and enhancement, of the natural environment.  Scholars in the administrative sciences examine questions spanning organizations and the natural environment but have largely omitted the information systems perspective.  We develop a research agenda on information systems innovation for environmental sustainability that demonstrates the critical role that IS can play in shaping beliefs about the environment, in enabling and transforming sustainable processes and practices in organizations, and in improving environmental and economic performance.  The belief–action–outcome (BAO) framework and associated research agenda provide the basis for a new discourse on IS for environmental sustainability.&lt;/p&gt;</abstract>
+<fpage>1</fpage>
+<lpage>21</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss1/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2890&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2890</articleid>
+<submission-date>2010-03-03T14:01:18-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1193641</context-key>
+<submission-path>misq/vol34/iss1/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IS Innovation for Environmental Sustainability</value>
+</field>
+</fields>
+</document>
+</documents>

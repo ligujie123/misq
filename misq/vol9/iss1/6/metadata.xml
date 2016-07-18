@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Field Study of Organizational Factors Influencing DSS Success</title>
+<publication-date>1985-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Sanders</lname>
+<fname>G.</fname>
+</author>
+<author>
+<lname>Courtney</lname>
+<fname>James</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol9/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1943&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>1943</articleid>
+<submission-date>2008-08-18T09:20:15-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>583574</context-key>
+<submission-path>misq/vol9/iss1/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1985-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

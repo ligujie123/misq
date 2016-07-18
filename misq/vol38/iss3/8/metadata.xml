@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Estimating Returns to Training in the Knowledge Economy:  A Firm-Level Analysis of Small and Medium Enterprises</title>
+<publication-date>2014-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>Amit_Mehra@isb.edu</email>
+<institution>Indian School of Business</institution>
+<lname>Mehra</lname>
+<fname>Amit</fname>
+</author>
+<author>
+<email>langen@rpi.edu</email>
+<institution>Indian School of Business</institution>
+<lname>Langer</lname>
+<fname>Nishtha</fname>
+</author>
+<author>
+<email>rbapna@umn.edu</email>
+<institution>University of Minnesota</institution>
+<lname>Bapna</lname>
+<fname>Ravi</fname>
+</author>
+<author>
+<email>ram.gopal@business.uconn.edu</email>
+<institution>University of Connecticut</institution>
+<lname>Gopal</lname>
+<fname>Ram</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT services</keyword>
+<keyword>nonlinear growth</keyword>
+<keyword>ROI of training</keyword>
+<keyword>productivity</keyword>
+<keyword>human capital</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The ongoing digitization of multiple industries has drastically reduced the half-life of skills and capabilities acquired by knowledge workers through formal education. Thus, firms are forced to make significant ongoing investments in training their employees to remain competitive. Existing research has not examined the role of training in improving firm-level productivity of knowledge firms. This paper provides an innovative econometric framework to estimate returns to such employee training investments made by firms. We use a panel dataset of small- to medium-sized Indian IT services firms and assess how training enhances human capital, a critical input for such firms, thereby improving firm revenues. We use econometric approaches based on optimization of the firm’s profit function to eliminate the endogenous choice of inputs common in production function estimations. We find that an increase in training investments is significantly linked to an increase in revenue per employee. Further, marginal returns to training are increasing firm size. Therefore, relatively speaking, large firms benefit more from training. For the median company in our data, we find that a dollar invested in training yields a return of $4.67, and this effect approximately grows 2.5 times for the 75&lt;sup&gt;th&lt;/sup&gt; percentile-sized firm. A variety of robustness checks, including the use of data envelopment analysis, are used to establish the veracity of our results.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>757</fpage>
+<lpage>771</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss3/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3191&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3191</articleid>
+<submission-date>2014-07-31T12:07:11-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5854524</context-key>
+<submission-path>misq/vol38/iss3/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-07-31T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Estimating Returns to Training in the Knowledge Economy</value>
+</field>
+</fields>
+</document>
+</documents>

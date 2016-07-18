@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Differential Use and Effect of Knowledge-Based System Explanations in Novice and Expert Judgment Decisions</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Arnold</lname>
+<fname>Vicky</fname>
+</author>
+<author>
+<lname>Clark</lname>
+<fname>Nicole</fname>
+</author>
+<author>
+<lname>Collier</lname>
+<fname>Phillip</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Leech</lname>
+<fname>Stewart</fname>
+<mname>A.</mname>
+</author>
+<author>
+<lname>Sutton</lname>
+<fname>Steve</fname>
+<mname>G.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Explanations</keyword>
+<keyword>explanation use</keyword>
+<keyword>knowledge-based systems</keyword>
+<keyword>expert systems</keyword>
+<keyword>intelligent systems</keyword>
+</keywords>
+<abstract>&lt;p&gt;Explanation facilities are considered essential in facilitating user interaction with knowledge-based systems (KBS). Research on explanation provision and the impact on KBS users has shown that the domain expertise affects the type of explanations selected by the user and the basis for seeking such explanations. The prior literature has been limited, however, by the use of simulated KBS that generally provide only feedback explanations (i.e., ex post to the recommendation of the KBS being presented to the user). The purpose of this study is to examine the way users with varying levels of expertise use alternative types of KBS explanations and the impact of that use on decision making. A total of 64 partner/manager-level and 82 senior/staff-level insolvency professionals participated in an experiment involving the use of a fully functioning KBS to complete a complex judgment task. In addition to feedback explanations, the KBS also provided feedforward explanations (i.e., general explanations during user input about the relationships between information cues in the KBS) and included definition type explanations (i.e., declarative-level knowledge). The results show that users were more likely to adhere to recommendation of the KBS when an explanation facility was available. Choice patterns in using explanations indicated that novices used feedforward explanations more than experts did, while experts were more likely than novices to use feedback explanations. Novices also used more declarative knowledge and initial problem solving type explanations, while experts used more procedural knowledge explanations. Finally, use of feedback explanations led to greater adherence to the KBS recommendation by experts—a condition that was even more prevalent as the use of feedback explanations increased. The results have several implications for the design and use of KBS in a professional decision making environment.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss1/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2750&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2750</articleid>
+<submission-date>2008-12-15T12:00:22-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>682080</context-key>
+<submission-path>misq/vol30/iss1/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

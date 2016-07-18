@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Representational Scheme for Analyzing Information Technology and Organizational Dependency</title>
+<publication-date>2002-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Tillquist</lname>
+<fname>John</fname>
+</author>
+<author>
+<lname>King</lname>
+<fname>John</fname>
+<mname>L.</mname>
+</author>
+<author>
+<lname>Woo</lname>
+<fname>Carson</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Management information systems</keyword>
+<keyword>organizational systems</keyword>
+<keyword>competitive use of IS</keyword>
+<keyword>IS planning methodologies</keyword>
+<keyword>IS strategic planning</keyword>
+<keyword>organizational change</keyword>
+<keyword>organizational design</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper presents a new representation methodology, dependency network diagrams (DNDs), which enables the essential elements governing organizational relations to be captured, communicated, and evaluated under changing conditions. By depicting important features of organizational relations, information systems can be designed explicitly for control and coordination of organizational activities.  The rules and construction algorithm for DNDs are presented and applied to a case study of a Canadian automobile insurance company.  Analysis of the case reveals how IT was used to create strategic change within the Canadian vehicle repair market.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss2/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2627&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2627</articleid>
+<submission-date>2008-12-09T12:01:19-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678776</context-key>
+<submission-path>misq/vol26/iss2/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

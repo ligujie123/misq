@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>From Space to Place:  Predicting Users’ Intentions to Return to Virtual Worlds</title>
+<publication-date>2011-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>l.goel@unf.edu</email>
+<institution>University of North Florida</institution>
+<lname>Goel</lname>
+<fname>Lakshmi</fname>
+</author>
+<author>
+<email>Norman.Johnson@mail.uh.edu</email>
+<institution>University of Houston</institution>
+<lname>Johnson</lname>
+<fname>Norman</fname>
+<mname>A.</mname>
+</author>
+<author>
+<email>iris.junglas@gmail.com</email>
+<institution>Accenture Institute for High Performance</institution>
+<lname>Junglas</lname>
+<fname>Iris</fname>
+</author>
+<author>
+<email>blake.ives@uh.edu</email>
+<institution>University of Houston</institution>
+<lname>Ives</lname>
+<fname>Blake</fname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Special Issue:  New Ventures in Virtual Worlds</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Virtual worlds</keyword>
+<keyword>cognitive absorption</keyword>
+<keyword>intention to return</keyword>
+<keyword>social awareness</keyword>
+<keyword>location awareness</keyword>
+<keyword>task awareness</keyword>
+<keyword>sense of place</keyword>
+<keyword>place attachment</keyword>
+</keywords>
+<abstract>&lt;p&gt;Virtual worlds have received considerable attention asplatforms for  entertainment, education, and commerce.  But organizations are experiencing failures in their early attempts to lure customers, employees, or partners into these worlds.  Among the more grievous problems is the inability to attract users back into a virtual environment.  In this study, we propose and test a model to predict users’ intentions to return to a virtual world.  Our model is based on the idea that users intend to return to a virtual world having conceived of it as a “place” in which they have had meaningful experiences.  We rely on the interactionist theory of place attachment to explain the links among the constructs of our model.  Our model is tested via a lab experiment.  We find that users’ intentions to return to a virtual world is determined by a state of deep involvement (termed cognitive absorption) that users experience as they perform an activity and tend to lose track of time.  In turn, cognitive absorption is determined by users’ awareness of whom they interact with and how they interact within a virtual world, what they interact about, and where, in a virtual sense, such interaction occurs.  Our work contributes to theory in the following ways:  it identifies state predictors of cognitive absorption, it conceives of virtual worlds in such a way as to account for users’ experiences through the notion of place, and it explains how the properties of a virtual world contribute to users’ awareness.&lt;/p&gt;</abstract>
+<fpage>749</fpage>
+<lpage>771</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss3/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2980&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2980</articleid>
+<submission-date>2011-08-23T11:45:38-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2185950</context-key>
+<submission-path>misq/vol35/iss3/15</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-08-23T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Predicting Users’ Intentions to Return to Virtual Worlds</value>
+</field>
+</fields>
+</document>
+</documents>

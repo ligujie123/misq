@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Managing Peer-to-Peer Conflicts in Disruptive Information Technology Innovations:  The Case of Software Reuse</title>
+<publication-date>2006-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Sherif</lname>
+<fname>Karma</fname>
+</author>
+<author>
+<lname>Zmud</lname>
+<fname>Robert</fname>
+<mname>W.</mname>
+</author>
+<author>
+<lname>Browne</lname>
+<fname>Glenn</fname>
+<mname>J.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Disruptive IT innovations</keyword>
+<keyword>software reuse</keyword>
+<keyword>goal conflict</keyword>
+<keyword>coordination mechanisms</keyword>
+<keyword>organizational learning</keyword>
+</keywords>
+<abstract>&lt;p&gt;We examine the case of software reuse as a disruptive information technology innovation (i.e., one that requires changes in the architecture of work processes) in software development organizations.  Using theories of conflict, coordination, and learning, we develop a model to explain peer-to-peer conflicts that are likely to accompany the introduction of disruptive technologies and how appropriately devised managerial interventions (e.g., coordination mechanisms and organizational learning practices) can lessen these conflicts.  A study of software reuse programs in four organizations was conducted to assess the validity of the model.  Qualitative and quantitative analyses of the data obtained showed that companies that had implemented such managerial interventions experienced greater success with their software reuse programs.  Implications for theory and practice are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss2/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2764&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2764</articleid>
+<submission-date>2008-12-18T07:17:25-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683749</context-key>
+<submission-path>misq/vol30/iss2/8</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

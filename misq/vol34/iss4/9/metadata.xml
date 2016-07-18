@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Improving Employees&#39; Compliance Through Information Systems Security Training:  An Action Research Study</title>
+<publication-date>2010-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>petri.puhakainen@oulu.fi</email>
+<institution>University of Oulu</institution>
+<lname>Puhakainen</lname>
+<fname>Petri</fname>
+</author>
+<author>
+<email>mikko.t.siponen@jyu.fi</email>
+<institution>University of Oulu, Finland</institution>
+<lname>Siponen</lname>
+<fname>Mikko</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS security</keyword>
+<keyword>IS security training</keyword>
+<keyword>employees’ compliance with security policies</keyword>
+</keywords>
+<abstract>&lt;p&gt;Employee noncompliance with information systems security policies is a key concern for organizations.  If users do not comply with IS security policies, security solutions lose their efficacy.  Of the different IS security policy compliance approaches, training is the most commonly suggested in the literature.  Yet, few of the existing studies about training to promote IS policy compliance utilize theory to explain what learning principles affect user compliance with IS security policies, or offer empirical evidence of their practical effectiveness.  Consequently, there is a need for IS security training approaches that are theory-based and empirically evaluated.  Accordingly, we propose a training program based on two theories:  the universal constructive instructional theory and the elaboration likelihood model.  We then validate the training program for IS security policy compliance training through an action research project.  The action research intervention suggests that the theory-based training achieved positive results and was practical to deploy.  Moreover, the intervention suggests that information security training should utilize contents and methods that activate and motivate the learners to systematic cognitive processing of information they receive during the training.  In addition, the action research study made clear that a continuous communication process was also required to improve user IS security policy compliance.  The findings of this study offer new insights for scholars and practitioners involved in IS security policy compliance.&lt;/p&gt;</abstract>
+<fpage>757</fpage>
+<lpage>778</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss4/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2933&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2933</articleid>
+<submission-date>2010-11-29T14:52:25-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1664581</context-key>
+<submission-path>misq/vol34/iss4/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IS Security Training and Employee Compliance</value>
+</field>
+</fields>
+</document>
+</documents>

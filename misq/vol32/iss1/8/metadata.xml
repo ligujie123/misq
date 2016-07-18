@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Giddens’s Structuration Theory and Information Systems Research</title>
+<publication-date>2008-10-10T12:26:28-07:00</publication-date>
+<authors>
+<author>
+<email>mrj10@cam.ac.uk</email>
+<institution>University of Cambridge</institution>
+<lname>Jones</lname>
+<fname>Matthew</fname>
+<mname>R.</mname>
+</author>
+<author>
+<email>eija.karsten@abo.fi</email>
+<institution>Abo Akademi</institution>
+<lname>Karsten</lname>
+<fname>Helena</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Structuration theory</keyword>
+<keyword>review</keyword>
+<keyword>IS research</keyword>
+</keywords>
+<abstract>&lt;p&gt;The work of the contemporary British sociologist Anthony Giddens, and in particular his structuration theory, has been widely cited by Information Systems researchers.  This paper presents a critical review of the work of Giddens and its application in the Information Systems field.  Following a brief overview of Giddens’s work as a whole, some key aspects of structuration theory are described, and their implications for Information Systems research discussed.  We then identify 331 Information Systems articles published between 1983 and 2004 that have drawn on Giddens’s work and analyze their use of structuration theory.  Based on this analysis a number of features of structurational research in the Information Systems field and its relationship to Giddens’s ideas are discussed.  These findings offer insight on Information Systems researchers’ use of social theory in general and suggest that there may be significant opportunities for the Information Systems field in pursuing structurational research that engages sympathetically, yet critically, with Giddens’s work.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss1/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2525&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2525</articleid>
+<submission-date>2008-10-09T14:35:20-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>647511</context-key>
+<submission-path>misq/vol32/iss1/8</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Jones, M. R., and Karsten, H.  2008.  &quot;Giddens&#39;s Structuration Theory and Information Systems Research,&quot; MIS Quarterly (32:1), pp. 127-157.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

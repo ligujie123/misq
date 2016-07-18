@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Investigating Two Contradictory Views of Formative Measurement in Information Systems Research</title>
+<publication-date>2010-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>gmkim@konyang.ac.kr</email>
+<institution>Konyang University</institution>
+<lname>Kim</lname>
+<fname>Gimun</fname>
+</author>
+<author>
+<email>bshin@mail.sdsu.edu</email>
+<institution>San Diego State University</institution>
+<lname>Shin</lname>
+<fname>Bongsik</fname>
+</author>
+<author>
+<email>vgrover@clemson.edu</email>
+<institution>Clemson University</institution>
+<lname>Grover</lname>
+<fname>Varun</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Formative measurement</keyword>
+<keyword>formative indicators</keyword>
+<keyword>measurement models</keyword>
+<keyword>measurement instability</keyword>
+<keyword>external consistency</keyword>
+<keyword>interpretational confounding</keyword>
+<keyword>information systems measures</keyword>
+</keywords>
+<abstract>&lt;p&gt;The use of formative measurement in the field of Information Systems has increased, arguably due to statistical tools (e.g., PLS) that can test such models.  However, in the literature, there exist two contradictory views on the potential deficiency of formative measurement.  While opponents who are critical of formative measurement argue that there are native weaknesses of the formative approach in model estimation, propo nents who are in favor of using formative measurement counter that opponents’ research methods in measurement model specification are flawed.  The goal of this work is to empirically test these opposing views on whether the alleged estimation instability of formative measurement is due to measurement model misspecification or simply the shortcoming of formative measurement.  To assess the integrity of arguments of both parties, we adopt a research design in which four different cases are tested in terms of interpretational confounding and external consistency.  We find that regardless of whether there is a specification issue, formative measures can lead to misleading outcomes.  Based on the results, we offer guidelines that researchers may adopt in planning and executing data analysis with structural equation modeling.  Given that the use of formative measurement is at a critical juncture in the IS field, we believe that the guidelines in this research note are important to promote appropriate use of the approach rather than relegate it to a bandwagon effect.&lt;/p&gt;</abstract>
+<fpage>345</fpage>
+<lpage>365</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol34/iss2/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2909&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2909</articleid>
+<submission-date>2010-06-23T13:48:08-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>1369999</context-key>
+<submission-path>misq/vol34/iss2/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2010-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Investigating Contradictory Views of Formative Measurement</value>
+</field>
+</fields>
+</document>
+</documents>

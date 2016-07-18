@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Real Options in Information Technology Risk Management:  An Empirical Validation of Risk-Option Relationships</title>
+<publication-date>2006-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Benaroch</lname>
+<fname>Michel</fname>
+</author>
+<author>
+<lname>Lichtenstein</lname>
+<fname>Yossi</fname>
+</author>
+<author>
+<lname>Robinson</lname>
+<fname>Karl</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IT investment</keyword>
+<keyword>risk</keyword>
+<keyword>real options</keyword>
+<keyword>risk management</keyword>
+</keywords>
+<abstract>&lt;p&gt;Recently, an option-based risk management (OBRiM) framework has been proposed to control risk and maximize value in IT-investment decisions. While the framework is prescriptive in nature, its core logic rests on a set of normative risk-option mappings for choosing which particular real options to embed in an investment in order to control specific risks. This study tests empirically whether these mappings are observed in practice. The research site is a large Irish financial services organization with well established IT risk management practices not tied to any real options framework. Our analysis of the risk management plans developed for a broad portfolio of 50 IT investments finds ample empirical support for OBRiM’s risk-option mappings. This shows that IT managers follow the logic of option-based risk management, though purely based on intuition. Unfortunately, reliance on this logic based on intuition alone could lead to suboptimal or counterproductive risk management practices. We therefore argue that managerial intuition ought to be supplemented with the use of formal real option models, which allow for better quantitative insights into which risk mitigations to pursue and combine in order to effectively address the risks most worth controlling.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss4/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2671&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2671</articleid>
+<submission-date>2008-12-11T11:19:17-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>680505</context-key>
+<submission-path>misq/vol30/iss4/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

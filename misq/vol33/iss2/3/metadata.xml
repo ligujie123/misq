@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Whom Are We Informing?  Issues and Recommendations for MIS Research from an Informing Science Perspective</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>ggill@coba.usf.edu</email>
+<institution>University of South Florida</institution>
+<lname>Gill</lname>
+<fname>Grandon</fname>
+</author>
+<author>
+<email>abhatt@coba.usf.edu</email>
+<institution>University of South Florida</institution>
+<lname>Bhattacherjee</lname>
+<fname>Anol</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Management information systems</keyword>
+<keyword>informing sciences</keyword>
+<keyword>practitioner</keyword>
+<keyword>rigor</keyword>
+<keyword>relevance</keyword>
+<keyword>resonance</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper provides an introspective assessment of the current state of management information systems as a research discipline using the “lens” of the informing sciences.  Based on this assessment, we observe that the degree to which MIS research is informing its key external clients— practitioners, students, and researchers in other disciplines— has declined over the years.  This problem is particularly acute with respect to informing practitioners.  Unfortunately, practitioner support may be critical in making up for lost resources caused by declining student enrollments.  Despite this dire prognostication, we believe that it is possible to reverse this trend.  Drawing upon cognitive science and diffusion of innovations research, we analyze the source of the problem and then present five recommendations aimed at leading MIS journals, scholars, and professional societies for improving the ability of MIS research to engage and inform its external clients.&lt;/p&gt;</abstract>
+<fpage>217</fpage>
+<lpage>235</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2849&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2849</articleid>
+<submission-date>2009-06-01T08:52:21-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860187</context-key>
+<submission-path>misq/vol33/iss2/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>MIS Research from an Informing Science Perspective</value>
+</field>
+</fields>
+</document>
+</documents>

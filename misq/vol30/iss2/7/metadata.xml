@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Plant Information Systems, Manufacturing Capabilities and Plant Performance</title>
+<publication-date>2006-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Banker</lname>
+<fname>Rajiv</fname>
+<mname>D.</mname>
+</author>
+<author>
+<lname>Bardhan</lname>
+<fname>Indranil</fname>
+<mname>R.</mname>
+</author>
+<author>
+<lname>Chang</lname>
+<fname>Hsihui</fname>
+</author>
+<author>
+<lname>Lin</lname>
+<fname>Shu</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Manufacturing capabilities</keyword>
+<keyword>information systems</keyword>
+<keyword>resource planning systems</keyword>
+<keyword>electronic data interchange</keyword>
+<keyword>just-in-time manufacturing</keyword>
+</keywords>
+<abstract>&lt;p&gt;Firms have been investing over $5 billion a year in recent years on new information technology and software in their manufacturing plants.  In this study, we develop a conceptual model based on the theory of dynamic capabilities to study how manufacturing plants realize improvements in plant performance by leveraging plant information systems to enable implementation of advanced manufacturing capabilities.  We develop hypotheses about relationships between information systems, their impact on manufacturing practices, and the overall impact on plant performance.  Analysis of survey data from 1,077 U.S. manufacturing plants provides empirical support for the dynamic capabilities model and suggests that manufacturing capabilities mediate the impact of information systems on plant performance.  Our results underscore the importance of manufacturing and organizational capabilities in studying the impact of IT on manufacturing plant productivity, and provide a sharper theoretical lens to evaluate their impact.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss2/7</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2763&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>7</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2763</articleid>
+<submission-date>2008-12-18T07:13:11-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683748</context-key>
+<submission-path>misq/vol30/iss2/7</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-06-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Academic Data Collection in Electronic Environments:  Defining Acceptable Use of Internet Resources</title>
+<publication-date>2006-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Allen</lname>
+<fname>Gove</fname>
+<mname>N.</mname>
+</author>
+<author>
+<lname>Burk</lname>
+<fname>Dan</fname>
+<mname>L.</mname>
+</author>
+<author>
+<lname>Davis</lname>
+<fname>Gordon</fname>
+<mname>B.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Internet</keyword>
+<keyword>research</keyword>
+<keyword>automated data collection</keyword>
+</keywords>
+<abstract>&lt;p&gt;Academic researchers access commercial websites to collect research data.  This research practice is likely to increase.  Is this appropriate?  Is this legal?  Such commercial websites are maintained to achieve business objectives; research access uses site resources for other purposes.  Website administrators may, therefore, deem academic data collection inappropriate.  Is there a process to make research access more open and acceptable to website owners and administrators?  These are significant issues.  This article clarifies the problems and suggests possible approaches to handle the issues with sensitivity and openness.  Research access to commercial websites may be manual (using a standard web browser) or automated (using automated data collection agents).  These approaches have different effects on websites.  Researchers using manual access tend to make a limited number of page requests because manual access is costly to perform.  Researchers using automated access methods can request large numbers of pages at a low cost.  Therefore, website administrators tend to view manual access and automated access very differently.  Because of the number of accesses and nonbusiness purpose, automated research requests for data are sometimes blocked by site administration using a variety of means (both technological and legal).  This paper details the pertinent legal issues including trespass, copyright violation, and breech of contract.  It also explains the nature of express and implied consent by site administration for research access.  Based on the issues presented, guidelines for researchers are proposed to reduce objections to research activities, to facilitate communication with website administration, and to achieve express or implied consent.  These include notification to website administration of intended automated research activity, description of the research project posted as a web page, and clear identification of automated requests for web pages.  In order to encourage good research practices with respect to automated data collection, suggestions are made with respect to disclosing methods used in research papers and for self regulation by academic associations.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2769&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2769</articleid>
+<submission-date>2008-12-18T07:40:44-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683757</context-key>
+<submission-path>misq/vol30/iss3/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

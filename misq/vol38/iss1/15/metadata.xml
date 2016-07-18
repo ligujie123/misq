@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>What’s Different about Social Media Networks?  A Framework and Research Agenda</title>
+<publication-date>2014-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>gerald.kane@bc.edu</email>
+<institution>Boston College</institution>
+<lname>Kane</lname>
+<fname>Gerald</fname>
+<mname>C</mname>
+</author>
+<author>
+<email>maryam.alavi@emory.edu</email>
+<institution>Emory University</institution>
+<lname>Alavi</lname>
+<fname>Maryam</fname>
+</author>
+<author>
+<email>joelabianca@gmail.com</email>
+<institution>University of Kentucky</institution>
+<lname>Labianca</lname>
+<fname>Giuseppe</fname>
+</author>
+<author>
+<email>sborgatti@uky.edu</email>
+<institution>University of Kentucky</institution>
+<lname>Borgatti</lname>
+<fname>Steve</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Social media</keyword>
+<keyword>social network analysis</keyword>
+<keyword>theory</keyword>
+<keyword>blog</keyword>
+<keyword>wiki</keyword>
+<keyword>networks</keyword>
+<keyword>framework</keyword>
+<keyword>research agenda</keyword>
+<keyword>knowledge management</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;In recent years, we have witnessed the rapid proliferation and widespread adoption of a new class of information technologies, commonly known as social media.  Researchers often rely on social network analysis (SNA) when attempting to understand these technologies, often without considering how the novel capabilities of social media platforms might affect the underlying theories of SNA, which were developed primarily through studies of offline social networks.  This article outlines several key differences between traditional offline social networks and online social media networks by juxtaposing an established typology of social network research with a well-regarded definition of social media platforms that articulates four key features.  The results show that at four major points of intersection, social media has considerable theoretical implications for SNA.  In exploring these points of intersection, this study outlines a series of theoretically distinct research questions for SNA in social media contexts.  These points of intersection offer considerable opportunities for researchers to investigate the theoretical implications introduced by social media and lay the groundwork for a robust social media agenda potentially spanning multiple disciplines.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>275</fpage>
+<lpage>304</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss1/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3167&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3167</articleid>
+<submission-date>2014-03-03T10:05:03-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5253284</context-key>
+<submission-path>misq/vol38/iss1/15</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-03-03T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-03-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>A Framework and Research Agenda for Social Media Networks</value>
+</field>
+</fields>
+</document>
+</documents>

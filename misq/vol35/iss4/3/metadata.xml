@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Network Effects:  The Influence of Structural Capital on Open Source Project Success</title>
+<publication-date>2011-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>psidhu@cmu.edu</email>
+<institution>Carnegie Mellon University</institution>
+<lname>Vir Singh</lname>
+<fname>Param</fname>
+</author>
+<author>
+<email>YTAN@U.WASHINGTON.EDU</email>
+<institution>University of Washington</institution>
+<lname>Tan</lname>
+<fname>Yong</fname>
+</author>
+<author>
+<email>vijaym@utdallas.edu</email>
+<institution>University of Texas at Dallas</institution>
+<lname>Mookerjee</lname>
+<fname>Vijay</fname>
+<mname>M.</mname>
+</author>
+</authors>
+<subject-areas>
+<subject-area>Research Article</subject-area>
+</subject-areas>
+<keywords>
+<keyword>Social networks</keyword>
+<keyword>open source software development</keyword>
+<keyword>cohesion</keyword>
+<keyword>project success</keyword>
+<keyword>team composition</keyword>
+</keywords>
+<abstract>&lt;p&gt;What determines the success of open source projects? In this study, we investigate the impact of &lt;strong&gt;network social capital&lt;/strong&gt; on open source project success. We define network social capital as the benefits open source developers secure from their membership in developer collaboration networks. We focus on one specific type of success as measured by the rate of knowledge creation in an open source project. Specific hypotheses are developed and tested using a longitudinal panel of 2,378 projects hosted at SourceForge. We find that network social capital is not equally accessible to or appropriated by all projects. Our main results are as follows. First, projects with greater &lt;strong&gt;internal cohesion&lt;/strong&gt; (that is, cohesion among the project members) are more successful. Second, &lt;strong&gt;external cohesion&lt;/strong&gt; (that is, cohesion among the external contacts of a project) has an inverse U-shaped relationship with the project’s success; moderate levels of external cohesion are best for a project’s success rather than very low or very high levels. Third, the &lt;strong&gt;technological diversity&lt;/strong&gt; of the external network of a project also has the greatest benefit when it is neither too low nor too high. Fourth, the number of direct and indirect external contacts positively affects a project’s success such that the effect of the number of direct contacts is moderated by the number of indirect contacts. These results are robust to several control variables and alternate model specifications. Several theoretical and managerial implications are provided.&lt;/p&gt;</abstract>
+<fpage>813</fpage>
+<lpage>829</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol35/iss4/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2983&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2983</articleid>
+<submission-date>2011-12-01T08:56:24-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2382311</context-key>
+<submission-path>misq/vol35/iss4/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2011-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Influence of Structural Capital on Open Source Projects</value>
+</field>
+</fields>
+</document>
+</documents>

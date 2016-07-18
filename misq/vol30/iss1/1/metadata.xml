@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Necessary Changes</title>
+<publication-date>2006-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Saunders</lname>
+<fname>Carol</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss1/1</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2779&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>1</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2779</articleid>
+<submission-date>2008-12-18T11:00:42-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683872</context-key>
+<submission-path>misq/vol30/iss1/1</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+<supplemental-files>
+<file>
+<archive-name>V30I1EditorComments.mp3</archive-name>
+<upload-name>V30I1EditorComments.mp3</upload-name>
+<url>http://aisel.aisnet.org/cgi/viewcontent.cgi?filename=0&amp;amp;article=2779&amp;amp;context=misq&amp;amp;type=additional</url>
+<mime-type>audio/mpeg</mime-type>
+<description>V30I1EditorComments.mp3</description>
+</file>
+</supplemental-files>
+</document>
+</documents>

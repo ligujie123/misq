@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Critical Realism in Information Systems Research</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>j.mingers@kent.ac.uk</email>
+<institution>University of Kent</institution>
+<lname>Mingers</lname>
+<fname>John</fname>
+</author>
+<author>
+<email>alistair.mutch@ntu.ac.uk</email>
+<institution>Nottingham Trent University</institution>
+<lname>Mutch</lname>
+<fname>Alistair</fname>
+</author>
+<author>
+<email>L.P.Willcocks@lse.ac.uk</email>
+<institution>Information Systems and Innovation Group London School of Economics United Kingdom</institution>
+<lname>Willcocks</lname>
+<fname>Leslie</fname>
+</author>
+</authors>
+<abstract>&lt;p&gt;There has been growing interest in a range of disciplines (Ackroyd and Fleetwood 2000; Danermark et al. 2002; Fleetwood 1999; Fleetwood and Ackroyd 2004), not least information systems (Dobson 2001; Longshore Smith 2006; Mingers 2004b; Mutch 2010b; Volkoff et al. 2007; Wynn and Williams 2012) in ideas derived from the philosophical tradition of critical realism.  Critical realism offers exciting prospects in shifting attention toward the real problems that we face and their underlying causes, and away from a focus on data and methods of analysis.  As such, it offers a robust framework for the use of a variety of methods in order to gain a better understanding of the meaning and significance of information systems in the contemporary world.&lt;/p&gt;</abstract>
+<fpage>795</fpage>
+<lpage>802</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/8</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3120&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>8</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3120</articleid>
+<submission-date>2013-08-15T08:00:22-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440297</context-key>
+<submission-path>misq/vol37/iss3/8</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Introduction:  Critical Realism in Information Systems Research</value>
+</field>
+</fields>
+</document>
+</documents>

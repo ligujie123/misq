@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Model of Acceptance with Peer Support:  A Social Network Perspective to Understand Employees&#39; System Use</title>
+<publication-date>2009-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>tracy@tracyannsykes.com</email>
+<institution>University of Arkansas</institution>
+<lname>Sykes</lname>
+<fname>Tracy</fname>
+<mname>Ann</mname>
+</author>
+<author>
+<email>vvenkatesh@vvenkatesh.us</email>
+<institution>University of Arkansas</institution>
+<lname>Venkatesh</lname>
+<fname>Viswanath</fname>
+</author>
+<author>
+<email>gosain@gmail.com</email>
+<institution>The Capital Group Companies</institution>
+<lname>Gosain</lname>
+<fname>Sanjay</fname>
+</author>
+</authors>
+<keywords>
+<keyword>TAM</keyword>
+<keyword>UTAUT</keyword>
+<keyword>social networks</keyword>
+<keyword>behavioral intention</keyword>
+<keyword>system use</keyword>
+<keyword>network centrality</keyword>
+<keyword>network density</keyword>
+</keywords>
+<abstract>&lt;p&gt;Prior research has extensively studied individual adoption and use of information systems, primarily using beliefs as predictors of behavioral intention to use a system that in turn predicts system use.  We propose a model of acceptance with peer support (MAPS) that integrates prior individual-level research with social networks constructs.   We argue that an individual’s embeddedness in the social network of the organizational unit implementing a new information system can enhance our understanding of technology use.  An individual’s coworkers can be important sources of help in overcoming knowledge barriers constraining use of a complex system, and such interactions with others can determine an employee’s ability to influence eventual system configuration and features.  We incorporate network density (reflecting “get-help” ties for an employee) and network centrality (reflecting “give-help” ties for an employee), drawn from prior social network research, as key predictors of system use.  Further, we conceptualize valued network density and valued network centrality, both of which take into account ties to those with relevant system-related information, knowledge, and resources, and employ them as additional predictors.  We suggest that these constructs together are coping and influencing pathways by which they have an effect on system use.  We conducted a 3-month long study of 87 employees in one business unit in an organization.  The results confirmed our theory that social network constructs can significantly enhance our understanding of system use over and above predictors from prior individual-level adoption research.&lt;/p&gt;</abstract>
+<fpage>371</fpage>
+<lpage>393</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol33/iss2/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2856&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2856</articleid>
+<submission-date>2009-06-01T09:23:41-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>860222</context-key>
+<submission-path>misq/vol33/iss2/9</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2009-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Model of Acceptance with Peer Support</value>
+</field>
+</fields>
+</document>
+</documents>

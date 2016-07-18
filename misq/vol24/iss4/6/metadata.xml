@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Data Warehousing Supports Corporate Strategy at First American Corporation</title>
+<publication-date>2000-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Cooper</lname>
+<fname>Brian</fname>
+<mname>L.</mname>
+</author>
+<author>
+<lname>Watson</lname>
+<fname>Hugh</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>Wixom</lname>
+<fname>Barbara</fname>
+<mname>H.</mname>
+</author>
+<author>
+<lname>Goodhue</lname>
+<fname>Dale</fname>
+<mname>L.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;From 1990 through 1998, First American Corporation (FAC) changed its corporate strategy from a traditional banking approach to a customer relationship-oriented strategy that placed FAC’s customers at the center of all aspects of the company’s operations.  The transformation made FAC an innovative leader in the financial services industry.  This case study describes FAC’s transformation and the way in which a data warehouse called VISION helped make it happen.  FAC’s experiences suggest lessons for managers who plan to use technology to support changes that are designed to significantly improve organizational performance.  In addition, they raise interesting questions about the means by which information technology can be used to gain competitive advantage.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol24/iss4/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2604&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2604</articleid>
+<submission-date>2008-12-09T06:42:31-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678489</context-key>
+<submission-path>misq/vol24/iss4/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2000-12-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

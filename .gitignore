@@ -1,0 +1,11 @@
+
+#misq
+*.pdf
+
+
+#python
+/_pycache_/
+
+
+#ipython
+/ipython_checkpoints

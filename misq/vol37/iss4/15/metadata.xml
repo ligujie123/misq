@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Spurring Impactful Research on Information Systems for Environmental Sustainability</title>
+<publication-date>2013-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>malhotra@unc.edu</email>
+<institution>UNC Chapel Hill, Chapel Hill, NC, United States.</institution>
+<lname>Malhotra</lname>
+<fname>Arvind</fname>
+</author>
+<author>
+<email>npmelv@umich.edu</email>
+<institution>University of Michigan</institution>
+<lname>Melville</lname>
+<fname>Nigel</fname>
+</author>
+<author>
+<email>rwatson@uga.edu</email>
+<institution>Terry College of Business University of Georgia</institution>
+<lname>Watson</lname>
+<fname>Richard T.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Special Issue:  IS &amp; Environmental Sustainability</keyword>
+</keywords>
+<abstract>&lt;p&gt;As the future of our ecosystem and society hangs in delicate balance, sustainability issues have come to the societal and governmental forefront.  Organizations, governments, and cross-national bodies are turning their attention to the question of &lt;em&gt;how we can make the world a better place&lt;/em&gt;. Sustainability is a complex term that can encompass environmental, economic, and societal issues.  In essence, sustainability is conservation, deployment, and reuse of resources in responsible ways.  From an organizational perspective, sustainability has been widely operationalized as endeavoring to achieve societal goals within commercial goals in such a way as to optimize social, environmental, and economic dimensions simultaneously—rather than these goals being treated as trade-offs (Porter and Kramer 2006).&lt;/p&gt;
+&lt;p&gt;In terms of environmental sustainability, IS applications for good citizenship or to mitigate harmful value chain activities abound.  Such responsive information systems for environmental sustainability include a large technology consulting company launching a smart city online simulation to raise awareness of climate and energy issues and to drive engagement.  Another example is a logistics firm that has improved safety, lowered emissions, and cut maintenance expenses by gathering route data every day for every truck and analyzing these data streams (Watson, Boudreau, Li, and Levis 2010). This system complements its package-flow software, which  determines the most sustainable delivery routes by limiting left-hand turns for its drivers, resulting in a reduction of three million gallons of gas usage and 32,000 metric tons of CO&lt;sub&gt;2&lt;/sub&gt; emissions (Washburn et al. 2009).  Going beyond responsiveness, &quot;strategic&quot; IS for environmental sustainability allow companies to proactively transform value chain activities to benefit society both economically and environmentally.  Such applications may also confer upon companies the ability to create and leverage strategic differentiation capabilities based on socioeconomic and environmental issues.  For example, a large software firm uses its energy and carbon management software to enable a sustainability transformation internally, while also marketing the software externally, thereby giving it a competitive advantage in the marketplace.&lt;/p&gt;
+&lt;p&gt;Thus far, our narrative could be describing any new organizational opportunity or problem and an IS response—from environmental resource planning systems for integrating disparate islands of information in the 1990s to social media for enabling collaboration in the networked era.  So what is new here?  It is this:  The challenge of climate change poses enormous and widespread risk to people, societies, and the natural environment.  The threat is real.  The threat is colossal.  And the threat is ever increasing.  This is the challenge of great urgency.&lt;/p&gt;</abstract>
+<fpage>1265</fpage>
+<lpage>1274</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss4/15</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3139&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>15</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3139</articleid>
+<submission-date>2013-12-02T09:31:59-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4864640</context-key>
+<submission-path>misq/vol37/iss4/15</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-12-02T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Foreword:  Informatoin Systems and Environmental Sustainability</value>
+</field>
+</fields>
+</document>
+</documents>

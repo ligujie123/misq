@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Technology Impacts on Firm Performance:  An Extension of Kohli and Devaraj (2003)</title>
+<publication-date>2015-12-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<email>rsabherwal@walton.uark.edu</email>
+<institution>University of Arkansas</institution>
+<lname>Sabherwal</lname>
+<fname>Rajiv</fname>
+</author>
+<author>
+<email>anand.jeyaraj@wright.edu</email>
+<institution>Wright State University</institution>
+<lname>Jeyaraj</lname>
+<fname>Anand</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Information technology</keyword>
+<keyword>business value of information technology</keyword>
+<keyword>firm performance</keyword>
+<keyword>meta-analysis</keyword>
+<keyword>investment</keyword>
+<keyword>payoff</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;Despite the importance of investing in information technology, research on business value of information technology (BVIT) shows contradictory results, raising questions about the reasons for divergence. Kohli and Devaraj (2003) provided valuable insights into this issue based on a meta-analysis of 66 BVIT studies. This paper extends Kohli and Devaraj by examining the influences on BVIT through a meta-analysis of 303 studies published between 1990 and 2013. We found that BVIT increases when the study does not consider IT investment, does not use profitability measure of value, and employs primary data sources, fewer IT-related antecedents, and larger sample size. Considerations of IT alignment, IT adoption and use, and interorganizational IT strengthen the relationship between IT investment on BVIT, whereas the focus on environmental theories dampens the same relationship. However, the use of productivity measures of value, the number of dependent variables, the economic region, the consideration of IT assets and IT infrastructure or capability, and the consideration of IT sophistication do not affect BVIT. Finally, BVIT increases over time with IT progress. Implications for future research and practice are discussed.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>809</fpage>
+<lpage>836</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol39/iss4/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3262&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3262</articleid>
+<submission-date>2015-11-19T08:32:34-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>7862478</context-key>
+<submission-path>misq/vol39/iss4/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2015-11-19T00:00:00-08:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2015-12-01T00:00:00-08:00</value>
+</field>
+<field name="short_title" type="string">
+<value>IT Impacts on Firm Performance</value>
+</field>
+</fields>
+</document>
+</documents>

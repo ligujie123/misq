@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>A Design Theory for Systems That Support Emergent Knowledge Processes</title>
+<publication-date>2002-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Markus</lname>
+<fname>M.</fname>
+<mname>Lynne</mname>
+</author>
+<author>
+<lname>Majchrzak</lname>
+<fname>Ann</fname>
+</author>
+<author>
+<lname>Gasser</lname>
+<fname>Les</fname>
+</author>
+</authors>
+<keywords>
+<keyword>IS design theory</keyword>
+<keyword>IS development</keyword>
+<keyword>emergent knowledge process</keyword>
+<keyword>knowledge management</keyword>
+</keywords>
+<abstract>&lt;p&gt;This paper addresses the design problem of providing IT support for emerging knowledge processes (EKPs). EKPs are organizational activity patterns that exhibit three characteristics in combination:  an emergent process of deliberations with no best structure or sequence; requirements for knowledge that are complex (both general and situational), distributed across people, and evolving dynamically; and an actor set that is unpredictable in terms of job roles or prior knowledge.  Examples of EKPs include basic research, new product development, strategic business planning, and organization design.  EKPs differ qualitatively from semi-structured decision making processes; therefore, they have unique requirements that are not all thoroughly supported by familiar classes of systems, such as executive information systems, expert systems, electronic communication systems, organizational memory systems, or repositories.  Further, the development literature on familiar classes of systems does not provide adequate guidance on how to build systems that support EKPs.  Consequently, EKPs require a new IS design theory, as explicated by Walls et al. (1992).   We created such a theory while designing and deploying a system for the EKP of organization design.  The system was demonstrated through subsequent empirical analysis to be successful in supporting the process.  Abstracting from the experience of building this system, we developed an IS design theory for EKP support systems.  This new IS design theory is an important theoretical contribution, because it both provides guidance to developers and sets an agenda for academic research.  EKP design theory makes the development process more tractable for developers by restricting the range of effective features (or rules for selecting features) and the range of effective development practices to a more manageable set.  EKP design theory also sets an agenda for academic research by articulating theory-based principles that are subject to empirical, as well as practical, validation.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2631&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2631</articleid>
+<submission-date>2008-12-10T12:03:58-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>679611</context-key>
+<submission-path>misq/vol26/iss3/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Influence of IT Management Practice on IT Use in Large Organizations</title>
+<publication-date>1994-12-31T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Boynton</lname>
+<fname>Andrew</fname>
+</author>
+<author>
+<lname>Zmud</lname>
+<fname>Robert</fname>
+</author>
+<author>
+<lname>Jacobs</lname>
+<fname>Gerry</fname>
+</author>
+</authors>
+<coverpage-url>http://aisel.aisnet.org/misq/vol18/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2238&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2238</articleid>
+<submission-date>2008-08-18T13:20:56-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>584548</context-key>
+<submission-path>misq/vol18/iss3/4</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1994-12-31T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

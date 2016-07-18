@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>On Product Uncertainty in Online Markets:  Theory and Evidence</title>
+<publication-date>2012-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>angelika@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Dimoka</lname>
+<fname>Angelika</fname>
+</author>
+<author>
+<email>hong@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Hong</lname>
+<fname>Yili</fname>
+</author>
+<author>
+<email>pavlou@temple.edu</email>
+<institution>Temple University</institution>
+<lname>Pavlou</lname>
+<fname>Paul</fname>
+<mname>A.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Product uncertainty</keyword>
+<keyword>information signals</keyword>
+<keyword>price premiums</keyword>
+<keyword>online auction markets</keyword>
+<keyword>eBay Motors</keyword>
+</keywords>
+<abstract>&lt;p&gt;Online markets pose a difficulty for evaluating products, particularly experience goods, such as used cars, that cannot be easily described online.  This exacerbates product uncertainty, the buyer’s difficulty in evaluating product characteristics, and predicting how a product will perform in the future.  However, the IS literature has focused on seller uncertainty and ignored product uncertainty.  To address this void, this study conceptualizes product uncertainty and examines its effects and antecedents in online markets for used cars (eBay Motors).&lt;/p&gt;
+&lt;p&gt;Extending the information asymmetry literature from the seller to the product, we first theorize the nature and dimensions (description and performance) of product uncertainty.  Second, we propose product uncertainty to be distinct from, yet shaped by, seller uncertainty.  Third, we conjecture product uncertainty to negatively affect price premiums in online markets beyond seller uncertainty.  Fourth, based on the information signaling literature, we describe how information signals (diagnostic product descriptions and third-party product assurances) reduce product uncertainty.&lt;/p&gt;
+&lt;p&gt;The structural model is validated by a unique dataset comprised of secondary transaction data from used cars on eBay Motors matched with primary data from 331 buyers who bid on these used cars.  The results distinguish between product and seller uncertainty, show that product uncertainty has a stronger effect on price premiums than seller uncertainty, and identify the most influential information signals that reduce product uncertainty.&lt;/p&gt;
+&lt;p&gt;The study’s implications for the emerging role of product uncertainty in online markets are discussed.&lt;/p&gt;</abstract>
+<fpage>395</fpage>
+<lpage>426</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss2/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3029&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3029</articleid>
+<submission-date>2012-05-25T09:20:05-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>2915257</context-key>
+<submission-path>misq/vol36/iss2/6</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-05-25T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Product Uncertainty in Online Markets</value>
+</field>
+</fields>
+</document>
+</documents>

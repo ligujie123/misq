@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Nature of Theory in Information Systems</title>
+<publication-date>2006-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<lname>Gregor</lname>
+<fname>Shirley</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Theory</keyword>
+<keyword>theory taxonomy</keyword>
+<keyword>theory structure</keyword>
+<keyword>information systems discipline</keyword>
+<keyword>philosophy of science</keyword>
+<keyword>philosophy of social sciences</keyword>
+<keyword>interpretivist theory</keyword>
+<keyword>design theory</keyword>
+<keyword>design science</keyword>
+<keyword>explanation</keyword>
+<keyword>prediction</keyword>
+<keyword>causality</keyword>
+<keyword>generalization</keyword>
+</keywords>
+<abstract>&lt;p&gt;The aim of this research essay is to examine the structural nature of theory in information systems.  Despite the importance of theory, questions relating to its form and structure are neglected in comparison with questions relating to epistemology.  The essay addresses issues of causality, explanation, prediction, and generalization that underlie an understanding of theory.  A taxonomy is proposed that classifies information systems theories with respect to the manner in which four central goals are addressed:  analysis, explanation, prediction, and prescription.  Five interrelated types of theory are distinguished:  (1) theory for analyzing, (2) theory for explaining, (3) theory for predicting, (4) theory for explaining and predicting, and (5) theory for design and action.  Examples illustrate the nature of each theory type.  The applicability of the taxonomy is demonstrated by classifying a sample of journal articles.  The paper contributes by showing that multiple views of theory exist and by exposing the assumptions underlying different viewpoints.  In addition, it is suggested that the type of theory under development can influence the choice of an epistemological approach.  Support is given for the legitimacy and value of each theory type.  The building of integrated bodies of theory that encompass all theory types is advocated.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol30/iss3/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2771&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2771</articleid>
+<submission-date>2008-12-18T07:50:33-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>683760</context-key>
+<submission-path>misq/vol30/iss3/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2006-09-01T00:00:00-07:00</value>
+</field>
+</fields>
+</document>
+</documents>

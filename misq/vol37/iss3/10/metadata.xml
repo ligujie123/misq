@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Critical Realism and Affordances:  Theorizing IT-Associated Organizational Change Processes</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>ovolkoff@sfu.ca</email>
+<institution>Simon Fraser University</institution>
+<lname>Volkoff</lname>
+<fname>Olga</fname>
+</author>
+<author>
+<email>dstrong@wpi.edu</email>
+<institution>Worcester Polytechnic Institute</institution>
+<lname>Strong</lname>
+<fname>Diane</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Affordance</keyword>
+<keyword>critical realism</keyword>
+<keyword>generative mechanism</keyword>
+<keyword>organizational change</keyword>
+<keyword>case study</keyword>
+</keywords>
+<abstract>&lt;p&gt;Convincing arguments for using critical realism as an underpinning for theories of IT-associated organizational change have appeared in the Information Systems literature. A central task in developing such theories is to uncover the generative mechanisms by which IT is implicated in organizational change processes, but to do so, we must explain how critical realism’s concept of generative mechanisms applies in an IS context. Similarly, convincing arguments have been made for using Gibson’s (1986) affordance theory from ecological psychology for developing theories of IT-associated organizational change, but this effort has been hampered due to insufficient attention to the ontological status of affordances. In this paper, we argue that affordances are the generative mechanisms we need to specify and explain how affordances are a specific type of generative mechanism. We use the core principles of critical realism to argue how affordances arise in the real domain from the relation between the complex assemblages of organizations and of IT artifacts, how affordances are actualized over time by organizational actors, and how these actualizations lead to the various effects we observe in the empirical domain. After presenting these arguments, we reanalyze two published cases in the literature, those of ACRO and Autoworks, to illustrate how affordance-based theories informed by critical realism enhance our ability to explain IT-associated organizational change. These examples show how researchers using this approach should proceed, and how managers can use these ideas to diagnose and address IT implementation problems.&lt;/p&gt;</abstract>
+<fpage>819</fpage>
+<lpage>834</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/10</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3122&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>10</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3122</articleid>
+<submission-date>2013-08-15T08:43:24-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440608</context-key>
+<submission-path>misq/vol37/iss3/10</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Critical Realism and Affordances</value>
+</field>
+</fields>
+</document>
+</documents>

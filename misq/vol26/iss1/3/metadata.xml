@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Information Systems as a Reference Discipline</title>
+<publication-date>2002-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Baskerville</lname>
+<fname>Richard</fname>
+<mname>L.</mname>
+</author>
+<author>
+<lname>Myers</lname>
+<fname>Michael</fname>
+<mname>D.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Computing reference disciplines</keyword>
+<keyword>research tradition</keyword>
+<keyword>knowledge networks</keyword>
+<keyword>diffusion of research</keyword>
+<keyword>IS research agenda</keyword>
+<keyword>IS research issues</keyword>
+<keyword>future of IS.</keyword>
+</keywords>
+<abstract>&lt;p&gt;The conventional wisdom amongst information systems (IS) researchers is that information systems is an applied discipline drawing upon other, more fundamental, reference disciplines. These reference disciplines are seen as having foundational value for IS. We believe that it is time to question the conventional wisdom. We agree that many disciplines are relevant for IS researchers, but we suggest a re-think of the idea of “reference disciplines” for IS. In a sense, IS has come of age. Perhaps the time has come for IS to become a reference discipline for others.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol26/iss1/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2622&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2622</articleid>
+<submission-date>2008-12-09T10:48:42-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>678689</context-key>
+<submission-path>misq/vol26/iss1/3</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2002-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

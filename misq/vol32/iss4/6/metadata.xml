@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Design Science in the Information Systems Discipline:  An Introduction to the Special Issue on Design Science Research</title>
+<publication-date>2008-11-05T11:04:05-08:00</publication-date>
+<authors>
+<author>
+<email>sal.march@owen.vanderbilt.edu</email>
+<institution>Vanderbilt University</institution>
+<lname>March</lname>
+<fname>Salvatore</fname>
+<mname>T.</mname>
+</author>
+<author>
+<email>vstorey@gsu.edu</email>
+<institution>Georgia State University</institution>
+<lname>Storey</lname>
+<fname>Veda</fname>
+<mname>C.</mname>
+</author>
+</authors>
+<abstract>&lt;p&gt;Design is fundamental to the information systems discipline. IS professionals are engaged in the design and implementation of information technology artifacts aimed at improving the performance of business organizations.  Business managers commonly view performance through an economic lens, defining the overall goal as the maximization of firm value; that is, the long-term profit of the firm.  These managers understandably ask questions such as:  “Why do investments in IT artifacts often not result in an increase in firm value?” and “What IT artifacts will do so?”  The first is a theory-based, causal-related question.  The second is a design-based, problem-solving question.  Each represents a critical class of research questions in the IS discipline.&lt;/p&gt;
+&lt;p&gt;Answering the first question requires an understanding of phenomena that occur at the intersection of organizations, people, and information technologies—the locus of the information systems discipline (Lee 1999).  Researchers addressing it develop and justify theories that provide deep principled explanations of these phenomena.  Such theories aim to explain what happened, why it happened, and possibly to predict what will happen within a given context.  It is the focus of much of the research published in the IS literature.&lt;/p&gt;
+&lt;p&gt;While such theories may be strictly explanatory in nature, their relevancy and value are determined by the degree to which they enable managers to design work-systems that improve organizational performance (Alter 2003; Benbasat and Zmud 1999).  This is the focus of the second question.  Answering it is fundamentally a design task that requires, “shaping artifacts and events to create a more desirable future” (Boland 2002).  Researchers addressing it build and evaluate IT artifacts that extend the boundaries of known applications of IT, addressing important problems heretofore not thought to be amenable to computational approaches (Hevner et al. 2004; Markus et al. 2002; Walls et al. 1992).  This is the focus of design science research in information systems and of this special issue.&lt;/p&gt;</abstract>
+<fpage>725</fpage>
+<lpage>730</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss4/6</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2573&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>6</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2573</articleid>
+<submission-date>2008-11-05T09:59:11-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>661399</context-key>
+<submission-path>misq/vol32/iss4/6</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>

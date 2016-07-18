@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Digital Innovation as a Fundamental and Powerful Concept in the Information Systems Curriculum</title>
+<publication-date>2014-06-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>fichman@bc.edu</email>
+<institution>Boston College</institution>
+<lname>Fichman</lname>
+<fname>Robert</fname>
+<mname>G</mname>
+</author>
+<author>
+<email>brian@louisville.edu</email>
+<institution>University of Louisville</institution>
+<lname>Dos Santos</lname>
+<fname>Brian</fname>
+<mname>L.</mname>
+</author>
+<author>
+<email>ericz@utdallas.edu</email>
+<institution>University of Texas at Dallas</institution>
+<lname>Zheng</lname>
+<fname>Zhiqiang (Eric)</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Fundamental and powerful concepts (FPC)</keyword>
+<keyword>digital innovation</keyword>
+<keyword>IS core course</keyword>
+<keyword>pedagogy</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The 50-year march of Moore’s Law has led to the creation of a relatively &lt;/em&gt;cheap and increasingly easy-to-use world-wide digital infrastructure of computers, mobile devices, broadband network connections, and advanced application platforms.  This digital infrastructure has, in turn, accelerated the emergence of new technologies that enable transformations in how we live and work, how companies organize, and the structure of entire industries.&lt;/p&gt;
+&lt;p&gt;As a result, it has become important for all business students to have a strong grounding in IT and digital innovation in order to manage, lead, and transform organizations that are increasingly dependent on digital innovation.  Yet, at many schools, students do not get such grounding because the required information systems core class is stuck in the past.  We present a vision for a redesigned IS core class that adopts digital innovation as a fundamental and powerful concept (FPC).  A good FPC serves as both a foundational concept and an organizing principle for a course.&lt;/p&gt;
+&lt;p&gt;We espouse a particularly broad conceptualization of digital innovation that allows for a variety of teaching styles and topical emphases for the IS core class.  This conceptualization includes three &lt;strong&gt;types&lt;/strong&gt; of innovation (i.e., process, product, and business model innovation), and four &lt;strong&gt;stages&lt;/strong&gt; for the overall innovation process (i.e., discovery, development, diffusion, and impact).  Based on this conceptualization, we examine the implications of adopting digital innovation as an FPC.  We also briefly discuss broader implications relating to (1)　the IS curriculum beyond the core class, (2)　the research agenda for the IS field, and (3)　the identity and legitimacy of IS in business schools.&lt;/p&gt;</abstract>
+<fpage>329</fpage>
+<lpage>353</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol38/iss2/3</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3171&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3171</articleid>
+<submission-date>2014-05-28T07:48:46-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>5626728</context-key>
+<submission-path>misq/vol38/iss2/3</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2014-05-28T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2014-06-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Digital Innovation in the Information Systems Curriculum</value>
+</field>
+</fields>
+</document>
+</documents>

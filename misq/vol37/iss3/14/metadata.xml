@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>The Generative Mechanisms of Digital Infrastructure Evolution</title>
+<publication-date>2013-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>ola.henfridsson@wbs.ac.uk</email>
+<institution>The University of Warwick</institution>
+<lname>Henfridsson</lname>
+<fname>Ola</fname>
+</author>
+<author>
+<email>bendik.bygstad@nith.no</email>
+<institution>Norwegian School of IT</institution>
+<lname>Bygstad</lname>
+<fname>Bendik</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Digital infrastructure</keyword>
+<keyword>case study</keyword>
+<keyword>case survey</keyword>
+<keyword>configuration theory</keyword>
+<keyword>critical realism</keyword>
+<keyword>generative mechanism</keyword>
+<keyword>information infrastructure</keyword>
+<keyword>multimethod</keyword>
+<keyword>adoption</keyword>
+<keyword>innovation</keyword>
+<keyword>scaling</keyword>
+</keywords>
+<abstract>&lt;p&gt;&lt;em&gt;The current literature on digital infrastructure offers powerful lenses for conceptualizing the increasingly interconnected information system collectives found in contemporary organizations.  However, little attention has been paid to the generative mechanisms of digital infrastructure, that is, the causal powers that explain how and why such infrastructure evolves over time.  This is unfortunate, since more knowledge about what drives digital infrastructures would be highly valuable for managers and IT professionals confronted by the complexity of managing them.  To this end, this paper adopts a critical realist view for developing a configurational perspective of infrastructure evolution.  Our theorizing draws on a multimethod research design comprising an in-depth case study and a case survey.  The in-depth case study, conducted at a Scandinavian airline, distinguishes three key mechanisms of digital infrastructure evolution:  adoption, innovation, and scaling.  The case survey research of 41 cases of digital infrastructure then identifies and analyzes causal paths through which configurations of these mechanisms lead to successful evolution outcomes.  The study reported in this paper contributes to the infrastructure literature in two ways.  First, we identify three generative mechanisms of digital infrastructure and how they contingently lead to evolution outcomes.  Second, we use these mechanisms as a basis for developing a configurational perspective that advances current knowledge about why some digital infrastructures evolve successfully while others do not.  In addition, the paper demonstrates and discusses the efficacy of critical realism as a philosophical tradition for developing substantive contributions in the field of information systems.&lt;/em&gt;&lt;/p&gt;</abstract>
+<fpage>896</fpage>
+<lpage>931</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol37/iss3/14</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3126&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>14</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3126</articleid>
+<submission-date>2013-08-15T09:02:04-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>4440797</context-key>
+<submission-path>misq/vol37/iss3/14</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2013-08-15T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2013-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Digital Infrastructure Evolution</value>
+</field>
+</fields>
+</document>
+</documents>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Antecedents of Knowledge Transfer from Consultants to Clients in Enterprise System Implementations</title>
+<publication-date>2005-03-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Ko</lname>
+<fname>Dong-Gil</fname>
+</author>
+<author>
+<lname>Kirsch</lname>
+<fname>Laurie</fname>
+<mname>J.</mname>
+</author>
+<author>
+<lname>King</lname>
+<fname>William</fname>
+<mname>R.</mname>
+</author>
+</authors>
+<keywords>
+<keyword>Knowledge transfer</keyword>
+<keyword>enterprise systems</keyword>
+<keyword>ERP</keyword>
+<keyword>implementation</keyword>
+<keyword>consultants</keyword>
+<keyword>structural equation modeling</keyword>
+<keyword>partial least squares</keyword>
+</keywords>
+<abstract>&lt;p&gt;Enterprise resource planning (ERP) systems and other complex information systems represent critical organizational resources.  For such systems, firms typically use consultants to aid in the implementation process.  Client firms expect consultants to transfer their implementation knowledge to their employees so that they can contribute to successful implementations and learn to maintain the systems independent of the consultants.  This study examines the antecedents of knowledge transfer in the context of such an interfirm complex information systems implementation environment.  Drawing from the knowledge transfer, information systems, and communication literatures, an integrated theoretical model is developed that posits that knowledge transfer is influenced by knowledge-related, motivational, and communication-related factors.  Data were collected from consultant-and-client matched-pair samples from 96 ERP implementation projects.  Unlike most prior studies, a behavioral measure of knowledge transfer that incorporates the application of knowledge was used.  The analysis suggests that all three groups of factors influence knowledge transfer, and provides support for 9 of the 13 hypotheses. The analysis also confirms two mediating relationships.  These results (1) adapt prior research, primarily done in non-IS contexts, to the ERP implementation context, (2) enhance prior findings by confirming the significance of an antecedent that has previously shown mixed results, and (3) incorporate new IS-related constructs and measures in developing an integrated model that should be broadly applicable to the interfirm IS implementation context and other IS situations.  Managerial and research implications are discussed.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol29/iss1/5</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2719&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>5</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2719</articleid>
+<submission-date>2008-12-15T06:25:49-08:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>681747</context-key>
+<submission-path>misq/vol29/iss1/5</submission-path>
+<fields>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2005-03-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

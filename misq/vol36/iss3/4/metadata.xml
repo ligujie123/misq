@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Comparing PLS to Regression and LISREL:  A Response to Marcoulides, Chin, and Saunders</title>
+<publication-date>2012-09-01T00:00:00-07:00</publication-date>
+<authors>
+<author>
+<email>dgoodhue@terry.uga.edu</email>
+<institution>University of Georgia</institution>
+<lname>Goodhue</lname>
+<fname>Dale L.</fname>
+</author>
+<author>
+<email>William.w.lewis@gmail.com</email>
+<lname>Lewis</lname>
+<fname>William</fname>
+</author>
+<author>
+<email>thompsrl@wfu.edu</email>
+<institution>Wake Forest University</institution>
+<lname>Thompson</lname>
+<fname>Ron</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Comparing statistical techniques</keyword>
+<keyword>partial least squares</keyword>
+<keyword>structural equation modeling</keyword>
+<keyword>regression</keyword>
+<keyword>Monte Carlo simulation</keyword>
+</keywords>
+<abstract>&lt;p&gt;In the Foreword to an MIS Quarterly Special Issue on PLS, the senior editors for the special issue noted that they rejected a number of papers because the authors attempted comparisons between results from PLS, multiple regression, and structural equation modeling (Marcoulides et al. 2009).  They raised several issues they argued had to be taken into account to have legitimate comparison studies, supporting their position primarily by citing three authors:  Dijkstra (1983), McDonald(1996), and Schneeweiss (1993).  As researchers interested in conducting comparison studies, we read the Foreword carefully, but found it did not provide clear guidance on how to conduct “legitimate” comparisons.  Nor did our reading of Dijksta, McDonald, and Schneeweiss raise any red flags about dangers in this kind of comparison research.  We were concerned that instead of helping researchers to successfully engage in comparison research, the Foreword might end up discouraging that type of work, and might even be used incorrectly to reject legitimate comparison studies. This Issues and Opinions piece addresses the question of why one might conduct comparison studies, and gives an overview of the process of comparison research with a focus on what is required to make those comparisons legitimate.  In addition, we explicitly address the issues raised by Marcoulides et al., to explore where they might (or might not) come into play when conducting or evaluating this type of study.&lt;/p&gt;</abstract>
+<fpage>703</fpage>
+<lpage>716</lpage>
+<coverpage-url>http://aisel.aisnet.org/misq/vol36/iss3/4</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=3043&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>4</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>3043</articleid>
+<submission-date>2012-09-05T11:54:51-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>3295452</context-key>
+<submission-path>misq/vol36/iss3/4</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2012-09-05T00:00:00-07:00</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>2012-09-01T00:00:00-07:00</value>
+</field>
+<field name="short_title" type="string">
+<value>Comparing PLS to Regression and LISREL</value>
+</field>
+</fields>
+</document>
+</documents>

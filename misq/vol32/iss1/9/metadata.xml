@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Using an Attribute-Based Decision Support System for User-Customized Products Online:  An Experimental Investigation</title>
+<publication-date>2008-10-10T12:26:33-07:00</publication-date>
+<authors>
+<author>
+<email>akamis@suffolk.edu</email>
+<institution>Suffolk University</institution>
+<lname>Kamis</lname>
+<fname>Arnold</fname>
+</author>
+<author>
+<email>marios_koufaris@baruch.cuny.edu</email>
+<institution>Baruch College, City University of New York</institution>
+<lname>Koufaris</lname>
+<fname>Marios</fname>
+</author>
+<author>
+<email>Tziporah_Stern@baruch.cuny.edu</email>
+<institution>Baruch College, City University of New York</institution>
+<lname>Stern</lname>
+<fname>Tziporah</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Decision support systems</keyword>
+<keyword>attribute-based decision support systems</keyword>
+<keyword>decision process</keyword>
+<keyword>choice set size</keyword>
+<keyword>task complexity</keyword>
+<keyword>perceived control</keyword>
+<keyword>perceived ease of use</keyword>
+<keyword>perceived usefulness</keyword>
+<keyword>perceived enjoyment</keyword>
+<keyword>customization</keyword>
+</keywords>
+<abstract>&lt;p&gt;In the decision support systems literature, most studies have concentrated on the direct effects of DSS use and design on decision outcomes and user performance in the workplace. Fewer DSS studies have integrated decision process variables, such as user beliefs and attitudes, in their models.  In this paper, we examine the mediating role of decision process variables in the use of an online customer DSS.  We do so through an experimental study of an alternative-based and an attribute-based DSS for product customization by online customers.  Using cognitive fit and flow theories, we develop a theoretical model with four mediating decision process variables (perceived usefulness, perceived ease of use, perceived enjoyment, and perceived control) and two of their antecedents:  interface design (attribute-based versus alternative-based) and task complexity (choice set size).  Our results show that the impact of DSS interface design on behavioral intentions is fully mediated by perceived usefulness and perceived enjoyment, although not by perceived control.  Specifically, we verify that users of an attribute-based DSS express higher perceived usefulness and perceived enjoyment than users of an alternative-based one.  In addition, we find that task complexity has an interesting relationship with usefulness and enjoyment, both of which follow an inverted U-shaped curve as choice set size increases.  Finally, we find that for users of the alternative-based DSS, perceived ease of use and perceived control decrease as task complexity increases.  However, the attribute-based DSS alleviates that decline for both variables.  Among other contributions, our results indicate the importance of including decision process variables when studying DSS as well as the complex effect of task complexity on those variables.  Our study also provides some important guidelines for online companies that provide customer DSS on their websites, especially the danger of providing too many product choice options that can overwhelm customers and harm their shopping experience.&lt;/p&gt;</abstract>
+<coverpage-url>http://aisel.aisnet.org/misq/vol32/iss1/9</coverpage-url>
+<fulltext-url>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2526&amp;amp;context=misq&amp;amp;unstamped=1</fulltext-url>
+<label>9</label>
+<document-type>article</document-type>
+<type>article</type>
+<articleid>2526</articleid>
+<submission-date>2008-10-09T14:43:28-07:00</submission-date>
+<publication-title>Management Information Systems Quarterly</publication-title>
+<context-key>647608</context-key>
+<submission-path>misq/vol32/iss1/9</submission-path>
+<fields>
+<field name="custom_citation" type="string">
+<value>Kamis, A., Koufaris, M., and Stern, T.  2008.  &quot;Using an Attribute-Based Decision Support System for User-Customized Products Online:  An Experimental Investigation,&quot; MIS Quarterly (32:1), pp. 159-177.</value>
+</field>
+<field name="peer_reviewed" type="boolean">
+<value>true</value>
+</field>
+</fields>
+</document>
+</documents>
