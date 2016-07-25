@@ -96,6 +96,13 @@ order by volume
 
 ---------------table (keywords)------------------
 
+
+4.1
+select count(keyword)
+from keywords
+-------> 488
+
+4.2
 #keywords and document (which keyword has max documents)
 select keyword, title, article_id, count(title)
 from documents doc, documents_keywords dk, keywords kw
