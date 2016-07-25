@@ -2,6 +2,7 @@ import os
 from pipeline import pipeline
 from models import db_connect, create_table
 from sqlalchemy.orm import sessionmaker
+from sqlalchemy import create_engine
 
 engine = db_connect(os.getcwd())
 create_table(engine)
@@ -25,6 +26,8 @@ def main():
 			pipeline(fp,session)
 		except:
 			pass
+	session.commit()
+	session.close()
 	
 
 if __name__=="__main__":

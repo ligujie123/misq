@@ -8,6 +8,9 @@ Base= declarative_base()
 
 
 
+#def db_connect():
+	#return create_engine('postgresql://floyd@localhost:5432/misq')
+
 def db_connect(basedir):
 	return create_engine('sqlite:///'+os.path.join(basedir, 'data.sqlite'))
 
