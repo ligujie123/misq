@@ -1,7 +1,7 @@
 
 #misq
 *.pdf
-
+.DS_Store
 
 #python
 /_pycache_/
