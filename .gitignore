@@ -5,7 +5,7 @@
 
 #python
 /_pycache_/
-
+/__pycache__/
 
 #ipython
 /ipython_checkpoints

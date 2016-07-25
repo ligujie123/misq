@@ -1,0 +1,126 @@
+the report for data.sqlite
+
+the useful table and useful columns in each table
+
+for authors
+
+id 
+email (many are null)
+
+institution (many are null)
+
+name
+  last_name
+  first_name
+  middle_name
+  full_name
+
+authors  ----->documents  -------->keywords
+ 				
+ 				time
+
+issues to concern about:
+
+1 from what time point, some columns begin to have value
+
+2 which author had the maximum documents published
+
+3 which author attached the maximum keywords
+
+
+4 which instituion has maximum authors who are in the list
+
+
+(time can be reflected as a single topic)
+
+
+
+
+
+documents
+
+title
+
+abstract 
+	(null exists)
+
+
+date:
+    publication_date
+    submission_date
+
+url:
+   (contains full and cover url, maybe hard to refine helpful information)
+
+pages:
+	(null exists)
+
+article_id:
+    (can be the label to sort each document according to submission_date)
+
+
+#useless columns:
+document_type (all the values are "article")
+type          (all the values are "article")
+publication_title
+			  (all the values are "management information systems quarterly")
+
+context_key   (a string of integers)
+label         (the information can be found in table "journals")
+submission_path
+			  (the information can be founf in table "journals")
+
+issues:
+
+1 sorting types of article: 
+	authors:
+    1 author, 2 authors, 3 authors.....
+
+    keywords:
+    1 keyword, 2 keywords, 3 keywords....
+
+2 documents and the corresponding submission date.
+
+3 doucments' pages distribution
+  max, min, mean, standard distribution
+
+
+4 documents comes from which institutions. documents and its institutions
+	institution table:  authors, documents, keywords
+	group by years
+
+	   group by publication years
+	   group by submission years
+
+
+
+
+  (here is an issue in how to establish the time line to contains all the items [all some of them] in a graph)
+
+
+keyword
+
+keyword
+
+1 connect keywords with documents
+		to see which keyword having max documents
+
+2 connect keywords with authors
+
+3 connect keywords with submission date
+		to see whether these is a trend
+
+
+
+journal
+
+vol
+iss
+label
+
+the distribution of the documents in vol
+from vol 1-40
+
+
+
+
