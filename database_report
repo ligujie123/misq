@@ -28,7 +28,7 @@ issues to concern about:
 3 which author attached the maximum keywords
 
 
-4 which instituion has maximum authors who are in the list
+4 which institution has maximum authors who are in the list
 
 
 (time can be reflected as a single topic)
@@ -68,7 +68,7 @@ publication_title
 context_key   (a string of integers)
 label         (the information can be found in table "journals")
 submission_path
-			  (the information can be founf in table "journals")
+			  (the information can be found in table "journals")
 
 issues:
 
@@ -81,7 +81,7 @@ issues:
 
 2 documents and the corresponding submission date.
 
-3 doucments' pages distribution
+3 documents' pages distribution
   max, min, mean, standard distribution
 
 
@@ -110,6 +110,7 @@ keyword
 3 connect keywords with submission date
 		to see whether these is a trend
 
+some articles do not have any keywords
 
 
 journal

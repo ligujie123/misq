@@ -5,7 +5,8 @@
 select count(full_name)
 from authors
 # the result:
-  -----> 845
+  -----> 845  (the original result, but this is wrong)
+  -----> 1685
 
 1.2
 # authors and documents
@@ -67,7 +68,12 @@ from documents
 
 #  however, there is a column named article_id, values vary from 1801 to 3291.
 #  the difference is 1491. some article are missed. The reason is not found by now.
+#  after walking all the file in the directory,
+#  I found there were just 1307 files
 
+#  two files cannot be pared.
+#  /Users/floyd/Projects/misq/misq/vol31/iss1/2/0-MISQPodcast.xml
+#  /Users/floyd/Projects/misq/misq/vol32/iss2/4/metadata.xml
 
 2.2
 # the documents and their authors
@@ -100,7 +106,9 @@ order by volume
 4.1
 select count(keyword)
 from keywords
--------> 488
+-------> 488 (this is the original results, but this is wrong)
+-------> 2634
+
 
 4.2
 #keywords and document (which keyword has max documents)

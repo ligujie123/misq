@@ -2,6 +2,7 @@
 #misq
 *.pdf
 .DS_Store
+.ipynb_checkpoints/
 
 #python
 /_pycache_/

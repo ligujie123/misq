@@ -20,14 +20,19 @@ def generate_path(rootpath):
 rootpath=os.getcwd()+'/misq'
 xmlpath=generate_path(rootpath)
 
+
+
 def main():
+	n=0
 	for fp in xmlpath:
 		try:
 			pipeline(fp,session)
 		except:
-			pass
+			n+=1
+			print(fp)
 	session.commit()
 	session.close()
+	print(n)
 	
 
 if __name__=="__main__":
