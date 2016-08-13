@@ -1,5 +1,0 @@
-XSym
-0098
-c452df73afb4f47f72977fe7e4925e08
-/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/operator.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

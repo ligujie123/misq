@@ -1,5 +1,0 @@
-XSym
-0097
-390bb5570bd19b9abd75bcfe081c1c60
-/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/keyword.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

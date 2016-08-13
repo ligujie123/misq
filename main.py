@@ -23,22 +23,23 @@ xmlpath=generate_path(rootpath)
 
 
 def main():
-	n=0
-	for fp in xmlpath:
-		try:
-			pipeline(fp,session)
-		except:
-			n+=1
-			print(fp)
-	session.commit()
-	session.close()
-	print(n)
-	
+    i = 0 
+    n = 0
+    for fp in xmlpath:
+        try:
+            i += 1
+            pipeline(fp,session)
+        except:
+            n += 1
+            print("Failed filename: ", fp)
+    session.commit()
+    session.close()
+    print("Number of Total Failed Files: ", n)
+    print("Number of Total Successful Files: ", i)
 
 if __name__=="__main__":
-	main()
-
-		
+    main()
 
 
 
+    

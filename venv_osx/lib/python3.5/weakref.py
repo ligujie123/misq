@@ -1,5 +1,0 @@
-XSym
-0097
-d29035e5d81fc1d6ef46e1624b1294cc
-/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/weakref.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

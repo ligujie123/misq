@@ -1,5 +1,0 @@
-XSym
-0101
-a2a8a67425857c28e0ab3ddb2dd17dd2
-/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/_bootlocale.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

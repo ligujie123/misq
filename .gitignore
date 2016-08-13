@@ -6,6 +6,8 @@
 
 #python
 /_pycache_/
+/venv_linux/
+/venv_osx/
 /__pycache__/
 
 #ipython

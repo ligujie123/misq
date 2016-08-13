@@ -1,5 +1,0 @@
-XSym
-0101
-d5ef8d1007a730d9af56a871a8f734f1
-/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/sre_compile.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

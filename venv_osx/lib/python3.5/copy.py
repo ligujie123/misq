@@ -1,5 +1,0 @@
-XSym
-0094
-d66becc396b6df7f517b9ec25a736ef1
-/usr/local/Cellar/python3/3.5.1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/copy.py
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
