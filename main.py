@@ -1,10 +1,12 @@
 import os
 from pipeline import pipeline
-from models import db_connect, create_table
+from models import mdb_connect, create_table, sdb_connect
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
 
-engine = db_connect(os.getcwd())
+# engine = sdb_connect(os.getcwd())
+
+engine = mdb_connect()
 create_table(engine)
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -20,10 +22,8 @@ def generate_path(rootpath):
 rootpath=os.getcwd()+'/misq'
 xmlpath=generate_path(rootpath)
 
-
-
 def main():
-    i = 0 
+    i = 0
     n = 0
     for fp in xmlpath:
         try:
